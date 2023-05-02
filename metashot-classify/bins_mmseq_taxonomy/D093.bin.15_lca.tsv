@@ -1,0 +1,525 @@
+k141_1395495	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_598523	57723	phylum	Acidobacteria	5	5	4	0.800	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2393066	2	superkingdom	Bacteria	10	10	7	0.840	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_798829	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2592514	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_400846	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2791826	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2991648	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2793301	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_801176	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3002343	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1812419	2	superkingdom	Bacteria	6	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1214809	305072	no rank	unclassified Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1215514	1224	phylum	Proteobacteria	6	6	4	0.740	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1215630	356	order	Hyphomicrobiales	2	2	1	0.500	unknown;Proteobacteria;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_2411757	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2013592	2	superkingdom	Bacteria	5	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2809617	28211	class	Alphaproteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_1218347	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_818684	1978231	species	Acidobacteria bacterium	3	3	1	0.850	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2651557	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1856903	2	superkingdom	Bacteria	3	3	2	0.930	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2652224	1803428	species	Acidobacteria bacterium 13_1_20CM_2_65_9	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium 13_1_20CM_2_65_9
+k141_264192	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2457328	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1057545	305072	no rank	unclassified Acidobacteria	5	5	4	0.980	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2256528	2	superkingdom	Bacteria	5	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3036199	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2257259	1913989	species	Gammaproteobacteria bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium
+k141_65340	305072	no rank	unclassified Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_126143	1978231	species	Acidobacteria bacterium	4	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1510069	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_724048	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2518573	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_326105	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2908354	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2908906	68336	clade	Bacteroidetes/Chlorobi group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group
+k141_1723035	2	superkingdom	Bacteria	6	5	3	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2909949	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2718952	1978231	species	Acidobacteria bacterium	3	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_586669	131567	no rank	cellular organisms	2	2	2	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_379545	2	superkingdom	Bacteria	5	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2772503	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_970777	305072	no rank	unclassified Acidobacteria	2	2	1	0.910	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_3121477	57723	phylum	Acidobacteria	5	4	3	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_587876	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3121660	57723	phylum	Acidobacteria	5	5	4	0.980	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1976959	1978231	species	Acidobacteria bacterium	4	4	3	0.750	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_971180	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_381567	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_639042	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2434087	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_838361	2	superkingdom	Bacteria	6	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2434763	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1432430	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2234319	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2234582	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2828829	1871070	species	Oxalobacteraceae bacterium	2	2	1	0.920	unknown;Proteobacteria;Oxalobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Oxalobacteraceae;-_unclassified Oxalobacteraceae;s_Oxalobacteraceae bacterium
+k141_2829036	305072	no rank	unclassified Acidobacteria	3	3	3	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1434123	1978231	species	Acidobacteria bacterium	2	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_491487	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_88884	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_688735	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1281414	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1885665	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2682630	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1283306	57723	phylum	Acidobacteria	4	4	2	0.640	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2285951	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_692077	57723	phylum	Acidobacteria	6	6	4	0.660	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2875737	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_844933	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2833780	1978231	species	Acidobacteria bacterium	1	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_3025092	1797191	species	Acidobacteria bacterium RIFCSPLOWO2_12_FULL_66_21	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium RIFCSPLOWO2_12_FULL_66_21
+k141_847337	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_3025812	2	superkingdom	Bacteria	5	5	4	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1844890	2026780	species	Planctomycetes bacterium	2	2	1	0.500	unknown;Planctomycetes;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Planctomycetes;-_unclassified Planctomycetes;s_Planctomycetes bacterium
+k141_2444621	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1845231	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2044819	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_650543	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1696653	2	superkingdom	Bacteria	3	3	2	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_700709	2	superkingdom	Bacteria	5	3	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_506084	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_506164	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_304922	57723	phylum	Acidobacteria	2	1	1	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_3064172	1978231	species	Acidobacteria bacterium	11	10	6	0.660	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1899263	0	no rank	unclassified	1	0	0	0.000		
+k141_1489324	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2098703	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_898509	1913989	species	Gammaproteobacteria bacterium	3	2	2	1.000	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium
+k141_1499234	2	superkingdom	Bacteria	4	4	3	0.990	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1104397	1978231	species	Acidobacteria bacterium	3	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2307426	2	superkingdom	Bacteria	7	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1711266	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1911948	57723	phylum	Acidobacteria	4	4	3	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2706404	57723	phylum	Acidobacteria	5	5	4	0.800	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1106035	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1306552	1224	phylum	Proteobacteria	3	3	3	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2511252	1978231	species	Acidobacteria bacterium	4	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1106846	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1159833	305072	no rank	unclassified Acidobacteria	3	3	3	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2361668	1895816	species	Rhizobiales bacterium 65-9	2	2	2	1.000	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;-_unclassified Hyphomicrobiales;s_Rhizobiales bacterium 65-9
+k141_1160373	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_576206	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1557425	305072	no rank	unclassified Acidobacteria	1	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1161183	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1361345	1978231	species	Acidobacteria bacterium	3	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2561428	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_174636	2004800	species	Luteitalea sp.	2	1	1	1.000	unknown;Acidobacteria;Vicinamibacteraceae	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Vicinamibacteria;o_Vicinamibacterales;f_Vicinamibacteraceae;g_Luteitalea;-_unclassified Luteitalea;s_Luteitalea sp.
+k141_578404	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2917307	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_336043	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1732571	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1932242	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2528299	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1126342	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1126864	57723	phylum	Acidobacteria	4	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2528992	433	family	Acetobacteraceae	3	2	1	0.500	unknown;Proteobacteria;Acetobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodospirillales;f_Acetobacteraceae
+k141_1327328	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_736435	2	superkingdom	Bacteria	5	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1590316	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3152883	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3170217	1978231	species	Acidobacteria bacterium	4	4	2	0.650	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_3171378	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3176326	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3179288	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2347708	305072	no rank	unclassified Acidobacteria	6	6	3	0.590	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1952512	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2154351	57723	phylum	Acidobacteria	6	5	3	0.510	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2154519	1978231	species	Acidobacteria bacterium	4	3	2	0.520	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2488801	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2684350	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_3058160	2	superkingdom	Bacteria	6	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1087320	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2289893	305072	no rank	unclassified Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_500398	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2687553	305072	no rank	unclassified Acidobacteria	3	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1692290	1978231	species	Acidobacteria bacterium	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2492957	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_501061	305072	no rank	unclassified Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2633192	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_245049	305072	no rank	unclassified Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_3021405	1978231	species	Acidobacteria bacterium	3	3	3	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_643524	2081523	species	Acidobacteriia bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Acidobacteriia;-_unclassified Acidobacteriia;s_Acidobacteriia bacterium
+k141_447412	57723	phylum	Acidobacteria	5	4	2	0.510	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1041553	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_843531	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1041972	57723	phylum	Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_843987	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1841513	57723	phylum	Acidobacteria	6	6	3	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_718694	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1310182	1978231	species	Acidobacteria bacterium	2	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2903387	305072	no rank	unclassified Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_122644	1978231	species	Acidobacteria bacterium	4	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2514481	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3076961	57723	phylum	Acidobacteria	3	3	2	0.960	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2514806	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_124281	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1508905	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_527725	131567	no rank	cellular organisms	6	5	5	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_609362	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_808802	57723	phylum	Acidobacteria	2	2	2	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1805990	1	no rank	root	7	5	5	1.000	unknown;unknown;unknown	-_root
+k141_12812	1978231	species	Acidobacteria bacterium	2	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1806946	2	superkingdom	Bacteria	8	7	6	0.810	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2602483	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_14325	1978231	species	Acidobacteria bacterium	7	5	3	0.600	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2603082	57723	phylum	Acidobacteria	5	5	3	0.660	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2999610	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2008099	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_678414	305072	no rank	unclassified Acidobacteria	2	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_79913	0	no rank	unclassified	1	0	0	0.000		
+k141_2670718	305072	no rank	unclassified Acidobacteria	4	4	2	0.650	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2273522	305072	no rank	unclassified Acidobacteria	2	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_483678	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_679861	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_81375	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1675774	57723	phylum	Acidobacteria	5	4	3	0.960	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1676642	1380412	species	Devosia sp. DBB001	3	1	1	1.000	unknown;Proteobacteria;Devosiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Devosiaceae;g_Devosia;-_unclassified Devosia;s_Devosia sp. DBB001
+k141_2077148	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1233125	1978231	species	Acidobacteria bacterium	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1831250	305072	no rank	unclassified Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2823975	305072	no rank	unclassified Acidobacteria	2	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1632781	2268199	species	Polyangiaceae bacterium	2	1	1	1.000	unknown;Proteobacteria;Polyangiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Myxococcales;-_Sorangiineae;f_Polyangiaceae;-_unclassified Polyangiaceae;s_Polyangiaceae bacterium
+k141_1035277	1978231	species	Acidobacteria bacterium	4	3	1	0.860	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_836052	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1430339	57723	phylum	Acidobacteria	6	5	3	0.750	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_39431	57723	phylum	Acidobacteria	4	4	3	0.750	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2433226	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2232328	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2981777	57723	phylum	Acidobacteria	7	6	3	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1585697	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1588169	2	superkingdom	Bacteria	4	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1588422	2	superkingdom	Bacteria	5	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3135606	1797191	species	Acidobacteria bacterium RIFCSPLOWO2_12_FULL_66_21	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium RIFCSPLOWO2_12_FULL_66_21
+k141_1192592	57723	phylum	Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1589189	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1193253	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1193367	1978231	species	Acidobacteria bacterium	2	2	1	0.950	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_985767	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_763690	2	superkingdom	Bacteria	6	6	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1764301	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2949291	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2165938	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_959484	1978231	species	Acidobacteria bacterium	4	4	3	0.750	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_959571	57723	phylum	Acidobacteria	5	3	2	0.520	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2760563	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_574227	305072	no rank	unclassified Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1766830	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2951660	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_390531	2	superkingdom	Bacteria	5	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_195669	57723	phylum	Acidobacteria	4	4	4	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1183342	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2783149	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2581170	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3125440	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1178384	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1378617	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2380574	1970485	species	Acidobacteria bacterium 21-70-11	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium 21-70-11
+k141_1379151	57723	phylum	Acidobacteria	3	3	3	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2187801	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1179297	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_596616	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2383671	732238	species	Povalibacter uvarum	2	2	1	0.500	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae;g_Povalibacter;s_Povalibacter uvarum
+k141_1790122	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1461901	2	superkingdom	Bacteria	4	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_277081	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_277724	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_478657	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2071155	1236	class	Gammaproteobacteria	3	2	1	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2269290	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_676421	142182	phylum	Gemmatimonadetes	2	2	2	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_480499	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2074135	2	superkingdom	Bacteria	6	6	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1674003	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2742459	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3099325	1978231	species	Acidobacteria bacterium	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1143169	2	superkingdom	Bacteria	5	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2345158	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2544358	2760815	no rank	unclassified Candidatus Rokubacteria	6	6	5	0.970	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria
+k141_2937598	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_754464	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1753366	2	superkingdom	Bacteria	6	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1753419	2315841	species	Aquabacterium tepidiphilum	1	1	1	1.000	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;-_Burkholderiales genera incertae sedis;g_Aquabacterium;s_Aquabacterium tepidiphilum
+k141_1792187	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2218975	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2614761	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2813695	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1419280	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1419607	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1024773	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_26758	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2420288	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2420597	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_228587	305072	no rank	unclassified Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_501185	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_3060825	305072	no rank	unclassified Acidobacteria	2	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2881338	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_302025	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_3061725	305072	no rank	unclassified Acidobacteria	3	3	2	0.510	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_100550	1978231	species	Acidobacteria bacterium	4	3	2	0.970	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2292718	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1290228	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1896301	2	superkingdom	Bacteria	4	4	2	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2095929	131567	no rank	cellular organisms	5	5	5	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_2275832	2	superkingdom	Bacteria	9	9	9	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1678226	2	superkingdom	Bacteria	13	12	8	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2479273	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2079078	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2079186	305072	no rank	unclassified Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_287435	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2278236	0	no rank	unclassified	1	0	0	0.000		
+k141_290228	1978231	species	Acidobacteria bacterium	2	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_490910	57723	phylum	Acidobacteria	4	4	2	0.650	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_491128	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1724487	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1725404	57723	phylum	Acidobacteria	6	6	3	0.590	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_132048	2	superkingdom	Bacteria	2	2	1	0.910	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_728526	2	superkingdom	Bacteria	4	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2322562	28211	class	Alphaproteobacteria	3	3	2	0.510	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_1726250	1224	phylum	Proteobacteria	4	4	2	0.510	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1926571	1224	phylum	Proteobacteria	3	3	1	0.900	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_330847	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1320847	29542	species	Syntrophotalea acetylenica	2	1	1	1.000	unknown;Proteobacteria;Syntrophotaleaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Desulfuromonadales;f_Syntrophotaleaceae;g_Syntrophotalea;s_Syntrophotalea acetylenica
+k141_1515762	1978231	species	Acidobacteria bacterium	3	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2503631	305072	no rank	unclassified Acidobacteria	5	5	3	0.600	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1494238	45401	family	Hyphomicrobiaceae	5	5	4	0.680	unknown;Proteobacteria;Hyphomicrobiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Hyphomicrobiaceae
+k141_707800	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_310764	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1704559	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1905904	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2505606	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2701069	57723	phylum	Acidobacteria	4	4	3	0.750	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2894971	305072	no rank	unclassified Acidobacteria	6	5	3	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2305646	131567	no rank	cellular organisms	3	2	2	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_935851	57723	phylum	Acidobacteria	2	2	2	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1939933	1978231	species	Acidobacteria bacterium	3	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_936853	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_345032	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_550562	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_550690	57723	phylum	Acidobacteria	3	2	1	0.960	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_937879	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2737489	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_938412	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1943277	2	superkingdom	Bacteria	6	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1059550	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2059847	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_268293	57723	phylum	Acidobacteria	4	4	3	0.680	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2461760	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1261547	305072	no rank	unclassified Acidobacteria	3	2	1	0.960	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1455951	1977087	species	Proteobacteria bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_unclassified Proteobacteria;s_Proteobacteria bacterium
+k141_1663201	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3039061	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2659899	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2464659	1797191	species	Acidobacteria bacterium RIFCSPLOWO2_12_FULL_66_21	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium RIFCSPLOWO2_12_FULL_66_21
+k141_2396294	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_204454	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_802218	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1399785	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1201473	1642298	species	Saccharomonospora sp. NB11	2	2	1	0.500	unknown;Actinobacteria;Pseudonocardiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Pseudonocardiales;f_Pseudonocardiaceae;g_Saccharomonospora;-_unclassified Saccharomonospora;s_Saccharomonospora sp. NB11
+k141_1998854	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2198293	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1202300	28216	class	Betaproteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria
+k141_6277	57723	phylum	Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_7875	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2783709	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1988663	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1793273	305072	no rank	unclassified Acidobacteria	4	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1582365	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_981117	305072	no rank	unclassified Acidobacteria	4	4	3	0.990	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_793842	2	superkingdom	Bacteria	4	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1388509	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1992357	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1188234	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3133246	305072	no rank	unclassified Acidobacteria	7	7	4	0.570	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2955850	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2364993	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_372612	57723	phylum	Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2766457	2	superkingdom	Bacteria	7	7	5	0.530	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_374061	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2368037	2	superkingdom	Bacteria	5	5	4	0.540	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1166681	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_375456	2	superkingdom	Bacteria	4	4	3	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_773211	305072	no rank	unclassified Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2567048	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1548855	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2945341	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1549745	305072	no rank	unclassified Acidobacteria	4	4	3	0.750	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2161062	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2161364	1978231	species	Acidobacteria bacterium	4	3	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2554157	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2555146	2	superkingdom	Bacteria	6	6	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_763404	2	superkingdom	Bacteria	3	3	2	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_763546	1	no rank	root	9	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1156349	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_730064	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2913727	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2127270	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2723328	305072	no rank	unclassified Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1123209	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_2128683	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1123587	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1730431	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2129812	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1125172	1978231	species	Acidobacteria bacterium	3	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2571947	57723	phylum	Acidobacteria	5	5	4	0.750	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_3123803	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2377870	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2378425	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_782857	28216	class	Betaproteobacteria	6	4	2	0.650	unknown;Proteobacteria;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria
+k141_973594	57723	phylum	Acidobacteria	6	6	3	0.590	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2185546	1797174	species	Acidobacteria bacterium RBG_16_70_10	3	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium RBG_16_70_10
+k141_783404	57723	phylum	Acidobacteria	3	3	2	0.520	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2970229	57723	phylum	Acidobacteria	4	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_593402	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2617517	2053607	species	Candidatus Rokubacteria bacterium	2	2	1	0.500	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_429002	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_27877	57723	phylum	Acidobacteria	5	5	4	0.760	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1822215	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2618803	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3010971	305072	no rank	unclassified Acidobacteria	3	3	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_628641	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_827505	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1226565	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2818086	732238	species	Povalibacter uvarum	2	2	1	0.920	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae;g_Povalibacter;s_Povalibacter uvarum
+k141_1533900	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_940276	57723	phylum	Acidobacteria	3	3	3	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_747250	57723	phylum	Acidobacteria	4	4	3	0.750	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1338501	1891241	species	Betaproteobacteria bacterium	1	1	1	1.000	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria;s_Betaproteobacteria bacterium
+k141_1139688	57723	phylum	Acidobacteria	3	3	2	0.520	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1945661	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_749144	305072	no rank	unclassified Acidobacteria	4	4	2	0.900	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_3097649	2	superkingdom	Bacteria	6	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_153332	57723	phylum	Acidobacteria	6	6	4	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1748577	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_3103464	57723	phylum	Acidobacteria	5	5	3	0.740	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1953128	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2155864	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_3104020	1978231	species	Acidobacteria bacterium	3	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2752047	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2943432	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_759477	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1351753	1978231	species	Acidobacteria bacterium	3	3	2	0.510	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1152149	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2552381	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_118883	305072	no rank	unclassified Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1307548	57723	phylum	Acidobacteria	5	5	3	0.600	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2901115	305072	no rank	unclassified Acidobacteria	1	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1307700	2	superkingdom	Bacteria	7	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1914607	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2311933	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1309067	2	superkingdom	Bacteria	8	8	5	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_718063	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2902748	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_523965	305072	no rank	unclassified Acidobacteria	2	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1049883	305072	no rank	unclassified Acidobacteria	4	4	2	0.650	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_258542	57723	phylum	Acidobacteria	2	2	2	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2249620	2026778	species	Phycisphaerae bacterium	2	2	1	0.500	unknown;Planctomycetes;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Planctomycetes;c_Phycisphaerae;-_unclassified Phycisphaerae;s_Phycisphaerae bacterium
+k141_3030957	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2452107	2760815	no rank	unclassified Candidatus Rokubacteria	1	1	1	1.000	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria
+k141_2452239	0	no rank	unclassified	1	0	0	0.000		
+k141_1447203	57723	phylum	Acidobacteria	5	4	3	0.750	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2452696	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1854599	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1449730	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1602050	1978231	species	Acidobacteria bacterium	4	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2400965	2	superkingdom	Bacteria	4	4	2	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_607242	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2599188	57723	phylum	Acidobacteria	3	2	2	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1604032	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1206583	2	superkingdom	Bacteria	8	7	5	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2203378	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1207220	57723	phylum	Acidobacteria	6	6	5	0.800	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_609015	45401	family	Hyphomicrobiaceae	1	1	1	1.000	unknown;Proteobacteria;Hyphomicrobiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Hyphomicrobiaceae
+k141_2800366	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_414638	2	superkingdom	Bacteria	5	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_613216	2026799	species	Verrucomicrobia bacterium	3	3	2	0.670	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium
+k141_3000551	305072	no rank	unclassified Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_16438	1978231	species	Acidobacteria bacterium	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1013192	57723	phylum	Acidobacteria	4	4	2	0.650	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2605462	57723	phylum	Acidobacteria	1	1	1	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1811098	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_217306	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_2409802	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2210908	305072	no rank	unclassified Acidobacteria	2	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2532006	57723	phylum	Acidobacteria	6	5	2	0.630	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_142960	28211	class	Alphaproteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_739991	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2137548	305072	no rank	unclassified Acidobacteria	5	5	3	0.600	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_144191	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1131807	1978231	species	Acidobacteria bacterium	2	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2534534	57723	phylum	Acidobacteria	3	2	2	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_548567	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_342966	1797185	species	Acidobacteria bacterium RIFCSPLOWO2_02_FULL_68_18	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium RIFCSPLOWO2_02_FULL_68_18
+k141_1939187	28211	class	Alphaproteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_1423352	1978231	species	Acidobacteria bacterium	5	5	3	0.510	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_31037	57723	phylum	Acidobacteria	4	2	1	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_630446	2	superkingdom	Bacteria	6	5	4	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_630789	0	no rank	unclassified	2	0	0	0.000		
+k141_1425652	57723	phylum	Acidobacteria	3	2	2	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1425916	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2821656	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1829848	2052146	species	Blastocatellia bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia;-_unclassified Blastocatellia;s_Blastocatellia bacterium
+k141_1427890	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_237959	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1490186	305072	no rank	unclassified Acidobacteria	4	3	3	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_704807	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1701764	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2298856	2052149	species	Candidatus Aminicenantes bacterium	4	2	1	0.500	unknown;Candidatus Aminicenantes;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Aminicenantes;-_unclassified Aminicenantes;s_Candidatus Aminicenantes bacterium
+k141_2298911	1978231	species	Acidobacteria bacterium	4	4	2	0.650	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_107746	1978231	species	Acidobacteria bacterium	4	4	3	0.750	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1493345	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1097981	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1903722	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_707410	305072	no rank	unclassified Acidobacteria	5	5	3	0.600	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_253416	305072	no rank	unclassified Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_253707	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2046023	1978231	species	Acidobacteria bacterium	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1248205	57723	phylum	Acidobacteria	2	2	2	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2244471	57723	phylum	Acidobacteria	5	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2244673	2	superkingdom	Bacteria	4	4	2	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_454730	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2838311	305072	no rank	unclassified Acidobacteria	3	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1249984	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2049192	1978231	species	Acidobacteria bacterium	3	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2961670	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_180831	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1369342	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_776027	0	no rank	unclassified	1	0	0	0.000		
+k141_585263	0	no rank	unclassified	1	0	0	0.000		
+k141_181655	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2371580	77133	species	uncultured bacterium	4	4	2	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_environmental samples;s_uncultured bacterium
+k141_378462	2	superkingdom	Bacteria	5	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1370270	1978231	species	Acidobacteria bacterium	4	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2771342	77133	species	uncultured bacterium	2	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_environmental samples;s_uncultured bacterium
+k141_1615972	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1816544	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1415703	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1816767	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_2017152	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2416173	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1817349	305072	no rank	unclassified Acidobacteria	3	2	1	0.970	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2018066	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2018276	2	superkingdom	Bacteria	5	5	4	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_622264	2	superkingdom	Bacteria	7	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_866618	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3040631	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_473270	57723	phylum	Acidobacteria	8	8	4	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2065385	57723	phylum	Acidobacteria	3	3	3	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_474003	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2661882	2	superkingdom	Bacteria	12	12	8	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2067699	305072	no rank	unclassified Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1460981	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2266608	2026778	species	Phycisphaerae bacterium	2	2	1	0.500	unknown;Planctomycetes;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Planctomycetes;c_Phycisphaerae;-_unclassified Phycisphaerae;s_Phycisphaerae bacterium
+k141_476894	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_139812	1978231	species	Acidobacteria bacterium	3	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2133766	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1523832	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2729821	305072	no rank	unclassified Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1934658	57723	phylum	Acidobacteria	4	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2920849	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_543954	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_141375	305072	no rank	unclassified Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_2135292	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2331956	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

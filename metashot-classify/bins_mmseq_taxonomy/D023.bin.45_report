@@ -1,0 +1,24 @@
+100.0000	99	13	no rank	1	root
+86.8687	86	1	no rank	131567	  cellular organisms
+85.8586	85	20	superkingdom	2	    Bacteria
+63.6364	63	2	clade	1783272	      Terrabacteria group
+61.6162	61	38	phylum	201174	        Actinobacteria
+12.1212	12	0	class	1497346	          Thermoleophilia
+12.1212	12	5	order	588673	            Solirubrobacterales
+3.0303	3	0	no rank	1363568	              unclassified Solirubrobacterales
+3.0303	3	3	species	1909295	                Solirubrobacterales bacterium
+2.0202	2	0	family	320583	              Conexibacteraceae
+2.0202	2	0	genus	191494	                Conexibacter
+1.0101	1	1	species	191495	                  Conexibacter woesei
+1.0101	1	1	species	912552	                  Conexibacter arvalis
+2.0202	2	0	family	320599	              Solirubrobacteraceae
+2.0202	2	0	no rank	1162705	                environmental samples
+2.0202	2	2	species	1162706	                  uncultured Solirubrobacteraceae bacterium
+11.1111	11	1	class	1760	          Actinomycetia
+10.1010	10	0	no rank	52018	            unclassified Actinomycetia
+10.1010	10	10	species	1883427	              Actinomycetia bacterium
+1.0101	1	1	phylum	1224	      Proteobacteria
+1.0101	1	0	no rank	2323	      Bacteria incertae sedis
+1.0101	1	0	clade	1783234	        Bacteria candidate phyla
+1.0101	1	0	phylum	1752708	          Candidatus Rokubacteria
+1.0101	1	1	no rank	2760815	            unclassified Candidatus Rokubacteria

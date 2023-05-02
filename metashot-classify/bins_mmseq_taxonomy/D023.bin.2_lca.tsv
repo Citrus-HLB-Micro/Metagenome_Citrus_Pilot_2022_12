@@ -1,0 +1,77 @@
+k141_2491175	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1756157	569882	species	Salinihabitans flavidus	3	2	1	0.500	unknown;Proteobacteria;Roseobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Roseobacteraceae;g_Salinihabitans;s_Salinihabitans flavidus
+k141_2118511	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1421593	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_530225	2053607	species	Candidatus Rokubacteria bacterium	3	2	1	0.500	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_1949016	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1776552	1783272	clade	Terrabacteria group	2	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_471970	1783272	clade	Terrabacteria group	4	3	2	0.520	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2065798	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_473735	2	superkingdom	Bacteria	4	4	3	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1708991	1797288	species	Armatimonadetes bacterium RBG_16_67_12	6	6	3	0.500	unknown;Armatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Armatimonadetes;-_unclassified Armatimonadetes;s_Armatimonadetes bacterium RBG_16_67_12
+k141_2256731	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_124919	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_126927	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1718643	1783272	clade	Terrabacteria group	2	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_130494	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_486502	2026735	species	Deltaproteobacteria bacterium	3	3	2	0.670	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Deltaproteobacteria;-_unclassified Deltaproteobacteria;s_Deltaproteobacteria bacterium
+k141_1802506	1783272	clade	Terrabacteria group	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_381102	1783272	clade	Terrabacteria group	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_922487	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1990973	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_750794	200795	phylum	Chloroflexi	4	4	2	0.500	unknown;Chloroflexi;uc_Chloroflexi	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi
+k141_2713188	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2178429	1879010	species	Firmicutes bacterium	2	2	1	0.500	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;-_unclassified Firmicutes sensu stricto;s_Firmicutes bacterium
+k141_1292197	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_405778	1797288	species	Armatimonadetes bacterium RBG_16_67_12	4	4	3	0.750	unknown;Armatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Armatimonadetes;-_unclassified Armatimonadetes;s_Armatimonadetes bacterium RBG_16_67_12
+k141_2536465	2	superkingdom	Bacteria	4	4	2	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2102655	1783272	clade	Terrabacteria group	2	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_691092	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1928369	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1043256	2	superkingdom	Bacteria	5	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1408902	2	superkingdom	Bacteria	5	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_876116	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1750579	2	superkingdom	Bacteria	6	6	5	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1045529	1783272	clade	Terrabacteria group	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_162060	1879010	species	Firmicutes bacterium	2	2	1	0.500	unknown;Firmicutes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;-_unclassified Firmicutes sensu stricto;s_Firmicutes bacterium
+k141_881628	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2267848	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1552012	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1908296	1797288	species	Armatimonadetes bacterium RBG_16_67_12	3	3	2	0.520	unknown;Armatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Armatimonadetes;-_unclassified Armatimonadetes;s_Armatimonadetes bacterium RBG_16_67_12
+k141_139813	2569760	species	Terrabacteria group bacterium ANGP1	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_unclassified Terrabacteria group;s_Terrabacteria group bacterium ANGP1
+k141_1026392	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2466577	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_863139	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_505071	2	superkingdom	Bacteria	5	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2638626	2	superkingdom	Bacteria	4	4	3	0.540	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2291294	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_594281	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2381875	1783272	clade	Terrabacteria group	4	4	2	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_959524	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2033849	2052146	species	Blastocatellia bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia;-_unclassified Blastocatellia;s_Blastocatellia bacterium
+k141_2405001	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1859768	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_90782	2053607	species	Candidatus Rokubacteria bacterium	2	1	1	1.000	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_2039661	305072	no rank	unclassified Acidobacteria	6	6	3	0.640	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_621634	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_976660	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_808434	2053607	species	Candidatus Rokubacteria bacterium	2	2	1	0.500	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_2047239	200795	phylum	Chloroflexi	3	3	2	0.670	unknown;Chloroflexi;uc_Chloroflexi	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi
+k141_809874	1783272	clade	Terrabacteria group	3	2	2	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_981133	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_103873	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_983458	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1873996	1783272	clade	Terrabacteria group	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_640588	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_641734	2080302	species	Acidimicrobiia bacterium	2	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Acidimicrobiia;-_unclassified Acidimicrobiia;s_Acidimicrobiia bacterium
+k141_1530610	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_890977	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_179350	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1425708	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1426082	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2318565	1783272	clade	Terrabacteria group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1608096	2	superkingdom	Bacteria	6	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1965942	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_197381	2	superkingdom	Bacteria	5	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2158243	1783272	clade	Terrabacteria group	4	3	2	0.520	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2695757	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

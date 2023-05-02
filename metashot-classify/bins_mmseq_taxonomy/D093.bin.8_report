@@ -1,0 +1,48 @@
+100.0000	155	1	no rank	1	root
+99.3548	154	0	no rank	131567	  cellular organisms
+98.7097	153	93	superkingdom	2	    Bacteria
+36.7742	57	0	clade	1783270	      FCB group
+36.7742	57	35	phylum	142182	        Gemmatimonadetes
+13.5484	21	0	class	219685	          Gemmatimonadetes
+13.5484	21	4	order	219686	            Gemmatimonadales
+10.9677	17	0	no rank	1951096	              unclassified Gemmatimonadales
+10.9677	17	17	species	2448054	                Gemmatimonadales bacterium
+0.6452	1	1	no rank	234665	          unclassified Gemmatimonadetes
+0.6452	1	0	phylum	1224	      Proteobacteria
+0.6452	1	0	class	28216	        Betaproteobacteria
+0.6452	1	0	no rank	33809	          unclassified Betaproteobacteria
+0.6452	1	1	species	1891241	            Betaproteobacteria bacterium
+0.6452	1	0	phylum	57723	      Acidobacteria
+0.6452	1	0	no rank	305072	        unclassified Acidobacteria
+0.6452	1	1	species	1978231	          Acidobacteria bacterium
+0.6452	1	0	clade	1783272	      Terrabacteria group
+0.6452	1	0	phylum	201174	        Actinobacteria
+0.6452	1	0	class	84995	          Rubrobacteria
+0.6452	1	0	order	84996	            Rubrobacterales
+0.6452	1	0	family	84997	              Rubrobacteraceae
+0.6452	1	0	no rank	1017353	                unclassified Rubrobacteraceae
+0.6452	1	1	species	2740537	                  Rubrobacteraceae bacterium
+0.6452	1	0	superkingdom	2759	    Eukaryota
+0.6452	1	0	kingdom	33090	      Viridiplantae
+0.6452	1	0	phylum	35493	        Streptophyta
+0.6452	1	0	subphylum	131221	          Streptophytina
+0.6452	1	0	clade	3193	            Embryophyta
+0.6452	1	0	clade	58023	              Tracheophyta
+0.6452	1	0	clade	78536	                Euphyllophyta
+0.6452	1	0	clade	58024	                  Spermatophyta
+0.6452	1	0	class	3398	                    Magnoliopsida
+0.6452	1	0	clade	1437183	                      Mesangiospermae
+0.6452	1	0	clade	71240	                        eudicotyledons
+0.6452	1	0	clade	91827	                          Gunneridae
+0.6452	1	0	clade	1437201	                            Pentapetalae
+0.6452	1	0	clade	71275	                              rosids
+0.6452	1	0	clade	91835	                                fabids
+0.6452	1	0	order	72025	                                  Fabales
+0.6452	1	0	family	3803	                                    Fabaceae
+0.6452	1	0	subfamily	3814	                                      Papilionoideae
+0.6452	1	0	clade	2231393	                                        50 kb inversion clade
+0.6452	1	0	clade	2231384	                                          genistoids sensu lato
+0.6452	1	0	clade	2231385	                                            core genistoids
+0.6452	1	0	tribe	163729	                                              Genisteae
+0.6452	1	0	genus	3869	                                                Lupinus
+0.6452	1	1	species	3870	                                                  Lupinus albus

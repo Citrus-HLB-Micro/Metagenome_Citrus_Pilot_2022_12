@@ -1,0 +1,124 @@
+0.4577	4	4	no rank	0	unclassified
+99.5423	870	130	no rank	1	root
+84.6682	740	5	no rank	131567	  cellular organisms
+83.7529	732	241	superkingdom	2	    Bacteria
+55.2632	483	188	phylum	1224	      Proteobacteria
+30.0915	263	120	class	28216	        Betaproteobacteria
+15.1030	132	65	no rank	33809	          unclassified Betaproteobacteria
+7.4371	65	65	species	1891241	            Betaproteobacteria bacterium
+0.1144	1	1	species	1797484	            Betaproteobacteria bacterium RIFCSPLOWO2_02_FULL_62_17
+0.1144	1	1	species	1797501	            Betaproteobacteria bacterium RIFCSPLOWO2_12_FULL_65_14
+1.1442	10	2	order	80840	          Burkholderiales
+0.4577	4	1	family	80864	            Comamonadaceae
+0.2288	2	0	genus	174951	              Ramlibacter
+0.1144	1	1	species	1926872	                Ramlibacter monticola
+0.1144	1	0	no rank	2617605	                unclassified Ramlibacter
+0.1144	1	1	species	2795217	                  Ramlibacter sp. CrO1
+0.1144	1	0	genus	34072	              Variovorax
+0.1144	1	0	no rank	663243	                unclassified Variovorax
+0.1144	1	1	species	2587027	                  Variovorax sp. Sphag1AA
+0.3432	3	1	family	119060	            Burkholderiaceae
+0.1144	1	0	genus	106589	              Cupriavidus
+0.1144	1	1	species	164546	                Cupriavidus taiwanensis
+0.1144	1	0	genus	2880942	              Zeimonas
+0.1144	1	1	species	2498847	                Zeimonas arvi
+0.1144	1	0	family	506	            Alcaligenaceae
+0.1144	1	0	genus	1835332	              Verticiella
+0.1144	1	1	species	1247510	                Verticiella sediminum
+0.1144	1	0	order	32003	          Nitrosomonadales
+0.1144	1	0	family	90627	            Gallionellaceae
+0.1144	1	1	genus	314343	              Sideroxydans
+2.2883	20	8	class	28211	        Alphaproteobacteria
+1.1442	10	4	order	356	          Hyphomicrobiales
+0.4577	4	0	family	45401	            Hyphomicrobiaceae
+0.3432	3	2	genus	81	              Hyphomicrobium
+0.1144	1	1	species	2665159	                Hyphomicrobium album
+0.1144	1	0	no rank	196771	              unclassified Hyphomicrobiaceae
+0.1144	1	1	species	2015799	                Hyphomicrobiaceae bacterium
+0.1144	1	0	family	41294	            Bradyrhizobiaceae
+0.1144	1	0	genus	374	              Bradyrhizobium
+0.1144	1	1	species	375	                Bradyrhizobium japonicum
+0.1144	1	0	family	118882	            Brucellaceae
+0.1144	1	0	no rank	2826938	              Brucella/Ochrobactrum group
+0.1144	1	0	genus	234	                Brucella
+0.1144	1	1	species	571255	                  Brucella thiophenivorans
+0.2288	2	0	no rank	33807	          unclassified Alphaproteobacteria
+0.1144	1	1	species	1852791	            Alphaproteobacteria bacterium ADurb.Bin100
+0.1144	1	1	species	1913988	            Alphaproteobacteria bacterium
+1.1442	10	0	subphylum	68525	        delta/epsilon subdivisions
+1.1442	10	4	class	28221	          Deltaproteobacteria
+0.4577	4	0	no rank	122706	            unclassified Deltaproteobacteria
+0.4577	4	4	species	2026735	              Deltaproteobacteria bacterium
+0.1144	1	0	order	29	            Myxococcales
+0.1144	1	1	suborder	80811	              Cystobacterineae
+0.1144	1	0	order	213118	            Desulfobacterales
+0.1144	1	0	family	213119	              Desulfobacteraceae
+0.1144	1	0	no rank	231684	                unclassified Desulfobacteraceae
+0.1144	1	1	species	2049433	                  Desulfobacteraceae bacterium
+0.2288	2	0	class	1236	        Gammaproteobacteria
+0.1144	1	1	no rank	33811	          unclassified Gammaproteobacteria
+0.1144	1	0	order	135619	          Oceanospirillales
+0.1144	1	0	family	28256	            Halomonadaceae
+0.1144	1	0	genus	404432	              Salinicola
+0.1144	1	1	species	430457	                Salinicola salarius
+0.3432	3	0	clade	1783272	      Terrabacteria group
+0.2288	2	1	phylum	201174	        Actinobacteria
+0.1144	1	0	class	1760	          Actinomycetia
+0.1144	1	0	no rank	52018	            unclassified Actinomycetia
+0.1144	1	1	species	1883427	              Actinomycetia bacterium
+0.1144	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.1144	1	0	phylum	1817808	          Candidatus Margulisbacteria
+0.1144	1	0	class	2211268	            Candidatus Riflemargulisbacteria
+0.1144	1	1	species	1817873	              Candidatus Margulisbacteria bacterium GWF2_35_9
+0.2288	2	0	phylum	57723	      Acidobacteria
+0.1144	1	0	no rank	305072	        unclassified Acidobacteria
+0.1144	1	1	species	1978231	          Acidobacteria bacterium
+0.1144	1	0	class	1562566	        Blastocatellia
+0.1144	1	0	order	1748771	          Blastocatellales
+0.1144	1	0	family	2048906	            Pyrinomonadaceae
+0.1144	1	0	no rank	2283091	              unclassified Pyrinomonadaceae
+0.1144	1	1	species	2283092	                Pyrinomonadaceae bacterium
+0.1144	1	0	no rank	2323	      Bacteria incertae sedis
+0.1144	1	0	clade	1783234	        Bacteria candidate phyla
+0.1144	1	0	phylum	200295	          Candidatus Sumerlaeota
+0.1144	1	0	no rank	910027	            unclassified Candidatus Sumerlaeota
+0.1144	1	1	species	1852825	              candidate division BRC1 bacterium ADurb.BinA364
+0.1144	1	0	clade	1783257	      PVC group
+0.1144	1	0	phylum	74201	        Verrucomicrobia
+0.1144	1	0	class	203494	          Verrucomicrobiae
+0.1144	1	0	order	48461	            Verrucomicrobiales
+0.1144	1	0	family	134621	              Verrucomicrobia subdivision 3
+0.1144	1	0	no rank	1952929	                unclassified Verrucomicrobia subdivision 3
+0.1144	1	1	species	2052186	                  Verrucomicrobia subdivision 3 bacterium
+0.1144	1	0	clade	1783270	      FCB group
+0.1144	1	1	phylum	142182	        Gemmatimonadetes
+0.3432	3	1	superkingdom	2759	    Eukaryota
+0.2288	2	0	clade	33154	      Opisthokonta
+0.2288	2	0	kingdom	33208	        Metazoa
+0.2288	2	0	clade	6072	          Eumetazoa
+0.2288	2	0	clade	33213	            Bilateria
+0.1144	1	0	clade	33317	              Protostomia
+0.1144	1	0	clade	1206794	                Ecdysozoa
+0.1144	1	0	phylum	6231	                  Nematoda
+0.1144	1	0	class	119089	                    Chromadorea
+0.1144	1	0	order	6236	                      Rhabditida
+0.1144	1	0	suborder	6300	                        Tylenchina
+0.1144	1	0	infraorder	2082223	                          Panagrolaimomorpha
+0.1144	1	0	superfamily	2082224	                            Strongyloidoidea
+0.1144	1	0	family	33253	                              Steinernematidae
+0.1144	1	0	genus	34507	                                Steinernema
+0.1144	1	1	species	37863	                                  Steinernema glaseri
+0.1144	1	0	clade	33511	              Deuterostomia
+0.1144	1	0	phylum	7711	                Chordata
+0.1144	1	0	subphylum	89593	                  Craniata
+0.1144	1	0	clade	7742	                    Vertebrata
+0.1144	1	0	clade	7776	                      Gnathostomata
+0.1144	1	0	class	7777	                        Chondrichthyes
+0.1144	1	0	subclass	7778	                          Elasmobranchii
+0.1144	1	0	infraclass	119203	                            Selachii
+0.1144	1	0	clade	119197	                              Galeomorphii
+0.1144	1	0	superorder	119195	                                Galeoidea
+0.1144	1	0	order	30503	                                  Orectolobiformes
+0.1144	1	0	family	40580	                                    Hemiscylliidae
+0.1144	1	0	genus	34767	                                      Chiloscyllium
+0.1144	1	1	species	137246	                                        Chiloscyllium punctatum

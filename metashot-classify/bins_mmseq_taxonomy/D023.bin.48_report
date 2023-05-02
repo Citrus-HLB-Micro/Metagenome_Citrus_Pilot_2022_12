@@ -1,0 +1,84 @@
+0.3571	3	3	no rank	0	unclassified
+99.6429	837	44	no rank	1	root
+94.4048	793	1	no rank	131567	  cellular organisms
+94.2857	792	121	superkingdom	2	    Bacteria
+79.2857	666	16	clade	1783272	      Terrabacteria group
+77.2619	649	82	phylum	201174	        Actinobacteria
+67.5000	567	447	class	1760	          Actinomycetia
+12.1429	102	55	order	85010	            Pseudonocardiales
+3.3333	28	0	no rank	664783	              unclassified Pseudonocardiales
+3.3333	28	28	species	2201155	                Pseudonocardiales bacterium
+2.2619	19	13	family	2070	              Pseudonocardiaceae
+0.2381	2	0	genus	1847	                Pseudonocardia
+0.1190	1	1	species	76726	                  Pseudonocardia hydrocarbonoxydans
+0.1190	1	0	no rank	2619320	                  unclassified Pseudonocardia
+0.1190	1	1	species	1854588	                    Pseudonocardia sp. MH-G8
+0.1190	1	0	genus	1813	                Amycolatopsis
+0.1190	1	1	species	1840409	                  Amycolatopsis anabasis
+0.1190	1	0	genus	43356	                Kutzneria
+0.1190	1	0	no rank	2621979	                  unclassified Kutzneria
+0.1190	1	1	species	345341	                    Kutzneria sp. 744
+0.1190	1	0	genus	402649	                Actinomycetospora
+0.1190	1	0	no rank	1135995	                  environmental samples
+0.1190	1	1	species	1135996	                    uncultured Actinomycetospora sp.
+0.1190	1	0	genus	1891915	                Actinocrispum
+0.1190	1	1	species	1213861	                  Actinocrispum wychmicini
+0.8333	7	0	order	85008	            Micromonosporales
+0.8333	7	1	family	28056	              Micromonosporaceae
+0.2381	2	1	genus	1873	                Micromonospora
+0.1190	1	1	species	405436	                  Micromonospora pattaloongensis
+0.2381	2	0	genus	907364	                Phytohabitans
+0.2381	2	2	species	624315	                  Phytohabitans suffuscus
+0.1190	1	0	genus	1865	                Actinoplanes
+0.1190	1	1	species	113566	                  Actinoplanes humidus
+0.1190	1	0	genus	65504	                Virgisporangium
+0.1190	1	1	species	741659	                  Virgisporangium aliadipatigenens
+0.5952	5	0	order	85011	            Streptomycetales
+0.5952	5	0	family	2062	              Streptomycetaceae
+0.5952	5	1	genus	1883	                Streptomyces
+0.2381	2	0	no rank	2593676	                  unclassified Streptomyces
+0.1190	1	1	species	1522763	                    Streptomyces sp. ADI98-10
+0.1190	1	1	species	2748326	                    Streptomyces sp. PKU-EA00015
+0.1190	1	1	species	574929	                  Streptomyces abyssomicinicus
+0.1190	1	1	species	1436133	                  Streptomyces bryophytorum
+0.4762	4	0	no rank	52018	            unclassified Actinomycetia
+0.4762	4	4	species	1883427	              Actinomycetia bacterium
+0.1190	1	0	order	85007	            Corynebacteriales
+0.1190	1	0	family	85025	              Nocardiaceae
+0.1190	1	0	genus	1817	                Nocardia
+0.1190	1	1	species	135487	                  Nocardia cyriacigeorgica
+0.1190	1	1	order	85012	            Streptosporangiales
+0.1190	1	0	phylum	200795	        Chloroflexi
+0.1190	1	0	class	388447	          Ktedonobacteria
+0.1190	1	0	order	768667	            Thermogemmatisporales
+0.1190	1	0	family	768668	              Thermogemmatisporaceae
+0.1190	1	0	genus	768669	                Thermogemmatispora
+0.1190	1	1	species	1382306	                  Thermogemmatispora carboxidivorans
+0.4762	4	0	phylum	1224	      Proteobacteria
+0.2381	2	0	class	1236	        Gammaproteobacteria
+0.1190	1	0	order	72274	          Pseudomonadales
+0.1190	1	0	family	135621	            Pseudomonadaceae
+0.1190	1	1	genus	286	              Pseudomonas
+0.1190	1	0	order	135622	          Alteromonadales
+0.1190	1	0	family	72275	            Alteromonadaceae
+0.1190	1	0	no rank	96574	              unclassified Alteromonadaceae
+0.1190	1	1	species	1916082	                Alteromonadaceae bacterium
+0.1190	1	0	class	28216	        Betaproteobacteria
+0.1190	1	0	order	80840	          Burkholderiales
+0.1190	1	0	family	119060	            Burkholderiaceae
+0.1190	1	0	genus	106589	              Cupriavidus
+0.1190	1	0	no rank	2640874	                unclassified Cupriavidus
+0.1190	1	1	species	1080187	                  Cupriavidus sp. UYPR2.512
+0.1190	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.1190	1	0	class	28221	          Deltaproteobacteria
+0.1190	1	0	order	29	            Myxococcales
+0.1190	1	0	suborder	80812	              Sorangiineae
+0.1190	1	0	family	49	                Polyangiaceae
+0.1190	1	0	no rank	80814	                  unclassified Polyangiaceae
+0.1190	1	1	species	2268199	                    Polyangiaceae bacterium
+0.1190	1	0	clade	1783270	      FCB group
+0.1190	1	0	phylum	142182	        Gemmatimonadetes
+0.1190	1	0	class	219685	          Gemmatimonadetes
+0.1190	1	0	order	219686	            Gemmatimonadales
+0.1190	1	0	no rank	1951096	              unclassified Gemmatimonadales
+0.1190	1	1	species	2448054	                Gemmatimonadales bacterium

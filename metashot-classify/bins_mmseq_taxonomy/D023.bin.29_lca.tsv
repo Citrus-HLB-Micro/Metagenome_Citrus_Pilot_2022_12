@@ -1,0 +1,370 @@
+k141_2706402	2	superkingdom	Bacteria	5	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1098344	201174	phylum	Actinobacteria	3	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1633057	201174	phylum	Actinobacteria	5	5	3	0.600	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_212878	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_391277	1883427	species	Actinomycetia bacterium	3	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_566891	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1100260	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_568508	201174	phylum	Actinobacteria	4	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1991467	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_40299	1883427	species	Actinomycetia bacterium	3	3	2	0.670	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_330490	1760	class	Actinomycetia	5	4	2	0.650	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_2473898	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1206170	201174	phylum	Actinobacteria	3	3	3	1.000	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1034626	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_151179	2	superkingdom	Bacteria	6	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1923174	201174	phylum	Actinobacteria	4	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1209040	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1037824	2	superkingdom	Bacteria	8	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_509835	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_509896	201174	phylum	Actinobacteria	4	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1091335	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2164262	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1983144	0	no rank	unclassified	1	0	0	0.000		
+k141_2518077	1760	class	Actinomycetia	3	3	2	0.520	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1984920	2	superkingdom	Bacteria	6	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_561850	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2519800	201174	phylum	Actinobacteria	5	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_562897	1883427	species	Actinomycetia bacterium	4	4	2	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1453449	1760	class	Actinomycetia	3	3	2	0.670	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1986856	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1752565	201174	phylum	Actinobacteria	4	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1752607	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2112697	1813880	species	Tetrasphaera sp. HKS02	3	2	1	0.500	unknown;Actinobacteria;Intrasporangiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Intrasporangiaceae;g_Tetrasphaera;-_unclassified Tetrasphaera;s_Tetrasphaera sp. HKS02
+k141_2654971	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1220320	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1416155	292625	class	Anaerolineae	3	3	2	0.670	unknown;Chloroflexi;uc_Anaerolineae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;c_Anaerolineae
+k141_2491177	1760	class	Actinomycetia	3	2	1	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1756384	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2116939	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1225485	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2413102	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_452915	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1688273	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_2230371	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1155147	0	no rank	unclassified	1	0	0	0.000		
+k141_2581302	2751370	species	Rhabdothermincola sediminis	3	2	1	0.500	unknown;Actinobacteria;Iamiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Acidimicrobiia;o_Acidimicrobiales;f_Iamiaceae;g_Rhabdothermincola;s_Rhabdothermincola sediminis
+k141_455422	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2232307	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_456723	200795	phylum	Chloroflexi	1	1	1	1.000	unknown;Chloroflexi;uc_Chloroflexi	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi
+k141_279477	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_352582	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1585400	1760	class	Actinomycetia	5	4	2	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_2119418	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1056925	2080302	species	Acidimicrobiia bacterium	2	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Acidimicrobiia;-_unclassified Acidimicrobiia;s_Acidimicrobiia bacterium
+k141_1057108	2	superkingdom	Bacteria	5	5	4	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_171568	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1423142	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1762163	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_172479	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1587734	2	superkingdom	Bacteria	4	3	2	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_537030	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1783857	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1783895	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_361122	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1785269	1522763	species	Streptomyces sp. ADI98-10	4	2	1	0.500	unknown;Actinobacteria;Streptomycetaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Streptomycetales;f_Streptomycetaceae;g_Streptomyces;-_unclassified Streptomyces;s_Streptomyces sp. ADI98-10
+k141_183582	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2142797	1	no rank	root	6	4	4	1.000	unknown;unknown;unknown	-_root
+k141_7693	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1431594	1760	class	Actinomycetia	4	4	2	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1965304	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_727902	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_727944	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_728120	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2153308	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_374329	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2334072	201174	phylum	Actinobacteria	2	1	1	1.000	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_552973	1883427	species	Actinomycetia bacterium	2	2	1	0.950	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_908942	1760	class	Actinomycetia	4	3	2	0.670	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1086640	1760	class	Actinomycetia	1	1	1	1.000	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_733385	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1332419	0	no rank	unclassified	1	0	0	0.000		
+k141_90478	201174	phylum	Actinobacteria	3	3	2	0.950	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_618463	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2039560	201174	phylum	Actinobacteria	3	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1860926	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1507395	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1334584	1883427	species	Actinomycetia bacterium	2	2	2	1.000	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_971488	1760	class	Actinomycetia	4	4	2	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1334779	1760	class	Actinomycetia	6	6	4	0.610	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_802892	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_45484	201174	phylum	Actinobacteria	4	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2360993	1760	class	Actinomycetia	2	2	1	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_2719875	201174	phylum	Actinobacteria	4	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_48937	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_578277	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_758643	201174	phylum	Actinobacteria	6	5	3	0.740	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_404813	85007	order	Corynebacteriales	3	3	2	0.670	unknown;Actinobacteria;uc_Corynebacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales
+k141_1294051	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_228400	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_2537350	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1965916	1760	class	Actinomycetia	4	4	2	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1077401	201174	phylum	Actinobacteria	3	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1077492	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1792819	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2685675	1760	class	Actinomycetia	3	2	1	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1971684	1883427	species	Actinomycetia bacterium	3	2	2	1.000	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_2329921	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_194224	201174	phylum	Actinobacteria	4	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1082654	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2153009	201174	phylum	Actinobacteria	6	5	3	0.600	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1555977	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2278609	2	superkingdom	Bacteria	7	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2628780	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_858918	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_144236	131567	no rank	cellular organisms	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_1393016	1760	class	Actinomycetia	5	4	3	0.750	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1200320	1883427	species	Actinomycetia bacterium	2	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_2632279	1760	class	Actinomycetia	3	3	2	0.990	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1200978	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1735690	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1886660	1783272	clade	Terrabacteria group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2790989	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_830627	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_298595	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2441424	2	superkingdom	Bacteria	6	6	4	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2605457	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1536697	1760	class	Actinomycetia	6	3	2	0.520	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_478679	2	superkingdom	Bacteria	7	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2607324	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2608704	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1697726	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1162807	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1350747	201174	phylum	Actinobacteria	10	10	5	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1522181	2	superkingdom	Bacteria	5	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2781674	1883427	species	Actinomycetia bacterium	3	3	2	0.670	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_109409	1883427	species	Actinomycetia bacterium	3	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_109947	1883427	species	Actinomycetia bacterium	1	1	1	1.000	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_2783160	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_639475	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_110705	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2756780	201174	phylum	Actinobacteria	4	3	2	0.510	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_261247	1783272	clade	Terrabacteria group	3	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1327912	1883427	species	Actinomycetia bacterium	3	3	2	0.670	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1677872	1883427	species	Actinomycetia bacterium	4	4	2	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_86447	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_614018	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1329490	1883427	species	Actinomycetia bacterium	3	3	2	0.670	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_2404339	1760	class	Actinomycetia	4	3	2	0.510	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1331015	1760	class	Actinomycetia	3	3	2	0.510	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_266946	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1840511	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_950037	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_69114	1883427	species	Actinomycetia bacterium	5	4	2	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_2552812	1	no rank	root	11	10	10	1.000	unknown;unknown;unknown	-_root
+k141_2202426	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1487875	1760	class	Actinomycetia	4	3	2	0.670	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1663503	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2744387	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1129768	1760	class	Actinomycetia	4	3	2	0.670	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_2387269	2	superkingdom	Bacteria	5	4	3	0.540	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2584127	1	no rank	root	3	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1872369	201174	phylum	Actinobacteria	4	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_981814	1883427	species	Actinomycetia bacterium	4	4	2	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_103685	2	superkingdom	Bacteria	9	8	5	0.580	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1518675	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_282143	1	no rank	root	4	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1873323	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1873533	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2236042	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_984899	1	no rank	root	5	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1540576	1883427	species	Actinomycetia bacterium	1	1	1	1.000	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_2074409	2080302	species	Acidimicrobiia bacterium	4	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Acidimicrobiia;-_unclassified Acidimicrobiia;s_Acidimicrobiia bacterium
+k141_660026	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1010069	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2613400	1760	class	Actinomycetia	4	4	2	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_485234	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2803601	1760	class	Actinomycetia	5	1	1	1.000	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1377115	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2804568	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1012318	908623	genus	Euzebya	3	2	1	0.500	unknown;Actinobacteria;Euzebyaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Nitriliruptoria;o_Euzebyales;f_Euzebyaceae;g_Euzebya
+k141_1496142	2024894	species	Acidimicrobiaceae bacterium	8	5	1	0.870	unknown;Actinobacteria;Acidimicrobiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Acidimicrobiia;o_Acidimicrobiales;f_Acidimicrobiaceae;-_unclassified Acidimicrobiaceae;s_Acidimicrobiaceae bacterium
+k141_1320693	285535	species	Streptomyces fulvoviolaceus	2	2	1	0.500	unknown;Actinobacteria;Streptomycetaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Streptomycetales;f_Streptomycetaceae;g_Streptomyces;s_Streptomyces fulvoviolaceus
+k141_79323	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1136053	0	no rank	unclassified	2	0	0	0.000		
+k141_1850087	201174	phylum	Actinobacteria	2	1	1	1.000	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2395487	1760	class	Actinomycetia	5	5	3	0.600	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_960529	201174	phylum	Actinobacteria	4	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1498013	201174	phylum	Actinobacteria	5	5	3	0.510	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2214909	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2215248	201174	phylum	Actinobacteria	3	3	3	1.000	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_918757	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_32783	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2169603	201174	phylum	Actinobacteria	3	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1096686	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1277990	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_389559	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_389563	2	superkingdom	Bacteria	8	7	5	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2522843	201174	phylum	Actinobacteria	6	5	3	0.730	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2349034	1760	class	Actinomycetia	6	6	3	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1456048	2714956	species	Motilibacter deserti	2	2	1	0.500	unknown;Actinobacteria;Motilibacteraceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Motilibacterales;f_Motilibacteraceae;g_Motilibacter;s_Motilibacter deserti
+k141_782741	2	superkingdom	Bacteria	4	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_601104	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_955592	1883427	species	Actinomycetia bacterium	3	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_75062	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1668026	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2747715	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_785501	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1494124	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_253956	189774	no rank	unclassified Chloroflexi	4	4	3	0.750	unknown;Chloroflexi;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;-_unclassified Chloroflexi
+k141_957736	1783272	clade	Terrabacteria group	6	4	2	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_179343	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2138084	1883427	species	Actinomycetia bacterium	2	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_357931	1783272	clade	Terrabacteria group	2	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1781743	1783272	clade	Terrabacteria group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1604368	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_358456	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2672878	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1426289	1883427	species	Actinomycetia bacterium	4	3	2	0.670	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1070656	1760	class	Actinomycetia	3	3	2	0.510	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_536781	2	superkingdom	Bacteria	5	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1949430	201174	phylum	Actinobacteria	5	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1594743	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1950344	201174	phylum	Actinobacteria	2	1	1	1.000	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1770782	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1236301	460939	species	uncultured bacterium Bio6	2	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_environmental samples;s_uncultured bacterium Bio6
+k141_1954292	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1598835	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2133378	1883427	species	Actinomycetia bacterium	3	3	2	0.670	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1955897	2	superkingdom	Bacteria	6	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2135537	2080302	species	Acidimicrobiia bacterium	2	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Acidimicrobiia;-_unclassified Acidimicrobiia;s_Acidimicrobiia bacterium
+k141_147127	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2284306	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1917864	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_1031989	201174	phylum	Actinobacteria	6	5	3	0.510	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_327991	1760	class	Actinomycetia	2	2	1	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1032289	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2471631	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_1032666	201174	phylum	Actinobacteria	4	4	2	0.660	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2097656	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_867132	84993	order	Acidimicrobiales	4	4	2	0.500	unknown;Actinobacteria;uc_Acidimicrobiales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Acidimicrobiia;o_Acidimicrobiales
+k141_570307	1	no rank	root	8	8	8	1.000	unknown;unknown;unknown	-_root
+k141_1816139	1760	class	Actinomycetia	4	4	2	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1284614	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_218057	201174	phylum	Actinobacteria	4	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1817358	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_572089	1883427	species	Actinomycetia bacterium	3	3	3	1.000	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1995448	2	superkingdom	Bacteria	7	7	5	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_928140	1883427	species	Actinomycetia bacterium	3	2	2	1.000	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_220376	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_574088	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1335636	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_270932	1883427	species	Actinomycetia bacterium	2	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_449034	201174	phylum	Actinobacteria	2	1	1	1.000	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2766067	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2766480	1783272	clade	Terrabacteria group	4	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2226672	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2227935	201174	phylum	Actinobacteria	3	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1339255	1760	class	Actinomycetia	3	3	2	0.670	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_274434	1760	class	Actinomycetia	4	4	2	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_452683	1797561	species	Burkholderiales bacterium RIFCSPHIGHO2_12_FULL_69_20	3	1	1	1.000	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;-_unclassified Burkholderiales;s_Burkholderiales bacterium RIFCSPHIGHO2_12_FULL_69_20
+k141_2187161	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_762073	2	superkingdom	Bacteria	5	5	4	0.690	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2004235	1760	class	Actinomycetia	3	3	2	0.670	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_408261	28056	family	Micromonosporaceae	1	1	1	1.000	unknown;Actinobacteria;Micromonosporaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micromonosporales;f_Micromonosporaceae
+k141_1298215	1891920	species	Curtobacterium sp. ER1/6	3	2	1	0.500	unknown;Actinobacteria;Microbacteriaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micrococcales;f_Microbacteriaceae;g_Curtobacterium;-_unclassified Curtobacterium;s_Curtobacterium sp. ER1/6
+k141_231851	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1298913	0	no rank	unclassified	2	0	0	0.000		
+k141_2006977	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1475480	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_233415	1760	class	Actinomycetia	2	2	1	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_2478123	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2478368	1883427	species	Actinomycetia bacterium	3	3	2	0.670	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_2833078	201174	phylum	Actinobacteria	3	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1210568	1883427	species	Actinomycetia bacterium	4	3	2	0.960	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1745053	1883427	species	Actinomycetia bacterium	3	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1405546	1760	class	Actinomycetia	4	4	3	0.680	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_2644865	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_512396	201174	phylum	Actinobacteria	3	3	2	0.960	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1927678	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_691391	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_173414	201174	phylum	Actinobacteria	7	6	4	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_355523	201174	phylum	Actinobacteria	3	3	2	0.520	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1943960	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1059758	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_175048	1	no rank	root	4	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1946189	2	superkingdom	Bacteria	8	7	5	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2124869	201174	phylum	Actinobacteria	4	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1231697	1	no rank	root	3	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1232036	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1593034	2	superkingdom	Bacteria	7	7	4	0.730	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_513588	201174	phylum	Actinobacteria	5	3	2	0.520	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_157898	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2297771	201174	phylum	Actinobacteria	6	6	3	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2298758	201174	phylum	Actinobacteria	4	4	2	0.650	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2484424	1883427	species	Actinomycetia bacterium	2	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1044976	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2486510	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_517734	1	no rank	root	9	7	7	1.000	unknown;unknown;unknown	-_root
+k141_1217685	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1752269	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2158288	52018	no rank	unclassified Actinomycetia	3	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia
+k141_1621598	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1087220	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_734362	1865	genus	Actinoplanes	1	1	1	1.000	unknown;Actinobacteria;Micromonosporaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micromonosporales;f_Micromonosporaceae;g_Actinoplanes
+k141_1088079	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_380156	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2160804	1883427	species	Actinomycetia bacterium	2	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1269728	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_202452	201174	phylum	Actinobacteria	4	4	2	0.660	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2696542	84992	class	Acidimicrobiia	4	4	2	0.650	unknown;Actinobacteria;uc_Acidimicrobiia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Acidimicrobiia
+k141_1837120	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1659074	1883427	species	Actinomycetia bacterium	3	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_2380347	1760	class	Actinomycetia	4	3	2	0.520	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_2199109	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1309178	0	no rank	unclassified	1	0	0	0.000		
+k141_421671	1783272	clade	Terrabacteria group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2381944	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_948454	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_244357	2026735	species	Deltaproteobacteria bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Deltaproteobacteria;-_unclassified Deltaproteobacteria;s_Deltaproteobacteria bacterium
+k141_1486481	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_821915	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2784307	1883427	species	Actinomycetia bacterium	4	4	2	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_2430346	1760	class	Actinomycetia	6	6	3	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1168157	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1168797	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_293401	1	no rank	root	5	3	3	1.000	unknown;unknown;unknown	-_root
+k141_645593	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2248223	201174	phylum	Actinobacteria	4	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1706675	1	no rank	root	4	2	2	1.000	unknown;unknown;unknown	-_root
+k141_997213	1760	class	Actinomycetia	5	5	3	0.600	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_845808	624315	species	Phytohabitans suffuscus	2	2	1	0.500	unknown;Actinobacteria;Micromonosporaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micromonosporales;f_Micromonosporaceae;g_Phytohabitans;s_Phytohabitans suffuscus
+k141_663368	1760	class	Actinomycetia	4	2	1	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1013526	1883427	species	Actinomycetia bacterium	6	6	3	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_847912	201174	phylum	Actinobacteria	5	5	3	0.600	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1380086	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2081490	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2268342	201174	phylum	Actinobacteria	1	1	1	1.000	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1547568	1	no rank	root	3	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1903362	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2268627	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2619119	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2619305	28221	class	Deltaproteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Deltaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Deltaproteobacteria
+k141_1724189	1760	class	Actinomycetia	2	2	1	0.500	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1724571	201174	phylum	Actinobacteria	3	3	2	0.670	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2620169	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1382768	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1725559	201174	phylum	Actinobacteria	3	3	2	0.520	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_136859	0	no rank	unclassified	2	0	0	0.000		
+k141_1384438	200795	phylum	Chloroflexi	1	1	1	1.000	unknown;Chloroflexi;uc_Chloroflexi	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi
+k141_2085202	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_57156	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1476206	1883427	species	Actinomycetia bacterium	2	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_58446	2	superkingdom	Bacteria	7	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_941017	914	genus	Nitrosomonas	1	1	1	1.000	unknown;Proteobacteria;Nitrosomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Nitrosomonadales;f_Nitrosomonadaceae;g_Nitrosomonas
+k141_586872	201174	phylum	Actinobacteria	5	5	3	0.510	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2009748	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_235600	1760	class	Actinomycetia	5	5	3	0.510	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1656061	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_239348	369932	species	Amycolatopsis niigatensis	3	2	1	0.500	unknown;Actinobacteria;Pseudonocardiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Pseudonocardiales;f_Pseudonocardiaceae;g_Amycolatopsis;s_Amycolatopsis niigatensis
+k141_1482350	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2458398	201174	phylum	Actinobacteria	3	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_2623802	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_316980	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2459799	1883427	species	Actinomycetia bacterium	1	1	1	1.000	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1908917	1783272	clade	Terrabacteria group	3	3	2	0.510	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2274936	1783272	clade	Terrabacteria group	2	2	2	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2815342	1760	class	Actinomycetia	4	4	3	0.670	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_319081	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_140499	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1730816	2080302	species	Acidimicrobiia bacterium	2	2	1	0.500	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Acidimicrobiia;-_unclassified Acidimicrobiia;s_Acidimicrobiia bacterium

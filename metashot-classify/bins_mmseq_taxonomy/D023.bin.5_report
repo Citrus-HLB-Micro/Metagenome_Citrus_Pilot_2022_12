@@ -1,0 +1,69 @@
+0.6369	3	3	no rank	0	unclassified
+99.3631	468	29	no rank	1	root
+93.2059	439	1	no rank	131567	  cellular organisms
+92.9936	438	180	superkingdom	2	    Bacteria
+52.2293	246	179	phylum	57723	      Acidobacteria
+7.4310	35	8	class	204432	        Acidobacteriia
+5.7325	27	8	order	332160	          Bryobacterales
+2.3355	11	4	family	332161	            Solibacteraceae
+1.0616	5	0	genus	2136118	              Candidatus Sulfopaludibacter
+1.0616	5	1	no rank	2626174	                unclassified Candidatus Sulfopaludibacter
+0.4246	2	2	species	2043165	                  Candidatus Sulfopaludibacter sp. SbA4
+0.2123	1	1	species	2043164	                  Candidatus Sulfopaludibacter sp. SbA3
+0.2123	1	1	species	2043166	                  Candidatus Sulfopaludibacter sp. SbA6
+0.4246	2	0	genus	332162	              Candidatus Solibacter
+0.2123	1	0	species	332163	                Candidatus Solibacter usitatus
+0.2123	1	1	isolate	234267	                  Candidatus Solibacter usitatus Ellin6076
+0.2123	1	0	no rank	2646385	                unclassified Candidatus Solibacter
+0.2123	1	1	species	2068625	                  Candidatus Solibacter sp.
+1.2739	6	0	family	1962910	            Bryobacteraceae
+0.8493	4	0	genus	1649475	              Paludibaculum
+0.8493	4	4	species	1473598	                Paludibaculum fermentans
+0.4246	2	0	no rank	2212464	              unclassified Bryobacteraceae
+0.4246	2	2	species	2212468	                Bryobacteraceae bacterium
+0.4246	2	0	no rank	1470392	            unclassified Bryobacterales
+0.4246	2	2	species	2026791	              Bryobacterales bacterium
+6.1571	29	4	no rank	305072	        unclassified Acidobacteria
+5.0955	24	24	species	1978231	          Acidobacteria bacterium
+0.2123	1	1	species	1797193	          Acidobacteria bacterium RIFCSPLOWO2_12_FULL_67_14b
+0.4246	2	0	class	1562566	        Blastocatellia
+0.4246	2	0	no rank	2052145	          unclassified Blastocatellia
+0.4246	2	2	species	2052146	            Blastocatellia bacterium
+0.2123	1	0	class	1813735	        Vicinamibacteria
+0.2123	1	0	order	2910145	          Vicinamibacterales
+0.2123	1	0	family	2211325	            Vicinamibacteraceae
+0.2123	1	0	genus	2004797	              Luteitalea
+0.2123	1	0	no rank	2626009	                unclassified Luteitalea
+0.2123	1	1	species	2004800	                  Luteitalea sp.
+1.0616	5	1	phylum	1224	      Proteobacteria
+0.4246	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.4246	2	1	class	28221	          Deltaproteobacteria
+0.2123	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.2123	1	1	species	1797906	              Deltaproteobacteria bacterium RIFOXYD12_FULL_57_12
+0.2123	1	0	class	28211	        Alphaproteobacteria
+0.2123	1	0	order	204457	          Sphingomonadales
+0.2123	1	0	family	335929	            Erythrobacteraceae
+0.2123	1	0	no rank	2800788	              Erythrobacter/Porphyrobacter group
+0.2123	1	0	genus	1041	                Erythrobacter
+0.2123	1	1	species	2182384	                  Erythrobacter aureus
+0.2123	1	0	class	28216	        Betaproteobacteria
+0.2123	1	0	order	80840	          Burkholderiales
+0.2123	1	0	no rank	224471	            Burkholderiales genera incertae sedis
+0.2123	1	0	genus	316612	              Methylibium
+0.2123	1	0	no rank	2633235	                unclassified Methylibium
+0.2123	1	1	species	1437443	                  Methylibium sp. T29-B
+0.6369	3	0	no rank	48479	      environmental samples
+0.6369	3	3	species	77133	        uncultured bacterium
+0.4246	2	0	clade	1783270	      FCB group
+0.2123	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.2123	1	0	phylum	976	          Bacteroidetes
+0.2123	1	0	class	200643	            Bacteroidia
+0.2123	1	0	order	171549	              Bacteroidales
+0.2123	1	0	family	171550	                Rikenellaceae
+0.2123	1	0	genus	239759	                  Alistipes
+0.2123	1	1	species	214856	                    Alistipes finegoldii
+0.2123	1	0	phylum	142182	        Gemmatimonadetes
+0.2123	1	1	no rank	234665	          unclassified Gemmatimonadetes
+0.2123	1	1	phylum	40117	      Nitrospirae
+0.2123	1	0	clade	1783257	      PVC group
+0.2123	1	1	phylum	74201	        Verrucomicrobia

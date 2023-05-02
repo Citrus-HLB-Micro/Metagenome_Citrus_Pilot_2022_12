@@ -1,0 +1,70 @@
+100.0000	645	66	no rank	1	root
+89.7674	579	10	no rank	131567	  cellular organisms
+87.9070	567	230	superkingdom	2	    Bacteria
+48.0620	310	256	phylum	40117	      Nitrospirae
+8.0620	52	0	class	203693	        Nitrospira
+8.0620	52	5	order	189778	          Nitrospirales
+7.2868	47	3	family	189779	            Nitrospiraceae
+6.8217	44	29	genus	1234	              Nitrospira
+1.5504	10	4	no rank	2652172	                unclassified Nitrospira
+0.7752	5	5	species	70125	                  Nitrospira sp.
+0.1550	1	1	species	1936990	                  Nitrospira sp. KM1
+0.4651	3	3	species	1325564	                Nitrospira japonica
+0.3101	2	2	species	42253	                Nitrospira moscoviensis
+0.3101	2	1	no rank	1298915	        unclassified Nitrospirae
+0.1550	1	1	species	2026887	          Nitrospirae bacterium
+2.3256	15	5	phylum	1224	      Proteobacteria
+0.9302	6	1	class	28211	        Alphaproteobacteria
+0.7752	5	3	order	356	          Hyphomicrobiales
+0.1550	1	1	family	41294	            Bradyrhizobiaceae
+0.1550	1	1	family	82115	            Rhizobiaceae
+0.4651	3	0	subphylum	68525	        delta/epsilon subdivisions
+0.4651	3	0	class	28221	          Deltaproteobacteria
+0.3101	2	0	no rank	122706	            unclassified Deltaproteobacteria
+0.3101	2	2	species	2026735	              Deltaproteobacteria bacterium
+0.1550	1	0	order	29	            Myxococcales
+0.1550	1	0	no rank	213495	              unclassified Myxococcales
+0.1550	1	1	species	2026763	                Myxococcales bacterium
+0.1550	1	1	class	28216	        Betaproteobacteria
+0.6202	4	2	phylum	57723	      Acidobacteria
+0.1550	1	0	class	204432	        Acidobacteriia
+0.1550	1	0	order	204433	          Acidobacteriales
+0.1550	1	0	family	204434	            Acidobacteriaceae
+0.1550	1	0	genus	2136117	              Candidatus Sulfotelmatomonas
+0.1550	1	1	species	2043161	                Candidatus Sulfotelmatomonas gaucii
+0.1550	1	1	no rank	305072	        unclassified Acidobacteria
+0.6202	4	0	clade	1783257	      PVC group
+0.6202	4	3	phylum	74201	        Verrucomicrobia
+0.1550	1	1	no rank	417295	          unclassified Verrucomicrobia
+0.6202	4	0	clade	1783272	      Terrabacteria group
+0.3101	2	0	phylum	200795	        Chloroflexi
+0.3101	2	0	no rank	189774	          unclassified Chloroflexi
+0.3101	2	2	species	2026724	            Chloroflexi bacterium
+0.1550	1	0	phylum	201174	        Actinobacteria
+0.1550	1	1	class	1760	          Actinomycetia
+0.1550	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.1550	1	0	phylum	1117	          Cyanobacteria
+0.1550	1	0	no rank	1983111	            unclassified Cyanobacteria
+0.1550	1	1	species	1805101	              Cyanobacteria bacterium 13_1_40CM_2_61_4
+0.3101	2	0	superkingdom	2759	    Eukaryota
+0.3101	2	0	clade	33154	      Opisthokonta
+0.3101	2	0	kingdom	33208	        Metazoa
+0.3101	2	0	clade	6072	          Eumetazoa
+0.3101	2	0	clade	33213	            Bilateria
+0.3101	2	0	clade	33317	              Protostomia
+0.3101	2	0	clade	1206794	                Ecdysozoa
+0.3101	2	0	clade	88770	                  Panarthropoda
+0.3101	2	0	phylum	6656	                    Arthropoda
+0.3101	2	0	clade	197563	                      Mandibulata
+0.3101	2	0	clade	197562	                        Pancrustacea
+0.3101	2	0	subphylum	6960	                          Hexapoda
+0.3101	2	0	class	50557	                            Insecta
+0.3101	2	0	clade	85512	                              Dicondylia
+0.3101	2	0	subclass	7496	                                Pterygota
+0.3101	2	0	infraclass	33339	                                  Palaeoptera
+0.3101	2	0	order	30073	                                    Ephemeroptera
+0.3101	2	0	suborder	185812	                                      Furcatergalia
+0.3101	2	0	infraorder	185816	                                        Scapphodonta
+0.3101	2	0	family	50581	                                          Ephemeridae
+0.3101	2	0	genus	50582	                                            Ephemera
+0.3101	2	2	species	1049336	                                              Ephemera danica

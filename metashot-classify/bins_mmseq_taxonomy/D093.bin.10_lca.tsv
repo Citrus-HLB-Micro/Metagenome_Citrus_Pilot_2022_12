@@ -1,0 +1,589 @@
+k141_2790191	1978231	species	Acidobacteria bacterium	1	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1396294	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_997987	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2266	2	superkingdom	Bacteria	13	10	8	0.870	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2791988	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_202571	1224	phylum	Proteobacteria	3	1	1	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2792830	1236	class	Gammaproteobacteria	5	4	2	0.650	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1000251	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1797652	1236	class	Gammaproteobacteria	5	3	2	0.670	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1000627	2	superkingdom	Bacteria	6	6	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_846684	1913989	species	Gammaproteobacteria bacterium	6	4	2	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium
+k141_1245454	1	no rank	root	13	9	9	1.000	unknown;unknown;unknown	-_root
+k141_450996	1	no rank	root	5	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2639602	1	no rank	root	9	7	7	1.000	unknown;unknown;unknown	-_root
+k141_1246049	2	superkingdom	Bacteria	9	8	7	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1844710	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_51335	1	no rank	root	12	8	8	1.000	unknown;unknown;unknown	-_root
+k141_1645886	1224	phylum	Proteobacteria	20	19	9	0.570	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2243977	1224	phylum	Proteobacteria	10	7	4	0.660	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_849752	1224	phylum	Proteobacteria	5	5	3	0.600	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_374972	1797496	species	Betaproteobacteria bacterium RIFCSPLOWO2_12_FULL_62_13b	3	3	2	0.670	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria;s_Betaproteobacteria bacterium RIFCSPLOWO2_12_FULL_62_13b
+k141_2368587	2080454	species	bacterium MnTg04	4	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_unclassified Bacteria;s_bacterium MnTg04
+k141_2768238	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2175612	2	superkingdom	Bacteria	11	10	5	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_376200	2	superkingdom	Bacteria	21	16	11	0.620	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1972173	2	superkingdom	Bacteria	7	7	6	0.810	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1368044	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2176447	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_180573	2	superkingdom	Bacteria	14	13	9	0.560	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_377176	2	superkingdom	Bacteria	18	16	10	0.640	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1758840	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_361165	732238	species	Povalibacter uvarum	2	2	2	1.000	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae;g_Povalibacter;s_Povalibacter uvarum
+k141_1351925	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1152152	1	no rank	root	20	18	18	1.000	unknown;unknown;unknown	-_root
+k141_163736	1224	phylum	Proteobacteria	8	5	3	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1152396	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_164495	1	no rank	root	9	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2160400	1236	class	Gammaproteobacteria	2	1	1	1.000	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_568589	1224	phylum	Proteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2553587	1236	class	Gammaproteobacteria	4	2	2	1.000	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_839222	1224	phylum	Proteobacteria	6	5	4	0.800	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1433839	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_642401	1236	class	Gammaproteobacteria	7	6	3	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1637699	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2829941	1978231	species	Acidobacteria bacterium	3	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1240108	2	superkingdom	Bacteria	10	9	5	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_643116	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2438024	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2830344	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1838528	1224	phylum	Proteobacteria	3	3	3	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_930807	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2731030	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2135518	1236	class	Gammaproteobacteria	7	7	4	0.570	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2136032	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1525742	1913988	species	Alphaproteobacteria bacterium	2	2	1	0.920	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;-_unclassified Alphaproteobacteria;s_Alphaproteobacteria bacterium
+k141_932433	2598725	species	Vulcaniibacterium gelatinicum	2	2	1	0.500	unknown;Proteobacteria;Xanthomonadaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Vulcaniibacterium;s_Vulcaniibacterium gelatinicum
+k141_545763	1224	phylum	Proteobacteria	5	5	3	0.740	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_143375	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2733131	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_144255	1	no rank	root	12	11	11	1.000	unknown;unknown;unknown	-_root
+k141_392735	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2784186	1236	class	Gammaproteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1184933	1224	phylum	Proteobacteria	4	4	3	0.750	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_197386	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2583289	1224	phylum	Proteobacteria	5	4	3	0.750	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_396988	2	superkingdom	Bacteria	15	14	12	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1586635	1803913	species	Steroidobacter cummioxidans	4	4	2	0.650	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae;g_Steroidobacter;s_Steroidobacter cummioxidans
+k141_1193668	1236	class	Gammaproteobacteria	5	4	2	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_986475	1224	phylum	Proteobacteria	8	7	4	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1591111	1909294	species	Hyphomicrobiales bacterium	3	3	2	0.670	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;-_unclassified Hyphomicrobiales;s_Hyphomicrobiales bacterium
+k141_2688545	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_99034	2	superkingdom	Bacteria	7	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3061275	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1484232	1913989	species	Gammaproteobacteria bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium
+k141_2690350	1224	phylum	Proteobacteria	9	9	6	0.580	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1895535	1224	phylum	Proteobacteria	3	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1090593	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_101227	2	superkingdom	Bacteria	10	7	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1090872	1224	phylum	Proteobacteria	7	5	4	0.800	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1896243	2	superkingdom	Bacteria	10	9	6	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3082122	2	superkingdom	Bacteria	5	4	3	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1118716	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2521803	28211	class	Alphaproteobacteria	13	11	8	0.670	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_3083543	2760815	no rank	unclassified Candidatus Rokubacteria	5	4	3	0.670	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria
+k141_2323255	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2523235	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1727128	1224	phylum	Proteobacteria	7	6	6	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1728053	2	superkingdom	Bacteria	7	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1121766	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_923792	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2200530	1224	phylum	Proteobacteria	7	6	5	0.800	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_8077	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_8116	2	superkingdom	Bacteria	16	12	6	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8229	1	no rank	root	13	10	10	1.000	unknown;unknown;unknown	-_root
+k141_2995623	1224	phylum	Proteobacteria	6	5	3	0.510	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_806798	111831	species	Defluviicoccus vanus	2	2	1	0.500	unknown;Proteobacteria;Rhodospirillaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodospirillales;f_Rhodospirillaceae;g_Defluviicoccus;s_Defluviicoccus vanus
+k141_2798574	28216	class	Betaproteobacteria	11	8	4	0.590	unknown;Proteobacteria;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria
+k141_807448	2	superkingdom	Bacteria	9	8	7	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1007141	2	superkingdom	Bacteria	11	11	8	0.730	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2402632	1224	phylum	Proteobacteria	19	16	10	0.680	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2536117	1236	class	Gammaproteobacteria	5	5	3	0.600	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1135173	1224	phylum	Proteobacteria	2	1	1	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_344686	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_937424	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2928393	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2537181	131567	no rank	cellular organisms	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_2737533	131567	no rank	cellular organisms	4	4	4	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_3095554	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_1943283	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1533981	2	superkingdom	Bacteria	7	7	5	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2051370	1224	phylum	Proteobacteria	5	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_57653	2	superkingdom	Bacteria	6	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_657185	1224	phylum	Proteobacteria	9	8	4	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_57767	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_58319	1224	phylum	Proteobacteria	4	4	3	0.750	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1447862	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_59013	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2843010	2	superkingdom	Bacteria	16	15	11	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1655026	33811	no rank	unclassified Gammaproteobacteria	4	4	2	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria
+k141_3033407	1224	phylum	Proteobacteria	3	3	3	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1156706	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1552926	2	superkingdom	Bacteria	8	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2949275	28211	class	Alphaproteobacteria	1	1	1	1.000	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_572409	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2359261	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_765068	1236	class	Gammaproteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1555062	1224	phylum	Proteobacteria	9	9	4	0.560	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2361097	1913989	species	Gammaproteobacteria bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium
+k141_1557196	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_369431	1	no rank	root	10	9	9	1.000	unknown;unknown;unknown	-_root
+k141_1798191	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1599324	2006849	species	Xanthomonadales bacterium	3	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;-_unclassified Xanthomonadales;s_Xanthomonadales bacterium
+k141_1400212	2	superkingdom	Bacteria	9	8	5	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_6261	1236	class	Gammaproteobacteria	8	8	4	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2398427	1224	phylum	Proteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1203464	2	superkingdom	Bacteria	7	7	5	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2399077	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1801533	1224	phylum	Proteobacteria	2	2	2	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_207209	1224	phylum	Proteobacteria	5	5	3	0.730	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_406932	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2293789	1	no rank	root	6	4	4	1.000	unknown;unknown;unknown	-_root
+k141_700229	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1697138	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1291790	2	superkingdom	Bacteria	8	6	3	0.590	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3063768	2	superkingdom	Bacteria	8	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_103382	1	no rank	root	9	8	8	1.000	unknown;unknown;unknown	-_root
+k141_1898736	2	superkingdom	Bacteria	8	8	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2296501	2	superkingdom	Bacteria	6	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1489416	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_1094051	2	superkingdom	Bacteria	6	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_489948	1224	phylum	Proteobacteria	5	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_3053131	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1079304	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2082536	33811	no rank	unclassified Gammaproteobacteria	3	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria
+k141_2870353	57723	phylum	Acidobacteria	6	5	3	0.600	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_493477	2	superkingdom	Bacteria	4	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2486017	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1282101	1	no rank	root	7	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2682108	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1477313	1224	phylum	Proteobacteria	6	6	5	0.830	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1409302	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2408648	1236	class	Gammaproteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2605117	2	superkingdom	Bacteria	7	7	6	0.840	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1214593	1715693	species	Shimia thalassica	2	2	1	0.500	unknown;Proteobacteria;Roseobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Roseobacteraceae;g_Shimia;s_Shimia thalassica
+k141_2807192	2	superkingdom	Bacteria	18	15	8	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1412046	1224	phylum	Proteobacteria	6	5	3	0.600	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_219976	1224	phylum	Proteobacteria	6	5	3	0.600	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1216466	2	superkingdom	Bacteria	7	6	4	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1017165	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_20259	1224	phylum	Proteobacteria	10	9	6	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2854498	1	no rank	root	19	17	17	1.000	unknown;unknown;unknown	-_root
+k141_671312	1	no rank	root	9	9	9	1.000	unknown;unknown;unknown	-_root
+k141_868540	1224	phylum	Proteobacteria	6	6	3	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_72952	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1461023	1	no rank	root	12	10	10	1.000	unknown;unknown;unknown	-_root
+k141_476418	1	no rank	root	9	7	7	1.000	unknown;unknown;unknown	-_root
+k141_2068587	2	superkingdom	Bacteria	5	4	3	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_672882	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1668801	1978231	species	Acidobacteria bacterium	5	4	3	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_870266	2	superkingdom	Bacteria	8	8	7	0.810	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2533273	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1937455	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2533357	1	no rank	root	9	8	8	1.000	unknown;unknown;unknown	-_root
+k141_3091828	28211	class	Alphaproteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_145316	1	no rank	root	9	9	9	1.000	unknown;unknown;unknown	-_root
+k141_935049	2	superkingdom	Bacteria	6	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_741971	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1938740	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1528916	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_743495	1236	class	Gammaproteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1354137	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1154541	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1958975	201174	phylum	Actinobacteria	5	5	4	0.680	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_363986	2080454	species	bacterium MnTg04	5	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_unclassified Bacteria;s_bacterium MnTg04
+k141_2756459	2053607	species	Candidatus Rokubacteria bacterium	2	2	1	0.500	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_2947835	1224	phylum	Proteobacteria	5	5	3	0.600	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1355715	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1355840	2	superkingdom	Bacteria	22	18	15	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2948530	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1960439	1224	phylum	Proteobacteria	6	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1502212	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1106418	2651171	species	Thermoanaerobaculia bacterium	2	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Thermoanaerobaculia;-_unclassified Thermoanaerobaculia;s_Thermoanaerobaculia bacterium
+k141_118402	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_2111087	28211	class	Alphaproteobacteria	5	4	2	0.500	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_317870	1805040	species	Betaproteobacteria bacterium 13_1_20CM_3_63_8	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria;s_Betaproteobacteria bacterium 13_1_20CM_3_63_8
+k141_715234	33809	no rank	unclassified Betaproteobacteria	3	3	3	1.000	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria
+k141_119056	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2511842	2	superkingdom	Bacteria	9	7	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_716024	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1714585	1224	phylum	Proteobacteria	5	5	3	0.600	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1620067	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1023907	1703404	species	Gammaproteobacteria bacterium SG8_30	3	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium SG8_30
+k141_625165	57723	phylum	Acidobacteria	7	7	4	0.660	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2420088	2	superkingdom	Bacteria	9	8	6	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2021453	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_2815559	1236	class	Gammaproteobacteria	3	2	1	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2221442	1224	phylum	Proteobacteria	10	9	5	0.620	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2022178	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2022424	1978231	species	Acidobacteria bacterium	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2617826	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2348489	1224	phylum	Proteobacteria	9	8	4	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_563144	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1755328	2	superkingdom	Bacteria	9	9	8	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_756688	2	superkingdom	Bacteria	8	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1756291	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_161231	1224	phylum	Proteobacteria	11	10	5	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_758435	1977087	species	Proteobacteria bacterium	6	6	3	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_unclassified Proteobacteria;s_Proteobacteria bacterium
+k141_758649	1224	phylum	Proteobacteria	8	6	3	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1955445	1224	phylum	Proteobacteria	7	6	3	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1151603	2	superkingdom	Bacteria	10	10	7	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2544604	1236	class	Gammaproteobacteria	5	4	2	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1144620	1224	phylum	Proteobacteria	5	5	3	0.600	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_354284	2	superkingdom	Bacteria	18	15	9	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2544799	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1345604	1224	phylum	Proteobacteria	7	5	4	0.800	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_355992	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1346262	2	superkingdom	Bacteria	11	10	9	0.900	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_561954	1224	phylum	Proteobacteria	6	6	4	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1952188	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_3102819	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2602214	2	superkingdom	Bacteria	10	9	6	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_14184	1224	phylum	Proteobacteria	14	10	5	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_214250	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1408034	2	superkingdom	Bacteria	12	11	7	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2603705	1	no rank	root	11	8	8	1.000	unknown;unknown;unknown	-_root
+k141_812050	2	superkingdom	Bacteria	11	11	7	0.700	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3000201	1224	phylum	Proteobacteria	6	6	4	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2208241	2	superkingdom	Bacteria	5	4	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2804111	28216	class	Betaproteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria
+k141_1408963	1	no rank	root	7	6	6	1.000	unknown;unknown;unknown	-_root
+k141_2714703	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3079833	2	superkingdom	Bacteria	4	4	3	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2120361	1224	phylum	Proteobacteria	3	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1511655	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_128118	1224	phylum	Proteobacteria	6	4	3	0.750	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2320237	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1923736	2	superkingdom	Bacteria	11	10	6	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1317775	1224	phylum	Proteobacteria	12	12	6	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1724056	189774	no rank	unclassified Chloroflexi	8	8	5	0.770	unknown;Chloroflexi;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;-_unclassified Chloroflexi
+k141_2910410	1	no rank	root	10	9	9	1.000	unknown;unknown;unknown	-_root
+k141_2861485	1	no rank	root	11	9	9	1.000	unknown;unknown;unknown	-_root
+k141_875176	2689614	family	Steroidobacteraceae	3	2	1	0.500	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae
+k141_2862130	1	no rank	root	9	9	9	1.000	unknown;unknown;unknown	-_root
+k141_1466597	28211	class	Alphaproteobacteria	6	6	3	0.500	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_283230	1224	phylum	Proteobacteria	8	7	4	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2671099	1224	phylum	Proteobacteria	5	4	2	0.930	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_483787	2	superkingdom	Bacteria	13	13	10	0.770	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2671748	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3049027	1224	phylum	Proteobacteria	6	5	4	0.800	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_285623	1224	phylum	Proteobacteria	4	3	2	0.960	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2446069	1	no rank	root	13	9	9	1.000	unknown;unknown;unknown	-_root
+k141_454440	2	superkingdom	Bacteria	10	9	7	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2046498	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1442798	2	superkingdom	Bacteria	11	11	9	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1048011	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2245346	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_851298	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_255403	2	superkingdom	Bacteria	13	12	9	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1443430	1224	phylum	Proteobacteria	6	6	3	0.590	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_455770	388466	species	Edaphobacter modestus	2	2	1	0.500	unknown;Acidobacteria;Acidobacteriaceae	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Acidobacteriia;o_Acidobacteriales;f_Acidobacteriaceae;g_Edaphobacter;s_Edaphobacter modestus
+k141_134538	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2524660	1224	phylum	Proteobacteria	14	12	6	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1728962	388466	species	Edaphobacter modestus	5	2	1	0.500	unknown;Acidobacteria;Acidobacteriaceae	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Acidobacteriia;o_Acidobacteriales;f_Acidobacteriaceae;g_Edaphobacter;s_Edaphobacter modestus
+k141_1929040	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_924447	1	no rank	root	20	19	19	1.000	unknown;unknown;unknown	-_root
+k141_333321	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_2914865	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2128274	2	superkingdom	Bacteria	7	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_136034	2	superkingdom	Bacteria	12	11	10	0.900	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1123538	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1029119	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2819866	2	superkingdom	Bacteria	16	15	11	0.730	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1826632	1224	phylum	Proteobacteria	1	1	1	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1229008	1	no rank	root	11	8	8	1.000	unknown;unknown;unknown	-_root
+k141_2820602	1224	phylum	Proteobacteria	5	5	3	0.740	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_830536	1224	phylum	Proteobacteria	3	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_632028	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1828081	356	order	Hyphomicrobiales	3	2	1	0.500	unknown;Proteobacteria;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_1426321	2	superkingdom	Bacteria	6	6	4	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1231012	2	superkingdom	Bacteria	8	8	6	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2650865	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1256186	2	superkingdom	Bacteria	6	6	4	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2254190	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_61971	28216	class	Betaproteobacteria	7	6	5	0.800	unknown;Proteobacteria;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria
+k141_3034516	732238	species	Povalibacter uvarum	2	2	1	0.500	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae;g_Povalibacter;s_Povalibacter uvarum
+k141_1657125	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1056585	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2056779	1	no rank	root	7	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1857890	2	superkingdom	Bacteria	6	6	3	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1658506	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_236464	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1829831	1	no rank	root	11	9	9	1.000	unknown;unknown;unknown	-_root
+k141_1232229	2053607	species	Candidatus Rokubacteria bacterium	4	4	2	0.500	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_1630690	1224	phylum	Proteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2430043	1224	phylum	Proteobacteria	10	10	7	0.840	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1631363	2585199	species	Nocardia aurantia	2	2	1	0.500	unknown;Actinobacteria;Nocardiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales;f_Nocardiaceae;g_Nocardia;s_Nocardia aurantia
+k141_2430834	2052166	species	Candidatus Melainabacteria bacterium	3	2	1	0.500	unknown;Candidatus Melainabacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteria/Melainabacteria group;p_Candidatus Melainabacteria;-_unclassified Candidatus Melainabacteria;s_Candidatus Melainabacteria bacterium
+k141_1831577	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_834592	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_37253	1224	phylum	Proteobacteria	6	5	2	0.630	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1663012	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2260696	2	superkingdom	Bacteria	14	14	7	0.540	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1456094	1392758	species	Rhizocola hellebori	2	1	1	1.000	unknown;Actinobacteria;Micromonosporaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micromonosporales;f_Micromonosporaceae;g_Rhizocola;s_Rhizocola hellebori
+k141_668019	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2063228	465721	species	Steroidobacter denitrificans	3	2	1	0.500	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae;g_Steroidobacter;s_Steroidobacter denitrificans
+k141_2852949	1224	phylum	Proteobacteria	8	5	3	0.510	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1458105	131567	no rank	cellular organisms	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_2465268	1236	class	Gammaproteobacteria	5	4	2	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_71308	1224	phylum	Proteobacteria	13	11	7	0.510	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2466091	2	superkingdom	Bacteria	11	11	8	0.700	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_445749	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_44962	2759	superkingdom	Eukaryota	10	8	4	0.500	uc_Eukaryota;uc_Eukaryota;uc_Eukaryota	-_cellular organisms;d_Eukaryota
+k141_1435899	1224	phylum	Proteobacteria	4	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2237423	1224	phylum	Proteobacteria	3	3	3	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2237494	1913989	species	Gammaproteobacteria bacterium	4	4	2	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium
+k141_1839926	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_646631	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_2042453	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_48702	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_3024903	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_384118	1224	phylum	Proteobacteria	7	5	4	0.800	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1783962	2	superkingdom	Bacteria	4	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1785061	33809	no rank	unclassified Betaproteobacteria	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria
+k141_385835	1224	phylum	Proteobacteria	6	6	3	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1377981	1224	phylum	Proteobacteria	9	9	6	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1178274	2	superkingdom	Bacteria	11	11	9	0.820	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1575323	1913989	species	Gammaproteobacteria bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium
+k141_2778752	2	superkingdom	Bacteria	7	6	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1787133	2	superkingdom	Bacteria	14	13	10	0.770	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_595179	1	no rank	root	13	11	11	1.000	unknown;unknown;unknown	-_root
+k141_2965431	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3121933	1	no rank	root	11	8	8	1.000	unknown;unknown;unknown	-_root
+k141_2966029	187272	strain	Alkalilimnicola ehrlichii MLHE-1	2	2	1	0.500	unknown;Proteobacteria;Ectothiorhodospiraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Chromatiales;f_Ectothiorhodospiraceae;g_Alkalilimnicola;s_Alkalilimnicola ehrlichii;-_Alkalilimnicola ehrlichii MLHE-1
+k141_588965	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_381926	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_780418	2	superkingdom	Bacteria	12	11	6	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2774550	1	no rank	root	9	8	8	1.000	unknown;unknown;unknown	-_root
+k141_3122750	2	superkingdom	Bacteria	6	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3122980	1236	class	Gammaproteobacteria	5	4	2	0.650	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2377203	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_336042	2	superkingdom	Bacteria	14	13	8	0.620	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_928524	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_928536	1913989	species	Gammaproteobacteria bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium
+k141_139525	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2728850	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2133231	2689614	family	Steroidobacteraceae	4	4	2	0.500	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae
+k141_3088987	1224	phylum	Proteobacteria	20	18	12	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_543605	0	no rank	unclassified	2	0	0	0.000		
+k141_543681	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2134417	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1659778	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2655395	1236	class	Gammaproteobacteria	6	4	3	0.750	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2459886	1891241	species	Betaproteobacteria bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria;s_Betaproteobacteria bacterium
+k141_3037009	2	superkingdom	Bacteria	9	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_65848	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2849133	1224	phylum	Proteobacteria	3	2	2	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_267823	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2460579	1224	phylum	Proteobacteria	5	5	3	0.600	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1454482	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1061271	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1180340	1224	phylum	Proteobacteria	3	3	2	0.520	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1577372	2	superkingdom	Bacteria	6	6	4	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_596380	2	superkingdom	Bacteria	9	9	5	0.620	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_787346	57723	phylum	Acidobacteria	4	4	4	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2974245	1224	phylum	Proteobacteria	16	14	7	0.580	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1382669	1236	class	Gammaproteobacteria	5	4	2	0.660	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1182449	2	superkingdom	Bacteria	5	5	3	0.730	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1383322	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_3130245	2	superkingdom	Bacteria	14	13	9	0.640	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_196792	2	superkingdom	Bacteria	8	7	6	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_286139	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_1878266	2	superkingdom	Bacteria	6	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_84588	1	no rank	root	12	10	10	1.000	unknown;unknown;unknown	-_root
+k141_2078842	1224	phylum	Proteobacteria	6	3	2	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1076858	1236	class	Gammaproteobacteria	6	6	4	0.670	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1680495	2	superkingdom	Bacteria	11	8	5	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1680531	2	superkingdom	Bacteria	5	4	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_489158	1224	phylum	Proteobacteria	3	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_685426	28211	class	Alphaproteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_1881678	2	superkingdom	Bacteria	7	7	5	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1138676	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_941006	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2145413	1224	phylum	Proteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1746527	1224	phylum	Proteobacteria	8	8	4	0.570	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_554265	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2540350	2	superkingdom	Bacteria	10	9	5	0.560	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1139799	2	superkingdom	Bacteria	10	10	8	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2540657	2	superkingdom	Bacteria	8	7	4	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1945834	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2342351	1224	phylum	Proteobacteria	20	19	10	0.530	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1777133	2	superkingdom	Bacteria	13	10	7	0.700	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1777508	1236	class	Gammaproteobacteria	5	4	3	0.670	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2568696	1	no rank	root	19	18	18	1.000	unknown;unknown;unknown	-_root
+k141_1170300	1224	phylum	Proteobacteria	4	4	3	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1170762	465721	species	Steroidobacter denitrificans	2	1	1	1.000	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae;g_Steroidobacter;s_Steroidobacter denitrificans
+k141_2963693	2	superkingdom	Bacteria	7	7	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2179314	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2373084	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2964507	2	superkingdom	Bacteria	14	10	7	0.580	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1780137	2	superkingdom	Bacteria	7	7	4	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_37378	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2032322	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1035374	1224	phylum	Proteobacteria	8	6	4	0.740	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2033655	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_639133	1	no rank	root	8	8	8	1.000	unknown;unknown;unknown	-_root
+k141_2233562	1224	phylum	Proteobacteria	6	4	3	0.750	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1635406	1236	class	Gammaproteobacteria	6	5	4	0.800	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_640320	1978231	species	Acidobacteria bacterium	3	3	3	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_443099	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1238087	1224	phylum	Proteobacteria	8	7	4	0.570	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_255712	1224	phylum	Proteobacteria	5	5	5	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_852690	1224	phylum	Proteobacteria	5	5	4	0.750	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_3029474	1224	phylum	Proteobacteria	7	6	5	0.830	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_257474	33809	no rank	unclassified Betaproteobacteria	4	4	2	0.650	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria
+k141_3030067	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_257917	2	superkingdom	Bacteria	3	3	2	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_458154	1	no rank	root	5	3	3	1.000	unknown;unknown;unknown	-_root
+k141_656286	2	superkingdom	Bacteria	8	8	6	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_258691	1	no rank	root	4	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2647123	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1140651	1	no rank	root	8	6	6	1.000	unknown;unknown;unknown	-_root
+k141_3097878	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_556103	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1947509	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2344392	2	superkingdom	Bacteria	9	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2149729	1	no rank	root	16	13	13	1.000	unknown;unknown;unknown	-_root
+k141_1750339	1236	class	Gammaproteobacteria	3	3	2	0.970	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1948812	1236	class	Gammaproteobacteria	4	3	2	0.970	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2935938	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2936325	1224	phylum	Proteobacteria	6	6	4	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1869071	305072	no rank	unclassified Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_673218	2	superkingdom	Bacteria	5	4	3	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2069361	2	superkingdom	Bacteria	20	16	11	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1869721	1	no rank	root	9	9	9	1.000	unknown;unknown;unknown	-_root
+k141_75386	1224	phylum	Proteobacteria	6	6	4	0.510	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_477864	1224	phylum	Proteobacteria	6	6	3	0.600	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_277550	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1068876	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1268417	1224	phylum	Proteobacteria	5	4	4	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_674594	1224	phylum	Proteobacteria	5	5	4	0.750	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1206932	1224	phylum	Proteobacteria	7	6	4	0.600	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2004104	1	no rank	root	7	6	6	1.000	unknown;unknown;unknown	-_root
+k141_210943	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11628	305072	no rank	unclassified Acidobacteria	2	2	1	0.970	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1207668	1224	phylum	Proteobacteria	5	5	3	0.510	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2004803	1224	phylum	Proteobacteria	8	8	7	0.800	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_411379	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2601257	1224	phylum	Proteobacteria	9	9	6	0.710	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_13562	2	superkingdom	Bacteria	6	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2802175	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2988852	131567	no rank	cellular organisms	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_995592	1224	phylum	Proteobacteria	5	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_3154872	1224	phylum	Proteobacteria	10	10	5	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_3156680	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_3157101	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3158511	1	no rank	root	7	6	6	1.000	unknown;unknown;unknown	-_root
+k141_3161841	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3175108	1891241	species	Betaproteobacteria bacterium	7	7	4	0.510	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria;s_Betaproteobacteria bacterium
+k141_3183316	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1859169	57723	phylum	Acidobacteria	5	4	3	0.750	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_3064980	2	superkingdom	Bacteria	10	9	6	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1489861	1224	phylum	Proteobacteria	4	4	3	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1294196	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1294524	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1095627	2	superkingdom	Bacteria	7	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2889378	2	superkingdom	Bacteria	14	14	10	0.690	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1096886	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_108821	2	superkingdom	Bacteria	11	11	7	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1493412	81	genus	Hyphomicrobium	1	1	1	1.000	unknown;Proteobacteria;Hyphomicrobiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Hyphomicrobiaceae;g_Hyphomicrobium
+k141_511763	1	no rank	root	7	4	4	1.000	unknown;unknown;unknown	-_root
+k141_694109	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2288225	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1689894	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1285873	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_2289288	2	superkingdom	Bacteria	11	9	7	0.780	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2090562	1224	phylum	Proteobacteria	3	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1891436	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2880110	320372	strain	Burkholderia pseudomallei 1710b	4	2	1	0.500	unknown;Proteobacteria;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;g_Burkholderia;-_pseudomallei group;s_Burkholderia pseudomallei;-_Burkholderia pseudomallei 1710b
+k141_2880137	305072	no rank	unclassified Acidobacteria	4	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_98727	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_817561	1	no rank	root	7	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1413808	2	superkingdom	Bacteria	7	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1217566	1	no rank	root	11	9	9	1.000	unknown;unknown;unknown	-_root
+k141_818052	1224	phylum	Proteobacteria	3	3	3	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_21079	1224	phylum	Proteobacteria	9	9	6	0.630	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_21600	1978231	species	Acidobacteria bacterium	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2016014	2	superkingdom	Bacteria	8	8	4	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2611205	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1019409	28216	class	Betaproteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria
+k141_1019783	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2113566	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_121618	1224	phylum	Proteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1505663	1224	phylum	Proteobacteria	3	3	2	0.970	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1309836	2	superkingdom	Bacteria	8	8	7	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2513655	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2515136	1236	class	Gammaproteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_322872	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2713258	1224	phylum	Proteobacteria	23	19	14	0.690	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2516058	1224	phylum	Proteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2316564	2	superkingdom	Bacteria	3	3	2	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1930828	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_926678	2	superkingdom	Bacteria	10	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3086636	1224	phylum	Proteobacteria	5	5	4	0.750	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1931247	2	superkingdom	Bacteria	9	9	5	0.620	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1125041	2	superkingdom	Bacteria	8	5	4	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3086982	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_540307	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1732194	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2917805	1224	phylum	Proteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_223321	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1415607	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_3006047	1913989	species	Gammaproteobacteria bacterium	2	1	1	1.000	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium
+k141_2415820	1	no rank	root	8	8	8	1.000	unknown;unknown;unknown	-_root
+k141_1020709	1224	phylum	Proteobacteria	3	2	2	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1020978	1	no rank	root	8	6	6	1.000	unknown;unknown;unknown	-_root
+k141_621987	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1417192	2	superkingdom	Bacteria	5	4	3	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1221545	1224	phylum	Proteobacteria	12	12	9	0.800	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_822684	1224	phylum	Proteobacteria	4	3	2	0.960	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_310138	1224	phylum	Proteobacteria	5	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_3067901	1	no rank	root	4	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2503951	1224	phylum	Proteobacteria	7	7	5	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_109967	2	superkingdom	Bacteria	16	16	13	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2699272	1	no rank	root	10	10	10	1.000	unknown;unknown;unknown	-_root
+k141_312174	1224	phylum	Proteobacteria	9	6	5	0.760	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2505707	2	superkingdom	Bacteria	3	3	2	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2701424	2	superkingdom	Bacteria	7	7	5	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2506701	1224	phylum	Proteobacteria	5	5	3	0.600	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2895239	1224	phylum	Proteobacteria	2	2	2	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_961743	1236	class	Gammaproteobacteria	7	6	3	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_961761	1224	phylum	Proteobacteria	4	4	3	0.750	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_3113405	2	superkingdom	Bacteria	5	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2364319	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2764430	1978231	species	Acidobacteria bacterium	1	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2764713	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2765724	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1968818	1224	phylum	Proteobacteria	6	6	4	0.790	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1560893	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_771430	2	superkingdom	Bacteria	7	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_28250	2	superkingdom	Bacteria	5	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2222667	1224	phylum	Proteobacteria	3	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2618589	1224	phylum	Proteobacteria	2	1	1	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2618854	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_826971	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_430912	356	order	Hyphomicrobiales	4	4	2	0.500	unknown;Proteobacteria;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_1027935	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2024553	1224	phylum	Proteobacteria	8	7	5	0.710	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2818621	1236	class	Gammaproteobacteria	6	5	3	0.510	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_1028703	1236	class	Gammaproteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2268693	2	superkingdom	Bacteria	11	8	5	0.580	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2268892	2	superkingdom	Bacteria	8	7	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3044832	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2666770	2	superkingdom	Bacteria	14	14	10	0.690	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1069846	1236	class	Gammaproteobacteria	5	5	3	0.600	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_279475	1224	phylum	Proteobacteria	7	7	4	0.510	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2271102	2	superkingdom	Bacteria	12	10	7	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2668897	1224	phylum	Proteobacteria	15	13	7	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2669256	1236	class	Gammaproteobacteria	5	4	2	0.650	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_2272020	2	superkingdom	Bacteria	9	7	5	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1102033	1224	phylum	Proteobacteria	7	7	4	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_114438	2053607	species	Candidatus Rokubacteria bacterium	2	2	1	0.500	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_315059	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_712899	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1501211	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_520114	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1106187	1775403	order	Nevskiales	4	4	2	0.500	unknown;Proteobacteria;uc_Nevskiales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales
+k141_1502107	1224	phylum	Proteobacteria	7	6	3	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1912522	1	no rank	root	12	11	11	1.000	unknown;unknown;unknown	-_root
+k141_317662	2	superkingdom	Bacteria	6	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

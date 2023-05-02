@@ -1,0 +1,124 @@
+0.5420	6	6	no rank	0	unclassified
+99.4580	1101	126	no rank	1	root
+88.0759	975	5	no rank	131567	  cellular organisms
+87.4435	968	337	superkingdom	2	    Bacteria
+55.9169	619	36	clade	1783272	      Terrabacteria group
+50.7678	562	245	phylum	201174	        Actinobacteria
+27.1003	300	36	class	1760	          Actinomycetia
+23.4869	260	2	no rank	52018	            unclassified Actinomycetia
+23.3062	258	258	species	1883427	              Actinomycetia bacterium
+0.1807	2	0	order	85007	            Corynebacteriales
+0.1807	2	0	family	1762	              Mycobacteriaceae
+0.0903	1	0	genus	670516	                Mycobacteroides
+0.0903	1	0	species	36809	                  Mycobacteroides abscessus
+0.0903	1	1	subspecies	1185650	                    Mycobacteroides abscessus subsp. abscessus
+0.0903	1	0	genus	1866885	                Mycolicibacterium
+0.0903	1	0	no rank	2636767	                  unclassified Mycolicibacterium
+0.0903	1	1	species	2606611	                    Mycolicibacterium sp. CBMA 226
+0.0903	1	0	order	85009	            Propionibacteriales
+0.0903	1	0	family	85015	              Nocardioidaceae
+0.0903	1	1	genus	1839	                Nocardioides
+0.0903	1	0	order	85011	            Streptomycetales
+0.0903	1	1	family	2062	              Streptomycetaceae
+0.8130	9	0	class	1497346	          Thermoleophilia
+0.4517	5	0	order	588673	            Solirubrobacterales
+0.2710	3	0	no rank	1363568	              unclassified Solirubrobacterales
+0.2710	3	3	species	1909295	                Solirubrobacterales bacterium
+0.1807	2	0	family	320599	              Solirubrobacteraceae
+0.1807	2	0	genus	207599	                Solirubrobacter
+0.0903	1	1	species	363832	                  Solirubrobacter soli
+0.0903	1	0	no rank	2640968	                  unclassified Solirubrobacter
+0.0903	1	1	species	1298857	                    Solirubrobacter sp. URHD0082
+0.3613	4	0	no rank	1948762	            unclassified Thermoleophilia
+0.3613	4	4	species	2026888	              Thermoleophilia bacterium
+0.2710	3	0	class	84995	          Rubrobacteria
+0.1807	2	0	order	84996	            Rubrobacterales
+0.1807	2	0	family	2600303	              Baekduiaceae
+0.1807	2	0	genus	2600304	                Baekduia
+0.1807	2	2	species	496014	                  Baekduia soli
+0.0903	1	0	order	1154584	            Gaiellales
+0.0903	1	0	family	1154585	              Gaiellaceae
+0.0903	1	0	genus	1154586	                Gaiella
+0.0903	1	1	species	1002870	                  Gaiella occulta
+0.1807	2	0	class	84992	          Acidimicrobiia
+0.1807	2	0	order	84993	            Acidimicrobiales
+0.1807	2	0	family	84994	              Acidimicrobiaceae
+0.1807	2	0	no rank	667305	                unclassified Acidimicrobiaceae
+0.1807	2	2	species	2024894	                  Acidimicrobiaceae bacterium
+0.1807	2	0	no rank	1752188	          unclassified Actinobacteria
+0.0903	1	1	species	1797203	            Actinobacteria bacterium RBG_16_68_12
+0.0903	1	1	species	1797208	            Actinobacteria bacterium RBG_19FT_COMBO_70_19
+0.0903	1	0	class	908620	          Nitriliruptoria
+0.0903	1	0	order	596497	            Nitriliruptorales
+0.0903	1	0	family	596498	              Nitriliruptoraceae
+0.0903	1	0	genus	596499	                Nitriliruptor
+0.0903	1	0	no rank	2624177	                  unclassified Nitriliruptor
+0.0903	1	1	species	2448056	                    Nitriliruptor sp.
+1.8970	21	9	phylum	200795	        Chloroflexi
+0.9937	11	5	no rank	189774	          unclassified Chloroflexi
+0.4517	5	5	species	2026724	            Chloroflexi bacterium
+0.0903	1	1	species	1797663	            Chloroflexi bacterium RBG_16_72_14
+0.0903	1	0	class	32061	          Chloroflexia
+0.0903	1	0	order	32064	            Chloroflexales
+0.0903	1	0	suborder	1508595	              Roseiflexineae
+0.0903	1	0	family	1508635	                Roseiflexaceae
+0.0903	1	0	genus	186475	                  Kouleothrix
+0.0903	1	1	species	186479	                    Kouleothrix aurantiaca
+0.4517	5	1	phylum	1224	      Proteobacteria
+0.1807	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.1807	2	0	class	28221	          Deltaproteobacteria
+0.0903	1	0	order	29	            Myxococcales
+0.0903	1	0	suborder	80811	              Cystobacterineae
+0.0903	1	0	family	1524215	                Anaeromyxobacteraceae
+0.0903	1	0	genus	161492	                  Anaeromyxobacter
+0.0903	1	0	no rank	2620896	                    unclassified Anaeromyxobacter
+0.0903	1	1	species	1300915	                      Anaeromyxobacter sp. PSR-1
+0.0903	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.0903	1	1	species	2013749	              Deltaproteobacteria bacterium HGW-Deltaproteobacteria-21
+0.0903	1	0	class	28211	        Alphaproteobacteria
+0.0903	1	0	order	204457	          Sphingomonadales
+0.0903	1	1	family	41297	            Sphingomonadaceae
+0.0903	1	0	class	28216	        Betaproteobacteria
+0.0903	1	0	order	80840	          Burkholderiales
+0.0903	1	0	family	119060	            Burkholderiaceae
+0.0903	1	0	genus	32008	              Burkholderia
+0.0903	1	0	species group	111527	                pseudomallei group
+0.0903	1	0	species	28450	                  Burkholderia pseudomallei
+0.0903	1	1	strain	320372	                    Burkholderia pseudomallei 1710b
+0.2710	3	0	no rank	2323	      Bacteria incertae sedis
+0.2710	3	0	clade	1783234	        Bacteria candidate phyla
+0.1807	2	2	phylum	1817801	          Candidatus Eisenbacteria
+0.0903	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.0903	1	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.0903	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+0.1807	2	0	clade	1783270	      FCB group
+0.0903	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.0903	1	1	phylum	976	          Bacteroidetes
+0.0903	1	0	phylum	142182	        Gemmatimonadetes
+0.0903	1	0	class	219685	          Gemmatimonadetes
+0.0903	1	0	order	219686	            Gemmatimonadales
+0.0903	1	0	family	219687	              Gemmatimonadaceae
+0.0903	1	0	no rank	246129	                environmental samples
+0.0903	1	1	species	246130	                  uncultured Gemmatimonadaceae bacterium
+0.0903	1	0	phylum	57723	      Acidobacteria
+0.0903	1	1	no rank	305072	        unclassified Acidobacteria
+0.0903	1	0	clade	1783257	      PVC group
+0.0903	1	0	phylum	74201	        Verrucomicrobia
+0.0903	1	1	no rank	417295	          unclassified Verrucomicrobia
+0.0903	1	0	superkingdom	2157	    Archaea
+0.0903	1	0	phylum	28890	      Euryarchaeota
+0.0903	1	0	clade	2290931	        Stenosarchaea group
+0.0903	1	0	class	224756	          Methanomicrobia
+0.0903	1	0	order	2905377	            Methanotrichales
+0.0903	1	0	family	143067	              Methanotrichaceae
+0.0903	1	0	genus	2222	                Methanothrix
+0.0903	1	1	species	1811689	                  Methanosaeta sp. PtaU1.Bin112
+0.0903	1	0	superkingdom	2759	    Eukaryota
+0.0903	1	0	clade	2698737	      Sar
+0.0903	1	0	clade	33630	        Alveolata
+0.0903	1	0	class	2864	          Dinophyceae
+0.0903	1	0	order	89954	            Suessiales
+0.0903	1	0	family	252141	              Symbiodiniaceae
+0.0903	1	0	genus	2949	                Symbiodinium
+0.0903	1	0	no rank	279888	                  unclassified Symbiodinium
+0.0903	1	1	species	230985	                    Symbiodinium sp. KB8

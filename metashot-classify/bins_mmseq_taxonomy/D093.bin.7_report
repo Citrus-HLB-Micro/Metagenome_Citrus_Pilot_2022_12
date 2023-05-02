@@ -1,0 +1,139 @@
+1.8824	8	8	no rank	0	unclassified
+98.1176	417	82	no rank	1	root
+78.8235	335	2	no rank	131567	  cellular organisms
+78.1176	332	124	superkingdom	2	    Bacteria
+45.4118	193	17	clade	1783272	      Terrabacteria group
+39.0588	166	64	phylum	201174	        Actinobacteria
+19.5294	83	36	class	1760	          Actinomycetia
+7.2941	31	0	no rank	52018	            unclassified Actinomycetia
+7.2941	31	31	species	1883427	              Actinomycetia bacterium
+1.1765	5	0	order	85010	            Pseudonocardiales
+1.1765	5	1	family	2070	              Pseudonocardiaceae
+0.4706	2	1	genus	1847	                Pseudonocardia
+0.2353	1	1	species	648755	                  Pseudonocardia eucalypti
+0.2353	1	0	genus	695999	                Actinophytocola
+0.2353	1	0	no rank	2637483	                  unclassified Actinophytocola
+0.2353	1	1	species	1872138	                    Actinophytocola sp.
+0.2353	1	0	genus	1734465	                Tamaricihabitans
+0.2353	1	1	species	1262583	                  Tamaricihabitans halophyticus
+0.9412	4	0	order	85011	            Streptomycetales
+0.9412	4	0	family	2062	              Streptomycetaceae
+0.9412	4	1	genus	1883	                Streptomyces
+0.7059	3	1	no rank	2593676	                  unclassified Streptomyces
+0.2353	1	1	species	2485151	                    Streptomyces sp. TLI_185
+0.2353	1	1	species	2690260	                    Streptomyces sp. SID3343
+0.9412	4	0	order	2495578	            Sporichthyales
+0.9412	4	0	family	85033	              Sporichthyaceae
+0.9412	4	0	genus	35750	                Sporichthya
+0.9412	4	4	species	35751	                  Sporichthya polymorpha
+0.4706	2	0	order	85006	            Micrococcales
+0.2353	1	0	family	1268	              Micrococcaceae
+0.2353	1	1	genus	1663	                Arthrobacter
+0.2353	1	0	family	85023	              Microbacteriaceae
+0.2353	1	0	genus	33877	                Agromyces
+0.2353	1	0	no rank	2639701	                  unclassified Agromyces
+0.2353	1	1	species	1736390	                    Agromyces sp. Soil535
+0.2353	1	0	order	1643682	            Geodermatophilales
+0.2353	1	0	family	85030	              Geodermatophilaceae
+0.2353	1	0	no rank	234661	                unclassified Geodermatophilaceae
+0.2353	1	1	species	1882271	                  Geodermatophilaceae bacterium
+2.8235	12	1	class	84992	          Acidimicrobiia
+1.6471	7	2	order	84993	            Acidimicrobiales
+0.7059	3	0	no rank	310070	              environmental samples
+0.7059	3	3	species	310071	                uncultured Acidimicrobiales bacterium
+0.2353	1	0	family	84994	              Acidimicrobiaceae
+0.2353	1	0	no rank	667305	                unclassified Acidimicrobiaceae
+0.2353	1	1	species	2024894	                  Acidimicrobiaceae bacterium
+0.2353	1	0	no rank	1042324	              unclassified Acidimicrobiales
+0.2353	1	1	species	2201156	                Acidimicrobiales bacterium
+0.9412	4	0	no rank	121036	            unclassified Acidimicrobiia
+0.9412	4	4	species	2080302	              Acidimicrobiia bacterium
+0.7059	3	0	class	908620	          Nitriliruptoria
+0.4706	2	0	order	908621	            Euzebyales
+0.4706	2	0	family	908622	              Euzebyaceae
+0.4706	2	0	no rank	2740541	                unclassified Euzebyaceae
+0.4706	2	2	species	2740542	                  Euzebyaceae bacterium
+0.2353	1	0	order	596497	            Nitriliruptorales
+0.2353	1	1	family	596498	              Nitriliruptoraceae
+0.4706	2	0	class	1497346	          Thermoleophilia
+0.4706	2	2	order	588673	            Solirubrobacterales
+0.4706	2	1	no rank	1752188	          unclassified Actinobacteria
+0.2353	1	1	species	1803475	            Actinobacteria bacterium 13_1_20CM_3_68_9
+1.8824	8	1	phylum	200795	        Chloroflexi
+1.6471	7	0	no rank	189774	          unclassified Chloroflexi
+1.6471	7	7	species	2026724	            Chloroflexi bacterium
+0.2353	1	0	phylum	1297	        Deinococcus-Thermus
+0.2353	1	0	class	188787	          Deinococci
+0.2353	1	0	order	118964	            Deinococcales
+0.2353	1	0	family	183710	              Deinococcaceae
+0.2353	1	0	genus	1298	                Deinococcus
+0.2353	1	1	species	249403	                  Deinococcus frigens
+0.2353	1	0	phylum	2052312	        Candidatus Dormibacteraeota
+0.2353	1	1	species	2052315	          Candidatus Dormibacteraeota bacterium
+2.3529	10	2	phylum	1224	      Proteobacteria
+0.9412	4	0	subphylum	68525	        delta/epsilon subdivisions
+0.9412	4	0	class	28221	          Deltaproteobacteria
+0.7059	3	0	no rank	122706	            unclassified Deltaproteobacteria
+0.7059	3	3	species	2026735	              Deltaproteobacteria bacterium
+0.2353	1	0	order	29	            Myxococcales
+0.2353	1	0	suborder	80812	              Sorangiineae
+0.2353	1	0	family	49	                Polyangiaceae
+0.2353	1	0	genus	39643	                  Sorangium
+0.2353	1	1	species	56	                    Sorangium cellulosum
+0.7059	3	1	class	28211	        Alphaproteobacteria
+0.4706	2	0	order	356	          Hyphomicrobiales
+0.2353	1	0	family	119045	            Methylobacteriaceae
+0.2353	1	0	genus	407	              Methylobacterium
+0.2353	1	1	species	1697972	                Methylobacterium crusticola
+0.2353	1	0	family	2036754	            Chelatococcaceae
+0.2353	1	0	genus	28209	              Chelatococcus
+0.2353	1	1	species	1494448	                Chelatococcus reniformis
+0.2353	1	0	class	1236	        Gammaproteobacteria
+0.2353	1	0	order	72274	          Pseudomonadales
+0.2353	1	0	family	135621	            Pseudomonadaceae
+0.2353	1	0	genus	286	              Pseudomonas
+0.2353	1	0	species group	136841	                Pseudomonas aeruginosa group
+0.2353	1	0	species subgroup	1232139	                  Pseudomonas oleovorans/pseudoalcaligenes group
+0.2353	1	1	species	1149133	                    Pseudomonas furukawaii
+0.4706	2	0	no rank	2323	      Bacteria incertae sedis
+0.4706	2	0	clade	1783234	        Bacteria candidate phyla
+0.4706	2	0	phylum	1752708	          Candidatus Rokubacteria
+0.4706	2	1	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.2353	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+0.2353	1	0	phylum	57723	      Acidobacteria
+0.2353	1	0	no rank	305072	        unclassified Acidobacteria
+0.2353	1	1	species	1978231	          Acidobacteria bacterium
+0.2353	1	0	phylum	508458	      Synergistetes
+0.2353	1	0	no rank	508677	        unclassified Synergistetes
+0.2353	1	1	species	1852916	          Synergistetes bacterium ADurb.BinA166
+0.2353	1	0	clade	1783270	      FCB group
+0.2353	1	0	phylum	142182	        Gemmatimonadetes
+0.2353	1	0	class	219685	          Gemmatimonadetes
+0.2353	1	0	order	219686	            Gemmatimonadales
+0.2353	1	0	no rank	1951096	              unclassified Gemmatimonadales
+0.2353	1	1	species	2448054	                Gemmatimonadales bacterium
+0.2353	1	0	superkingdom	2759	    Eukaryota
+0.2353	1	0	clade	33154	      Opisthokonta
+0.2353	1	0	kingdom	33208	        Metazoa
+0.2353	1	0	clade	6072	          Eumetazoa
+0.2353	1	0	clade	33213	            Bilateria
+0.2353	1	0	clade	33317	              Protostomia
+0.2353	1	0	clade	1206794	                Ecdysozoa
+0.2353	1	0	clade	88770	                  Panarthropoda
+0.2353	1	0	phylum	6656	                    Arthropoda
+0.2353	1	0	clade	197563	                      Mandibulata
+0.2353	1	0	clade	197562	                        Pancrustacea
+0.2353	1	0	subphylum	6960	                          Hexapoda
+0.2353	1	0	class	50557	                            Insecta
+0.2353	1	0	clade	85512	                              Dicondylia
+0.2353	1	0	subclass	7496	                                Pterygota
+0.2353	1	0	infraclass	33340	                                  Neoptera
+0.2353	1	0	cohort	33392	                                    Endopterygota
+0.2353	1	0	order	7041	                                      Coleoptera
+0.2353	1	0	suborder	41084	                                        Polyphaga
+0.2353	1	0	infraorder	41087	                                          Elateriformia
+0.2353	1	0	superfamily	71193	                                            Elateroidea
+0.2353	1	0	family	7049	                                              Lampyridae
+0.2353	1	0	subfamily	433514	                                                Lampyrinae
+0.2353	1	0	genus	7053	                                                  Photinus
+0.2353	1	1	species	7054	                                                    Photinus pyralis

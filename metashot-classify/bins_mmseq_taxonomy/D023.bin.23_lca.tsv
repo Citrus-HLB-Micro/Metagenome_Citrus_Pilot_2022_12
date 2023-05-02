@@ -1,0 +1,908 @@
+k141_1068207	2	superkingdom	Bacteria	8	8	4	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1068276	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_178244	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2670632	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1958599	1805192	species	Gemmatimonadetes bacterium 13_1_40CM_4_69_5	4	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium 13_1_40CM_4_69_5
+k141_178600	142182	phylum	Gemmatimonadetes	5	5	3	0.600	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1247023	2	superkingdom	Bacteria	6	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2493126	142182	phylum	Gemmatimonadetes	5	5	3	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1247313	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1772	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_817893	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2780038	2	superkingdom	Bacteria	4	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_818280	142182	phylum	Gemmatimonadetes	7	7	5	0.710	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_636606	2760815	no rank	unclassified Candidatus Rokubacteria	4	3	2	0.640	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria
+k141_2589310	2	superkingdom	Bacteria	4	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_108205	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_463207	1805172	species	Gemmatimonadetes bacterium 13_1_20CM_4_66_11	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium 13_1_20CM_4_66_11
+k141_1522572	142182	phylum	Gemmatimonadetes	3	2	1	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2056104	142182	phylum	Gemmatimonadetes	13	13	8	0.550	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2589958	2	superkingdom	Bacteria	10	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_363273	2	superkingdom	Bacteria	4	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1786551	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1964584	2	superkingdom	Bacteria	9	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_540347	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1964760	2053607	species	Candidatus Rokubacteria bacterium	2	2	1	0.500	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_185165	2	superkingdom	Bacteria	8	8	7	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2499509	2	superkingdom	Bacteria	10	9	7	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8116	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1609667	2	superkingdom	Bacteria	8	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2322445	234665	no rank	unclassified Gemmatimonadetes	5	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_125255	142182	phylum	Gemmatimonadetes	4	4	3	0.750	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2258639	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1006015	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2444617	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1715085	1	no rank	root	11	10	10	1.000	unknown;unknown;unknown	-_root
+k141_304688	2	superkingdom	Bacteria	7	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2799456	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.650	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2799511	2026742	species	Gemmatimonadetes bacterium	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_304949	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1007694	2	superkingdom	Bacteria	10	9	9	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2017885	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_244505	2	superkingdom	Bacteria	5	5	4	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1661776	142182	phylum	Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_67977	2	superkingdom	Bacteria	5	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1840301	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_2383218	2	superkingdom	Bacteria	4	4	3	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_423936	142182	phylum	Gemmatimonadetes	6	5	5	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_68904	2	superkingdom	Bacteria	9	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2018902	2026742	species	Gemmatimonadetes bacterium	4	3	3	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1127010	1760	class	Actinomycetia	6	6	5	0.800	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_1071848	142182	phylum	Gemmatimonadetes	9	8	5	0.630	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2674747	2	superkingdom	Bacteria	6	6	5	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1606860	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2319373	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2319421	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1429491	2	superkingdom	Bacteria	7	7	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_539404	2	superkingdom	Bacteria	10	9	8	0.990	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1252475	234665	no rank	unclassified Gemmatimonadetes	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_896125	234665	no rank	unclassified Gemmatimonadetes	3	2	2	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_363196	2	superkingdom	Bacteria	10	9	8	0.890	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_248136	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1665374	2	superkingdom	Bacteria	4	4	3	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2022035	2	superkingdom	Bacteria	6	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2745546	451640	strain	Catenibacterium mitsuokai DSM 15897	2	2	1	0.500	unknown;Firmicutes;Coprobacillaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Erysipelotrichia;o_Erysipelotrichales;f_Coprobacillaceae;g_Catenibacterium;s_Catenibacterium mitsuokai;-_Catenibacterium mitsuokai DSM 15897
+k141_1666201	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1491059	2	superkingdom	Bacteria	8	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2745931	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_428045	1783272	clade	Terrabacteria group	2	2	2	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_73531	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_600902	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_844335	2053607	species	Candidatus Rokubacteria bacterium	4	4	3	0.680	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_2450216	2	superkingdom	Bacteria	8	8	6	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1011348	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1011401	234665	no rank	unclassified Gemmatimonadetes	3	2	1	0.990	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1011471	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1544276	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1185600	1783272	clade	Terrabacteria group	3	2	2	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1376970	1783272	clade	Terrabacteria group	7	5	3	0.510	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_308896	2026724	species	Chloroflexi bacterium	2	2	1	0.500	unknown;Chloroflexi;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;-_unclassified Chloroflexi;s_Chloroflexi bacterium
+k141_1900279	142182	phylum	Gemmatimonadetes	5	5	3	0.510	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2595223	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1357705	142182	phylum	Gemmatimonadetes	3	1	1	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1357723	2026742	species	Gemmatimonadetes bacterium	4	3	3	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_468768	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_469859	2	superkingdom	Bacteria	4	4	2	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1359122	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2597173	1117	phylum	Cyanobacteria	2	2	1	0.500	unknown;Cyanobacteria;uc_Cyanobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteria/Melainabacteria group;p_Cyanobacteria
+k141_2062775	2	superkingdom	Bacteria	7	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2788197	305072	no rank	unclassified Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1170752	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1566900	2	superkingdom	Bacteria	6	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1741876	142182	phylum	Gemmatimonadetes	11	9	4	0.560	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1036304	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1208107	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1402231	2026724	species	Chloroflexi bacterium	3	2	1	0.500	unknown;Chloroflexi;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;-_unclassified Chloroflexi;s_Chloroflexi bacterium
+k141_333267	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2641332	2	superkingdom	Bacteria	8	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1209060	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1037525	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2642145	142182	phylum	Gemmatimonadetes	6	4	2	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1259773	142182	phylum	Gemmatimonadetes	6	5	4	0.760	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1970980	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1793747	2	superkingdom	Bacteria	10	9	8	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1971531	2026742	species	Gemmatimonadetes bacterium	2	1	1	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_726402	142182	phylum	Gemmatimonadetes	3	3	2	0.510	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1081844	234665	no rank	unclassified Gemmatimonadetes	5	5	3	0.600	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2506339	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_193887	2026724	species	Chloroflexi bacterium	3	3	2	0.670	unknown;Chloroflexi;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;-_unclassified Chloroflexi;s_Chloroflexi bacterium
+k141_1972817	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_372584	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2132610	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1239424	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1955176	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1600211	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2134237	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1601263	142182	phylum	Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1778194	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1244186	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1193309	57723	phylum	Acidobacteria	2	2	2	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2460535	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2197990	2448054	species	Gemmatimonadales bacterium	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales;-_unclassified Gemmatimonadales;s_Gemmatimonadales bacterium
+k141_1308378	2026742	species	Gemmatimonadetes bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2199538	219686	order	Gemmatimonadales	4	4	2	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadales	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales
+k141_2016945	53254	species	Bosea thiooxidans	2	2	1	0.500	unknown;Proteobacteria;Boseaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales;f_Boseaceae;g_Bosea;s_Bosea thiooxidans
+k141_594574	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_776107	142182	phylum	Gemmatimonadetes	3	3	2	0.520	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1485430	142182	phylum	Gemmatimonadetes	7	6	4	0.600	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2382140	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1839670	1978231	species	Acidobacteria bacterium	2	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1486008	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2041595	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1509212	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_93637	360055	species	Zavarzinella formosa	2	2	1	0.500	unknown;Planctomycetes;Gemmataceae	-_cellular organisms;d_Bacteria;-_PVC group;p_Planctomycetes;c_Planctomycetia;o_Gemmatales;f_Gemmataceae;g_Zavarzinella;s_Zavarzinella formosa
+k141_271142	2	superkingdom	Bacteria	5	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1509710	2	superkingdom	Bacteria	10	10	7	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_449342	2	superkingdom	Bacteria	7	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_804490	2026742	species	Gemmatimonadetes bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2766373	2	superkingdom	Bacteria	8	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_449793	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2410401	2	superkingdom	Bacteria	9	9	6	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_463887	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_288135	1	no rank	root	8	8	8	1.000	unknown;unknown;unknown	-_root
+k141_2427349	234665	no rank	unclassified Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_288909	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_288989	2	superkingdom	Bacteria	7	7	6	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_639580	234665	no rank	unclassified Gemmatimonadetes	5	5	3	0.600	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2592225	2026779	species	Planctomycetaceae bacterium	3	3	2	0.670	unknown;Planctomycetes;Planctomycetaceae	-_cellular organisms;d_Bacteria;-_PVC group;p_Planctomycetes;c_Planctomycetia;o_Planctomycetales;f_Planctomycetaceae;-_unclassified Planctomycetaceae;s_Planctomycetaceae bacterium
+k141_2242385	234665	no rank	unclassified Gemmatimonadetes	5	4	3	0.990	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_990372	2026742	species	Gemmatimonadetes bacterium	6	6	4	0.520	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_822460	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_91700	219686	order	Gemmatimonadales	1	1	1	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadales	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales
+k141_802033	2	superkingdom	Bacteria	14	11	6	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_802505	2	superkingdom	Bacteria	10	10	8	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1334682	2	superkingdom	Bacteria	6	6	4	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1683810	142182	phylum	Gemmatimonadetes	10	10	6	0.620	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2041253	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2765397	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1335403	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2041506	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2574936	142182	phylum	Gemmatimonadetes	2	2	1	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2748997	142182	phylum	Gemmatimonadetes	9	8	5	0.630	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2208982	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_431495	2760815	no rank	unclassified Candidatus Rokubacteria	3	3	2	0.670	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria
+k141_1494626	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1670017	142182	phylum	Gemmatimonadetes	12	11	5	0.550	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2209229	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1848209	2	superkingdom	Bacteria	8	8	6	0.850	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_253815	142182	phylum	Gemmatimonadetes	4	4	2	0.650	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1319135	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1319252	142182	phylum	Gemmatimonadetes	18	16	10	0.550	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1514864	2	superkingdom	Bacteria	11	11	9	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2771622	2	superkingdom	Bacteria	11	11	9	0.780	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_809940	2053607	species	Candidatus Rokubacteria bacterium	1	1	1	1.000	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_1868934	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1515009	2	superkingdom	Bacteria	21	17	16	0.930	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_277835	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_979084	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1343405	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1275662	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_741568	234665	no rank	unclassified Gemmatimonadetes	5	5	3	0.600	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_917658	2	superkingdom	Bacteria	5	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_741887	2026742	species	Gemmatimonadetes bacterium	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_917867	292625	class	Anaerolineae	1	1	1	1.000	unknown;Chloroflexi;uc_Anaerolineae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;c_Anaerolineae
+k141_31781	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1630353	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2703434	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2346633	234665	no rank	unclassified Gemmatimonadetes	6	6	3	0.600	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_388293	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_849099	2	superkingdom	Bacteria	7	7	6	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_489808	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1904397	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1904828	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2809875	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2456977	142182	phylum	Gemmatimonadetes	4	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2811160	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1191288	2	superkingdom	Bacteria	8	7	6	0.840	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2811413	234665	no rank	unclassified Gemmatimonadetes	5	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_137004	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1603970	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1604299	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_892158	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2139117	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_358836	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2494631	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2317006	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_537077	2053607	species	Candidatus Rokubacteria bacterium	3	2	2	1.000	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_2674076	2	superkingdom	Bacteria	6	6	4	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_716099	234665	no rank	unclassified Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_81634	2760815	no rank	unclassified Candidatus Rokubacteria	2	2	2	1.000	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria
+k141_2396390	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2396708	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_436651	142182	phylum	Gemmatimonadetes	2	2	2	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2213897	2	superkingdom	Bacteria	13	11	10	0.900	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_436839	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2397766	2	superkingdom	Bacteria	15	13	7	0.540	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1675766	2	superkingdom	Bacteria	8	6	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1140321	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_963765	2	superkingdom	Bacteria	8	8	7	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2562555	2448054	species	Gemmatimonadales bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales;-_unclassified Gemmatimonadales;s_Gemmatimonadales bacterium
+k141_2212200	2	superkingdom	Bacteria	8	8	4	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1322321	2	superkingdom	Bacteria	7	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_607351	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_960594	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1851349	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_790499	142182	phylum	Gemmatimonadetes	5	5	3	0.510	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1673528	234665	no rank	unclassified Gemmatimonadetes	7	6	3	0.730	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_257943	2	superkingdom	Bacteria	7	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2132585	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1187289	2	superkingdom	Bacteria	6	5	4	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_487672	2	superkingdom	Bacteria	7	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2806501	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2617445	2	superkingdom	Bacteria	6	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2267466	2026742	species	Gemmatimonadetes bacterium	2	2	2	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2453888	142182	phylum	Gemmatimonadetes	9	9	6	0.830	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2618275	234665	no rank	unclassified Gemmatimonadetes	7	7	4	0.740	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1188438	2	superkingdom	Bacteria	6	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1380537	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_134280	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_814913	2	superkingdom	Bacteria	8	7	5	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2052291	2	superkingdom	Bacteria	9	8	7	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1695193	1978231	species	Acidobacteria bacterium	5	5	3	0.510	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2586093	234665	no rank	unclassified Gemmatimonadetes	3	3	3	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_459953	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_460247	2	superkingdom	Bacteria	7	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_460257	57723	phylum	Acidobacteria	3	3	2	0.510	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_984023	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_815856	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2421957	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2709326	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_568430	2	superkingdom	Bacteria	12	11	10	0.900	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2710982	2	superkingdom	Bacteria	7	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_749223	142182	phylum	Gemmatimonadetes	20	20	12	0.660	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1815451	2026799	species	Verrucomicrobia bacterium	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium
+k141_2711204	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_924810	2	superkingdom	Bacteria	9	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1460615	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_216860	2	superkingdom	Bacteria	10	10	10	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1283740	2	superkingdom	Bacteria	20	17	15	0.920	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2183164	234665	no rank	unclassified Gemmatimonadetes	6	5	3	0.600	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_48171	1783272	clade	Terrabacteria group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_2362776	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_225075	2	superkingdom	Bacteria	5	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_48809	2	superkingdom	Bacteria	5	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2000382	1447241	species	uncultured bacterium lac160	2	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_environmental samples;s_uncultured bacterium lac160
+k141_578142	234665	no rank	unclassified Gemmatimonadetes	5	5	3	0.600	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_403898	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1110225	1224	phylum	Proteobacteria	3	3	2	0.520	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2720657	2	superkingdom	Bacteria	9	9	7	0.780	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2633902	2026742	species	Gemmatimonadetes bacterium	6	5	3	0.740	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2469439	142182	phylum	Gemmatimonadetes	7	6	4	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2469467	2	superkingdom	Bacteria	8	7	5	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_502433	2	superkingdom	Bacteria	14	14	9	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_147727	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2285496	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2285578	2	superkingdom	Bacteria	8	8	7	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1737995	2026742	species	Gemmatimonadetes bacterium	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1918734	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1204325	2448054	species	Gemmatimonadales bacterium	5	4	3	0.680	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales;-_unclassified Gemmatimonadales;s_Gemmatimonadales bacterium
+k141_1090365	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1981128	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2340163	2448054	species	Gemmatimonadales bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales;-_unclassified Gemmatimonadales;s_Gemmatimonadales bacterium
+k141_1447969	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1448025	2026742	species	Gemmatimonadetes bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1981738	2	superkingdom	Bacteria	8	7	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1625847	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2163399	2	superkingdom	Bacteria	9	9	7	0.850	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2163441	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1091487	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2172494	142182	phylum	Gemmatimonadetes	8	7	4	0.570	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2524551	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1813095	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1458013	2	superkingdom	Bacteria	11	10	6	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2173178	2026734	species	Dehalococcoidia bacterium	3	3	2	0.670	unknown;Chloroflexi;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;c_Dehalococcoidia;-_unclassified Dehalococcoidia;s_Dehalococcoidia bacterium
+k141_922804	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_37254	305072	no rank	unclassified Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1990541	142182	phylum	Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_37753	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_393037	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_150533	2	superkingdom	Bacteria	6	3	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_867477	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1034594	1224	phylum	Proteobacteria	4	4	3	0.930	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_151200	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2289413	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1400889	142182	phylum	Gemmatimonadetes	8	8	6	0.750	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1741088	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_151778	142182	phylum	Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_151832	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2639872	2	superkingdom	Bacteria	7	7	5	0.990	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_727692	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1973015	2	superkingdom	Bacteria	9	9	7	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_194431	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1795620	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2153025	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2331659	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2507195	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1973584	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1617743	142182	phylum	Gemmatimonadetes	5	5	3	0.600	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2507601	2	superkingdom	Bacteria	7	7	6	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_254213	1978231	species	Acidobacteria bacterium	5	5	2	0.640	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1319676	2026742	species	Gemmatimonadetes bacterium	7	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2560591	2	superkingdom	Bacteria	9	7	6	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_78359	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2393268	142182	phylum	Gemmatimonadetes	6	6	3	0.600	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_787922	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1496029	1	no rank	root	15	13	13	1.000	unknown;unknown;unknown	-_root
+k141_255290	2	superkingdom	Bacteria	11	8	8	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1496085	2	superkingdom	Bacteria	10	7	6	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_255658	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1501094	2	superkingdom	Bacteria	6	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2757243	2026742	species	Gemmatimonadetes bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1326873	234665	no rank	unclassified Gemmatimonadetes	6	5	3	0.600	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_612227	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2567405	142182	phylum	Gemmatimonadetes	9	8	6	0.850	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_964997	234665	no rank	unclassified Gemmatimonadetes	5	5	4	0.800	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_440903	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2034738	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2568064	142182	phylum	Gemmatimonadetes	5	5	4	0.800	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2758500	2053607	species	Candidatus Rokubacteria bacterium	10	8	4	0.500	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_1884892	2	superkingdom	Bacteria	15	15	12	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_115664	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1360325	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2434066	1978231	species	Acidobacteria bacterium	2	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1171768	469322	genus	Steroidobacter	1	1	1	1.000	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae;g_Steroidobacter
+k141_996228	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1885829	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_471537	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_295532	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2789858	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_550135	1783270	clade	FCB group	6	5	3	0.600	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group
+k141_2688938	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_196787	2	superkingdom	Bacteria	6	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_551660	2	superkingdom	Bacteria	7	7	5	0.820	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_19357	2	superkingdom	Bacteria	12	9	8	0.890	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2690518	2026724	species	Chloroflexi bacterium	1	1	1	1.000	unknown;Chloroflexi;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;-_unclassified Chloroflexi;s_Chloroflexi bacterium
+k141_907946	2026742	species	Gemmatimonadetes bacterium	3	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1442821	57723	phylum	Acidobacteria	3	3	3	1.000	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_376655	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1620733	234665	no rank	unclassified Gemmatimonadetes	4	4	3	0.750	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1593321	2026742	species	Gemmatimonadetes bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1593670	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1769103	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1234863	234665	no rank	unclassified Gemmatimonadetes	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1066274	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1596129	2026742	species	Gemmatimonadetes bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1952485	234665	no rank	unclassified Gemmatimonadetes	5	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2131503	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1597976	1224	phylum	Proteobacteria	3	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1773140	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2093391	131567	no rank	cellular organisms	7	6	6	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_2632192	2	superkingdom	Bacteria	8	7	5	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_500675	142182	phylum	Gemmatimonadetes	6	6	3	0.590	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2632438	2	superkingdom	Bacteria	9	8	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_145919	234665	no rank	unclassified Gemmatimonadetes	3	2	1	0.940	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_325181	2	superkingdom	Bacteria	10	8	7	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2632941	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2822791	2	superkingdom	Bacteria	5	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_678065	2448054	species	Gemmatimonadales bacterium	2	1	1	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales;-_unclassified Gemmatimonadales;s_Gemmatimonadales bacterium
+k141_501778	142182	phylum	Gemmatimonadetes	7	7	5	0.710	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2419736	142182	phylum	Gemmatimonadetes	8	7	5	0.710	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1694065	1224	phylum	Proteobacteria	6	5	3	0.520	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1346433	2030806	species	Burkholderiaceae bacterium	2	2	1	0.500	unknown;Proteobacteria;Burkholderiaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae;-_unclassified Burkholderiaceae;s_Burkholderiaceae bacterium
+k141_1872882	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_281890	234665	no rank	unclassified Gemmatimonadetes	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1518902	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_632289	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1518968	189774	no rank	unclassified Chloroflexi	3	3	2	0.670	unknown;Chloroflexi;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;-_unclassified Chloroflexi
+k141_104343	2	superkingdom	Bacteria	7	7	6	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_104363	2	superkingdom	Bacteria	4	4	3	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2253223	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1000584	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_650737	142182	phylum	Gemmatimonadetes	4	4	2	0.660	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_475524	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2253631	142182	phylum	Gemmatimonadetes	7	6	4	0.740	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_476002	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2604151	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1177684	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1003290	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_836534	1224	phylum	Proteobacteria	3	3	2	0.510	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1662886	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2384100	0	no rank	unclassified	1	0	0	0.000		
+k141_1662932	142182	phylum	Gemmatimonadetes	6	5	3	0.600	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_245953	2	superkingdom	Bacteria	4	4	3	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_779089	142182	phylum	Gemmatimonadetes	7	6	3	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_779891	2	superkingdom	Bacteria	10	10	8	0.870	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_425363	142182	phylum	Gemmatimonadetes	15	15	8	0.570	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_247147	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2020882	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_426513	142182	phylum	Gemmatimonadetes	5	4	2	0.650	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_687276	2	superkingdom	Bacteria	6	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_687495	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2293083	2	superkingdom	Bacteria	8	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2643032	2	superkingdom	Bacteria	5	4	3	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1925394	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1925559	2	superkingdom	Bacteria	7	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1405182	142182	phylum	Gemmatimonadetes	4	4	4	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_155428	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1405490	2760815	no rank	unclassified Candidatus Rokubacteria	5	5	3	0.600	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria
+k141_336985	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1818024	1	no rank	root	9	7	7	1.000	unknown;unknown;unknown	-_root
+k141_397863	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_43197	2	superkingdom	Bacteria	7	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1995712	200795	phylum	Chloroflexi	4	4	2	0.500	unknown;Chloroflexi;uc_Chloroflexi	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi
+k141_398477	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_220307	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1106231	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2716063	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2716731	2	superkingdom	Bacteria	9	9	7	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1641778	142182	phylum	Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_445851	2	superkingdom	Bacteria	10	8	8	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1860492	2	superkingdom	Bacteria	6	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1506810	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2222413	234665	no rank	unclassified Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1682300	142182	phylum	Gemmatimonadetes	6	6	5	0.830	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2222642	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2572925	2	superkingdom	Bacteria	7	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1147040	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_446728	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1861206	142182	phylum	Gemmatimonadetes	5	5	4	0.750	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_410858	28216	class	Betaproteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria
+k141_2540960	2	superkingdom	Bacteria	6	6	4	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2007158	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1299670	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_765974	234665	no rank	unclassified Gemmatimonadetes	2	2	1	0.950	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_765979	234665	no rank	unclassified Gemmatimonadetes	4	4	3	0.750	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_766066	2	superkingdom	Bacteria	8	8	5	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2190950	142182	phylum	Gemmatimonadetes	6	6	4	0.790	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1651776	2	superkingdom	Bacteria	9	9	7	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_233662	2	superkingdom	Bacteria	6	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_350959	2	superkingdom	Bacteria	9	9	6	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1939442	2	superkingdom	Bacteria	6	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_524892	2	superkingdom	Bacteria	6	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2659586	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_351301	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2117921	142182	phylum	Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1940267	234665	no rank	unclassified Gemmatimonadetes	6	5	4	0.800	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1420464	2026742	species	Gemmatimonadetes bacterium	3	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_526593	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_526828	142182	phylum	Gemmatimonadetes	4	4	2	0.650	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_338669	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_339010	142182	phylum	Gemmatimonadetes	3	3	3	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2106315	234665	no rank	unclassified Gemmatimonadetes	6	6	3	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1042546	2026742	species	Gemmatimonadetes bacterium	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2836939	1783270	clade	FCB group	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group
+k141_2483167	234665	no rank	unclassified Gemmatimonadetes	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2107354	2	superkingdom	Bacteria	8	8	8	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_341189	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1574304	1978231	species	Acidobacteria bacterium	4	4	3	0.750	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1574474	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_975782	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2045276	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_97243	2	superkingdom	Bacteria	7	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_807569	142182	phylum	Gemmatimonadetes	6	6	4	0.750	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_625422	2	superkingdom	Bacteria	9	9	9	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2579318	2026742	species	Gemmatimonadetes bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_808876	142182	phylum	Gemmatimonadetes	6	6	4	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2414608	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_809164	70125	species	Nitrospira sp.	2	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;-_unclassified Nitrospira;s_Nitrospira sp.
+k141_454570	234665	no rank	unclassified Gemmatimonadetes	3	3	3	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1516490	2	superkingdom	Bacteria	12	9	8	0.810	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2417300	234665	no rank	unclassified Gemmatimonadetes	7	5	3	0.600	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_811833	142182	phylum	Gemmatimonadetes	4	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_812418	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_457722	2026742	species	Gemmatimonadetes bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_280493	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_813476	2026742	species	Gemmatimonadetes bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_631374	2	superkingdom	Bacteria	9	5	3	0.730	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2584558	234665	no rank	unclassified Gemmatimonadetes	6	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1158536	142182	phylum	Gemmatimonadetes	5	5	3	0.510	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_660194	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2076887	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1898766	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2613590	1224	phylum	Proteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1543501	234665	no rank	unclassified Gemmatimonadetes	4	4	3	0.750	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1010845	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2077416	1978231	species	Acidobacteria bacterium	3	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1543711	1	no rank	root	7	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1376243	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1011290	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_606091	2	superkingdom	Bacteria	4	3	2	0.970	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2561546	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1136041	142182	phylum	Gemmatimonadetes	13	13	7	0.580	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2028258	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2211232	2	superkingdom	Bacteria	5	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_79652	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2211347	142182	phylum	Gemmatimonadetes	5	5	3	0.510	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1850213	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_256507	201174	phylum	Actinobacteria	10	8	5	0.580	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_789724	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_8396	234665	no rank	unclassified Gemmatimonadetes	5	5	3	0.600	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_897693	2	superkingdom	Bacteria	17	15	9	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2145004	1798309	species	Gemmatimonadetes bacterium GWC2_71_10	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium GWC2_71_10
+k141_1076819	1945595	species	Methanosarcinaceae archaeon	1	1	1	1.000	unknown;Euryarchaeota;Methanosarcinaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Methanomicrobia;o_Methanosarcinales;f_Methanosarcinaceae;-_unclassified Methanosarcinaceae;s_Methanosarcinaceae archaeon
+k141_1611589	2	superkingdom	Bacteria	8	8	7	0.990	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1434016	2	superkingdom	Bacteria	11	10	6	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1967570	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_188580	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_899801	2	superkingdom	Bacteria	13	13	12	0.920	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1077714	201174	phylum	Actinobacteria	4	4	2	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_390437	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2706295	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2523414	2026742	species	Gemmatimonadetes bacterium	7	7	6	0.860	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_390550	142182	phylum	Gemmatimonadetes	4	4	3	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_212493	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_921304	2	superkingdom	Bacteria	9	9	9	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2707024	142182	phylum	Gemmatimonadetes	9	8	5	0.580	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_391238	33809	no rank	unclassified Betaproteobacteria	2	2	1	0.940	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria
+k141_566642	2	superkingdom	Bacteria	6	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2350815	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_200135	142182	phylum	Gemmatimonadetes	8	8	7	0.880	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1622536	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2694150	2	superkingdom	Bacteria	11	9	7	0.850	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1445391	1224	phylum	Proteobacteria	4	4	4	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2513009	200795	phylum	Chloroflexi	4	4	3	0.750	unknown;Chloroflexi;uc_Chloroflexi	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi
+k141_1623330	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2513206	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1801393	2026742	species	Gemmatimonadetes bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_735528	142182	phylum	Gemmatimonadetes	5	4	2	0.940	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2513422	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1801935	142182	phylum	Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_380476	142182	phylum	Gemmatimonadetes	12	12	8	0.640	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1089361	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_24882	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_912225	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_912453	2026742	species	Gemmatimonadetes bacterium	3	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1270561	234665	no rank	unclassified Gemmatimonadetes	5	4	3	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_912613	142182	phylum	Gemmatimonadetes	4	4	3	0.750	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_557527	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2515081	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1765795	142182	phylum	Gemmatimonadetes	5	4	3	0.750	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1946600	201174	phylum	Actinobacteria	2	2	1	0.500	unknown;Actinobacteria;uc_Actinobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria
+k141_1946895	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1062601	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1232238	142182	phylum	Gemmatimonadetes	3	3	3	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_533119	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_177823	234665	no rank	unclassified Gemmatimonadetes	6	6	3	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1592498	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_533554	2026742	species	Gemmatimonadetes bacterium	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2669518	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1755467	2	superkingdom	Bacteria	10	9	7	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2491192	2	superkingdom	Bacteria	10	8	8	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2656961	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_349133	234665	no rank	unclassified Gemmatimonadetes	2	2	2	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1757128	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1582374	28216	class	Betaproteobacteria	4	4	3	0.670	unknown;Proteobacteria;uc_Betaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria
+k141_2116746	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_885396	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_885499	2	superkingdom	Bacteria	15	14	13	0.930	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1419077	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1491978	2	superkingdom	Bacteria	9	9	8	0.890	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2389021	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2023516	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_783863	142182	phylum	Gemmatimonadetes	7	7	4	0.570	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_251050	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_251136	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_251189	142182	phylum	Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2557549	2026742	species	Gemmatimonadetes bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1132086	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1846163	2	superkingdom	Bacteria	10	8	7	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_265324	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2570565	142182	phylum	Gemmatimonadetes	4	4	3	0.680	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2220257	142182	phylum	Gemmatimonadetes	7	6	4	0.750	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_968064	1783270	clade	FCB group	4	4	2	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group
+k141_265671	142182	phylum	Gemmatimonadetes	8	7	5	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2571543	1783270	clade	FCB group	5	5	3	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_FCB group
+k141_1859572	1891241	species	Betaproteobacteria bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria;s_Betaproteobacteria bacterium
+k141_969058	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_969361	2	superkingdom	Bacteria	4	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1146011	2	superkingdom	Bacteria	12	9	6	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_856303	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2462763	1224	phylum	Proteobacteria	3	3	3	1.000	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_673477	142182	phylum	Gemmatimonadetes	8	6	3	0.590	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2278418	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2628748	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_142417	1224	phylum	Proteobacteria	6	6	3	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_858846	2026742	species	Gemmatimonadetes bacterium	4	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_497883	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2818920	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1197912	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_2226287	2	superkingdom	Bacteria	9	9	8	0.890	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2410728	234665	no rank	unclassified Gemmatimonadetes	7	7	5	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1150822	142182	phylum	Gemmatimonadetes	9	8	8	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2577602	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1511321	234665	no rank	unclassified Gemmatimonadetes	6	6	3	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_806519	2	superkingdom	Bacteria	8	7	6	0.810	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2044831	2	superkingdom	Bacteria	4	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_624518	1978231	species	Acidobacteria bacterium	1	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1339165	2026742	species	Gemmatimonadetes bacterium	3	3	1	0.900	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_624818	2	superkingdom	Bacteria	18	17	17	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2184500	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_226008	2448782	species	Chloroflexia bacterium	2	1	1	1.000	unknown;Chloroflexi;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;c_Chloroflexia;-_unclassified Chloroflexia;s_Chloroflexia bacterium
+k141_578656	1760	class	Actinomycetia	4	4	3	0.670	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_578853	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_578967	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_759452	0	no rank	unclassified	1	0	0	0.000		
+k141_50256	142182	phylum	Gemmatimonadetes	7	7	6	0.830	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1825220	2448054	species	Gemmatimonadales bacterium	6	4	2	0.650	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales;-_unclassified Gemmatimonadales;s_Gemmatimonadales bacterium
+k141_2536887	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1295609	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2236965	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2053345	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1520744	2	superkingdom	Bacteria	9	8	6	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1696698	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1161845	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1162078	142182	phylum	Gemmatimonadetes	4	4	3	0.680	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_635333	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_817755	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1521553	2	superkingdom	Bacteria	11	11	10	0.900	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_285498	234665	no rank	unclassified Gemmatimonadetes	3	3	2	0.960	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1707153	142182	phylum	Gemmatimonadetes	31	30	16	0.540	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_647482	2	superkingdom	Bacteria	6	5	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2435589	1166482	species	Pseudomaricurvus alcaniphilus	2	1	1	1.000	unknown;Proteobacteria;Cellvibrionaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Cellvibrionales;f_Cellvibrionaceae;g_Pseudomaricurvus;s_Pseudomaricurvus alcaniphilus
+k141_830210	1224	phylum	Proteobacteria	4	3	2	0.670	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1887300	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1173527	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2251131	2	superkingdom	Bacteria	8	8	6	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1363526	1224	phylum	Proteobacteria	13	12	6	0.700	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2066910	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1709471	2	superkingdom	Bacteria	29	28	26	0.920	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1166506	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1880828	1	no rank	root	4	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2243328	234665	no rank	unclassified Gemmatimonadetes	7	7	4	0.570	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_290099	142182	phylum	Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2784870	131567	no rank	cellular organisms	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_1702332	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_991476	142182	phylum	Gemmatimonadetes	4	4	4	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_467346	234665	no rank	unclassified Gemmatimonadetes	7	7	6	0.810	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2430274	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2786318	2026742	species	Gemmatimonadetes bacterium	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2681934	2	superkingdom	Bacteria	24	22	14	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_11236	142182	phylum	Gemmatimonadetes	5	5	3	0.600	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2149386	142182	phylum	Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2327589	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1258684	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1614665	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2504372	2	superkingdom	Bacteria	13	10	10	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2328297	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1615031	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1793160	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_518073	2	superkingdom	Bacteria	8	6	4	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1577115	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1752179	2026742	species	Gemmatimonadetes bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1577472	2026742	species	Gemmatimonadetes bacterium	3	3	2	0.510	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2111107	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2842782	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_697570	2	superkingdom	Bacteria	13	13	11	0.910	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_697884	234665	no rank	unclassified Gemmatimonadetes	4	4	3	0.970	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_880864	142182	phylum	Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2303533	2448054	species	Gemmatimonadales bacterium	5	5	3	0.600	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales;-_unclassified Gemmatimonadales;s_Gemmatimonadales bacterium
+k141_2119741	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_1942080	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2662832	234665	no rank	unclassified Gemmatimonadetes	7	7	4	0.660	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1762386	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1058444	142182	phylum	Gemmatimonadetes	14	13	9	0.690	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_354713	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2663806	2026742	species	Gemmatimonadetes bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2121608	142182	phylum	Gemmatimonadetes	7	6	3	0.600	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2313897	142182	phylum	Gemmatimonadetes	6	6	3	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1763061	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_156144	2	superkingdom	Bacteria	5	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1746345	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1927002	2	superkingdom	Bacteria	11	10	10	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_156957	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1212512	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1746837	2	superkingdom	Bacteria	16	13	11	0.900	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2105689	142182	phylum	Gemmatimonadetes	9	8	4	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2296086	142182	phylum	Gemmatimonadetes	6	6	4	0.800	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1364488	2	superkingdom	Bacteria	8	8	7	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1709642	28211	class	Alphaproteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_207071	2026799	species	Verrucomicrobia bacterium	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium
+k141_1274515	2	superkingdom	Bacteria	8	8	5	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_916476	2	superkingdom	Bacteria	5	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_916762	142182	phylum	Gemmatimonadetes	6	5	3	0.740	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_741033	1783272	clade	Terrabacteria group	4	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_386319	2026742	species	Gemmatimonadetes bacterium	3	2	1	0.920	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2344683	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1807244	2006849	species	Xanthomonadales bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;-_unclassified Xanthomonadales;s_Xanthomonadales bacterium
+k141_1629021	2	superkingdom	Bacteria	6	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2519399	0	no rank	unclassified	1	0	0	0.000		
+k141_670743	2	superkingdom	Bacteria	13	10	7	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2460817	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1387228	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2625194	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1729752	1873463	species	Pseudonocardiaceae bacterium	1	1	1	1.000	unknown;Actinobacteria;Pseudonocardiaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Pseudonocardiales;f_Pseudonocardiaceae;-_unclassified Pseudonocardiaceae;s_Pseudonocardiaceae bacterium
+k141_1195095	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1554162	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1022471	2	superkingdom	Bacteria	10	9	6	0.630	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_319095	142182	phylum	Gemmatimonadetes	3	3	2	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1022637	1985130	species	Nitrospira sp. CG24D	2	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;-_unclassified Nitrospira;s_Nitrospira sp. CG24D
+k141_1804489	2	superkingdom	Bacteria	7	7	6	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1626562	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_27731	142182	phylum	Gemmatimonadetes	5	5	3	0.510	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2698972	305072	no rank	unclassified Acidobacteria	6	4	3	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_1805015	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_28137	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1092440	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1450323	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_915428	2	superkingdom	Bacteria	5	5	4	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_385025	2026742	species	Gemmatimonadetes bacterium	5	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2024244	1978231	species	Acidobacteria bacterium	3	3	2	0.950	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_429789	2026742	species	Gemmatimonadetes bacterium	2	2	2	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_784937	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_430153	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2558445	2026742	species	Gemmatimonadetes bacterium	3	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2748363	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_75982	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2391028	2053607	species	Candidatus Rokubacteria bacterium	2	2	2	1.000	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_956779	142182	phylum	Gemmatimonadetes	7	6	5	0.830	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1494218	1783272	clade	Terrabacteria group	3	3	2	0.520	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1834582	234665	no rank	unclassified Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_416837	2026742	species	Gemmatimonadetes bacterium	2	1	1	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_589940	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_771504	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1121107	2	superkingdom	Bacteria	9	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1480967	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1835108	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1305352	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2195974	1797173	species	Acidobacteria bacterium RBG_16_68_9	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium RBG_16_68_9
+k141_63404	2	superkingdom	Bacteria	7	7	6	0.810	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_681234	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2826632	234665	no rank	unclassified Gemmatimonadetes	4	4	3	0.750	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_504801	1783257	clade	PVC group	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_PVC group
+k141_2287347	1224	phylum	Proteobacteria	4	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_149796	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1205197	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1919993	234665	no rank	unclassified Gemmatimonadetes	7	7	3	0.590	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2637694	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_150323	2	superkingdom	Bacteria	9	9	7	0.850	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_150458	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1086000	2026724	species	Chloroflexi bacterium	2	1	1	1.000	unknown;Chloroflexi;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi;-_unclassified Chloroflexi;s_Chloroflexi bacterium
+k141_1086058	1640515	species	Armatimonadetes bacterium CSP1-3	4	3	2	0.670	unknown;Armatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Armatimonadetes;-_unclassified Armatimonadetes;s_Armatimonadetes bacterium CSP1-3
+k141_1266463	2	superkingdom	Bacteria	19	18	14	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2157653	1913989	species	Gammaproteobacteria bacterium	3	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;-_unclassified Gammaproteobacteria;s_Gammaproteobacteria bacterium
+k141_1443574	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1266776	2	superkingdom	Bacteria	6	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_21524	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_199138	2026742	species	Gemmatimonadetes bacterium	8	6	3	0.590	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_733224	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_199597	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2758596	234665	no rank	unclassified Gemmatimonadetes	6	6	4	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2217950	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_87118	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2035972	2	superkingdom	Bacteria	6	6	5	0.990	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2402727	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1143557	142182	phylum	Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1329673	1	no rank	root	9	9	9	1.000	unknown;unknown;unknown	-_root
+k141_2403030	305072	no rank	unclassified Acidobacteria	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_88149	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_443306	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_859626	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1392231	2053607	species	Candidatus Rokubacteria bacterium	3	3	2	0.980	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_2465973	2	superkingdom	Bacteria	6	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1392541	142182	phylum	Gemmatimonadetes	7	5	3	0.740	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_860894	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2820881	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1734188	1797182	species	Acidobacteria bacterium RIFCSPLOWO2_02_FULL_65_29	3	3	2	0.670	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium RIFCSPLOWO2_02_FULL_65_29
+k141_144437	2026742	species	Gemmatimonadetes bacterium	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2467210	2	superkingdom	Bacteria	4	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1200137	234665	no rank	unclassified Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_216977	1236	class	Gammaproteobacteria	3	3	2	0.670	unknown;Proteobacteria;uc_Gammaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria
+k141_749942	142182	phylum	Gemmatimonadetes	4	4	3	0.750	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_40649	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_750390	2	superkingdom	Bacteria	4	3	2	0.920	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2177450	1978231	species	Acidobacteria bacterium	4	4	2	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1103635	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_396921	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1104328	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2178203	131567	no rank	cellular organisms	10	9	9	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_1994906	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1277073	2	superkingdom	Bacteria	7	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2346947	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_743157	2	superkingdom	Bacteria	12	10	6	0.620	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1630984	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1454367	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1096678	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_389444	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_33830	142182	phylum	Gemmatimonadetes	3	3	2	0.520	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_744755	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_920480	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1895950	2026742	species	Gemmatimonadetes bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_127292	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1716598	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1373091	142182	phylum	Gemmatimonadetes	9	8	5	0.730	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1373368	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1008805	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_306425	2	superkingdom	Bacteria	11	11	11	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_128530	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1542569	2689616	species	Steroidobacteraceae bacterium	3	2	1	0.910	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae;-_unclassified Steroidobacteraceae;s_Steroidobacteraceae bacterium
+k141_2802147	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1305934	142182	phylum	Gemmatimonadetes	10	10	6	0.560	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_418297	1913988	species	Alphaproteobacteria bacterium	4	4	2	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;-_unclassified Alphaproteobacteria;s_Alphaproteobacteria bacterium
+k141_1657741	2760815	no rank	unclassified Candidatus Rokubacteria	4	4	2	0.650	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria
+k141_2378782	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1122591	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_945726	732238	species	Povalibacter uvarum	1	1	1	1.000	unknown;Proteobacteria;Steroidobacteraceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales;f_Steroidobacteraceae;g_Povalibacter;s_Povalibacter uvarum
+k141_240881	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_419409	2	superkingdom	Bacteria	5	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1837251	2	superkingdom	Bacteria	6	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_65286	2	superkingdom	Bacteria	5	4	2	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_852027	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1907200	142182	phylum	Gemmatimonadetes	4	4	4	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2812683	142182	phylum	Gemmatimonadetes	6	6	4	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2459076	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1551752	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_669493	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2086059	2026799	species	Verrucomicrobia bacterium	1	1	1	1.000	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium
+k141_138547	234665	no rank	unclassified Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_81535	2026742	species	Gemmatimonadetes bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_2213046	2	superkingdom	Bacteria	6	6	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2303696	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2303707	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2489162	142182	phylum	Gemmatimonadetes	8	7	6	0.830	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1049473	2	superkingdom	Bacteria	7	7	6	0.840	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2489506	2026742	species	Gemmatimonadetes bacterium	2	2	2	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_1754673	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1579772	2	superkingdom	Bacteria	10	10	8	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_882362	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2305204	234665	no rank	unclassified Gemmatimonadetes	6	6	3	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1415894	142182	phylum	Gemmatimonadetes	9	9	5	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1472687	1	no rank	root	6	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2367890	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_582444	234665	no rank	unclassified Gemmatimonadetes	10	7	6	0.860	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2539108	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_54409	2	superkingdom	Bacteria	11	11	7	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1297798	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2369730	2	superkingdom	Bacteria	4	4	2	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_764512	1805180	species	Gemmatimonadetes bacterium 13_1_40CM_2_60_3	2	1	1	1.000	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium 13_1_40CM_2_60_3
+k141_2727192	234665	no rank	unclassified Gemmatimonadetes	4	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_232446	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2729584	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1117928	2760815	no rank	unclassified Candidatus Rokubacteria	7	7	5	0.710	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria
+k141_1477126	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_767737	2026742	species	Gemmatimonadetes bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium
+k141_586574	234665	no rank	unclassified Gemmatimonadetes	7	6	3	0.590	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_768868	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_414339	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2731779	200795	phylum	Chloroflexi	3	2	1	0.500	unknown;Chloroflexi;uc_Chloroflexi	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Chloroflexi
+k141_942119	2448054	species	Gemmatimonadales bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales;-_unclassified Gemmatimonadales;s_Gemmatimonadales bacterium
+k141_1479379	57723	phylum	Acidobacteria	6	6	4	0.510	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_131271	2	superkingdom	Bacteria	12	11	10	0.910	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1545299	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2452081	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1378333	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1013077	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_310196	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2805910	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2452565	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_132502	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_663581	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_222194	142182	phylum	Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1821058	2	superkingdom	Bacteria	12	10	9	0.900	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_575768	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_223918	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_931233	2760815	no rank	unclassified Candidatus Rokubacteria	6	6	4	0.610	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria
+k141_1467390	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2718899	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_576789	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1999374	2212474	species	Kofleriaceae bacterium	2	2	1	0.500	unknown;Proteobacteria;Kofleriaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Deltaproteobacteria;o_Myxococcales;-_Nannocystineae;f_Kofleriaceae;-_unclassified Kofleriaceae;s_Kofleriaceae bacterium
+k141_1822476	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2071357	142182	phylum	Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1179178	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_302580	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1369721	142182	phylum	Gemmatimonadetes	4	4	2	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_2257936	234665	no rank	unclassified Gemmatimonadetes	6	6	4	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1005445	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1714179	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_124954	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1179756	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2797800	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1059372	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1228676	142182	phylum	Gemmatimonadetes	6	6	3	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1944323	1883427	species	Actinomycetia bacterium	4	4	2	0.650	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;-_unclassified Actinomycetia;s_Actinomycetia bacterium
+k141_1588984	2	superkingdom	Bacteria	7	7	5	0.820	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1589043	234665	no rank	unclassified Gemmatimonadetes	3	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2122781	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_174820	142182	phylum	Gemmatimonadetes	3	3	3	1.000	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1060717	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2666450	2	superkingdom	Bacteria	8	8	6	0.850	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1765236	2	superkingdom	Bacteria	9	9	8	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2484502	0	no rank	unclassified	1	0	0	0.000		
+k141_1930172	2	superkingdom	Bacteria	6	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1409667	2	superkingdom	Bacteria	12	10	10	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_876933	2	superkingdom	Bacteria	6	6	3	0.590	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_341643	2	superkingdom	Bacteria	8	8	8	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2484713	142182	phylum	Gemmatimonadetes	11	10	5	0.500	unknown;Gemmatimonadetes;uc_Gemmatimonadetes	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes
+k141_1749753	234665	no rank	unclassified Gemmatimonadetes	3	3	2	0.670	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_2840399	57723	phylum	Acidobacteria	6	6	3	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_696273	234665	no rank	unclassified Gemmatimonadetes	7	7	4	0.570	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes
+k141_1217487	2026742	species	Gemmatimonadetes bacterium	7	7	4	0.510	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;-_unclassified Gemmatimonadetes;s_Gemmatimonadetes bacterium

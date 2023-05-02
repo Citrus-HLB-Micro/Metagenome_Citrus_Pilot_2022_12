@@ -1,0 +1,85 @@
+0.7605	6	6	no rank	0	unclassified
+99.2395	783	26	no rank	1	root
+95.9442	757	2	no rank	131567	  cellular organisms
+95.6907	755	323	superkingdom	2	    Bacteria
+52.2180	412	270	phylum	57723	      Acidobacteria
+15.3359	121	13	no rank	305072	        unclassified Acidobacteria
+13.5615	107	107	species	1978231	          Acidobacteria bacterium
+0.1267	1	1	species	1803431	          Acidobacteria bacterium 13_1_20CM_3_53_8
+1.7744	14	2	class	204432	        Acidobacteriia
+1.1407	9	1	order	204433	          Acidobacteriales
+0.8872	7	2	family	204434	            Acidobacteriaceae
+0.2535	2	0	genus	388463	              Edaphobacter
+0.1267	1	1	species	570835	                Edaphobacter aggregans
+0.1267	1	1	species	1560005	                Edaphobacter dinghuensis
+0.1267	1	0	genus	1000999	              Acidipila
+0.1267	1	1	species	768535	                Acidipila rosea
+0.1267	1	0	genus	1742983	              Occallatibacter
+0.1267	1	1	species	1002691	                Occallatibacter savannae
+0.1267	1	0	genus	2136116	              Candidatus Sulfotelmatobacter
+0.1267	1	1	species	2042962	                Candidatus Sulfotelmatobacter kueseliae
+0.1267	1	0	no rank	1803467	            unclassified Acidobacteriales
+0.1267	1	1	species	2282142	              Acidobacteriales bacterium
+0.2535	2	1	order	332160	          Bryobacterales
+0.1267	1	0	no rank	1470392	            unclassified Bryobacterales
+0.1267	1	1	species	2026791	              Bryobacterales bacterium
+0.1267	1	0	no rank	2169411	          unclassified Acidobacteriia
+0.1267	1	1	species	2169412	            Acidobacteriia bacterium AA117
+0.7605	6	3	class	1562566	        Blastocatellia
+0.3802	3	0	no rank	2052145	          unclassified Blastocatellia
+0.3802	3	3	species	2052146	            Blastocatellia bacterium
+0.1267	1	0	class	1813735	        Vicinamibacteria
+0.1267	1	0	order	2910145	          Vicinamibacterales
+0.1267	1	0	family	2211325	            Vicinamibacteraceae
+0.1267	1	0	genus	2004797	              Luteitalea
+0.1267	1	0	no rank	2626009	                unclassified Luteitalea
+0.1267	1	1	species	2004800	                  Luteitalea sp.
+1.3942	11	3	phylum	1224	      Proteobacteria
+0.5070	4	0	class	28211	        Alphaproteobacteria
+0.3802	3	1	order	356	          Hyphomicrobiales
+0.1267	1	0	family	31993	            Methylocystaceae
+0.1267	1	1	genus	425	              Methylosinus
+0.1267	1	0	family	119045	            Methylobacteriaceae
+0.1267	1	1	genus	186650	              Microvirga
+0.1267	1	0	order	204455	          Rhodobacterales
+0.1267	1	0	family	31989	            Rhodobacteraceae
+0.1267	1	0	genus	2250589	              Xinfangfangia
+0.1267	1	1	species	2483812	                Xinfangfangia humi
+0.2535	2	0	class	28216	        Betaproteobacteria
+0.2535	2	0	order	80840	          Burkholderiales
+0.1267	1	0	family	75682	            Oxalobacteraceae
+0.1267	1	0	no rank	2895353	              Massilia group
+0.1267	1	0	genus	149698	                Massilia
+0.1267	1	0	no rank	2609279	                  unclassified Massilia
+0.1267	1	1	species	2320864	                    Massilia sp. K1S02-61
+0.1267	1	0	family	80864	            Comamonadaceae
+0.1267	1	0	genus	34072	              Variovorax
+0.1267	1	0	no rank	663243	                unclassified Variovorax
+0.1267	1	1	species	1034889	                  Variovorax sp. HW608
+0.1267	1	0	class	1236	        Gammaproteobacteria
+0.1267	1	1	no rank	33811	          unclassified Gammaproteobacteria
+0.1267	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.1267	1	0	class	28221	          Deltaproteobacteria
+0.1267	1	0	order	29	            Myxococcales
+0.1267	1	0	suborder	80811	              Cystobacterineae
+0.1267	1	0	family	31	                Myxococcaceae
+0.1267	1	0	genus	83461	                  Corallococcus
+0.1267	1	0	no rank	2685029	                    unclassified Corallococcus
+0.1267	1	1	species	2316718	                      Corallococcus sp. AB038B
+0.7605	6	0	clade	1783257	      PVC group
+0.6337	5	2	phylum	74201	        Verrucomicrobia
+0.2535	2	0	no rank	417295	          unclassified Verrucomicrobia
+0.2535	2	2	species	2026799	            Verrucomicrobia bacterium
+0.1267	1	0	class	203494	          Verrucomicrobiae
+0.1267	1	0	order	48461	            Verrucomicrobiales
+0.1267	1	0	family	134621	              Verrucomicrobia subdivision 3
+0.1267	1	0	no rank	1952929	                unclassified Verrucomicrobia subdivision 3
+0.1267	1	1	species	2052186	                  Verrucomicrobia subdivision 3 bacterium
+0.1267	1	0	phylum	67812	        Candidatus Omnitrophica
+0.1267	1	0	no rank	1047005	          unclassified Candidatus Omnitrophica
+0.1267	1	1	species	2035772	            Candidatus Omnitrophica bacterium
+0.2535	2	2	phylum	40117	      Nitrospirae
+0.1267	1	0	clade	1783272	      Terrabacteria group
+0.1267	1	0	phylum	200795	        Chloroflexi
+0.1267	1	0	no rank	189774	          unclassified Chloroflexi
+0.1267	1	1	species	1805056	            Chloroflexi bacterium 13_1_20CM_2_59_7

@@ -1,0 +1,24 @@
+0.2558	1	1	no rank	0	unclassified
+99.7442	390	12	no rank	1	root
+96.6752	378	1	no rank	131567	  cellular organisms
+96.4194	377	191	superkingdom	2	    Bacteria
+43.9898	172	1	clade	1783257	      PVC group
+43.7340	171	121	phylum	74201	        Verrucomicrobia
+12.7877	50	13	no rank	417295	          unclassified Verrucomicrobia
+9.4629	37	37	species	2026799	            Verrucomicrobia bacterium
+1.7903	7	5	phylum	57723	      Acidobacteria
+0.2558	1	0	no rank	57727	        environmental samples
+0.2558	1	1	species	171953	          uncultured Acidobacteria bacterium
+0.2558	1	0	class	1562566	        Blastocatellia
+0.2558	1	0	order	1748771	          Blastocatellales
+0.2558	1	0	family	2048906	            Pyrinomonadaceae
+0.2558	1	0	no rank	2283091	              unclassified Pyrinomonadaceae
+0.2558	1	1	species	2283092	                Pyrinomonadaceae bacterium
+1.5345	6	2	phylum	1224	      Proteobacteria
+1.0230	4	0	subphylum	68525	        delta/epsilon subdivisions
+1.0230	4	0	class	28221	          Deltaproteobacteria
+1.0230	4	1	no rank	122706	            unclassified Deltaproteobacteria
+0.7673	3	3	species	2026735	              Deltaproteobacteria bacterium
+0.2558	1	0	clade	1783272	      Terrabacteria group
+0.2558	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.2558	1	1	phylum	1117	          Cyanobacteria

@@ -1,0 +1,25 @@
+100.0000	221	22	no rank	1	root
+90.0452	199	4	no rank	131567	  cellular organisms
+87.3303	193	18	superkingdom	2157	    Archaea
+78.7330	174	9	clade	1783275	      TACK group
+74.6606	165	140	phylum	651137	        Thaumarchaeota
+4.9774	11	0	order	31932	          Nitrosopumilales
+4.9774	11	0	no rank	1915697	            unclassified Nitrosopumilales
+4.9774	11	11	species	2026768	              Nitrosopumilales archaeon
+4.9774	11	0	no rank	1104572	          unclassified Thaumarchaeota
+4.9774	11	11	species	2026795	            Thaumarchaeota archaeon
+1.3575	3	1	class	1643678	          Nitrososphaeria
+0.9050	2	0	order	1033996	            Nitrososphaerales
+0.9050	2	1	family	1033997	              Nitrososphaeraceae
+0.4525	1	0	genus	497726	                Nitrososphaera
+0.4525	1	0	species	1034015	                  Nitrososphaera viennensis
+0.4525	1	1	strain	926571	                    Nitrososphaera viennensis EN76
+0.4525	1	0	no rank	48510	      environmental samples
+0.4525	1	1	species	115547	        uncultured archaeon
+0.9050	2	0	superkingdom	2	    Bacteria
+0.4525	1	0	no rank	49928	      unclassified Bacteria
+0.4525	1	1	species	1869227	        bacterium
+0.4525	1	0	clade	1783270	      FCB group
+0.4525	1	0	phylum	142182	        Gemmatimonadetes
+0.4525	1	0	no rank	234665	          unclassified Gemmatimonadetes
+0.4525	1	1	species	2026742	            Gemmatimonadetes bacterium

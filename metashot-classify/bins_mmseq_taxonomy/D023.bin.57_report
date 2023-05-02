@@ -1,0 +1,32 @@
+100.0000	665	25	no rank	1	root
+96.2406	640	3	no rank	131567	  cellular organisms
+95.7895	637	477	superkingdom	2	    Bacteria
+21.8045	145	0	no rank	2323	      Bacteria incertae sedis
+21.8045	145	1	clade	1783234	        Bacteria candidate phyla
+21.6541	144	0	phylum	1752708	          Candidatus Rokubacteria
+21.6541	144	114	no rank	2760815	            unclassified Candidatus Rokubacteria
+4.2105	28	28	species	2053607	              Candidatus Rokubacteria bacterium
+0.1504	1	1	species	1640509	              Candidatus Rokubacteria bacterium CSP1-6
+0.1504	1	1	species	1802109	              Candidatus Rokubacteria bacterium RIFCSPLOWO2_12_FULL_71_19
+1.0526	7	4	phylum	1224	      Proteobacteria
+0.3008	2	1	class	28211	        Alphaproteobacteria
+0.1504	1	0	no rank	33807	          unclassified Alphaproteobacteria
+0.1504	1	1	species	2013070	            Alphaproteobacteria bacterium MarineAlpha3_Bin4
+0.1504	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.1504	1	0	class	28221	          Deltaproteobacteria
+0.1504	1	0	order	29	            Myxococcales
+0.1504	1	0	suborder	80811	              Cystobacterineae
+0.1504	1	1	family	31	                Myxococcaceae
+0.7519	5	0	clade	1783272	      Terrabacteria group
+0.7519	5	3	phylum	201174	        Actinobacteria
+0.3008	2	1	class	1760	          Actinomycetia
+0.1504	1	0	no rank	52018	            unclassified Actinomycetia
+0.1504	1	1	species	1883427	              Actinomycetia bacterium
+0.1504	1	0	phylum	40117	      Nitrospirae
+0.1504	1	0	no rank	1298915	        unclassified Nitrospirae
+0.1504	1	1	species	2026887	          Nitrospirae bacterium
+0.1504	1	0	phylum	57723	      Acidobacteria
+0.1504	1	0	no rank	305072	        unclassified Acidobacteria
+0.1504	1	1	species	1978231	          Acidobacteria bacterium
+0.1504	1	0	clade	1783270	      FCB group
+0.1504	1	1	phylum	142182	        Gemmatimonadetes

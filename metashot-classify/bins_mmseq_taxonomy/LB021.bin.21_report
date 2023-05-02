@@ -1,0 +1,92 @@
+0.1497	1	1	no rank	0	unclassified
+99.8503	667	144	no rank	1	root
+78.2934	523	1	no rank	131567	  cellular organisms
+78.1437	522	159	superkingdom	2	    Bacteria
+52.9940	354	15	clade	1783272	      Terrabacteria group
+50.2994	336	69	phylum	201174	        Actinobacteria
+39.6707	265	214	class	1760	          Actinomycetia
+5.0898	34	5	order	85009	            Propionibacteriales
+4.3413	29	10	family	85015	              Nocardioidaceae
+2.6946	18	12	genus	1839	                Nocardioides
+0.2994	2	2	no rank	2615069	                  unclassified Nocardioides
+0.2994	2	2	species	2712223	                  Nocardioides anomalus
+0.1497	1	1	species	402596	                  Nocardioides exalbidus
+0.1497	1	1	species	2558918	                  Nocardioides cynanchi
+0.1497	1	0	no rank	116532	                unclassified Nocardioidaceae
+0.1497	1	1	species	1871072	                  Nocardioidaceae bacterium
+0.7485	5	2	order	85006	            Micrococcales
+0.2994	2	0	family	1268	              Micrococcaceae
+0.2994	2	0	genus	1663	                Arthrobacter
+0.1497	1	0	no rank	235627	                  unclassified Arthrobacter
+0.1497	1	1	species	904039	                    Arthrobacter sp. NEB 688
+0.1497	1	1	species	1258888	                  Arthrobacter cheniae
+0.1497	1	0	family	85023	              Microbacteriaceae
+0.1497	1	0	genus	69578	                Cryobacterium
+0.1497	1	0	no rank	2649013	                  unclassified Cryobacterium
+0.1497	1	1	species	1897061	                    Cryobacterium sp. SO1
+0.4491	3	0	order	85008	            Micromonosporales
+0.4491	3	1	family	28056	              Micromonosporaceae
+0.1497	1	0	genus	1873	                Micromonospora
+0.1497	1	0	no rank	2617518	                  unclassified Micromonospora
+0.1497	1	1	species	2806100	                    Micromonospora sp. STR1s_6
+0.1497	1	0	genus	42232	                Spirilliplanes
+0.1497	1	1	species	42233	                  Spirilliplanes yamanashiensis
+0.4491	3	0	order	85012	            Streptosporangiales
+0.2994	2	2	family	2004	              Streptosporangiaceae
+0.1497	1	0	family	83676	              Nocardiopsaceae
+0.1497	1	0	genus	647960	                Marinactinospora
+0.1497	1	0	species	531310	                  Marinactinospora thermotolerans
+0.1497	1	1	strain	1122192	                    Marinactinospora thermotolerans DSM 45154
+0.2994	2	0	no rank	52018	            unclassified Actinomycetia
+0.2994	2	2	species	1883427	              Actinomycetia bacterium
+0.2994	2	0	order	85010	            Pseudonocardiales
+0.2994	2	0	family	2070	              Pseudonocardiaceae
+0.1497	1	0	genus	334857	                Goodfellowiella
+0.1497	1	0	no rank	2626649	                  unclassified Goodfellowiella
+0.1497	1	1	species	1892852	                    Goodfellowiella sp. AN110305
+0.1497	1	0	genus	402649	                Actinomycetospora
+0.1497	1	0	no rank	2636769	                  unclassified Actinomycetospora
+0.1497	1	1	species	2729387	                    Actinomycetospora sp. TBRC 11914
+0.1497	1	0	order	85011	            Streptomycetales
+0.1497	1	1	family	2062	              Streptomycetaceae
+0.1497	1	0	order	2793120	            Motilibacterales
+0.1497	1	0	family	1433378	              Motilibacteraceae
+0.1497	1	0	genus	1434021	                Motilibacter
+0.1497	1	1	species	598652	                  Motilibacter rhizosphaerae
+0.1497	1	0	class	84992	          Acidimicrobiia
+0.1497	1	0	order	84993	            Acidimicrobiales
+0.1497	1	1	family	2448023	              Ilumatobacteraceae
+0.1497	1	0	class	1497346	          Thermoleophilia
+0.1497	1	0	no rank	1948762	            unclassified Thermoleophilia
+0.1497	1	1	species	2026888	              Thermoleophilia bacterium
+0.1497	1	0	phylum	1239	        Firmicutes
+0.1497	1	1	class	186801	          Clostridia
+0.1497	1	0	phylum	200795	        Chloroflexi
+0.1497	1	0	class	32061	          Chloroflexia
+0.1497	1	1	order	32064	            Chloroflexales
+0.1497	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.1497	1	1	phylum	1117	          Cyanobacteria
+0.5988	4	0	clade	1783270	      FCB group
+0.5988	4	2	phylum	142182	        Gemmatimonadetes
+0.2994	2	0	class	219685	          Gemmatimonadetes
+0.2994	2	0	order	219686	            Gemmatimonadales
+0.2994	2	0	no rank	1951096	              unclassified Gemmatimonadales
+0.2994	2	2	species	2448054	                Gemmatimonadales bacterium
+0.4491	3	0	no rank	2323	      Bacteria incertae sedis
+0.4491	3	0	clade	1783234	        Bacteria candidate phyla
+0.4491	3	0	phylum	1752708	          Candidatus Rokubacteria
+0.4491	3	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.4491	3	3	species	2053607	              Candidatus Rokubacteria bacterium
+0.2994	2	0	phylum	1224	      Proteobacteria
+0.1497	1	0	class	1236	        Gammaproteobacteria
+0.1497	1	0	order	135623	          Vibrionales
+0.1497	1	0	family	641	            Vibrionaceae
+0.1497	1	0	genus	662	              Vibrio
+0.1497	1	1	species	666	                Vibrio cholerae
+0.1497	1	0	class	28216	        Betaproteobacteria
+0.1497	1	0	order	80840	          Burkholderiales
+0.1497	1	0	family	119060	            Burkholderiaceae
+0.1497	1	0	genus	32008	              Burkholderia
+0.1497	1	0	species group	87882	                Burkholderia cepacia complex
+0.1497	1	0	species	152480	                  Burkholderia ambifaria
+0.1497	1	1	strain	396597	                    Burkholderia ambifaria MEX-5

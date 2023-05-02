@@ -1,0 +1,134 @@
+0.4912	5	5	no rank	0	unclassified
+99.5088	1013	151	no rank	1	root
+84.6758	862	3	no rank	131567	  cellular organisms
+84.0864	856	264	superkingdom	2	    Bacteria
+56.6798	577	198	phylum	1224	      Proteobacteria
+36.1493	368	225	class	28211	        Alphaproteobacteria
+13.3595	136	71	order	356	          Hyphomicrobiales
+5.2063	53	12	family	45401	            Hyphomicrobiaceae
+3.2417	33	29	genus	81	              Hyphomicrobium
+0.2947	3	2	no rank	2619925	                unclassified Hyphomicrobium
+0.0982	1	1	species	82	                  Hyphomicrobium sp.
+0.0982	1	1	species	121290	                Hyphomicrobium sulfonivorans
+0.3929	4	0	no rank	196771	              unclassified Hyphomicrobiaceae
+0.3929	4	4	species	2015799	                Hyphomicrobiaceae bacterium
+0.2947	3	2	genus	1484898	              Methyloceanibacter
+0.0982	1	1	species	1774969	                Methyloceanibacter superfactus
+0.0982	1	0	genus	1485594	              Methyloligella
+0.0982	1	1	species	1177755	                Methyloligella halotolerans
+0.7859	8	0	no rank	41292	            unclassified Hyphomicrobiales
+0.7859	8	8	species	1909294	              Hyphomicrobiales bacterium
+0.2947	3	1	family	41294	            Bradyrhizobiaceae
+0.1965	2	1	genus	374	              Bradyrhizobium
+0.0982	1	1	no rank	2631580	                unclassified Bradyrhizobium
+0.0982	1	0	family	82115	            Rhizobiaceae
+0.0982	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.0982	1	0	genus	379	                Rhizobium
+0.0982	1	0	species	1353277	                  Rhizobium freirei
+0.0982	1	1	strain	363754	                    Rhizobium freirei PRF 81
+0.5894	6	1	no rank	33807	          unclassified Alphaproteobacteria
+0.4912	5	5	species	1913988	            Alphaproteobacteria bacterium
+0.0982	1	0	order	204441	          Rhodospirillales
+0.0982	1	0	family	41295	            Rhodospirillaceae
+0.0982	1	0	genus	171673	              Inquilinus
+0.0982	1	0	species	171674	                Inquilinus limosus
+0.0982	1	1	strain	1398085	                  Inquilinus limosus MP06
+0.8841	9	2	class	28216	        Betaproteobacteria
+0.6876	7	3	no rank	33809	          unclassified Betaproteobacteria
+0.2947	3	3	species	1891241	            Betaproteobacteria bacterium
+0.0982	1	1	species	1797490	            Betaproteobacteria bacterium RIFCSPLOWO2_02_FULL_66_14
+0.0982	1	0	class	1236	        Gammaproteobacteria
+0.0982	1	0	order	72274	          Pseudomonadales
+0.0982	1	0	family	135621	            Pseudomonadaceae
+0.0982	1	0	genus	286	              Pseudomonas
+0.0982	1	0	species group	136845	                Pseudomonas putida group
+0.0982	1	0	species	303	                  Pseudomonas putida
+0.0982	1	1	strain	1218169	                    Pseudomonas putida S11
+0.0982	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.0982	1	0	class	28221	          Deltaproteobacteria
+0.0982	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.0982	1	1	species	1797823	              Deltaproteobacteria bacterium GWD2_55_8
+0.8841	9	1	clade	1783272	      Terrabacteria group
+0.5894	6	2	phylum	200795	        Chloroflexi
+0.3929	4	0	no rank	189774	          unclassified Chloroflexi
+0.3929	4	4	species	2026724	            Chloroflexi bacterium
+0.1965	2	1	phylum	201174	        Actinobacteria
+0.0982	1	0	class	1497346	          Thermoleophilia
+0.0982	1	0	order	588673	            Solirubrobacterales
+0.0982	1	0	family	320583	              Conexibacteraceae
+0.0982	1	0	genus	191494	                Conexibacter
+0.0982	1	0	no rank	2627773	                  unclassified Conexibacter
+0.0982	1	1	species	2812560	                    Conexibacter sp. SYSU D00693
+0.1965	2	0	no rank	49928	      unclassified Bacteria
+0.1965	2	2	species	1869227	        bacterium
+0.1965	2	0	clade	1783270	      FCB group
+0.1965	2	0	phylum	142182	        Gemmatimonadetes
+0.0982	1	0	class	219685	          Gemmatimonadetes
+0.0982	1	0	order	219686	            Gemmatimonadales
+0.0982	1	0	family	219687	              Gemmatimonadaceae
+0.0982	1	0	no rank	246129	                environmental samples
+0.0982	1	1	species	246130	                  uncultured Gemmatimonadaceae bacterium
+0.0982	1	0	no rank	234665	          unclassified Gemmatimonadetes
+0.0982	1	1	species	2026742	            Gemmatimonadetes bacterium
+0.0982	1	0	no rank	2323	      Bacteria incertae sedis
+0.0982	1	0	clade	1783234	        Bacteria candidate phyla
+0.0982	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.0982	1	1	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.0982	1	1	phylum	57723	      Acidobacteria
+0.2947	3	0	superkingdom	2759	    Eukaryota
+0.1965	2	0	clade	33154	      Opisthokonta
+0.1965	2	0	kingdom	33208	        Metazoa
+0.1965	2	0	clade	6072	          Eumetazoa
+0.1965	2	0	clade	33213	            Bilateria
+0.1965	2	0	clade	33317	              Protostomia
+0.1965	2	0	clade	1206794	                Ecdysozoa
+0.0982	1	0	phylum	6231	                  Nematoda
+0.0982	1	0	class	119089	                    Chromadorea
+0.0982	1	0	order	6236	                      Rhabditida
+0.0982	1	0	suborder	6300	                        Tylenchina
+0.0982	1	0	infraorder	2082223	                          Panagrolaimomorpha
+0.0982	1	0	superfamily	2082224	                            Strongyloidoidea
+0.0982	1	0	family	6246	                              Strongyloididae
+0.0982	1	0	genus	131309	                                Parastrongyloides
+0.0982	1	1	species	131310	                                  Parastrongyloides trichosuri
+0.0982	1	0	clade	88770	                  Panarthropoda
+0.0982	1	0	phylum	6656	                    Arthropoda
+0.0982	1	0	clade	197563	                      Mandibulata
+0.0982	1	0	clade	197562	                        Pancrustacea
+0.0982	1	0	subphylum	6960	                          Hexapoda
+0.0982	1	0	class	50557	                            Insecta
+0.0982	1	0	clade	85512	                              Dicondylia
+0.0982	1	0	subclass	7496	                                Pterygota
+0.0982	1	0	infraclass	33340	                                  Neoptera
+0.0982	1	0	cohort	33392	                                    Endopterygota
+0.0982	1	0	order	7041	                                      Coleoptera
+0.0982	1	0	suborder	41084	                                        Polyphaga
+0.0982	1	0	infraorder	41087	                                          Elateriformia
+0.0982	1	0	superfamily	71193	                                            Elateroidea
+0.0982	1	0	family	7049	                                              Lampyridae
+0.0982	1	0	subfamily	433514	                                                Lampyrinae
+0.0982	1	0	genus	370604	                                                  Lamprigera
+0.0982	1	1	species	370605	                                                    Lamprigera yunnana
+0.0982	1	0	kingdom	33090	      Viridiplantae
+0.0982	1	0	phylum	35493	        Streptophyta
+0.0982	1	0	subphylum	131221	          Streptophytina
+0.0982	1	0	clade	3193	            Embryophyta
+0.0982	1	0	clade	58023	              Tracheophyta
+0.0982	1	0	clade	78536	                Euphyllophyta
+0.0982	1	0	clade	58024	                  Spermatophyta
+0.0982	1	0	class	3398	                    Magnoliopsida
+0.0982	1	0	clade	1437183	                      Mesangiospermae
+0.0982	1	0	clade	71240	                        eudicotyledons
+0.0982	1	0	clade	91827	                          Gunneridae
+0.0982	1	0	clade	1437201	                            Pentapetalae
+0.0982	1	0	clade	71275	                              rosids
+0.0982	1	0	clade	91835	                                fabids
+0.0982	1	0	order	72025	                                  Fabales
+0.0982	1	0	family	3803	                                    Fabaceae
+0.0982	1	0	subfamily	3814	                                      Papilionoideae
+0.0982	1	0	clade	2231393	                                        50 kb inversion clade
+0.0982	1	0	clade	2231384	                                          genistoids sensu lato
+0.0982	1	0	clade	2231385	                                            core genistoids
+0.0982	1	0	tribe	163729	                                              Genisteae
+0.0982	1	0	genus	3869	                                                Lupinus
+0.0982	1	1	species	3870	                                                  Lupinus albus

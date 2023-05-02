@@ -1,0 +1,29 @@
+0.6211	1	1	no rank	0	unclassified
+99.3789	160	42	no rank	1	root
+73.2919	118	0	no rank	131567	  cellular organisms
+73.2919	118	21	superkingdom	2	    Bacteria
+59.6273	96	4	clade	1783272	      Terrabacteria group
+55.9006	90	9	phylum	201174	        Actinobacteria
+50.3106	81	49	class	1760	          Actinomycetia
+17.3913	28	6	order	85009	            Propionibacteriales
+13.6646	22	4	family	85015	              Nocardioidaceae
+9.9379	16	9	genus	1839	                Nocardioides
+1.8634	3	3	species	2558918	                  Nocardioides cynanchi
+1.2422	2	2	species	449461	                  Nocardioides humi
+1.2422	2	0	no rank	2615069	                  unclassified Nocardioides
+0.6211	1	1	species	35761	                    Nocardioides sp.
+0.6211	1	1	species	1380388	                    Nocardioides sp. URHA0032
+0.6211	1	0	genus	2044	                Pimelobacter
+0.6211	1	0	no rank	2646405	                  unclassified Pimelobacter
+0.6211	1	1	species	51662	                    Pimelobacter sp.
+0.6211	1	0	genus	86795	                Marmoricola
+0.6211	1	1	species	1542737	                  Marmoricola solisilvae
+1.2422	2	2	order	85006	            Micrococcales
+0.6211	1	0	no rank	52018	            unclassified Actinomycetia
+0.6211	1	1	species	1883427	              Actinomycetia bacterium
+0.6211	1	0	order	85007	            Corynebacteriales
+0.6211	1	0	family	85025	              Nocardiaceae
+0.6211	1	0	genus	1817	                Nocardia
+0.6211	1	1	species	455432	                  Nocardia terpenica
+1.2422	2	2	phylum	200795	        Chloroflexi
+0.6211	1	1	phylum	1224	      Proteobacteria

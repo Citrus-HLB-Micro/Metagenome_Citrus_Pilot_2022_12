@@ -1,0 +1,65 @@
+0.1412	1	1	no rank	0	unclassified
+99.8588	707	32	no rank	1	root
+95.3390	675	0	no rank	131567	  cellular organisms
+95.3390	675	400	superkingdom	2	    Bacteria
+32.4859	230	0	no rank	2323	      Bacteria incertae sedis
+32.4859	230	2	clade	1783234	        Bacteria candidate phyla
+32.2034	228	0	phylum	1752708	          Candidatus Rokubacteria
+32.2034	228	170	no rank	2760815	            unclassified Candidatus Rokubacteria
+8.1921	58	58	species	2053607	              Candidatus Rokubacteria bacterium
+4.3785	31	2	clade	1783272	      Terrabacteria group
+3.9548	28	13	phylum	201174	        Actinobacteria
+1.4124	10	1	class	1497346	          Thermoleophilia
+1.2712	9	5	order	588673	            Solirubrobacterales
+0.5650	4	1	family	320599	              Solirubrobacteraceae
+0.2825	2	2	genus	207599	                Solirubrobacter
+0.1412	1	0	no rank	1162705	                environmental samples
+0.1412	1	1	species	1162706	                  uncultured Solirubrobacteraceae bacterium
+0.4237	3	3	class	1760	          Actinomycetia
+0.1412	1	0	class	84992	          Acidimicrobiia
+0.1412	1	0	no rank	121036	            unclassified Acidimicrobiia
+0.1412	1	1	species	2080302	              Acidimicrobiia bacterium
+0.1412	1	0	class	84995	          Rubrobacteria
+0.1412	1	0	order	84996	            Rubrobacterales
+0.1412	1	0	family	2600303	              Baekduiaceae
+0.1412	1	0	genus	2600304	                Baekduia
+0.1412	1	1	species	496014	                  Baekduia soli
+0.1412	1	0	phylum	200795	        Chloroflexi
+0.1412	1	0	no rank	189774	          unclassified Chloroflexi
+0.1412	1	1	species	1805084	            Chloroflexi bacterium 13_1_40CM_68_21
+0.9887	7	2	phylum	1224	      Proteobacteria
+0.4237	3	0	subphylum	68525	        delta/epsilon subdivisions
+0.4237	3	0	class	28221	          Deltaproteobacteria
+0.4237	3	0	order	29	            Myxococcales
+0.2825	2	0	suborder	80811	              Cystobacterineae
+0.2825	2	0	family	31	                Myxococcaceae
+0.2825	2	0	genus	32	                  Myxococcus
+0.2825	2	2	species	2590453	                    Myxococcus llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogochensis
+0.1412	1	0	suborder	80812	              Sorangiineae
+0.1412	1	0	family	1055686	                Sandaracinaceae
+0.1412	1	0	no rank	2510336	                  unclassified Sandaracinaceae
+0.1412	1	1	species	2510337	                    Sandaracinaceae bacterium
+0.1412	1	1	class	28211	        Alphaproteobacteria
+0.1412	1	0	class	28216	        Betaproteobacteria
+0.1412	1	0	order	206389	          Rhodocyclales
+0.1412	1	0	family	2008794	            Zoogloeaceae
+0.1412	1	0	genus	33057	              Thauera
+0.1412	1	0	no rank	2609274	                unclassified Thauera
+0.1412	1	1	species	85643	                  Thauera sp. MZ1T
+0.2825	2	1	clade	1783257	      PVC group
+0.1412	1	0	phylum	74201	        Verrucomicrobia
+0.1412	1	0	no rank	417295	          unclassified Verrucomicrobia
+0.1412	1	1	species	1852926	            Verrucomicrobia bacterium ADurb.Bin063
+0.2825	2	0	clade	1783270	      FCB group
+0.2825	2	1	phylum	142182	        Gemmatimonadetes
+0.1412	1	0	no rank	234665	          unclassified Gemmatimonadetes
+0.1412	1	1	species	2026742	            Gemmatimonadetes bacterium
+0.1412	1	0	phylum	40117	      Nitrospirae
+0.1412	1	0	class	203693	        Nitrospira
+0.1412	1	0	order	189778	          Nitrospirales
+0.1412	1	0	family	189779	            Nitrospiraceae
+0.1412	1	0	genus	40118	              Candidatus Magnetobacterium
+0.1412	1	1	species	29290	                Candidatus Magnetobacterium bavaricum
+0.1412	1	0	no rank	49928	      unclassified Bacteria
+0.1412	1	1	species	1869227	        bacterium
+0.1412	1	1	phylum	57723	      Acidobacteria

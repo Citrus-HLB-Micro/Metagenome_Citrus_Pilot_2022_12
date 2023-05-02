@@ -1,0 +1,38 @@
+100.0000	176	18	no rank	1	root
+89.7727	158	0	no rank	131567	  cellular organisms
+89.2045	157	57	superkingdom	2	    Bacteria
+55.1136	97	2	clade	1783272	      Terrabacteria group
+53.9773	95	87	phylum	201174	        Actinobacteria
+3.4091	6	1	class	1497346	          Thermoleophilia
+2.8409	5	3	order	588673	            Solirubrobacterales
+1.1364	2	0	no rank	1363568	              unclassified Solirubrobacterales
+1.1364	2	2	species	1909295	                Solirubrobacterales bacterium
+1.1364	2	0	class	1760	          Actinomycetia
+1.1364	2	0	no rank	52018	            unclassified Actinomycetia
+1.1364	2	2	species	1883427	              Actinomycetia bacterium
+0.5682	1	0	no rank	2323	      Bacteria incertae sedis
+0.5682	1	0	clade	1783234	        Bacteria candidate phyla
+0.5682	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.5682	1	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.5682	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+0.5682	1	0	phylum	57723	      Acidobacteria
+0.5682	1	0	no rank	305072	        unclassified Acidobacteria
+0.5682	1	1	species	1797191	          Acidobacteria bacterium RIFCSPLOWO2_12_FULL_66_21
+0.5682	1	0	clade	1783270	      FCB group
+0.5682	1	1	phylum	142182	        Gemmatimonadetes
+0.5682	1	0	superkingdom	2759	    Eukaryota
+0.5682	1	0	clade	33154	      Opisthokonta
+0.5682	1	0	kingdom	33208	        Metazoa
+0.5682	1	0	clade	6072	          Eumetazoa
+0.5682	1	0	clade	33213	            Bilateria
+0.5682	1	0	clade	33317	              Protostomia
+0.5682	1	0	clade	1206794	                Ecdysozoa
+0.5682	1	0	phylum	6231	                  Nematoda
+0.5682	1	0	class	119089	                    Chromadorea
+0.5682	1	0	order	6236	                      Rhabditida
+0.5682	1	0	suborder	6300	                        Tylenchina
+0.5682	1	0	infraorder	2082223	                          Panagrolaimomorpha
+0.5682	1	0	superfamily	2082224	                            Strongyloidoidea
+0.5682	1	0	family	6246	                              Strongyloididae
+0.5682	1	0	genus	131309	                                Parastrongyloides
+0.5682	1	1	species	131310	                                  Parastrongyloides trichosuri

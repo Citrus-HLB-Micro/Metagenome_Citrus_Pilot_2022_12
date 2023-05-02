@@ -1,0 +1,61 @@
+0.5000	1	1	no rank	0	unclassified
+99.5000	199	30	no rank	1	root
+84.5000	169	1	no rank	131567	  cellular organisms
+84.0000	168	70	superkingdom	2	    Bacteria
+47.5000	95	9	clade	1783272	      Terrabacteria group
+41.5000	83	35	phylum	201174	        Actinobacteria
+21.5000	43	26	class	1760	          Actinomycetia
+4.0000	8	0	no rank	52018	            unclassified Actinomycetia
+4.0000	8	8	species	1883427	              Actinomycetia bacterium
+1.5000	3	0	order	85010	            Pseudonocardiales
+1.0000	2	0	no rank	664783	              unclassified Pseudonocardiales
+1.0000	2	2	species	2201155	                Pseudonocardiales bacterium
+0.5000	1	0	family	2070	              Pseudonocardiaceae
+0.5000	1	0	genus	1847	                Pseudonocardia
+0.5000	1	1	species	1128676	                  Pseudonocardia hierapolitana
+1.0000	2	0	order	85006	            Micrococcales
+0.5000	1	0	family	85021	              Intrasporangiaceae
+0.5000	1	0	genus	99479	                Tetrasphaera
+0.5000	1	0	species	330834	                  Tetrasphaera jenkinsii
+0.5000	1	1	strain	1193518	                    Tetrasphaera jenkinsii Ben 74
+0.5000	1	0	family	2805590	              Ornithinimicrobiaceae
+0.5000	1	0	genus	125287	                Ornithinimicrobium
+0.5000	1	0	no rank	2615080	                  unclassified Ornithinimicrobium
+0.5000	1	1	species	1904966	                    Ornithinimicrobium sp. CNJ-824
+0.5000	1	0	order	85008	            Micromonosporales
+0.5000	1	0	family	28056	              Micromonosporaceae
+0.5000	1	0	genus	689760	                Planosporangium
+0.5000	1	1	species	765197	                  Planosporangium thailandense
+0.5000	1	0	order	85009	            Propionibacteriales
+0.5000	1	0	family	2726069	              Kribbellaceae
+0.5000	1	0	genus	182639	                Kribbella
+0.5000	1	1	no rank	2644121	                  unclassified Kribbella
+0.5000	1	0	order	85011	            Streptomycetales
+0.5000	1	0	family	2062	              Streptomycetaceae
+0.5000	1	1	genus	1883	                Streptomyces
+0.5000	1	0	order	1217098	            Jiangellales
+0.5000	1	0	family	1217100	              Jiangellaceae
+0.5000	1	0	genus	281472	                Jiangella
+0.5000	1	1	species	702383	                  Jiangella muralis
+1.5000	3	1	class	908620	          Nitriliruptoria
+0.5000	1	1	order	596497	            Nitriliruptorales
+0.5000	1	1	order	908621	            Euzebyales
+1.0000	2	0	class	84992	          Acidimicrobiia
+0.5000	1	0	order	84993	            Acidimicrobiales
+0.5000	1	0	family	84994	              Acidimicrobiaceae
+0.5000	1	0	no rank	667305	                unclassified Acidimicrobiaceae
+0.5000	1	1	species	2024894	                  Acidimicrobiaceae bacterium
+0.5000	1	0	no rank	121036	            unclassified Acidimicrobiia
+0.5000	1	1	species	2080302	              Acidimicrobiia bacterium
+1.5000	3	2	phylum	200795	        Chloroflexi
+0.5000	1	0	no rank	189774	          unclassified Chloroflexi
+0.5000	1	1	species	1797616	            Chloroflexi bacterium GWC2_73_18
+1.5000	3	1	phylum	1224	      Proteobacteria
+0.5000	1	0	class	28216	        Betaproteobacteria
+0.5000	1	0	order	80840	          Burkholderiales
+0.5000	1	0	family	119060	            Burkholderiaceae
+0.5000	1	0	genus	32008	              Burkholderia
+0.5000	1	0	species group	111527	                pseudomallei group
+0.5000	1	1	species	28450	                  Burkholderia pseudomallei
+0.5000	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.5000	1	1	class	28221	          Deltaproteobacteria

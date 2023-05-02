@@ -1,0 +1,72 @@
+1.8919	7	7	no rank	0	unclassified
+98.1081	363	106	no rank	1	root
+69.4595	257	2	no rank	131567	  cellular organisms
+68.9189	255	91	superkingdom	2	    Bacteria
+42.7027	158	9	clade	1783272	      Terrabacteria group
+39.1892	145	53	phylum	201174	        Actinobacteria
+22.4324	83	39	class	1760	          Actinomycetia
+9.1892	34	1	no rank	52018	            unclassified Actinomycetia
+8.9189	33	33	species	1883427	              Actinomycetia bacterium
+0.8108	3	0	order	85008	            Micromonosporales
+0.8108	3	1	family	28056	              Micromonosporaceae
+0.2703	1	1	genus	1865	                Actinoplanes
+0.2703	1	0	genus	907364	                Phytohabitans
+0.2703	1	1	species	624315	                  Phytohabitans suffuscus
+0.5405	2	0	order	85006	            Micrococcales
+0.2703	1	0	family	85021	              Intrasporangiaceae
+0.2703	1	0	genus	99479	                Tetrasphaera
+0.2703	1	0	no rank	2643346	                  unclassified Tetrasphaera
+0.2703	1	1	species	1813880	                    Tetrasphaera sp. HKS02
+0.2703	1	0	family	85023	              Microbacteriaceae
+0.2703	1	0	genus	2034	                Curtobacterium
+0.2703	1	0	no rank	257496	                  unclassified Curtobacterium
+0.2703	1	1	species	1891920	                    Curtobacterium sp. ER1/6
+0.5405	2	0	order	85011	            Streptomycetales
+0.5405	2	0	family	2062	              Streptomycetaceae
+0.5405	2	0	genus	1883	                Streptomyces
+0.2703	1	1	species	285535	                  Streptomyces fulvoviolaceus
+0.2703	1	0	no rank	2593676	                  unclassified Streptomyces
+0.2703	1	1	species	1522763	                    Streptomyces sp. ADI98-10
+0.2703	1	1	order	85007	            Corynebacteriales
+0.2703	1	0	order	85010	            Pseudonocardiales
+0.2703	1	0	family	2070	              Pseudonocardiaceae
+0.2703	1	0	genus	1813	                Amycolatopsis
+0.2703	1	1	species	369932	                  Amycolatopsis niigatensis
+0.2703	1	0	order	2793120	            Motilibacterales
+0.2703	1	0	family	1433378	              Motilibacteraceae
+0.2703	1	0	genus	1434021	                Motilibacter
+0.2703	1	1	species	2714956	                  Motilibacter deserti
+2.1622	8	1	class	84992	          Acidimicrobiia
+1.0811	4	0	no rank	121036	            unclassified Acidimicrobiia
+1.0811	4	4	species	2080302	              Acidimicrobiia bacterium
+0.8108	3	1	order	84993	            Acidimicrobiales
+0.2703	1	0	family	84994	              Acidimicrobiaceae
+0.2703	1	0	no rank	667305	                unclassified Acidimicrobiaceae
+0.2703	1	1	species	2024894	                  Acidimicrobiaceae bacterium
+0.2703	1	0	family	633392	              Iamiaceae
+0.2703	1	0	genus	2820403	                Rhabdothermincola
+0.2703	1	1	species	2751370	                  Rhabdothermincola sediminis
+0.2703	1	0	class	908620	          Nitriliruptoria
+0.2703	1	0	order	908621	            Euzebyales
+0.2703	1	0	family	908622	              Euzebyaceae
+0.2703	1	1	genus	908623	                Euzebya
+1.0811	4	2	phylum	200795	        Chloroflexi
+0.2703	1	1	no rank	189774	          unclassified Chloroflexi
+0.2703	1	1	class	292625	          Anaerolineae
+1.0811	4	0	phylum	1224	      Proteobacteria
+0.5405	2	0	class	28216	        Betaproteobacteria
+0.2703	1	0	order	32003	          Nitrosomonadales
+0.2703	1	0	family	206379	            Nitrosomonadaceae
+0.2703	1	1	genus	914	              Nitrosomonas
+0.2703	1	0	order	80840	          Burkholderiales
+0.2703	1	0	no rank	80841	            unclassified Burkholderiales
+0.2703	1	1	species	1797561	              Burkholderiales bacterium RIFCSPHIGHO2_12_FULL_69_20
+0.5405	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.5405	2	1	class	28221	          Deltaproteobacteria
+0.2703	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.2703	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.2703	1	0	no rank	48479	      environmental samples
+0.2703	1	1	species	460939	        uncultured bacterium Bio6
+0.2703	1	0	phylum	57723	      Acidobacteria
+0.2703	1	0	no rank	305072	        unclassified Acidobacteria
+0.2703	1	1	species	1978231	          Acidobacteria bacterium

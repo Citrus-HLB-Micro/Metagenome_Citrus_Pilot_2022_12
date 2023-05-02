@@ -1,0 +1,22 @@
+1.1050	2	2	no rank	0	unclassified
+98.8950	179	3	no rank	1	root
+97.2376	176	0	no rank	131567	  cellular organisms
+97.2376	176	127	superkingdom	2	    Bacteria
+25.4144	46	0	clade	1783270	      FCB group
+25.4144	46	35	phylum	142182	        Gemmatimonadetes
+6.0773	11	0	class	219685	          Gemmatimonadetes
+6.0773	11	3	order	219686	            Gemmatimonadales
+4.4199	8	0	no rank	1951096	              unclassified Gemmatimonadales
+4.4199	8	8	species	2448054	                Gemmatimonadales bacterium
+1.1050	2	0	clade	1783272	      Terrabacteria group
+0.5525	1	0	phylum	67819	        Armatimonadetes
+0.5525	1	0	no rank	1042316	          unclassified Armatimonadetes
+0.5525	1	1	species	2033014	            Armatimonadetes bacterium
+0.5525	1	0	phylum	200795	        Chloroflexi
+0.5525	1	0	no rank	189774	          unclassified Chloroflexi
+0.5525	1	1	species	2026724	            Chloroflexi bacterium
+0.5525	1	0	no rank	2323	      Bacteria incertae sedis
+0.5525	1	0	clade	1783234	        Bacteria candidate phyla
+0.5525	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.5525	1	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.5525	1	1	species	2053607	              Candidatus Rokubacteria bacterium

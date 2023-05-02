@@ -1,0 +1,111 @@
+0.8421	4	4	no rank	0	unclassified
+99.1579	471	76	no rank	1	root
+83.1579	395	2	no rank	131567	  cellular organisms
+82.1053	390	117	superkingdom	2	    Bacteria
+54.3158	258	140	phylum	1224	      Proteobacteria
+18.5263	88	48	class	1236	        Gammaproteobacteria
+6.1053	29	0	order	1775403	          Nevskiales
+6.1053	29	8	family	2689614	            Steroidobacteraceae
+3.5789	17	12	genus	469322	              Steroidobacter
+0.4211	2	2	species	1803913	                Steroidobacter cummioxidans
+0.4211	2	2	species	2497877	                Steroidobacter soli
+0.2105	1	1	species	2695856	                Steroidobacter agaridevorans
+0.8421	4	0	genus	1538468	              Povalibacter
+0.8421	4	4	species	732238	                Povalibacter uvarum
+1.4737	7	2	order	135614	          Xanthomonadales
+0.8421	4	0	family	32033	            Xanthomonadaceae
+0.4211	2	0	no rank	57609	              unclassified Xanthomonadaceae
+0.4211	2	2	species	1926873	                Xanthomonadaceae bacterium
+0.2105	1	1	genus	68	              Lysobacter
+0.2105	1	0	genus	83618	              Pseudoxanthomonas
+0.2105	1	1	species	1503750	                Pseudoxanthomonas sangjuensis
+0.2105	1	0	no rank	451320	            unclassified Xanthomonadales
+0.2105	1	1	species	2006849	              Xanthomonadales bacterium
+0.4211	2	0	no rank	33811	          unclassified Gammaproteobacteria
+0.4211	2	2	species	1913989	            Gammaproteobacteria bacterium
+0.2105	1	0	no rank	118884	          Gammaproteobacteria incertae sedis
+0.2105	1	0	clade	32036	            sulfur-oxidizing symbionts
+0.2105	1	1	species	642797	              Solemya pervernicosa gill symbiont
+0.2105	1	0	order	135613	          Chromatiales
+0.2105	1	0	no rank	2576752	            unclassified Chromatiales
+0.2105	1	1	species	2026725	              Chromatiales bacterium
+2.9474	14	3	class	28216	        Betaproteobacteria
+1.2632	6	2	order	80840	          Burkholderiales
+0.4211	2	0	family	75682	            Oxalobacteraceae
+0.4211	2	0	genus	29580	              Janthinobacterium
+0.4211	2	2	species	29581	                Janthinobacterium lividum
+0.2105	1	1	family	80864	            Comamonadaceae
+0.2105	1	0	family	119060	            Burkholderiaceae
+0.2105	1	1	genus	32008	              Burkholderia
+0.6316	3	0	no rank	33809	          unclassified Betaproteobacteria
+0.4211	2	2	species	1891241	            Betaproteobacteria bacterium
+0.2105	1	1	species	1703389	            Betaproteobacteria bacterium SG8_40
+0.2105	1	0	order	32003	          Nitrosomonadales
+0.2105	1	0	family	2803844	            Usitatibacteraceae
+0.2105	1	0	genus	2803845	              Usitatibacter
+0.2105	1	1	species	2732487	                Usitatibacter palustris
+0.2105	1	0	order	206389	          Rhodocyclales
+0.2105	1	0	family	75787	            Rhodocyclaceae
+0.2105	1	0	no rank	75788	              unclassified Rhodocyclaceae
+0.2105	1	1	species	1898103	                Rhodocyclaceae bacterium
+2.1053	10	9	class	28211	        Alphaproteobacteria
+0.2105	1	0	order	204457	          Sphingomonadales
+0.2105	1	0	family	41297	            Sphingomonadaceae
+0.2105	1	0	genus	13687	              Sphingomonas
+0.2105	1	1	no rank	196159	                unclassified Sphingomonas
+0.6316	3	0	no rank	81684	        unclassified Proteobacteria
+0.6316	3	3	species	1977087	          Proteobacteria bacterium
+0.4211	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.4211	2	0	class	28221	          Deltaproteobacteria
+0.2105	1	0	order	29	            Myxococcales
+0.2105	1	0	suborder	80812	              Sorangiineae
+0.2105	1	0	family	49	                Polyangiaceae
+0.2105	1	0	genus	39643	                  Sorangium
+0.2105	1	1	species	56	                    Sorangium cellulosum
+0.2105	1	0	order	213462	            Syntrophobacterales
+0.2105	1	0	family	213468	              Syntrophaceae
+0.2105	1	0	genus	2357	                Desulfomonile
+0.2105	1	0	species	2358	                  Desulfomonile tiedjei
+0.2105	1	1	strain	706587	                    Desulfomonile tiedjei DSM 6799
+0.2105	1	0	class	1817795	        Candidatus Muproteobacteria
+0.2105	1	1	species	1817755	          Candidatus Muproteobacteria bacterium RBG_16_60_9
+2.1053	10	3	phylum	57723	      Acidobacteria
+1.4737	7	1	no rank	305072	        unclassified Acidobacteria
+1.2632	6	6	species	1978231	          Acidobacteria bacterium
+0.4211	2	0	no rank	49928	      unclassified Bacteria
+0.2105	1	1	species	1869227	        bacterium
+0.2105	1	1	species	2080454	        bacterium MnTg04
+0.2105	1	1	clade	1783257	      PVC group
+0.2105	1	0	clade	1783270	      FCB group
+0.2105	1	0	phylum	142182	        Gemmatimonadetes
+0.2105	1	1	no rank	234665	          unclassified Gemmatimonadetes
+0.2105	1	0	clade	1783272	      Terrabacteria group
+0.2105	1	0	phylum	200795	        Chloroflexi
+0.2105	1	0	class	189775	          Thermomicrobia
+0.2105	1	0	order	189776	            Thermomicrobiales
+0.2105	1	0	no rank	1382355	              unclassified Thermomicrobiales
+0.2105	1	1	species	2482790	                Thermomicrobiales bacterium
+0.6316	3	0	superkingdom	2759	    Eukaryota
+0.6316	3	0	kingdom	33090	      Viridiplantae
+0.6316	3	0	phylum	35493	        Streptophyta
+0.6316	3	0	subphylum	131221	          Streptophytina
+0.6316	3	0	clade	3193	            Embryophyta
+0.6316	3	0	clade	58023	              Tracheophyta
+0.6316	3	0	clade	78536	                Euphyllophyta
+0.6316	3	0	clade	58024	                  Spermatophyta
+0.6316	3	0	class	3398	                    Magnoliopsida
+0.6316	3	0	clade	1437183	                      Mesangiospermae
+0.6316	3	0	clade	71240	                        eudicotyledons
+0.6316	3	0	clade	91827	                          Gunneridae
+0.6316	3	0	clade	1437201	                            Pentapetalae
+0.6316	3	0	clade	71275	                              rosids
+0.6316	3	0	clade	91835	                                fabids
+0.6316	3	0	order	72025	                                  Fabales
+0.6316	3	0	family	3803	                                    Fabaceae
+0.6316	3	0	subfamily	3814	                                      Papilionoideae
+0.6316	3	0	clade	2231393	                                        50 kb inversion clade
+0.6316	3	0	clade	2231384	                                          genistoids sensu lato
+0.6316	3	0	clade	2231385	                                            core genistoids
+0.6316	3	0	tribe	163729	                                              Genisteae
+0.6316	3	0	genus	3869	                                                Lupinus
+0.6316	3	3	species	3870	                                                  Lupinus albus

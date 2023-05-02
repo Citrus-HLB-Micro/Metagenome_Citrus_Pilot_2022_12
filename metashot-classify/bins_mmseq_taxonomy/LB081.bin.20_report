@@ -1,0 +1,53 @@
+0.2268	1	1	no rank	0	unclassified
+99.7732	440	18	no rank	1	root
+95.6916	422	4	no rank	131567	  cellular organisms
+94.7846	418	199	superkingdom	2	    Bacteria
+42.8571	189	1	clade	1783270	      FCB group
+42.4036	187	77	phylum	142182	        Gemmatimonadetes
+24.2630	107	71	no rank	234665	          unclassified Gemmatimonadetes
+7.9365	35	35	species	2026742	            Gemmatimonadetes bacterium
+0.2268	1	1	species	1970514	            Gemmatimonadetes bacterium 21-71-4
+0.6803	3	0	class	219685	          Gemmatimonadetes
+0.6803	3	1	order	219686	            Gemmatimonadales
+0.4535	2	0	family	219687	              Gemmatimonadaceae
+0.2268	1	0	no rank	1387399	                unclassified Gemmatimonadaceae
+0.2268	1	1	species	2026741	                  Gemmatimonadaceae bacterium
+0.2268	1	0	genus	1706036	                Gemmatirosa
+0.2268	1	1	species	861299	                  Gemmatirosa kalamazoonesis
+0.2268	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.2268	1	0	phylum	976	          Bacteroidetes
+0.2268	1	0	class	768503	            Cytophagia
+0.2268	1	0	order	768507	              Cytophagales
+0.2268	1	1	family	89373	                Cytophagaceae
+4.5351	20	9	phylum	57723	      Acidobacteria
+2.0408	9	3	no rank	305072	        unclassified Acidobacteria
+1.3605	6	6	species	1978231	          Acidobacteria bacterium
+0.4535	2	0	class	1813735	        Vicinamibacteria
+0.2268	1	0	no rank	2793153	          unclassified Vicinamibacteria
+0.2268	1	1	species	2802971	            Vicinamibacteria bacterium TBR-22
+0.2268	1	0	order	2910145	          Vicinamibacterales
+0.2268	1	0	family	2211325	            Vicinamibacteraceae
+0.2268	1	0	genus	2004797	              Luteitalea
+0.2268	1	1	species	1855912	                Luteitalea pratensis
+0.6803	3	3	phylum	1224	      Proteobacteria
+0.6803	3	0	no rank	2323	      Bacteria incertae sedis
+0.6803	3	0	clade	1783234	        Bacteria candidate phyla
+0.6803	3	0	phylum	1752708	          Candidatus Rokubacteria
+0.6803	3	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.6803	3	3	species	2053607	              Candidatus Rokubacteria bacterium
+0.6803	3	0	clade	1783272	      Terrabacteria group
+0.4535	2	0	phylum	201174	        Actinobacteria
+0.2268	1	0	class	1760	          Actinomycetia
+0.2268	1	0	order	85010	            Pseudonocardiales
+0.2268	1	0	no rank	664783	              unclassified Pseudonocardiales
+0.2268	1	1	species	2201155	                Pseudonocardiales bacterium
+0.2268	1	0	class	1497346	          Thermoleophilia
+0.2268	1	0	order	588674	            Thermoleophilales
+0.2268	1	0	family	320796	              Thermoleophilaceae
+0.2268	1	0	no rank	2732251	                unclassified Thermoleophilaceae
+0.2268	1	1	species	2732252	                  Thermoleophilaceae bacterium
+0.2268	1	0	phylum	200795	        Chloroflexi
+0.2268	1	0	class	301297	          Dehalococcoidia
+0.2268	1	0	no rank	1318598	            unclassified Dehalococcoidia
+0.2268	1	1	species	2026734	              Dehalococcoidia bacterium
+0.2268	1	1	clade	1783257	      PVC group

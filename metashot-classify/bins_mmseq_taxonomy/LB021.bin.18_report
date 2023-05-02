@@ -1,0 +1,30 @@
+0.2070	1	1	no rank	0	unclassified
+99.7930	482	15	no rank	1	root
+96.6874	467	1	no rank	131567	  cellular organisms
+96.4803	466	217	superkingdom	2	    Bacteria
+50.9317	246	191	phylum	57723	      Acidobacteria
+8.4886	41	9	class	204432	        Acidobacteriia
+5.7971	28	0	no rank	2169411	          unclassified Acidobacteriia
+5.7971	28	28	species	2169412	            Acidobacteriia bacterium AA117
+0.8282	4	0	order	204433	          Acidobacteriales
+0.8282	4	1	family	204434	            Acidobacteriaceae
+0.2070	1	0	genus	33973	              Acidobacterium
+0.2070	1	1	species	33075	                Acidobacterium capsulatum
+0.2070	1	0	genus	1742983	              Occallatibacter
+0.2070	1	1	species	1002691	                Occallatibacter savannae
+0.2070	1	0	genus	2136117	              Candidatus Sulfotelmatomonas
+0.2070	1	1	species	2043161	                Candidatus Sulfotelmatomonas gaucii
+2.8986	14	1	no rank	305072	        unclassified Acidobacteria
+2.4845	12	12	species	1978231	          Acidobacteria bacterium
+0.2070	1	1	species	1803033	          Acidobacteria bacterium SCGC AG-212-P17
+0.4141	2	1	phylum	1224	      Proteobacteria
+0.2070	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.2070	1	0	class	28221	          Deltaproteobacteria
+0.2070	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.2070	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.2070	1	0	clade	1783272	      Terrabacteria group
+0.2070	1	0	phylum	201174	        Actinobacteria
+0.2070	1	0	class	1760	          Actinomycetia
+0.2070	1	0	order	85010	            Pseudonocardiales
+0.2070	1	0	no rank	664783	              unclassified Pseudonocardiales
+0.2070	1	1	species	2201155	                Pseudonocardiales bacterium

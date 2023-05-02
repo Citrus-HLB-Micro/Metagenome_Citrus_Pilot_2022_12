@@ -1,0 +1,232 @@
+k141_1424	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1515313	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_2468	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2189093	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2357874	42253	species	Nitrospira moscoviensis	2	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;s_Nitrospira moscoviensis
+k141_1517539	40117	phylum	Nitrospirae	6	6	3	0.590	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1012918	40117	phylum	Nitrospirae	4	4	3	0.680	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1180917	0	no rank	unclassified	1	0	0	0.000		
+k141_1687076	2	superkingdom	Bacteria	8	7	4	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1183186	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1713576	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_875791	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2220645	1234	genus	Nitrospira	2	1	1	1.000	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_1552646	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1044649	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1555084	2	superkingdom	Bacteria	7	7	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1887215	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1556362	40117	phylum	Nitrospirae	4	4	4	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_546747	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1050816	40117	phylum	Nitrospirae	3	3	2	0.960	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_418875	40117	phylum	Nitrospirae	4	4	4	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_244707	1049336	species	Ephemera danica	2	2	1	0.500	Metazoa;Arthropoda;Ephemeridae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Palaeoptera;o_Ephemeroptera;-_Furcatergalia;-_Scapphodonta;f_Ephemeridae;g_Ephemera;s_Ephemera danica
+k141_1420072	356	order	Hyphomicrobiales	2	2	1	0.500	unknown;Proteobacteria;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_2431121	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_1597983	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_77941	40117	phylum	Nitrospirae	4	4	3	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_78213	40117	phylum	Nitrospirae	5	4	3	0.750	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1087915	2	superkingdom	Bacteria	6	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2603301	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1758324	40117	phylum	Nitrospirae	4	4	3	0.750	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_442866	189778	order	Nitrospirales	5	4	2	0.500	unknown;Nitrospirae;uc_Nitrospirales	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales
+k141_2283416	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_2622816	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2622958	40117	phylum	Nitrospirae	3	2	1	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2116865	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_268091	189779	family	Nitrospiraceae	3	3	2	0.670	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae
+k141_1275609	40117	phylum	Nitrospirae	8	7	4	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2456184	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1276896	40117	phylum	Nitrospirae	5	4	2	0.660	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_101264	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2441292	2	superkingdom	Bacteria	13	11	8	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2610781	2	superkingdom	Bacteria	4	4	3	0.540	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2105166	40117	phylum	Nitrospirae	4	4	3	0.750	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1936009	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_594468	40117	phylum	Nitrospirae	8	7	5	0.790	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1264195	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2612703	40117	phylum	Nitrospirae	4	4	2	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1432872	40117	phylum	Nitrospirae	6	6	5	0.700	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2613317	40117	phylum	Nitrospirae	7	7	7	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_88926	40117	phylum	Nitrospirae	4	4	4	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_310339	40117	phylum	Nitrospirae	4	4	2	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1818339	1852929	species	Verrucomicrobia bacterium ADurb.Bin122	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium ADurb.Bin122
+k141_491011	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_311348	40117	phylum	Nitrospirae	4	4	3	0.750	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1990448	1234	genus	Nitrospira	5	4	2	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_1318107	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2328234	2652172	no rank	unclassified Nitrospira	2	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;-_unclassified Nitrospira
+k141_492454	70125	species	Nitrospira sp.	5	3	2	0.670	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;-_unclassified Nitrospira;s_Nitrospira sp.
+k141_652551	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2330484	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_2445207	189779	family	Nitrospiraceae	10	9	5	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae
+k141_1266606	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2108662	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2615279	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1772232	1234	genus	Nitrospira	6	6	3	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_763193	2	superkingdom	Bacteria	4	4	3	0.540	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2449364	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1618120	40117	phylum	Nitrospirae	4	4	3	0.750	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_94711	2652172	no rank	unclassified Nitrospira	3	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;-_unclassified Nitrospira
+k141_1440293	40117	phylum	Nitrospirae	4	4	2	0.650	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_58566	1234	genus	Nitrospira	4	4	2	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_2077312	2	superkingdom	Bacteria	9	8	7	0.810	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_228338	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2415224	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_731961	40117	phylum	Nitrospirae	3	3	3	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_903484	1049336	species	Ephemera danica	4	4	2	0.500	Metazoa;Arthropoda;Ephemeridae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Palaeoptera;o_Ephemeroptera;-_Furcatergalia;-_Scapphodonta;f_Ephemeridae;g_Ephemera;s_Ephemera danica
+k141_2418514	40117	phylum	Nitrospirae	4	4	2	0.650	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_734911	2	superkingdom	Bacteria	7	6	4	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2587761	2	superkingdom	Bacteria	7	7	4	0.570	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_735187	40117	phylum	Nitrospirae	4	4	3	0.750	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_296803	40117	phylum	Nitrospirae	4	3	3	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1805359	2	superkingdom	Bacteria	7	6	5	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1806278	40117	phylum	Nitrospirae	2	2	1	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2314889	40117	phylum	Nitrospirae	4	4	2	0.660	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_796636	189779	family	Nitrospiraceae	7	7	5	0.670	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae
+k141_796689	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_1306047	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2655642	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_2656502	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_640158	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_322838	40117	phylum	Nitrospirae	4	4	2	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_504393	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_664599	1234	genus	Nitrospira	3	3	2	0.670	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_2343723	40117	phylum	Nitrospirae	6	6	4	0.610	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2344919	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1167791	2026887	species	Nitrospirae bacterium	2	2	1	0.500	unknown;Nitrospirae;unknown	-_cellular organisms;d_Bacteria;p_Nitrospirae;-_unclassified Nitrospirae;s_Nitrospirae bacterium
+k141_1168033	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2517267	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2687601	2	superkingdom	Bacteria	6	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1338731	2	superkingdom	Bacteria	4	4	3	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1321054	40117	phylum	Nitrospirae	5	4	2	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_145315	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_316562	40117	phylum	Nitrospirae	6	6	4	0.610	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1322840	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1675822	40117	phylum	Nitrospirae	4	4	3	0.680	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1995930	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1824613	40117	phylum	Nitrospirae	2	2	1	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1676996	1234	genus	Nitrospira	5	5	2	0.640	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_147694	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_499243	40117	phylum	Nitrospirae	4	4	2	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_164607	42253	species	Nitrospira moscoviensis	4	4	2	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;s_Nitrospira moscoviensis
+k141_840126	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_500369	40117	phylum	Nitrospirae	4	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_500435	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2336915	2	superkingdom	Bacteria	7	7	6	0.990	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_993293	40117	phylum	Nitrospirae	6	6	3	0.590	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2677242	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_320808	189778	order	Nitrospirales	2	1	1	1.000	unknown;Nitrospirae;uc_Nitrospirales	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales
+k141_817302	40117	phylum	Nitrospirae	5	5	5	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1160309	40117	phylum	Nitrospirae	6	6	4	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_321627	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1496683	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2289179	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_2289989	2	superkingdom	Bacteria	6	6	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1280223	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1629941	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2631401	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1282800	2	superkingdom	Bacteria	9	8	6	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_106785	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2126130	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1957068	356	order	Hyphomicrobiales	5	4	2	0.500	unknown;Proteobacteria;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_2633043	189779	family	Nitrospiraceae	5	3	2	0.510	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae
+k141_686677	40117	phylum	Nitrospirae	4	4	2	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_182507	40117	phylum	Nitrospirae	3	3	3	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_519530	40117	phylum	Nitrospirae	3	3	2	0.510	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1192911	70125	species	Nitrospira sp.	2	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;-_unclassified Nitrospira;s_Nitrospira sp.
+k141_857439	189779	family	Nitrospiraceae	6	6	3	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae
+k141_185767	40117	phylum	Nitrospirae	4	4	2	0.950	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2371943	2	superkingdom	Bacteria	6	6	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_356311	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1196682	40117	phylum	Nitrospirae	2	2	1	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2038589	70125	species	Nitrospira sp.	3	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;-_unclassified Nitrospira;s_Nitrospira sp.
+k141_1659102	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_481956	40117	phylum	Nitrospirae	7	7	5	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_800388	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2152200	40117	phylum	Nitrospirae	4	3	3	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1145541	1234	genus	Nitrospira	2	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_804768	40117	phylum	Nitrospirae	4	4	3	0.750	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2325338	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_488811	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_309841	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_649800	1234	genus	Nitrospira	3	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_382608	2	superkingdom	Bacteria	4	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1388226	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1892515	2	superkingdom	Bacteria	5	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2568417	2	superkingdom	Bacteria	4	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2401108	1	no rank	root	10	10	10	1.000	unknown;unknown;unknown	-_root
+k141_1392798	40117	phylum	Nitrospirae	4	4	2	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_554058	40117	phylum	Nitrospirae	4	4	2	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2572629	40117	phylum	Nitrospirae	5	5	4	0.800	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2068632	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_891820	1234	genus	Nitrospira	3	3	3	1.000	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_2435043	2	superkingdom	Bacteria	7	7	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1928493	2	superkingdom	Bacteria	8	8	5	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_586532	40117	phylum	Nitrospirae	5	5	4	0.800	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_750239	2	superkingdom	Bacteria	9	8	7	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_588061	40117	phylum	Nitrospirae	5	3	3	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2267251	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_250691	28211	class	Alphaproteobacteria	4	3	2	0.670	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_2100937	1	no rank	root	12	11	11	1.000	unknown;unknown;unknown	-_root
+k141_428091	40117	phylum	Nitrospirae	8	8	4	0.510	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2103087	40117	phylum	Nitrospirae	5	5	4	0.800	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2529092	1827376	species	Nitrospira sp. SG-bin1	3	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;-_unclassified Nitrospira;s_Nitrospira sp. SG-bin1
+k141_1015805	40117	phylum	Nitrospirae	4	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_344233	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1353287	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_849039	40117	phylum	Nitrospirae	3	3	3	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_345554	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2196001	40117	phylum	Nitrospirae	3	2	1	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_851618	2026887	species	Nitrospirae bacterium	2	2	1	0.940	unknown;Nitrospirae;unknown	-_cellular organisms;d_Bacteria;p_Nitrospirae;-_unclassified Nitrospirae;s_Nitrospirae bacterium
+k141_2366161	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1358425	1827376	species	Nitrospira sp. SG-bin1	2	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;-_unclassified Nitrospira;s_Nitrospira sp. SG-bin1
+k141_2591325	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_574339	40117	phylum	Nitrospirae	4	4	4	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_67906	40117	phylum	Nitrospirae	6	6	3	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_909917	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_575364	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_575561	1224	phylum	Proteobacteria	3	3	2	0.990	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1246854	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2259029	40117	phylum	Nitrospirae	4	4	3	0.750	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1417690	131567	no rank	cellular organisms	5	5	5	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_1419215	131567	no rank	cellular organisms	4	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_722179	40117	phylum	Nitrospirae	9	9	7	0.720	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1228071	40117	phylum	Nitrospirae	6	6	5	0.830	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_557450	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2406990	1325564	species	Nitrospira japonica	3	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;s_Nitrospira japonica
+k141_2408201	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_394660	57723	phylum	Acidobacteria	5	5	3	0.510	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_53250	1049336	species	Ephemera danica	5	4	2	0.500	Metazoa;Arthropoda;Ephemeridae	-_cellular organisms;d_Eukaryota;-_Opisthokonta;k_Metazoa;-_Eumetazoa;-_Bilateria;-_Protostomia;-_Ecdysozoa;-_Panarthropoda;p_Arthropoda;-_Mandibulata;-_Pancrustacea;-_Hexapoda;c_Insecta;-_Dicondylia;-_Pterygota;-_Palaeoptera;o_Ephemeroptera;-_Furcatergalia;-_Scapphodonta;f_Ephemeridae;g_Ephemera;s_Ephemera danica
+k141_222780	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1401363	2	superkingdom	Bacteria	11	11	10	0.910	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_227235	40117	phylum	Nitrospirae	6	6	4	0.520	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1650061	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_1467689	40117	phylum	Nitrospirae	2	2	2	1.000	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1973655	40117	phylum	Nitrospirae	5	5	3	0.600	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1803491	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_634514	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1134979	2	superkingdom	Bacteria	4	4	3	0.530	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_968931	40117	phylum	Nitrospirae	4	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_474786	40117	phylum	Nitrospirae	3	3	2	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_794436	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1975937	40117	phylum	Nitrospirae	4	4	2	0.500	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_1284286	2	superkingdom	Bacteria	6	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1788678	1891241	species	Betaproteobacteria bacterium	4	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria;s_Betaproteobacteria bacterium
+k141_956573	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2473765	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1461636	1891241	species	Betaproteobacteria bacterium	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_unclassified Betaproteobacteria;s_Betaproteobacteria bacterium
+k141_1966932	2	superkingdom	Bacteria	7	6	4	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1645366	2	superkingdom	Bacteria	8	8	6	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_788998	1234	genus	Nitrospira	2	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_2308124	40117	phylum	Nitrospirae	4	4	2	0.660	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2141986	40117	phylum	Nitrospirae	5	5	3	0.600	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_525813	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2041087	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2377174	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2547644	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_363358	1325564	species	Nitrospira japonica	3	3	2	0.670	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;s_Nitrospira japonica
+k141_365068	1234	genus	Nitrospira	5	5	2	0.640	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_1372113	2	superkingdom	Bacteria	7	7	4	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2382334	1985130	species	Nitrospira sp. CG24D	3	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;-_unclassified Nitrospira;s_Nitrospira sp. CG24D
+k141_1879365	40117	phylum	Nitrospirae	4	4	3	0.670	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_537944	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root

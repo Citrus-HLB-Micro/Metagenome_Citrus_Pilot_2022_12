@@ -1,0 +1,51 @@
+100.0000	656	26	no rank	1	root
+96.0366	630	2	no rank	131567	  cellular organisms
+95.7317	628	391	superkingdom	2	    Bacteria
+31.8598	209	0	no rank	2323	      Bacteria incertae sedis
+31.8598	209	1	clade	1783234	        Bacteria candidate phyla
+31.7073	208	0	phylum	1752708	          Candidatus Rokubacteria
+31.7073	208	145	no rank	2760815	            unclassified Candidatus Rokubacteria
+9.6037	63	63	species	2053607	              Candidatus Rokubacteria bacterium
+2.1341	14	5	phylum	1224	      Proteobacteria
+0.6098	4	0	subphylum	68525	        delta/epsilon subdivisions
+0.6098	4	2	class	28221	          Deltaproteobacteria
+0.1524	1	0	order	29	            Myxococcales
+0.1524	1	1	suborder	80811	              Cystobacterineae
+0.1524	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.1524	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.4573	3	1	class	1236	        Gammaproteobacteria
+0.3049	2	1	order	135614	          Xanthomonadales
+0.1524	1	0	no rank	451320	            unclassified Xanthomonadales
+0.1524	1	1	species	2006849	              Xanthomonadales bacterium
+0.3049	2	1	class	28211	        Alphaproteobacteria
+0.1524	1	0	order	510684	          Sneathiellales
+0.1524	1	0	family	510685	            Sneathiellaceae
+0.1524	1	1	genus	510690	              Sneathiella
+1.6768	11	0	clade	1783272	      Terrabacteria group
+1.2195	8	4	phylum	201174	        Actinobacteria
+0.4573	3	2	class	1760	          Actinomycetia
+0.1524	1	0	no rank	52018	            unclassified Actinomycetia
+0.1524	1	1	species	1883427	              Actinomycetia bacterium
+0.1524	1	0	class	1497346	          Thermoleophilia
+0.1524	1	0	no rank	1497500	            environmental samples
+0.1524	1	1	species	1497501	              uncultured Thermoleophilia bacterium
+0.4573	3	1	phylum	200795	        Chloroflexi
+0.1524	1	0	class	32061	          Chloroflexia
+0.1524	1	0	order	32064	            Chloroflexales
+0.1524	1	0	suborder	1508595	              Roseiflexineae
+0.1524	1	0	family	1508635	                Roseiflexaceae
+0.1524	1	0	genus	186475	                  Kouleothrix
+0.1524	1	1	species	186479	                    Kouleothrix aurantiaca
+0.1524	1	0	no rank	189774	          unclassified Chloroflexi
+0.1524	1	1	species	2026724	            Chloroflexi bacterium
+0.1524	1	0	phylum	57723	      Acidobacteria
+0.1524	1	0	class	204432	        Acidobacteriia
+0.1524	1	0	order	332160	          Bryobacterales
+0.1524	1	0	family	1962910	            Bryobacteraceae
+0.1524	1	0	no rank	2212464	              unclassified Bryobacteraceae
+0.1524	1	1	species	2212468	                Bryobacteraceae bacterium
+0.1524	1	0	phylum	74152	      Elusimicrobia
+0.1524	1	0	no rank	1797919	        unclassified Elusimicrobia
+0.1524	1	1	species	2030800	          Elusimicrobia bacterium
+0.1524	1	0	clade	1783270	      FCB group
+0.1524	1	1	phylum	142182	        Gemmatimonadetes

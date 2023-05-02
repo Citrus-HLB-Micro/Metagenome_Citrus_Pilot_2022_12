@@ -1,0 +1,83 @@
+0.1222	1	1	no rank	0	unclassified
+99.8778	817	118	no rank	1	root
+85.4523	699	2	no rank	131567	  cellular organisms
+84.8411	694	247	superkingdom	2	    Bacteria
+53.9120	441	160	phylum	1224	      Proteobacteria
+33.8631	277	204	class	28211	        Alphaproteobacteria
+7.8240	64	39	order	356	          Hyphomicrobiales
+2.0782	17	3	family	45401	            Hyphomicrobiaceae
+0.8557	7	0	no rank	196771	              unclassified Hyphomicrobiaceae
+0.8557	7	7	species	2015799	                Hyphomicrobiaceae bacterium
+0.7335	6	5	genus	81	              Hyphomicrobium
+0.1222	1	1	species	2665159	                Hyphomicrobium album
+0.1222	1	0	genus	119044	              Filomicrobium
+0.1222	1	1	species	1608628	                Candidatus Filomicrobium marinum
+0.6112	5	0	no rank	41292	            unclassified Hyphomicrobiales
+0.6112	5	5	species	1909294	              Hyphomicrobiales bacterium
+0.2445	2	0	family	41294	            Bradyrhizobiaceae
+0.2445	2	0	genus	374	              Bradyrhizobium
+0.2445	2	0	no rank	2631580	                unclassified Bradyrhizobium
+0.1222	1	1	species	1144344	                  Bradyrhizobium sp. YR681
+0.1222	1	1	species	2485167	                  Bradyrhizobium sp. Y-H1
+0.1222	1	0	family	2844375	            Reyranellaceae
+0.1222	1	0	genus	445219	              Reyranella
+0.1222	1	0	no rank	2630009	                unclassified Reyranella
+0.1222	1	1	species	1929291	                  Reyranella sp.
+1.1002	9	0	no rank	33807	          unclassified Alphaproteobacteria
+0.9780	8	8	species	1913988	            Alphaproteobacteria bacterium
+0.1222	1	1	species	1803502	            Alphaproteobacteria bacterium 13_1_20CM_3_64_12
+0.2445	2	1	class	28216	        Betaproteobacteria
+0.1222	1	0	no rank	119066	          Betaproteobacteria incertae sedis
+0.1222	1	0	genus	327159	            Candidatus Accumulibacter
+0.1222	1	0	no rank	2619054	              unclassified Candidatus Accumulibacter
+0.1222	1	1	species	1454000	                Candidatus Accumulibacter sp. SK-11
+0.2445	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.2445	2	0	class	28221	          Deltaproteobacteria
+0.1222	1	0	order	29	            Myxococcales
+0.1222	1	0	suborder	80812	              Sorangiineae
+0.1222	1	0	family	49	                Polyangiaceae
+0.1222	1	0	genus	39643	                  Sorangium
+0.1222	1	1	species	56	                    Sorangium cellulosum
+0.1222	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.1222	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.2445	2	0	clade	1783272	      Terrabacteria group
+0.1222	1	0	phylum	1239	        Firmicutes
+0.1222	1	0	class	91061	          Bacilli
+0.1222	1	0	order	1385	            Bacillales
+0.1222	1	0	no rank	539002	              Bacillales incertae sedis
+0.1222	1	0	no rank	539742	                Bacillales Family XII. Incertae Sedis
+0.1222	1	0	genus	33986	                  Exiguobacterium
+0.1222	1	1	species	307643	                    Exiguobacterium profundum
+0.1222	1	0	phylum	200795	        Chloroflexi
+0.1222	1	0	no rank	189774	          unclassified Chloroflexi
+0.1222	1	1	species	2026724	            Chloroflexi bacterium
+0.1222	1	0	no rank	2323	      Bacteria incertae sedis
+0.1222	1	0	clade	1783234	        Bacteria candidate phyla
+0.1222	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.1222	1	1	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.1222	1	0	phylum	40117	      Nitrospirae
+0.1222	1	0	class	203693	        Nitrospira
+0.1222	1	0	order	189778	          Nitrospirales
+0.1222	1	0	family	189779	            Nitrospiraceae
+0.1222	1	0	genus	1234	              Nitrospira
+0.1222	1	1	species	1325564	                Nitrospira japonica
+0.1222	1	1	phylum	57723	      Acidobacteria
+0.1222	1	0	clade	1783257	      PVC group
+0.1222	1	0	phylum	203682	        Planctomycetes
+0.1222	1	0	class	666505	          Phycisphaerae
+0.1222	1	0	order	666506	            Phycisphaerales
+0.1222	1	0	family	666507	              Phycisphaeraceae
+0.1222	1	0	no rank	1385974	                unclassified Phycisphaeraceae
+0.1222	1	1	species	2026777	                  Phycisphaeraceae bacterium
+0.2445	2	1	superkingdom	2759	    Eukaryota
+0.1222	1	0	clade	2698737	      Sar
+0.1222	1	0	clade	33630	        Alveolata
+0.1222	1	0	class	2864	          Dinophyceae
+0.1222	1	0	order	89954	            Suessiales
+0.1222	1	0	family	252141	              Symbiodiniaceae
+0.1222	1	0	genus	2949	                Symbiodinium
+0.1222	1	1	species	2952	                  Symbiodinium pilosum
+0.1222	1	0	superkingdom	2157	    Archaea
+0.1222	1	0	clade	1935183	      Asgard group
+0.1222	1	0	phylum	1706441	        Candidatus Thorarchaeota
+0.1222	1	1	species	2053491	          Candidatus Thorarchaeota archaeon

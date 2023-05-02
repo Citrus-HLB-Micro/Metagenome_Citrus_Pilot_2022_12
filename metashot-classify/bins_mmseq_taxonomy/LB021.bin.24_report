@@ -1,0 +1,15 @@
+100.0000	165	3	no rank	1	root
+98.1818	162	0	no rank	131567	  cellular organisms
+98.1818	162	103	superkingdom	2	    Bacteria
+32.7273	54	0	clade	1783270	      FCB group
+32.7273	54	37	phylum	142182	        Gemmatimonadetes
+9.6970	16	0	class	219685	          Gemmatimonadetes
+9.6970	16	5	order	219686	            Gemmatimonadales
+6.6667	11	0	no rank	1951096	              unclassified Gemmatimonadales
+6.6667	11	11	species	2448054	                Gemmatimonadales bacterium
+0.6061	1	0	no rank	234665	          unclassified Gemmatimonadetes
+0.6061	1	1	species	2026742	            Gemmatimonadetes bacterium
+2.4242	4	0	clade	1783272	      Terrabacteria group
+2.4242	4	2	phylum	201174	        Actinobacteria
+1.2121	2	2	class	1760	          Actinomycetia
+0.6061	1	1	phylum	1224	      Proteobacteria

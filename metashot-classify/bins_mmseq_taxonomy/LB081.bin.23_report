@@ -1,0 +1,67 @@
+0.5731	2	2	no rank	0	unclassified
+99.4269	347	12	no rank	1	root
+95.9885	335	0	no rank	131567	  cellular organisms
+95.9885	335	136	superkingdom	2	    Bacteria
+52.4355	183	137	phylum	57723	      Acidobacteria
+8.0229	28	3	no rank	305072	        unclassified Acidobacteria
+7.1633	25	25	species	1978231	          Acidobacteria bacterium
+5.1576	18	3	class	1562566	        Blastocatellia
+3.4384	12	0	no rank	2052145	          unclassified Blastocatellia
+3.4384	12	12	species	2052146	            Blastocatellia bacterium
+0.8596	3	0	order	1748771	          Blastocatellales
+0.8596	3	1	family	2048906	            Pyrinomonadaceae
+0.5731	2	0	no rank	2283091	              unclassified Pyrinomonadaceae
+0.5731	2	2	species	2283092	                Pyrinomonadaceae bacterium
+1.4327	5	2	phylum	1224	      Proteobacteria
+0.5731	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.5731	2	0	class	28221	          Deltaproteobacteria
+0.5731	2	0	no rank	122706	            unclassified Deltaproteobacteria
+0.2865	1	1	species	1797894	              Deltaproteobacteria bacterium RIFCSPLOWO2_12_FULL_60_19
+0.2865	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.2865	1	0	class	28216	        Betaproteobacteria
+0.2865	1	0	no rank	33809	          unclassified Betaproteobacteria
+0.2865	1	1	species	1891241	            Betaproteobacteria bacterium
+0.8596	3	0	no rank	48479	      environmental samples
+0.8596	3	3	species	77133	        uncultured bacterium
+0.8596	3	0	clade	1783270	      FCB group
+0.2865	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.2865	1	0	phylum	976	          Bacteroidetes
+0.2865	1	0	class	768503	            Cytophagia
+0.2865	1	0	order	768507	              Cytophagales
+0.2865	1	1	family	89373	                Cytophagaceae
+0.2865	1	0	phylum	142182	        Gemmatimonadetes
+0.2865	1	0	class	219685	          Gemmatimonadetes
+0.2865	1	0	order	219686	            Gemmatimonadales
+0.2865	1	0	no rank	1951096	              unclassified Gemmatimonadales
+0.2865	1	1	species	2448054	                Gemmatimonadales bacterium
+0.2865	1	0	phylum	1379697	        candidate division Zixibacteria
+0.2865	1	0	no rank	2751484	          unclassified candidate division Zixibacteria
+0.2865	1	1	species	2053527	            candidate division Zixibacteria bacterium
+0.5731	2	0	clade	1783257	      PVC group
+0.5731	2	0	phylum	74201	        Verrucomicrobia
+0.2865	1	0	class	134549	          Spartobacteria
+0.2865	1	0	order	1836787	            Chthoniobacterales
+0.2865	1	0	no rank	1918599	              unclassified Chthoniobacterales
+0.2865	1	1	species	2201154	                Chthoniobacterales bacterium
+0.2865	1	0	class	203494	          Verrucomicrobiae
+0.2865	1	0	order	48461	            Verrucomicrobiales
+0.2865	1	0	family	134621	              Verrucomicrobia subdivision 3
+0.2865	1	0	no rank	1952929	                unclassified Verrucomicrobia subdivision 3
+0.2865	1	1	species	2052186	                  Verrucomicrobia subdivision 3 bacterium
+0.5731	2	0	clade	1783272	      Terrabacteria group
+0.2865	1	0	phylum	200795	        Chloroflexi
+0.2865	1	0	no rank	189774	          unclassified Chloroflexi
+0.2865	1	1	species	2026724	            Chloroflexi bacterium
+0.2865	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.2865	1	0	phylum	1117	          Cyanobacteria
+0.2865	1	0	subclass	1301283	            Oscillatoriophycideae
+0.2865	1	0	order	1150	              Oscillatoriales
+0.2865	1	0	family	1892255	                Gomontiellaceae
+0.2865	1	0	genus	241421	                  Crinalium
+0.2865	1	0	species	241425	                    Crinalium epipsammum
+0.2865	1	1	strain	1173022	                      Crinalium epipsammum PCC 9333
+0.2865	1	0	phylum	40117	      Nitrospirae
+0.2865	1	0	class	203693	        Nitrospira
+0.2865	1	0	order	189778	          Nitrospirales
+0.2865	1	0	family	189779	            Nitrospiraceae
+0.2865	1	1	genus	1234	              Nitrospira

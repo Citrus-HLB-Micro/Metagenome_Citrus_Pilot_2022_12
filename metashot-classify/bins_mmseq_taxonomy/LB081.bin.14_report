@@ -1,0 +1,29 @@
+100.0000	119	7	no rank	1	root
+94.1176	112	1	no rank	131567	  cellular organisms
+93.2773	111	64	superkingdom	2	    Bacteria
+37.8151	45	9	phylum	1224	      Proteobacteria
+26.0504	31	0	subphylum	68525	        delta/epsilon subdivisions
+26.0504	31	1	class	28221	          Deltaproteobacteria
+25.2101	30	14	no rank	122706	            unclassified Deltaproteobacteria
+13.4454	16	16	species	2026735	              Deltaproteobacteria bacterium
+2.5210	3	1	class	28216	        Betaproteobacteria
+1.6807	2	0	order	80840	          Burkholderiales
+1.6807	2	0	family	75682	            Oxalobacteraceae
+0.8403	1	0	no rank	119059	              unclassified Oxalobacteraceae
+0.8403	1	1	species	1871070	                Oxalobacteraceae bacterium
+0.8403	1	0	no rank	2895353	              Massilia group
+0.8403	1	0	genus	149698	                Massilia
+0.8403	1	1	species	1485217	                  Massilia eurypsychrophila
+1.6807	2	1	class	1236	        Gammaproteobacteria
+0.8403	1	0	no rank	33811	          unclassified Gammaproteobacteria
+0.8403	1	1	species	1913989	            Gammaproteobacteria bacterium
+0.8403	1	0	phylum	57723	      Acidobacteria
+0.8403	1	0	no rank	305072	        unclassified Acidobacteria
+0.8403	1	1	species	1978231	          Acidobacteria bacterium
+0.8403	1	0	clade	1783257	      PVC group
+0.8403	1	0	phylum	74201	        Verrucomicrobia
+0.8403	1	0	class	414999	          Opitutae
+0.8403	1	0	order	415001	            Puniceicoccales
+0.8403	1	0	family	415002	              Puniceicoccaceae
+0.8403	1	0	genus	2175957	                Ruficoccus
+0.8403	1	1	species	1804625	                  Ruficoccus amylovorans

@@ -1,0 +1,26 @@
+100.0000	265	8	no rank	1	root
+96.9811	257	0	no rank	131567	  cellular organisms
+96.9811	257	67	superkingdom	2	    Bacteria
+70.9434	188	18	clade	1783272	      Terrabacteria group
+57.7358	153	15	phylum	200795	        Chloroflexi
+52.0755	138	71	no rank	189774	          unclassified Chloroflexi
+25.2830	67	67	species	2026724	            Chloroflexi bacterium
+6.4151	17	4	phylum	201174	        Actinobacteria
+3.7736	10	1	class	1760	          Actinomycetia
+3.3962	9	0	no rank	52018	            unclassified Actinomycetia
+3.3962	9	9	species	1883427	              Actinomycetia bacterium
+0.7547	2	0	no rank	1752188	          unclassified Actinobacteria
+0.3774	1	1	species	1797203	            Actinobacteria bacterium RBG_16_68_12
+0.3774	1	1	species	1803492	            Actinobacteria bacterium 13_2_20CM_2_66_6
+0.3774	1	0	class	1497346	          Thermoleophilia
+0.3774	1	0	order	588673	            Solirubrobacterales
+0.3774	1	0	family	320599	              Solirubrobacteraceae
+0.3774	1	0	no rank	1162705	                environmental samples
+0.3774	1	1	species	1162706	                  uncultured Solirubrobacteraceae bacterium
+0.3774	1	0	no rank	2323	      Bacteria incertae sedis
+0.3774	1	0	clade	1783234	        Bacteria candidate phyla
+0.3774	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.3774	1	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.3774	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+0.3774	1	0	clade	1783270	      FCB group
+0.3774	1	1	phylum	142182	        Gemmatimonadetes

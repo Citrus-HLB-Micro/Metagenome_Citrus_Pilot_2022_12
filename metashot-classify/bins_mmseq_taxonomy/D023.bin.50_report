@@ -1,0 +1,37 @@
+100.0000	416	21	no rank	1	root
+94.9519	395	1	no rank	131567	  cellular organisms
+94.7115	394	224	superkingdom	2	    Bacteria
+38.9423	162	114	phylum	57723	      Acidobacteria
+11.2981	47	23	no rank	305072	        unclassified Acidobacteria
+5.5288	23	23	species	1978231	          Acidobacteria bacterium
+0.2404	1	1	species	1803444	          Acidobacteria bacterium 13_1_40CM_2_64_6
+0.2404	1	0	class	1813735	        Vicinamibacteria
+0.2404	1	0	order	2910145	          Vicinamibacterales
+0.2404	1	0	family	2211325	            Vicinamibacteraceae
+0.2404	1	0	genus	2004797	              Luteitalea
+0.2404	1	0	no rank	2626009	                unclassified Luteitalea
+0.2404	1	1	species	2004800	                  Luteitalea sp.
+1.2019	5	1	phylum	1224	      Proteobacteria
+0.4808	2	1	class	28211	        Alphaproteobacteria
+0.2404	1	0	order	356	          Hyphomicrobiales
+0.2404	1	0	family	31993	            Methylocystaceae
+0.2404	1	0	genus	444599	              Hansschlegelia
+0.2404	1	1	species	1133344	                Hansschlegelia beijingensis
+0.2404	1	0	class	28216	        Betaproteobacteria
+0.2404	1	0	no rank	33809	          unclassified Betaproteobacteria
+0.2404	1	1	species	1891241	            Betaproteobacteria bacterium
+0.2404	1	0	no rank	81684	        unclassified Proteobacteria
+0.2404	1	1	species	1977087	          Proteobacteria bacterium
+0.4808	2	0	clade	1783270	      FCB group
+0.4808	2	0	phylum	142182	        Gemmatimonadetes
+0.2404	1	0	class	219685	          Gemmatimonadetes
+0.2404	1	0	order	219686	            Gemmatimonadales
+0.2404	1	0	family	219687	              Gemmatimonadaceae
+0.2404	1	0	no rank	1387399	                unclassified Gemmatimonadaceae
+0.2404	1	1	species	2026741	                  Gemmatimonadaceae bacterium
+0.2404	1	1	no rank	234665	          unclassified Gemmatimonadetes
+0.2404	1	0	no rank	2323	      Bacteria incertae sedis
+0.2404	1	0	clade	1783234	        Bacteria candidate phyla
+0.2404	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.2404	1	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.2404	1	1	species	1805361	              Candidatus Rokubacteria bacterium 13_1_40CM_4_67_11

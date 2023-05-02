@@ -1,0 +1,72 @@
+0.6608	3	3	no rank	0	unclassified
+99.3392	451	26	no rank	1	root
+93.6123	425	1	no rank	131567	  cellular organisms
+93.3921	424	181	superkingdom	2	    Bacteria
+48.2379	219	20	phylum	57723	      Acidobacteria
+43.6123	198	7	no rank	305072	        unclassified Acidobacteria
+42.0705	191	191	species	1978231	          Acidobacteria bacterium
+0.2203	1	0	class	1562566	        Blastocatellia
+0.2203	1	0	no rank	2052145	          unclassified Blastocatellia
+0.2203	1	1	species	2052146	            Blastocatellia bacterium
+2.2026	10	0	clade	1783272	      Terrabacteria group
+1.7621	8	6	phylum	201174	        Actinobacteria
+0.4405	2	0	class	1760	          Actinomycetia
+0.2203	1	0	no rank	52018	            unclassified Actinomycetia
+0.2203	1	1	species	1883427	              Actinomycetia bacterium
+0.2203	1	0	order	85007	            Corynebacteriales
+0.2203	1	0	family	1762	              Mycobacteriaceae
+0.2203	1	0	genus	1763	                Mycobacterium
+0.2203	1	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.2203	1	1	species	1773	                    Mycobacterium tuberculosis
+0.2203	1	1	phylum	1239	        Firmicutes
+0.2203	1	0	phylum	67819	        Armatimonadetes
+0.2203	1	0	no rank	1042316	          unclassified Armatimonadetes
+0.2203	1	1	species	1640515	            Armatimonadetes bacterium CSP1-3
+1.3216	6	0	phylum	1224	      Proteobacteria
+0.8811	4	0	subphylum	68525	        delta/epsilon subdivisions
+0.8811	4	1	class	28221	          Deltaproteobacteria
+0.4405	2	0	order	29	            Myxococcales
+0.4405	2	1	suborder	80811	              Cystobacterineae
+0.2203	1	0	family	31	                Myxococcaceae
+0.2203	1	0	no rank	436400	                  unclassified Myxococcaceae
+0.2203	1	1	species	2484252	                    Myxococcaceae bacterium
+0.2203	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.2203	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.2203	1	0	class	28211	        Alphaproteobacteria
+0.2203	1	0	order	356	          Hyphomicrobiales
+0.2203	1	0	family	41294	            Bradyrhizobiaceae
+0.2203	1	1	genus	374	              Bradyrhizobium
+0.2203	1	0	class	28216	        Betaproteobacteria
+0.2203	1	0	order	206351	          Neisseriales
+0.2203	1	0	family	1499392	            Chromobacteriaceae
+0.2203	1	0	genus	300264	              Silvimonas
+0.2203	1	1	species	300266	                Silvimonas terrae
+0.6608	3	0	no rank	2323	      Bacteria incertae sedis
+0.6608	3	0	clade	1783234	        Bacteria candidate phyla
+0.6608	3	0	phylum	1752708	          Candidatus Rokubacteria
+0.6608	3	2	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.2203	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+0.4405	2	0	clade	1783257	      PVC group
+0.4405	2	0	phylum	203682	        Planctomycetes
+0.2203	1	0	class	203683	          Planctomycetia
+0.2203	1	0	order	2691356	            Isosphaerales
+0.2203	1	1	family	1763524	              Isosphaeraceae
+0.2203	1	0	no rank	473814	          unclassified Planctomycetes
+0.2203	1	1	species	2026780	            Planctomycetes bacterium
+0.4405	2	0	clade	1783270	      FCB group
+0.2203	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.2203	1	0	phylum	976	          Bacteroidetes
+0.2203	1	0	no rank	37452	            unclassified Bacteroidetes
+0.2203	1	1	species	1898104	              Bacteroidetes bacterium
+0.2203	1	0	phylum	142182	        Gemmatimonadetes
+0.2203	1	0	class	219685	          Gemmatimonadetes
+0.2203	1	0	order	219686	            Gemmatimonadales
+0.2203	1	0	no rank	1951096	              unclassified Gemmatimonadales
+0.2203	1	1	species	2448054	                Gemmatimonadales bacterium
+0.2203	1	0	phylum	40117	      Nitrospirae
+0.2203	1	0	class	2811502	        Thermodesulfovibrionia
+0.2203	1	0	order	2811503	          Thermodesulfovibrionales
+0.2203	1	0	family	2811504	            Thermodesulfovibrionaceae
+0.2203	1	0	genus	28261	              Thermodesulfovibrio
+0.2203	1	0	no rank	2645936	                unclassified Thermodesulfovibrio
+0.2203	1	1	species	1802373	                  Thermodesulfovibrio sp. RBG_19FT_COMBO_42_12

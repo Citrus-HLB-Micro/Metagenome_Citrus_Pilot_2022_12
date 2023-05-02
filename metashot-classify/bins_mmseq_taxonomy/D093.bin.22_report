@@ -1,0 +1,23 @@
+1.5873	1	1	no rank	0	unclassified
+98.4127	62	7	no rank	1	root
+87.3016	55	0	no rank	131567	  cellular organisms
+87.3016	55	25	superkingdom	2	    Bacteria
+42.8571	27	16	phylum	57723	      Acidobacteria
+14.2857	9	0	no rank	305072	        unclassified Acidobacteria
+14.2857	9	9	species	1978231	          Acidobacteria bacterium
+3.1746	2	1	class	1562566	        Blastocatellia
+1.5873	1	0	no rank	2052145	          unclassified Blastocatellia
+1.5873	1	1	species	2052146	            Blastocatellia bacterium
+3.1746	2	0	clade	1783257	      PVC group
+1.5873	1	0	phylum	74201	        Verrucomicrobia
+1.5873	1	0	class	203494	          Verrucomicrobiae
+1.5873	1	0	order	48461	            Verrucomicrobiales
+1.5873	1	1	family	203557	              Verrucomicrobiaceae
+1.5873	1	0	phylum	256845	        Lentisphaerae
+1.5873	1	0	no rank	641407	          unclassified Lentisphaerae
+1.5873	1	1	species	1798578	            Lentisphaerae bacterium RIFOXYA12_FULL_48_11
+1.5873	1	0	phylum	1224	      Proteobacteria
+1.5873	1	0	class	28211	        Alphaproteobacteria
+1.5873	1	0	order	356	          Hyphomicrobiales
+1.5873	1	0	family	45401	            Hyphomicrobiaceae
+1.5873	1	1	genus	1484898	              Methyloceanibacter

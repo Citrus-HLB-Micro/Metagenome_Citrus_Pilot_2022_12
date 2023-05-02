@@ -1,0 +1,39 @@
+k141_244901	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2465726	1562566	class	Blastocatellia	2	2	1	0.500	unknown;Acidobacteria;uc_Blastocatellia	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia
+k141_2064575	2052146	species	Blastocatellia bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia;-_unclassified Blastocatellia;s_Blastocatellia bacterium
+k141_1482272	2052146	species	Blastocatellia bacterium	5	5	3	0.510	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia;-_unclassified Blastocatellia;s_Blastocatellia bacterium
+k141_282672	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1291836	2169413	species	Blastocatellia bacterium AA13	4	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia;-_unclassified Blastocatellia;s_Blastocatellia bacterium AA13
+k141_1293610	2052146	species	Blastocatellia bacterium	1	1	1	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia;-_unclassified Blastocatellia;s_Blastocatellia bacterium
+k141_2913207	2	superkingdom	Bacteria	10	10	9	0.840	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1906110	2052146	species	Blastocatellia bacterium	3	2	1	0.990	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia;-_unclassified Blastocatellia;s_Blastocatellia bacterium
+k141_100822	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2318884	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2923665	2	superkingdom	Bacteria	8	8	8	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2323754	2	superkingdom	Bacteria	6	5	4	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1922194	2	superkingdom	Bacteria	7	7	6	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2937581	1234	genus	Nitrospira	2	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira
+k141_2547080	57723	phylum	Acidobacteria	3	3	2	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_734913	2	superkingdom	Bacteria	6	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_530994	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_133262	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3160735	1909295	species	Solirubrobacterales bacterium	2	1	1	1.000	unknown;Actinobacteria;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Thermoleophilia;o_Solirubrobacterales;-_unclassified Solirubrobacterales;s_Solirubrobacterales bacterium
+k141_2018875	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_7832	2	superkingdom	Bacteria	7	7	6	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1420600	305072	no rank	unclassified Acidobacteria	3	2	1	0.980	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria
+k141_3038160	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2636477	2	superkingdom	Bacteria	10	9	8	0.890	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1431634	57723	phylum	Acidobacteria	9	9	6	0.670	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_1435993	2052146	species	Blastocatellia bacterium	2	2	2	1.000	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia;-_unclassified Blastocatellia;s_Blastocatellia bacterium
+k141_641162	2053607	species	Candidatus Rokubacteria bacterium	8	8	1	0.750	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_1448992	57723	phylum	Acidobacteria	4	4	2	0.500	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2461066	57723	phylum	Acidobacteria	6	6	4	0.740	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_2964642	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2161858	2283092	species	Pyrinomonadaceae bacterium	2	2	1	0.500	unknown;Acidobacteria;Pyrinomonadaceae	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia;o_Blastocatellales;f_Pyrinomonadaceae;-_unclassified Pyrinomonadaceae;s_Pyrinomonadaceae bacterium
+k141_1967816	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2583764	2692854	species	Planktothrix sp. FACHB-1355	5	4	3	0.970	unknown;Cyanobacteria;Microcoleaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteria/Melainabacteria group;p_Cyanobacteria;-_Oscillatoriophycideae;o_Oscillatoriales;f_Microcoleaceae;g_Planktothrix;-_unclassified Planktothrix;s_Planktothrix sp. FACHB-1355
+k141_1781064	1562566	class	Blastocatellia	3	3	2	0.970	unknown;Acidobacteria;uc_Blastocatellia	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia
+k141_3203385	57723	phylum	Acidobacteria	4	4	2	0.660	unknown;Acidobacteria;uc_Acidobacteria	-_cellular organisms;d_Bacteria;p_Acidobacteria
+k141_3003062	2052146	species	Blastocatellia bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Blastocatellia;-_unclassified Blastocatellia;s_Blastocatellia bacterium
+k141_1003469	131567	no rank	cellular organisms	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_400691	1639882	species	Longimicrobium terrae	1	1	1	1.000	unknown;Gemmatimonadetes;Longimicrobiaceae	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Longimicrobia;o_Longimicrobiales;f_Longimicrobiaceae;g_Longimicrobium;s_Longimicrobium terrae

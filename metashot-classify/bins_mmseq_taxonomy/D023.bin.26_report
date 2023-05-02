@@ -1,0 +1,29 @@
+100.0000	263	5	no rank	1	root
+98.0989	258	0	no rank	131567	  cellular organisms
+98.0989	258	115	superkingdom	2	    Bacteria
+47.5285	125	0	clade	1783257	      PVC group
+47.5285	125	74	phylum	74201	        Verrucomicrobia
+18.6312	49	10	no rank	417295	          unclassified Verrucomicrobia
+14.0684	37	37	species	2026799	            Verrucomicrobia bacterium
+0.3802	1	1	species	1660168	            Verrucomicrobia bacterium SCN 57-15
+0.3802	1	1	species	1805420	            Verrucomicrobia bacterium 13_2_20CM_55_10
+0.7605	2	0	class	134549	          Spartobacteria
+0.3802	1	0	no rank	320756	            unclassified Spartobacteria
+0.3802	1	1	species	2052183	              Spartobacteria bacterium
+0.3802	1	0	order	1836787	            Chthoniobacterales
+0.3802	1	0	no rank	1918599	              unclassified Chthoniobacterales
+0.3802	1	1	species	2201154	                Chthoniobacterales bacterium
+4.9430	13	2	phylum	1224	      Proteobacteria
+3.0418	8	0	subphylum	68525	        delta/epsilon subdivisions
+3.0418	8	0	class	28221	          Deltaproteobacteria
+3.0418	8	3	no rank	122706	            unclassified Deltaproteobacteria
+1.9011	5	5	species	2026735	              Deltaproteobacteria bacterium
+1.1407	3	1	class	28211	        Alphaproteobacteria
+0.7605	2	0	order	356	          Hyphomicrobiales
+0.3802	1	0	no rank	41292	            unclassified Hyphomicrobiales
+0.3802	1	1	species	1909294	              Hyphomicrobiales bacterium
+0.3802	1	0	family	41294	            Bradyrhizobiaceae
+0.3802	1	1	genus	374	              Bradyrhizobium
+1.9011	5	3	phylum	57723	      Acidobacteria
+0.7605	2	0	no rank	305072	        unclassified Acidobacteria
+0.7605	2	2	species	1978231	          Acidobacteria bacterium

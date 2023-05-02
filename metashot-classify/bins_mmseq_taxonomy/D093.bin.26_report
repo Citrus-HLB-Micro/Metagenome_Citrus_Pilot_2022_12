@@ -1,0 +1,49 @@
+0.3115	1	1	no rank	0	unclassified
+99.6885	320	22	no rank	1	root
+92.8349	298	3	no rank	131567	  cellular organisms
+91.9003	295	115	superkingdom	2	    Bacteria
+49.8442	160	27	phylum	57723	      Acidobacteria
+40.8100	131	29	no rank	305072	        unclassified Acidobacteria
+31.1526	100	100	species	1978231	          Acidobacteria bacterium
+0.3115	1	1	species	1797174	          Acidobacteria bacterium RBG_16_70_10
+0.3115	1	1	species	1797193	          Acidobacteria bacterium RIFCSPLOWO2_12_FULL_67_14b
+0.3115	1	0	class	204432	        Acidobacteriia
+0.3115	1	0	order	332160	          Bryobacterales
+0.3115	1	0	family	332161	            Solibacteraceae
+0.3115	1	0	genus	2136118	              Candidatus Sulfopaludibacter
+0.3115	1	1	no rank	2626174	                unclassified Candidatus Sulfopaludibacter
+0.3115	1	1	class	1813735	        Vicinamibacteria
+2.4922	8	4	phylum	1224	      Proteobacteria
+0.3115	1	0	class	1236	        Gammaproteobacteria
+0.3115	1	0	no rank	33811	          unclassified Gammaproteobacteria
+0.3115	1	1	species	1913989	            Gammaproteobacteria bacterium
+0.3115	1	0	class	28211	        Alphaproteobacteria
+0.3115	1	1	order	356	          Hyphomicrobiales
+0.3115	1	1	class	28216	        Betaproteobacteria
+0.3115	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.3115	1	0	class	28221	          Deltaproteobacteria
+0.3115	1	1	order	29	            Myxococcales
+1.8692	6	0	clade	1783272	      Terrabacteria group
+1.2461	4	2	phylum	200795	        Chloroflexi
+0.3115	1	0	no rank	189774	          unclassified Chloroflexi
+0.3115	1	1	species	2026724	            Chloroflexi bacterium
+0.3115	1	1	class	301297	          Dehalococcoidia
+0.6231	2	0	phylum	201174	        Actinobacteria
+0.3115	1	0	class	1760	          Actinomycetia
+0.3115	1	0	no rank	52018	            unclassified Actinomycetia
+0.3115	1	1	species	1883427	              Actinomycetia bacterium
+0.3115	1	1	class	84992	          Acidimicrobiia
+0.6231	2	0	clade	1783257	      PVC group
+0.6231	2	1	phylum	74201	        Verrucomicrobia
+0.3115	1	0	no rank	417295	          unclassified Verrucomicrobia
+0.3115	1	1	species	2026799	            Verrucomicrobia bacterium
+0.3115	1	0	no rank	2323	      Bacteria incertae sedis
+0.3115	1	0	clade	1783234	        Bacteria candidate phyla
+0.3115	1	1	phylum	1817801	          Candidatus Eisenbacteria
+0.3115	1	0	no rank	49928	      unclassified Bacteria
+0.3115	1	1	species	1660156	        bacterium SCN 62-11
+0.3115	1	0	phylum	74152	      Elusimicrobia
+0.3115	1	0	no rank	1797919	        unclassified Elusimicrobia
+0.3115	1	1	species	1797972	          Elusimicrobia bacterium RIFOXYD12_FULL_66_9
+0.3115	1	0	clade	1783270	      FCB group
+0.3115	1	1	phylum	142182	        Gemmatimonadetes

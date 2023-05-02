@@ -1,0 +1,49 @@
+0.3367	2	2	no rank	0	unclassified
+99.6633	592	10	no rank	1	root
+97.9798	582	1	no rank	131567	  cellular organisms
+97.8114	581	275	superkingdom	2	    Bacteria
+50.0000	297	255	phylum	57723	      Acidobacteria
+3.8721	23	4	no rank	305072	        unclassified Acidobacteria
+3.1987	19	19	species	1978231	          Acidobacteria bacterium
+3.0303	18	6	class	1562566	        Blastocatellia
+1.3468	8	0	no rank	2052145	          unclassified Blastocatellia
+1.3468	8	8	species	2052146	            Blastocatellia bacterium
+0.6734	4	0	order	1748771	          Blastocatellales
+0.6734	4	0	family	2048906	            Pyrinomonadaceae
+0.6734	4	0	no rank	2283091	              unclassified Pyrinomonadaceae
+0.6734	4	4	species	2283092	                Pyrinomonadaceae bacterium
+0.1684	1	0	class	204432	        Acidobacteriia
+0.1684	1	0	order	204433	          Acidobacteriales
+0.1684	1	0	family	204434	            Acidobacteriaceae
+0.1684	1	0	genus	940557	              Granulicella
+0.1684	1	1	species	940613	                Granulicella arctica
+0.6734	4	0	phylum	1224	      Proteobacteria
+0.5051	3	0	class	1236	        Gammaproteobacteria
+0.3367	2	0	order	72274	          Pseudomonadales
+0.3367	2	0	family	135621	            Pseudomonadaceae
+0.3367	2	0	genus	286	              Pseudomonas
+0.1684	1	0	species group	136843	                Pseudomonas fluorescens group
+0.1684	1	1	species	294	                  Pseudomonas fluorescens
+0.1684	1	1	species	2759166	                Pseudomonas ullengensis
+0.1684	1	0	order	135614	          Xanthomonadales
+0.1684	1	0	family	1775411	            Rhodanobacteraceae
+0.1684	1	0	genus	1218803	              Metallibacterium
+0.1684	1	1	species	993689	                Metallibacterium scheffleri
+0.1684	1	0	class	28216	        Betaproteobacteria
+0.1684	1	0	order	32003	          Nitrosomonadales
+0.1684	1	0	family	206379	            Nitrosomonadaceae
+0.1684	1	0	genus	35798	              Nitrosospira
+0.1684	1	1	species	1231	                Nitrosospira multiformis
+0.3367	2	0	clade	1783257	      PVC group
+0.1684	1	1	phylum	74201	        Verrucomicrobia
+0.1684	1	0	phylum	203682	        Planctomycetes
+0.1684	1	0	class	203683	          Planctomycetia
+0.1684	1	0	order	2691355	            Gemmatales
+0.1684	1	0	family	1914233	              Gemmataceae
+0.1684	1	1	genus	113	                Gemmata
+0.3367	2	0	clade	1783272	      Terrabacteria group
+0.3367	2	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.3367	2	2	phylum	1117	          Cyanobacteria
+0.1684	1	0	clade	1783270	      FCB group
+0.1684	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.1684	1	1	phylum	976	          Bacteroidetes

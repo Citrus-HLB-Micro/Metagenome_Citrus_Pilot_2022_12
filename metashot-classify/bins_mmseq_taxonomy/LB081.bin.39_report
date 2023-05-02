@@ -1,0 +1,25 @@
+0.3401	1	1	no rank	0	unclassified
+99.6599	293	8	no rank	1	root
+96.9388	285	1	no rank	131567	  cellular organisms
+96.5986	284	124	superkingdom	2	    Bacteria
+48.9796	144	45	phylum	57723	      Acidobacteria
+33.6735	99	18	no rank	305072	        unclassified Acidobacteria
+27.5510	81	81	species	1978231	          Acidobacteria bacterium
+2.0408	6	0	clade	1783270	      FCB group
+2.0408	6	4	phylum	142182	        Gemmatimonadetes
+0.3401	1	0	class	219685	          Gemmatimonadetes
+0.3401	1	0	order	219686	            Gemmatimonadales
+0.3401	1	0	no rank	1951096	              unclassified Gemmatimonadales
+0.3401	1	1	species	2448054	                Gemmatimonadales bacterium
+0.3401	1	1	no rank	234665	          unclassified Gemmatimonadetes
+1.3605	4	0	clade	1783272	      Terrabacteria group
+1.3605	4	3	phylum	201174	        Actinobacteria
+0.3401	1	1	class	1497346	          Thermoleophilia
+1.0204	3	2	phylum	1224	      Proteobacteria
+0.3401	1	0	class	28211	        Alphaproteobacteria
+0.3401	1	0	no rank	33807	          unclassified Alphaproteobacteria
+0.3401	1	1	species	1913988	            Alphaproteobacteria bacterium
+1.0204	3	0	no rank	2323	      Bacteria incertae sedis
+1.0204	3	0	clade	1783234	        Bacteria candidate phyla
+1.0204	3	0	phylum	1752708	          Candidatus Rokubacteria
+1.0204	3	3	no rank	2760815	            unclassified Candidatus Rokubacteria

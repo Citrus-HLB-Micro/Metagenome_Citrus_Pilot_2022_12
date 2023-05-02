@@ -1,0 +1,153 @@
+0.3980	4	4	no rank	0	unclassified
+99.6020	1001	201	no rank	1	root
+79.6020	800	8	no rank	131567	  cellular organisms
+78.3085	787	264	superkingdom	2	    Bacteria
+51.3433	516	190	phylum	1224	      Proteobacteria
+30.3483	305	162	class	28211	        Alphaproteobacteria
+10.7463	108	60	order	356	          Hyphomicrobiales
+2.8856	29	4	family	45401	            Hyphomicrobiaceae
+1.1940	12	2	genus	29407	              Rhodoplanes
+0.8955	9	0	no rank	2619116	                unclassified Rhodoplanes
+0.8955	9	9	species	674703	                  Rhodoplanes sp. Z2-YC6860
+0.0995	1	1	species	29409	                Rhodoplanes roseus
+0.4975	5	4	genus	1484898	              Methyloceanibacter
+0.0995	1	1	species	1774970	                Methyloceanibacter stevinii
+0.3980	4	4	genus	81	              Hyphomicrobium
+0.1990	2	0	no rank	196771	              unclassified Hyphomicrobiaceae
+0.1990	2	2	species	2015799	                Hyphomicrobiaceae bacterium
+0.1990	2	0	genus	1485594	              Methyloligella
+0.1990	2	2	species	1177755	                Methyloligella halotolerans
+0.5970	6	0	no rank	41292	            unclassified Hyphomicrobiales
+0.5970	6	6	species	1909294	              Hyphomicrobiales bacterium
+0.4975	5	1	family	69277	            Phyllobacteriaceae
+0.3980	4	1	genus	68287	              Mesorhizobium
+0.1990	2	0	species	2066070	                Mesorhizobium japonicum
+0.1990	2	2	strain	266835	                  Mesorhizobium japonicum MAFF 303099
+0.0995	1	0	no rank	325217	                unclassified Mesorhizobium
+0.0995	1	1	species	1287287	                  Mesorhizobium sp. LSHC414A00
+0.1990	2	0	family	41294	            Bradyrhizobiaceae
+0.1990	2	1	genus	374	              Bradyrhizobium
+0.0995	1	0	no rank	2631580	                unclassified Bradyrhizobium
+0.0995	1	1	species	1380355	                  Bradyrhizobium sp. URHD0069
+0.1990	2	0	family	82115	            Rhizobiaceae
+0.1990	2	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.0995	1	0	genus	357	                Agrobacterium
+0.0995	1	0	species group	1183400	                  Agrobacterium tumefaciens complex
+0.0995	1	1	species	358	                    Agrobacterium tumefaciens
+0.0995	1	0	genus	379	                Rhizobium
+0.0995	1	1	species	1967781	                  Rhizobium esperanzae
+0.0995	1	0	family	119045	            Methylobacteriaceae
+0.0995	1	1	genus	407	              Methylobacterium
+0.0995	1	0	family	335928	            Xanthobacteraceae
+0.0995	1	0	genus	556257	              Pseudolabrys
+0.0995	1	0	no rank	2638514	                unclassified Pseudolabrys
+0.0995	1	1	species	2292256	                  Pseudolabrys sp. GY_H
+0.0995	1	0	family	2831111	            Kaistiaceae
+0.0995	1	0	genus	1145345	              Bauldia
+0.0995	1	0	no rank	2647740	                unclassified Bauldia
+0.0995	1	1	species	2575872	                  Bauldia sp.
+0.0995	1	1	family	2844403	            Rhodovibrionaceae
+2.1891	22	5	order	204441	          Rhodospirillales
+1.3930	14	1	family	41295	            Rhodospirillaceae
+1.0945	11	0	no rank	41296	              unclassified Rhodospirillaceae
+1.0945	11	11	species	1898112	                Rhodospirillaceae bacterium
+0.1990	2	1	genus	1231242	              Ferrovibrio
+0.0995	1	1	species	2594003	                Ferrovibrio terrae
+0.1990	2	0	family	2844864	            Thalassobaculaceae
+0.0995	1	0	genus	526215	              Thalassobaculum
+0.0995	1	1	species	1633335	                Thalassobaculum fulvum
+0.0995	1	1	genus	659693	              Oceanibaculum
+0.0995	1	0	family	2066434	            Geminicoccaceae
+0.0995	1	0	genus	2066435	              Arboricoccus
+0.0995	1	1	species	1963835	                Arboricoccus pini
+1.1940	12	0	no rank	33807	          unclassified Alphaproteobacteria
+0.9950	10	10	species	1913988	            Alphaproteobacteria bacterium
+0.0995	1	1	species	1797215	            Alphaproteobacteria bacterium RBG_16_64_48
+0.0995	1	1	species	2013665	            Alphaproteobacteria bacterium HGW-Alphaproteobacteria-2
+0.0995	1	0	order	204455	          Rhodobacterales
+0.0995	1	0	family	2854170	            Roseobacteraceae
+0.0995	1	0	genus	404235	              Maritimibacter
+0.0995	1	0	species	404236	                Maritimibacter alkaliphilus
+0.0995	1	1	strain	314271	                  Maritimibacter alkaliphilus HTCC2654
+1.5920	16	4	class	28216	        Betaproteobacteria
+0.5970	6	0	order	80840	          Burkholderiales
+0.2985	3	0	family	80864	            Comamonadaceae
+0.0995	1	1	genus	34072	              Variovorax
+0.0995	1	0	no rank	83494	              unclassified Comamonadaceae
+0.0995	1	1	species	1871071	                Comamonadaceae bacterium
+0.0995	1	0	genus	174951	              Ramlibacter
+0.0995	1	0	no rank	2617605	                unclassified Ramlibacter
+0.0995	1	1	species	2801330	                  Ramlibacter sp. AW1
+0.2985	3	1	family	119060	            Burkholderiaceae
+0.0995	1	0	genus	47670	              Lautropia
+0.0995	1	0	no rank	2626209	                unclassified Lautropia
+0.0995	1	1	species	2053568	                  Lautropia sp.
+0.0995	1	0	genus	1827195	              Caballeronia
+0.0995	1	1	species	1777143	                Caballeronia glebae
+0.4975	5	4	no rank	33809	          unclassified Betaproteobacteria
+0.0995	1	1	species	1891241	            Betaproteobacteria bacterium
+0.0995	1	0	order	206351	          Neisseriales
+0.0995	1	0	family	1499392	            Chromobacteriaceae
+0.0995	1	1	genus	885864	              Jeongeupia
+0.2985	3	3	class	1236	        Gammaproteobacteria
+0.1990	2	0	no rank	81684	        unclassified Proteobacteria
+0.0995	1	1	species	1268340	          Proteobacteria bacterium JGI 0001013-N05
+0.0995	1	1	species	1977087	          Proteobacteria bacterium
+0.2985	3	1	clade	1783272	      Terrabacteria group
+0.0995	1	0	phylum	201174	        Actinobacteria
+0.0995	1	0	class	1760	          Actinomycetia
+0.0995	1	0	order	85011	            Streptomycetales
+0.0995	1	0	family	2062	              Streptomycetaceae
+0.0995	1	0	genus	1883	                Streptomyces
+0.0995	1	0	species	1888	                  Streptomyces albus
+0.0995	1	0	subspecies	67257	                    Streptomyces albus subsp. albus
+0.0995	1	1	strain	1081613	                      Streptomyces albus subsp. albus DSM 41398
+0.0995	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.0995	1	0	phylum	1117	          Cyanobacteria
+0.0995	1	0	order	2881377	            Pseudanabaenales
+0.0995	1	0	family	1890438	              Leptolyngbyaceae
+0.0995	1	0	genus	47251	                Leptolyngbya
+0.0995	1	0	no rank	2650499	                  unclassified Leptolyngbya
+0.0995	1	1	species	2607771	                    Leptolyngbya sp. SIOISBB
+0.1990	2	1	phylum	57723	      Acidobacteria
+0.0995	1	0	class	204432	        Acidobacteriia
+0.0995	1	0	order	332160	          Bryobacterales
+0.0995	1	0	family	1962910	            Bryobacteraceae
+0.0995	1	0	genus	1649475	              Paludibaculum
+0.0995	1	1	species	1473598	                Paludibaculum fermentans
+0.0995	1	0	no rank	2323	      Bacteria incertae sedis
+0.0995	1	0	clade	1783234	        Bacteria candidate phyla
+0.0995	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.0995	1	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.0995	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+0.0995	1	0	clade	1783257	      PVC group
+0.0995	1	0	phylum	203682	        Planctomycetes
+0.0995	1	0	class	203683	          Planctomycetia
+0.0995	1	0	order	112	            Planctomycetales
+0.0995	1	0	family	126	              Planctomycetaceae
+0.0995	1	0	no rank	69476	                unclassified Planctomycetaceae
+0.0995	1	1	species	2026779	                  Planctomycetaceae bacterium
+0.4975	5	0	superkingdom	2759	    Eukaryota
+0.2985	3	0	clade	2698737	      Sar
+0.2985	3	0	clade	33630	        Alveolata
+0.2985	3	0	class	2864	          Dinophyceae
+0.2985	3	0	order	89954	            Suessiales
+0.2985	3	0	family	252141	              Symbiodiniaceae
+0.2985	3	0	genus	2949	                Symbiodinium
+0.1990	2	2	species	1628268	                  Symbiodinium necroappetens
+0.0995	1	1	species	2951	                  Symbiodinium microadriaticum
+0.1990	2	0	clade	33154	      Opisthokonta
+0.1990	2	0	kingdom	33208	        Metazoa
+0.1990	2	0	clade	6072	          Eumetazoa
+0.1990	2	0	clade	33213	            Bilateria
+0.1990	2	0	clade	33317	              Protostomia
+0.1990	2	0	clade	1206794	                Ecdysozoa
+0.1990	2	0	phylum	6231	                  Nematoda
+0.1990	2	0	class	119089	                    Chromadorea
+0.1990	2	0	order	6236	                      Rhabditida
+0.1990	2	0	suborder	6300	                        Tylenchina
+0.1990	2	0	infraorder	2082223	                          Panagrolaimomorpha
+0.1990	2	0	superfamily	2082224	                            Strongyloidoidea
+0.1990	2	0	family	6246	                              Strongyloididae
+0.1990	2	0	genus	131309	                                Parastrongyloides
+0.1990	2	2	species	131310	                                  Parastrongyloides trichosuri

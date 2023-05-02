@@ -1,0 +1,50 @@
+100.0000	384	74	no rank	1	root
+80.7292	310	2	no rank	131567	  cellular organisms
+80.2083	308	83	superkingdom	2	    Bacteria
+57.2917	220	40	phylum	1224	      Proteobacteria
+46.6146	179	77	class	28211	        Alphaproteobacteria
+25.7812	99	64	order	356	          Hyphomicrobiales
+5.9896	23	7	family	45401	            Hyphomicrobiaceae
+3.1250	12	9	genus	1484898	              Methyloceanibacter
+0.5208	2	2	species	1774971	                Methyloceanibacter marginalis
+0.2604	1	1	species	1774969	                Methyloceanibacter superfactus
+0.5208	2	1	genus	1485594	              Methyloligella
+0.2604	1	1	species	1177755	                Methyloligella halotolerans
+0.2604	1	0	genus	81	              Hyphomicrobium
+0.2604	1	1	species	51670	                Hyphomicrobium facile
+0.2604	1	0	no rank	196771	              unclassified Hyphomicrobiaceae
+0.2604	1	1	species	2015799	                Hyphomicrobiaceae bacterium
+1.8229	7	0	no rank	41292	            unclassified Hyphomicrobiales
+1.8229	7	7	species	1909294	              Hyphomicrobiales bacterium
+0.5208	2	0	family	41294	            Bradyrhizobiaceae
+0.5208	2	2	genus	374	              Bradyrhizobium
+0.2604	1	0	family	82115	            Rhizobiaceae
+0.2604	1	1	no rank	227290	              Rhizobium/Agrobacterium group
+0.2604	1	0	family	119045	            Methylobacteriaceae
+0.2604	1	0	genus	186650	              Microvirga
+0.2604	1	1	species	1033741	                Microvirga massiliensis
+0.2604	1	0	family	2137278	            Salinarimonadaceae
+0.2604	1	0	genus	690086	              Salinarimonas
+0.2604	1	1	species	552063	                Salinarimonas rosea
+0.7812	3	0	no rank	33807	          unclassified Alphaproteobacteria
+0.7812	3	3	species	1797215	            Alphaproteobacteria bacterium RBG_16_64_48
+0.2604	1	0	class	1236	        Gammaproteobacteria
+0.2604	1	0	order	1706369	          Cellvibrionales
+0.2604	1	0	family	1706375	            Spongiibacteraceae
+0.2604	1	0	genus	503005	              Dasania
+0.2604	1	1	species	471499	                Dasania marina
+0.2604	1	0	no rank	2323	      Bacteria incertae sedis
+0.2604	1	1	clade	1783234	        Bacteria candidate phyla
+0.2604	1	1	phylum	40117	      Nitrospirae
+0.2604	1	1	phylum	57723	      Acidobacteria
+0.2604	1	0	clade	1783257	      PVC group
+0.2604	1	0	phylum	74201	        Verrucomicrobia
+0.2604	1	0	no rank	417295	          unclassified Verrucomicrobia
+0.2604	1	1	species	2026799	            Verrucomicrobia bacterium
+0.2604	1	0	clade	1783270	      FCB group
+0.2604	1	0	phylum	142182	        Gemmatimonadetes
+0.2604	1	0	class	219685	          Gemmatimonadetes
+0.2604	1	0	order	219686	            Gemmatimonadales
+0.2604	1	0	family	219687	              Gemmatimonadaceae
+0.2604	1	0	no rank	1387399	                unclassified Gemmatimonadaceae
+0.2604	1	1	species	2026741	                  Gemmatimonadaceae bacterium

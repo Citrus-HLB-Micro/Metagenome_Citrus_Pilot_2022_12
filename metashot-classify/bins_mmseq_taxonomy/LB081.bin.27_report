@@ -1,0 +1,17 @@
+100.0000	256	3	no rank	1	root
+98.8281	253	0	no rank	131567	  cellular organisms
+98.8281	253	191	superkingdom	2	    Bacteria
+23.4375	60	0	no rank	2323	      Bacteria incertae sedis
+23.4375	60	0	clade	1783234	        Bacteria candidate phyla
+23.4375	60	0	phylum	1752708	          Candidatus Rokubacteria
+23.4375	60	47	no rank	2760815	            unclassified Candidatus Rokubacteria
+5.0781	13	13	species	2053607	              Candidatus Rokubacteria bacterium
+0.3906	1	1	phylum	1224	      Proteobacteria
+0.3906	1	0	clade	1783272	      Terrabacteria group
+0.3906	1	0	phylum	201174	        Actinobacteria
+0.3906	1	0	class	1497346	          Thermoleophilia
+0.3906	1	0	order	588673	            Solirubrobacterales
+0.3906	1	0	family	320599	              Solirubrobacteraceae
+0.3906	1	0	genus	207599	                Solirubrobacter
+0.3906	1	0	no rank	2640968	                  unclassified Solirubrobacter
+0.3906	1	1	species	1298857	                    Solirubrobacter sp. URHD0082

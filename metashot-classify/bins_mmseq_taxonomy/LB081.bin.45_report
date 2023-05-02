@@ -1,0 +1,29 @@
+1.3072	2	2	no rank	0	unclassified
+98.6928	151	6	no rank	1	root
+94.7712	145	0	no rank	131567	  cellular organisms
+94.7712	145	79	superkingdom	2	    Bacteria
+41.1765	63	0	clade	1783270	      FCB group
+40.5229	62	36	phylum	142182	        Gemmatimonadetes
+16.9935	26	0	class	219685	          Gemmatimonadetes
+16.9935	26	4	order	219686	            Gemmatimonadales
+14.3791	22	0	no rank	1951096	              unclassified Gemmatimonadales
+14.3791	22	22	species	2448054	                Gemmatimonadales bacterium
+0.6536	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.6536	1	0	phylum	976	          Bacteroidetes
+0.6536	1	0	order	1100069	            Bacteroidetes Order II. Incertae sedis
+0.6536	1	0	family	563843	              Rhodothermaceae
+0.6536	1	0	no rank	1196022	                unclassified Rhodothermaceae
+0.6536	1	1	species	2026787	                  Rhodothermaceae bacterium
+0.6536	1	0	phylum	1224	      Proteobacteria
+0.6536	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.6536	1	0	class	28221	          Deltaproteobacteria
+0.6536	1	0	order	29	            Myxococcales
+0.6536	1	0	suborder	80812	              Sorangiineae
+0.6536	1	0	family	49	                Polyangiaceae
+0.6536	1	0	genus	39643	                  Sorangium
+0.6536	1	1	species	56	                    Sorangium cellulosum
+0.6536	1	0	phylum	57723	      Acidobacteria
+0.6536	1	0	no rank	305072	        unclassified Acidobacteria
+0.6536	1	1	species	1978231	          Acidobacteria bacterium
+0.6536	1	0	clade	1783272	      Terrabacteria group
+0.6536	1	1	phylum	201174	        Actinobacteria

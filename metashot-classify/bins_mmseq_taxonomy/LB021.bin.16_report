@@ -1,0 +1,50 @@
+0.4310	1	1	no rank	0	unclassified
+99.5690	231	23	no rank	1	root
+89.6552	208	5	no rank	131567	  cellular organisms
+86.2069	200	79	superkingdom	2	    Bacteria
+48.7069	113	81	phylum	40117	      Nitrospirae
+12.9310	30	0	class	203693	        Nitrospira
+12.9310	30	2	order	189778	          Nitrospirales
+12.0690	28	5	family	189779	            Nitrospiraceae
+9.9138	23	11	genus	1234	              Nitrospira
+3.4483	8	2	no rank	2652172	                unclassified Nitrospira
+1.2931	3	3	species	70125	                  Nitrospira sp.
+0.8621	2	2	species	1827376	                  Nitrospira sp. SG-bin1
+0.4310	1	1	species	1985130	                  Nitrospira sp. CG24D
+0.8621	2	2	species	42253	                Nitrospira moscoviensis
+0.8621	2	2	species	1325564	                Nitrospira japonica
+0.8621	2	0	no rank	1298915	        unclassified Nitrospirae
+0.8621	2	2	species	2026887	          Nitrospirae bacterium
+2.5862	6	1	phylum	1224	      Proteobacteria
+1.2931	3	1	class	28211	        Alphaproteobacteria
+0.8621	2	2	order	356	          Hyphomicrobiales
+0.8621	2	0	class	28216	        Betaproteobacteria
+0.8621	2	0	no rank	33809	          unclassified Betaproteobacteria
+0.8621	2	2	species	1891241	            Betaproteobacteria bacterium
+0.4310	1	1	phylum	57723	      Acidobacteria
+0.4310	1	0	clade	1783257	      PVC group
+0.4310	1	0	phylum	74201	        Verrucomicrobia
+0.4310	1	0	no rank	417295	          unclassified Verrucomicrobia
+0.4310	1	1	species	1852929	            Verrucomicrobia bacterium ADurb.Bin122
+1.2931	3	0	superkingdom	2759	    Eukaryota
+1.2931	3	0	clade	33154	      Opisthokonta
+1.2931	3	0	kingdom	33208	        Metazoa
+1.2931	3	0	clade	6072	          Eumetazoa
+1.2931	3	0	clade	33213	            Bilateria
+1.2931	3	0	clade	33317	              Protostomia
+1.2931	3	0	clade	1206794	                Ecdysozoa
+1.2931	3	0	clade	88770	                  Panarthropoda
+1.2931	3	0	phylum	6656	                    Arthropoda
+1.2931	3	0	clade	197563	                      Mandibulata
+1.2931	3	0	clade	197562	                        Pancrustacea
+1.2931	3	0	subphylum	6960	                          Hexapoda
+1.2931	3	0	class	50557	                            Insecta
+1.2931	3	0	clade	85512	                              Dicondylia
+1.2931	3	0	subclass	7496	                                Pterygota
+1.2931	3	0	infraclass	33339	                                  Palaeoptera
+1.2931	3	0	order	30073	                                    Ephemeroptera
+1.2931	3	0	suborder	185812	                                      Furcatergalia
+1.2931	3	0	infraorder	185816	                                        Scapphodonta
+1.2931	3	0	family	50581	                                          Ephemeridae
+1.2931	3	0	genus	50582	                                            Ephemera
+1.2931	3	3	species	1049336	                                              Ephemera danica

@@ -1,0 +1,34 @@
+0.3861	1	1	no rank	0	unclassified
+99.6139	258	36	no rank	1	root
+85.7143	222	4	no rank	131567	  cellular organisms
+83.7838	217	28	superkingdom	2157	    Archaea
+72.9730	189	7	clade	1783275	      TACK group
+70.2703	182	130	phylum	651137	        Thaumarchaeota
+13.1274	34	0	class	1643678	          Nitrososphaeria
+13.1274	34	0	order	1033996	            Nitrososphaerales
+13.1274	34	7	family	1033997	              Nitrososphaeraceae
+8.8803	23	0	no rank	1915612	                unclassified Nitrososphaeraceae
+8.8803	23	23	species	2169593	                  Nitrososphaeraceae archaeon
+1.1583	3	0	genus	497726	                Nitrososphaera
+0.3861	1	1	species	497727	                  Candidatus Nitrososphaera gargensis
+0.3861	1	0	species	1459637	                  Candidatus Nitrososphaera evergladensis
+0.3861	1	1	isolate	1459636	                    Candidatus Nitrososphaera evergladensis SR1
+0.3861	1	0	no rank	2639862	                  unclassified Nitrososphaera
+0.3861	1	1	species	2301191	                    Nitrososphaera sp. AFS
+0.3861	1	1	genus	1826864	                Candidatus Nitrosocosmicus
+4.6332	12	0	no rank	1104572	          unclassified Thaumarchaeota
+4.6332	12	12	species	2026795	            Thaumarchaeota archaeon
+2.3166	6	1	order	31932	          Nitrosopumilales
+1.5444	4	0	no rank	1915697	            unclassified Nitrosopumilales
+1.5444	4	4	species	2026768	              Nitrosopumilales archaeon
+0.3861	1	0	family	338190	            Nitrosopumilaceae
+0.3861	1	0	genus	338191	              Nitrosopumilus
+0.3861	1	0	no rank	2619919	                unclassified Nitrosopumilus
+0.3861	1	1	species	2024843	                  Nitrosopumilus sp.
+0.3861	1	0	superkingdom	2	    Bacteria
+0.3861	1	0	phylum	40117	      Nitrospirae
+0.3861	1	0	class	203693	        Nitrospira
+0.3861	1	0	order	189778	          Nitrospirales
+0.3861	1	0	family	189779	            Nitrospiraceae
+0.3861	1	0	genus	995729	              Candidatus Magnetoovum
+0.3861	1	1	species	1609970	                Candidatus Magnetoovum chiemensis

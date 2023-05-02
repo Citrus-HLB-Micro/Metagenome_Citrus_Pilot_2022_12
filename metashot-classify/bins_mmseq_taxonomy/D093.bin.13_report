@@ -1,0 +1,85 @@
+0.7174	5	5	no rank	0	unclassified
+99.2826	692	90	no rank	1	root
+86.3702	602	1	no rank	131567	  cellular organisms
+86.2267	601	196	superkingdom	2	    Bacteria
+56.3845	393	7	clade	1783272	      Terrabacteria group
+55.0933	384	268	phylum	201174	        Actinobacteria
+10.3300	72	19	class	1497346	          Thermoleophilia
+7.4605	52	13	order	588673	            Solirubrobacterales
+4.5911	32	10	no rank	1363568	              unclassified Solirubrobacterales
+1.5782	11	11	species	1909295	                Solirubrobacterales bacterium
+1.2912	9	9	species	1895833	                Solirubrobacterales bacterium 70-9
+0.2869	2	2	species	1895832	                Solirubrobacterales bacterium 67-14
+0.5739	4	0	family	320583	              Conexibacteraceae
+0.5739	4	0	genus	191494	                Conexibacter
+0.2869	2	2	species	191495	                  Conexibacter woesei
+0.1435	1	1	species	912552	                  Conexibacter arvalis
+0.1435	1	0	no rank	2627773	                  unclassified Conexibacter
+0.1435	1	1	species	2675227	                    Conexibacter sp. W3-3-2
+0.4304	3	0	family	320599	              Solirubrobacteraceae
+0.2869	2	1	genus	207599	                Solirubrobacter
+0.1435	1	1	species	363832	                  Solirubrobacter soli
+0.1435	1	0	no rank	1162705	                environmental samples
+0.1435	1	1	species	1162706	                  uncultured Solirubrobacteraceae bacterium
+0.1435	1	0	order	588674	            Thermoleophilales
+0.1435	1	0	family	320796	              Thermoleophilaceae
+0.1435	1	0	no rank	2732251	                unclassified Thermoleophilaceae
+0.1435	1	1	species	2732252	                  Thermoleophilaceae bacterium
+6.1693	43	15	class	1760	          Actinomycetia
+3.4433	24	0	no rank	52018	            unclassified Actinomycetia
+3.4433	24	24	species	1883427	              Actinomycetia bacterium
+0.2869	2	0	order	85010	            Pseudonocardiales
+0.2869	2	0	family	2070	              Pseudonocardiaceae
+0.2869	2	1	genus	1813	                Amycolatopsis
+0.1435	1	1	species	664692	                  Amycolatopsis pithecellobii
+0.1435	1	0	order	85008	            Micromonosporales
+0.1435	1	1	family	28056	              Micromonosporaceae
+0.1435	1	0	order	85009	            Propionibacteriales
+0.1435	1	0	family	85015	              Nocardioidaceae
+0.1435	1	0	genus	1839	                Nocardioides
+0.1435	1	1	species	661491	                  Nocardioides ginsengisegetis
+0.1435	1	0	class	84995	          Rubrobacteria
+0.1435	1	0	order	84996	            Rubrobacterales
+0.1435	1	0	family	2600303	              Baekduiaceae
+0.1435	1	0	genus	2600304	                Baekduia
+0.1435	1	1	species	496014	                  Baekduia soli
+0.1435	1	0	phylum	200795	        Chloroflexi
+0.1435	1	0	class	189775	          Thermomicrobia
+0.1435	1	0	order	189776	            Thermomicrobiales
+0.1435	1	0	no rank	1645739	              environmental samples
+0.1435	1	1	species	1645740	                uncultured Thermomicrobiales bacterium
+0.1435	1	0	phylum	2052312	        Candidatus Dormibacteraeota
+0.1435	1	1	species	2052315	          Candidatus Dormibacteraeota bacterium
+1.0043	7	2	phylum	1224	      Proteobacteria
+0.5739	4	0	class	28211	        Alphaproteobacteria
+0.4304	3	0	order	204457	          Sphingomonadales
+0.4304	3	0	family	41297	            Sphingomonadaceae
+0.4304	3	0	genus	13687	              Sphingomonas
+0.4304	3	0	no rank	196159	                unclassified Sphingomonas
+0.4304	3	3	species	1327635	                  Sphingomonas sp. Cra20
+0.1435	1	0	order	356	          Hyphomicrobiales
+0.1435	1	1	family	45401	            Hyphomicrobiaceae
+0.1435	1	1	class	1236	        Gammaproteobacteria
+0.2869	2	0	clade	1783270	      FCB group
+0.1435	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.1435	1	0	phylum	976	          Bacteroidetes
+0.1435	1	0	class	768503	            Cytophagia
+0.1435	1	0	order	768507	              Cytophagales
+0.1435	1	0	family	1853232	                Hymenobacteraceae
+0.1435	1	1	genus	89966	                  Hymenobacter
+0.1435	1	0	phylum	142182	        Gemmatimonadetes
+0.1435	1	0	class	219685	          Gemmatimonadetes
+0.1435	1	0	order	219686	            Gemmatimonadales
+0.1435	1	0	family	219687	              Gemmatimonadaceae
+0.1435	1	0	no rank	246129	                environmental samples
+0.1435	1	1	species	246130	                  uncultured Gemmatimonadaceae bacterium
+0.1435	1	0	no rank	2323	      Bacteria incertae sedis
+0.1435	1	0	clade	1783234	        Bacteria candidate phyla
+0.1435	1	0	phylum	1817801	          Candidatus Eisenbacteria
+0.1435	1	1	species	2212470	            Candidatus Eisenbacteria bacterium
+0.1435	1	0	no rank	49928	      unclassified Bacteria
+0.1435	1	1	species	2035434	        bacterium HR39
+0.1435	1	0	phylum	57723	      Acidobacteria
+0.1435	1	0	class	1562566	        Blastocatellia
+0.1435	1	0	no rank	2052145	          unclassified Blastocatellia
+0.1435	1	1	species	2169413	            Blastocatellia bacterium AA13

@@ -1,0 +1,64 @@
+100.0000	376	104	no rank	1	root
+72.3404	272	1	no rank	131567	  cellular organisms
+71.8085	270	111	superkingdom	2	    Bacteria
+36.9681	139	72	phylum	1224	      Proteobacteria
+16.2234	61	30	class	1236	        Gammaproteobacteria
+6.9149	26	13	no rank	33811	          unclassified Gammaproteobacteria
+3.1915	12	12	species	1913989	            Gammaproteobacteria bacterium
+0.2660	1	1	species	1703404	            Gammaproteobacteria bacterium SG8_30
+0.5319	2	0	order	135613	          Chromatiales
+0.2660	1	1	family	1738654	            Woeseiaceae
+0.2660	1	0	no rank	2576752	            unclassified Chromatiales
+0.2660	1	1	species	2026725	              Chromatiales bacterium
+0.5319	2	0	order	135614	          Xanthomonadales
+0.5319	2	0	no rank	451320	            unclassified Xanthomonadales
+0.5319	2	2	species	2006849	              Xanthomonadales bacterium
+0.2660	1	0	order	1775403	          Nevskiales
+0.2660	1	0	family	2689614	            Steroidobacteraceae
+0.2660	1	0	genus	469322	              Steroidobacter
+0.2660	1	1	species	2805490	                Steroidobacter gossypii
+0.7979	3	2	class	28211	        Alphaproteobacteria
+0.2660	1	0	order	356	          Hyphomicrobiales
+0.2660	1	0	family	45401	            Hyphomicrobiaceae
+0.2660	1	0	genus	81	              Hyphomicrobium
+0.2660	1	1	no rank	2619925	                unclassified Hyphomicrobium
+0.5319	2	0	class	28216	        Betaproteobacteria
+0.5319	2	1	order	80840	          Burkholderiales
+0.2660	1	0	no rank	224471	            Burkholderiales genera incertae sedis
+0.2660	1	0	genus	316612	              Methylibium
+0.2660	1	0	no rank	2633235	                unclassified Methylibium
+0.2660	1	1	species	1500261	                  Methylibium sp. CF059
+0.2660	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.2660	1	0	class	28221	          Deltaproteobacteria
+0.2660	1	0	order	29	            Myxococcales
+0.2660	1	0	suborder	80812	              Sorangiineae
+0.2660	1	0	family	49	                Polyangiaceae
+0.2660	1	0	genus	39643	                  Sorangium
+0.2660	1	1	species	56	                    Sorangium cellulosum
+2.1277	8	0	clade	1783272	      Terrabacteria group
+1.5957	6	3	phylum	201174	        Actinobacteria
+0.7979	3	1	class	1760	          Actinomycetia
+0.5319	2	0	no rank	52018	            unclassified Actinomycetia
+0.5319	2	2	species	1883427	              Actinomycetia bacterium
+0.5319	2	0	phylum	200795	        Chloroflexi
+0.2660	1	0	no rank	189774	          unclassified Chloroflexi
+0.2660	1	1	species	2026724	            Chloroflexi bacterium
+0.2660	1	0	class	301297	          Dehalococcoidia
+0.2660	1	0	no rank	1318598	            unclassified Dehalococcoidia
+0.2660	1	1	species	2026734	              Dehalococcoidia bacterium
+1.5957	6	0	no rank	2323	      Bacteria incertae sedis
+1.5957	6	0	clade	1783234	        Bacteria candidate phyla
+1.5957	6	0	phylum	1752708	          Candidatus Rokubacteria
+1.5957	6	3	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.7979	3	3	species	2053607	              Candidatus Rokubacteria bacterium
+1.0638	4	2	phylum	57723	      Acidobacteria
+0.5319	2	1	no rank	305072	        unclassified Acidobacteria
+0.2660	1	1	species	1978231	          Acidobacteria bacterium
+0.5319	2	0	clade	1783270	      FCB group
+0.5319	2	0	phylum	142182	        Gemmatimonadetes
+0.5319	2	0	no rank	234665	          unclassified Gemmatimonadetes
+0.5319	2	2	species	2026742	            Gemmatimonadetes bacterium
+0.2660	1	0	superkingdom	2157	    Archaea
+0.2660	1	0	phylum	28890	      Euryarchaeota
+0.2660	1	0	no rank	115531	        unclassified Euryarchaeota
+0.2660	1	1	species	2026739	          Euryarchaeota archaeon

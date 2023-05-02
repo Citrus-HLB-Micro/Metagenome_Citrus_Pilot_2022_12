@@ -1,0 +1,32 @@
+0.3817	1	1	no rank	0	unclassified
+99.6183	261	10	no rank	1	root
+95.8015	251	0	no rank	131567	  cellular organisms
+95.8015	251	90	superkingdom	2	    Bacteria
+59.5420	156	1	clade	1783270	      FCB group
+58.7786	154	110	phylum	142182	        Gemmatimonadetes
+12.5954	33	1	no rank	234665	          unclassified Gemmatimonadetes
+12.2137	32	32	species	2026742	            Gemmatimonadetes bacterium
+4.1985	11	0	class	219685	          Gemmatimonadetes
+4.1985	11	1	order	219686	            Gemmatimonadales
+3.8168	10	1	family	219687	              Gemmatimonadaceae
+3.0534	8	0	no rank	1387399	                unclassified Gemmatimonadaceae
+3.0534	8	8	species	2026741	                  Gemmatimonadaceae bacterium
+0.3817	1	0	genus	1706036	                Gemmatirosa
+0.3817	1	1	species	861299	                  Gemmatirosa kalamazoonesis
+0.3817	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.3817	1	0	phylum	1853220	          Rhodothermaeota
+0.3817	1	0	class	1853222	            Rhodothermia
+0.3817	1	0	order	1853224	              Rhodothermales
+0.3817	1	0	no rank	2306053	                unclassified Rhodothermales
+0.3817	1	1	species	2306054	                  Rhodothermales bacterium
+1.5267	4	0	phylum	57723	      Acidobacteria
+1.5267	4	0	no rank	305072	        unclassified Acidobacteria
+1.1450	3	3	species	1978231	          Acidobacteria bacterium
+0.3817	1	1	species	1797193	          Acidobacteria bacterium RIFCSPLOWO2_12_FULL_67_14b
+0.3817	1	0	phylum	40117	      Nitrospirae
+0.3817	1	0	class	203693	        Nitrospira
+0.3817	1	0	order	189778	          Nitrospirales
+0.3817	1	0	family	189779	            Nitrospiraceae
+0.3817	1	0	genus	1234	              Nitrospira
+0.3817	1	0	no rank	2652172	                unclassified Nitrospira
+0.3817	1	1	species	70125	                  Nitrospira sp.

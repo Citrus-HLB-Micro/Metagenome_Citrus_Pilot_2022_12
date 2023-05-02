@@ -1,0 +1,144 @@
+2.4631	10	10	no rank	0	unclassified
+97.5369	396	37	no rank	1	root
+88.4236	359	2	no rank	131567	  cellular organisms
+87.4384	355	108	superkingdom	2	    Bacteria
+60.0985	244	18	clade	1783272	      Terrabacteria group
+53.6946	218	63	phylum	201174	        Actinobacteria
+36.4532	148	109	class	1760	          Actinomycetia
+3.9409	16	0	no rank	52018	            unclassified Actinomycetia
+3.9409	16	16	species	1883427	              Actinomycetia bacterium
+1.7241	7	0	order	85011	            Streptomycetales
+1.7241	7	1	family	2062	              Streptomycetaceae
+1.4778	6	4	genus	1883	                Streptomyces
+0.2463	1	1	species	33899	                  Streptomyces galilaeus
+0.2463	1	0	no rank	2593676	                  unclassified Streptomyces
+0.2463	1	1	species	710705	                    Streptomyces sp. FXJ1.172
+0.9852	4	0	order	85010	            Pseudonocardiales
+0.7389	3	0	family	2070	              Pseudonocardiaceae
+0.2463	1	1	genus	1835	                Saccharopolyspora
+0.2463	1	0	genus	2071	                Saccharothrix
+0.2463	1	0	no rank	2593673	                  unclassified Saccharothrix
+0.2463	1	1	species	1415542	                    Saccharothrix sp. NRRL B-16348
+0.2463	1	0	genus	1425377	                Haloechinothrix
+0.2463	1	1	species	1069073	                  Haloechinothrix halophila
+0.2463	1	0	no rank	664783	              unclassified Pseudonocardiales
+0.2463	1	1	species	2201155	                Pseudonocardiales bacterium
+0.4926	2	0	order	85009	            Propionibacteriales
+0.4926	2	0	family	85015	              Nocardioidaceae
+0.4926	2	2	genus	1839	                Nocardioides
+0.4926	2	0	order	85012	            Streptosporangiales
+0.2463	1	0	family	2004	              Streptosporangiaceae
+0.2463	1	1	genus	90974	                Acrocarpospora
+0.2463	1	0	family	83676	              Nocardiopsaceae
+0.2463	1	0	genus	83677	                Thermobifida
+0.2463	1	1	species	2021	                  Thermobifida fusca
+0.4926	2	0	order	85013	            Frankiales
+0.4926	2	0	family	74712	              Frankiaceae
+0.4926	2	0	genus	1854	                Frankia
+0.4926	2	2	species	1834516	                  Frankia asymbiotica
+0.4926	2	0	order	1217098	            Jiangellales
+0.4926	2	0	family	1217100	              Jiangellaceae
+0.4926	2	1	genus	281472	                Jiangella
+0.2463	1	1	species	702383	                  Jiangella muralis
+0.2463	1	1	order	85006	            Micrococcales
+0.2463	1	0	order	85007	            Corynebacteriales
+0.2463	1	0	family	1762	              Mycobacteriaceae
+0.2463	1	0	genus	1763	                Mycobacterium
+0.2463	1	1	species	1789	                  Mycobacterium xenopi
+0.2463	1	0	order	85008	            Micromonosporales
+0.2463	1	1	family	28056	              Micromonosporaceae
+0.2463	1	0	order	1643683	            Acidothermales
+0.2463	1	0	no rank	2740545	              unclassified Acidothermales
+0.2463	1	1	species	2740546	                Acidothermales bacterium
+1.2315	5	1	class	908620	          Nitriliruptoria
+0.7389	3	0	order	596497	            Nitriliruptorales
+0.4926	2	0	no rank	2497629	              unclassified Nitriliruptorales
+0.4926	2	2	species	2497630	                Nitriliruptorales bacterium
+0.2463	1	0	family	596498	              Nitriliruptoraceae
+0.2463	1	0	genus	596499	                Nitriliruptor
+0.2463	1	1	species	427918	                  Nitriliruptor alkaliphilus
+0.2463	1	0	order	1755823	            Egicoccales
+0.2463	1	0	family	1755824	              Egicoccaceae
+0.2463	1	0	genus	1755825	                Egicoccus
+0.2463	1	1	species	1670830	                  Egicoccus halophilus
+0.2463	1	0	class	84992	          Acidimicrobiia
+0.2463	1	0	order	84993	            Acidimicrobiales
+0.2463	1	0	family	84994	              Acidimicrobiaceae
+0.2463	1	0	no rank	667305	                unclassified Acidimicrobiaceae
+0.2463	1	1	species	2024894	                  Acidimicrobiaceae bacterium
+0.2463	1	0	class	84995	          Rubrobacteria
+0.2463	1	0	order	84996	            Rubrobacterales
+0.2463	1	1	family	84997	              Rubrobacteraceae
+1.7241	7	2	phylum	200795	        Chloroflexi
+0.7389	3	0	no rank	189774	          unclassified Chloroflexi
+0.7389	3	3	species	2026724	            Chloroflexi bacterium
+0.2463	1	0	class	189775	          Thermomicrobia
+0.2463	1	0	subclass	85000	            Sphaerobacteridae
+0.2463	1	0	order	85001	              Sphaerobacterales
+0.2463	1	0	suborder	255728	                Sphaerobacterineae
+0.2463	1	0	family	85002	                  Sphaerobacteraceae
+0.2463	1	0	genus	1206748	                    Nitrolancea
+0.2463	1	0	species	1206749	                      Nitrolancea hollandica
+0.2463	1	1	strain	1129897	                        Nitrolancea hollandica Lb
+0.2463	1	0	class	301297	          Dehalococcoidia
+0.2463	1	0	no rank	1318598	            unclassified Dehalococcoidia
+0.2463	1	1	species	2026734	              Dehalococcoidia bacterium
+0.2463	1	0	phylum	1239	        Firmicutes
+0.2463	1	0	class	186801	          Clostridia
+0.2463	1	0	order	68295	            Thermoanaerobacterales
+0.2463	1	0	family	186814	              Thermoanaerobacteraceae
+0.2463	1	0	no rank	42857	                Moorella group
+0.2463	1	0	genus	44260	                  Moorella
+0.2463	1	0	no rank	2676739	                    unclassified Moorella (in: Bacteria)
+0.2463	1	1	species	2572683	                      Moorella sp. E306M
+0.4926	2	0	clade	1783270	      FCB group
+0.4926	2	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.4926	2	0	phylum	976	          Bacteroidetes
+0.2463	1	0	class	768503	            Cytophagia
+0.2463	1	0	order	768507	              Cytophagales
+0.2463	1	0	family	1501348	                Amoebophilaceae
+0.2463	1	0	genus	273135	                  Candidatus Cardinium
+0.2463	1	1	species	247481	                    Candidatus Cardinium hertigii
+0.2463	1	0	class	1937959	            Saprospiria
+0.2463	1	0	order	1936988	              Saprospirales
+0.2463	1	0	family	89374	                Saprospiraceae
+0.2463	1	0	no rank	234684	                  unclassified Saprospiraceae
+0.2463	1	1	species	2202734	                    Saprospiraceae bacterium
+0.2463	1	0	phylum	1224	      Proteobacteria
+0.2463	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.2463	1	0	class	28221	          Deltaproteobacteria
+0.2463	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.2463	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.4926	2	0	superkingdom	2759	    Eukaryota
+0.2463	1	0	kingdom	33090	      Viridiplantae
+0.2463	1	0	phylum	35493	        Streptophyta
+0.2463	1	0	subphylum	131221	          Streptophytina
+0.2463	1	0	clade	3193	            Embryophyta
+0.2463	1	0	clade	58023	              Tracheophyta
+0.2463	1	0	clade	78536	                Euphyllophyta
+0.2463	1	0	clade	58024	                  Spermatophyta
+0.2463	1	0	class	3398	                    Magnoliopsida
+0.2463	1	0	clade	1437183	                      Mesangiospermae
+0.2463	1	0	clade	4447	                        Liliopsida
+0.2463	1	0	subclass	1437197	                          Petrosaviidae
+0.2463	1	0	clade	4734	                            commelinids
+0.2463	1	0	order	38820	                              Poales
+0.2463	1	0	family	4479	                                Poaceae
+0.2463	1	0	clade	359160	                                  BOP clade
+0.2463	1	0	subfamily	147367	                                    Oryzoideae
+0.2463	1	0	tribe	147380	                                      Oryzeae
+0.2463	1	0	subtribe	1648021	                                        Oryzinae
+0.2463	1	0	genus	4527	                                          Oryza
+0.2463	1	0	species	4530	                                            Oryza sativa
+0.2463	1	1	no rank	39947	                                              Oryza sativa Japonica Group
+0.2463	1	0	clade	33154	      Opisthokonta
+0.2463	1	0	kingdom	4751	        Fungi
+0.2463	1	0	no rank	112252	          Fungi incertae sedis
+0.2463	1	0	phylum	4761	            Chytridiomycota
+0.2463	1	0	no rank	2683659	              Chytridiomycota incertae sedis
+0.2463	1	0	class	451454	                Monoblepharidomycetes
+0.2463	1	0	order	79272	                  Monoblepharidales
+0.2463	1	0	family	109943	                    Gonapodyaceae
+0.2463	1	0	genus	109944	                      Gonapodya
+0.2463	1	0	species	1123529	                        Gonapodya prolifera
+0.2463	1	1	strain	1344416	                          Gonapodya prolifera JEL478

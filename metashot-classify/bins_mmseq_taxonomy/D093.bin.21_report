@@ -1,0 +1,98 @@
+0.1938	1	1	no rank	0	unclassified
+99.8062	515	101	no rank	1	root
+80.0388	413	1	no rank	131567	  cellular organisms
+79.8450	412	146	superkingdom	2	    Bacteria
+49.0310	253	79	phylum	1224	      Proteobacteria
+32.1705	166	62	class	1236	        Gammaproteobacteria
+13.7597	71	1	no rank	33811	          unclassified Gammaproteobacteria
+13.3721	69	69	species	1913989	            Gammaproteobacteria bacterium
+0.1938	1	1	species	1986767	            Gammaproteobacteria bacterium TMED78
+4.2636	22	1	order	135614	          Xanthomonadales
+4.0698	21	0	no rank	451320	            unclassified Xanthomonadales
+4.0698	21	21	species	2006849	              Xanthomonadales bacterium
+0.9690	5	0	order	1775403	          Nevskiales
+0.7752	4	0	family	2689614	            Steroidobacteraceae
+0.3876	2	2	genus	469322	              Steroidobacter
+0.3876	2	0	genus	1538468	              Povalibacter
+0.3876	2	2	species	732238	                Povalibacter uvarum
+0.1938	1	0	family	568386	            Sinobacteraceae
+0.1938	1	0	genus	64001	              Nevskia
+0.1938	1	1	species	418856	                Nevskia soli
+0.5814	3	0	order	72274	          Pseudomonadales
+0.5814	3	0	family	135621	            Pseudomonadaceae
+0.5814	3	0	no rank	190017	              unclassified Pseudomonadaceae
+0.5814	3	3	species	1914538	                Pseudomonadaceae bacterium
+0.1938	1	0	order	72273	          Thiotrichales
+0.1938	1	0	family	135617	            Thiotrichaceae
+0.1938	1	1	genus	1021	              Beggiatoa
+0.1938	1	0	order	135613	          Chromatiales
+0.1938	1	0	family	72276	            Ectothiorhodospiraceae
+0.1938	1	0	genus	133193	              Alkalilimnicola
+0.1938	1	0	no rank	2613921	                unclassified Alkalilimnicola
+0.1938	1	1	species	2613922	                  Alkalilimnicola sp. S0819
+0.1938	1	0	order	1706369	          Cellvibrionales
+0.1938	1	1	family	1706371	            Cellvibrionaceae
+0.5814	3	0	class	28216	        Betaproteobacteria
+0.3876	2	0	no rank	33809	          unclassified Betaproteobacteria
+0.1938	1	1	species	1797475	            Betaproteobacteria bacterium RBG_16_56_24
+0.1938	1	1	species	1797477	            Betaproteobacteria bacterium RBG_16_64_18
+0.1938	1	0	order	80840	          Burkholderiales
+0.1938	1	0	family	75682	            Oxalobacteraceae
+0.1938	1	0	genus	1344552	              Noviherbaspirillum
+0.1938	1	0	no rank	2617509	                unclassified Noviherbaspirillum
+0.1938	1	1	species	1736487	                  Noviherbaspirillum sp. Root189
+0.5814	3	0	subphylum	68525	        delta/epsilon subdivisions
+0.5814	3	0	class	28221	          Deltaproteobacteria
+0.1938	1	0	order	29	            Myxococcales
+0.1938	1	0	suborder	80811	              Cystobacterineae
+0.1938	1	0	family	31	                Myxococcaceae
+0.1938	1	0	no rank	436400	                  unclassified Myxococcaceae
+0.1938	1	1	species	2484252	                    Myxococcaceae bacterium
+0.1938	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.1938	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.1938	1	0	order	213118	            Desulfobacterales
+0.1938	1	0	family	213119	              Desulfobacteraceae
+0.1938	1	0	no rank	231684	                unclassified Desulfobacteraceae
+0.1938	1	1	species	2049433	                  Desulfobacteraceae bacterium
+0.3876	2	0	class	28211	        Alphaproteobacteria
+0.1938	1	0	order	356	          Hyphomicrobiales
+0.1938	1	0	family	41294	            Bradyrhizobiaceae
+0.1938	1	0	genus	374	              Bradyrhizobium
+0.1938	1	1	species	108015	                Bradyrhizobium yuanmingense
+0.1938	1	0	order	2800060	          Hyphomonadales
+0.1938	1	0	family	69657	            Hyphomonadaceae
+0.1938	1	0	genus	85	              Hyphomonas
+0.1938	1	1	species	81031	                Hyphomonas johnsonii
+1.5504	8	4	phylum	57723	      Acidobacteria
+0.5814	3	1	no rank	305072	        unclassified Acidobacteria
+0.3876	2	2	species	1978231	          Acidobacteria bacterium
+0.1938	1	0	class	1813735	        Vicinamibacteria
+0.1938	1	0	order	2910145	          Vicinamibacterales
+0.1938	1	0	family	2211325	            Vicinamibacteraceae
+0.1938	1	0	genus	2004797	              Luteitalea
+0.1938	1	1	species	1855912	                Luteitalea pratensis
+0.5814	3	1	clade	1783272	      Terrabacteria group
+0.3876	2	0	phylum	201174	        Actinobacteria
+0.1938	1	0	class	1760	          Actinomycetia
+0.1938	1	0	no rank	52018	            unclassified Actinomycetia
+0.1938	1	1	species	1883427	              Actinomycetia bacterium
+0.1938	1	0	class	1497346	          Thermoleophilia
+0.1938	1	0	order	588673	            Solirubrobacterales
+0.1938	1	0	family	320583	              Conexibacteraceae
+0.1938	1	0	genus	191494	                Conexibacter
+0.1938	1	1	species	191495	                  Conexibacter woesei
+0.3876	2	0	clade	1783270	      FCB group
+0.1938	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.1938	1	1	phylum	976	          Bacteroidetes
+0.1938	1	0	phylum	142182	        Gemmatimonadetes
+0.1938	1	0	no rank	234665	          unclassified Gemmatimonadetes
+0.1938	1	1	species	2026742	            Gemmatimonadetes bacterium
+0.1938	1	0	superkingdom	10239	  Viruses
+0.1938	1	0	clade	2731341	    Duplodnaviria
+0.1938	1	0	kingdom	2731360	      Heunggongvirae
+0.1938	1	0	phylum	2731618	        Uroviricota
+0.1938	1	0	class	2731619	          Caudoviricetes
+0.1938	1	0	order	28883	            Caudovirales
+0.1938	1	0	family	10744	              Podoviridae
+0.1938	1	0	no rank	196895	                unclassified Podoviridae
+0.1938	1	1	species	2805750	                  Pseudomonas phage Itty13

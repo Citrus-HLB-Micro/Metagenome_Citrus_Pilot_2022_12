@@ -1,0 +1,60 @@
+0.2105	1	1	no rank	0	unclassified
+99.7895	474	47	no rank	1	root
+89.8947	427	8	no rank	131567	  cellular organisms
+87.3684	415	153	superkingdom	2	    Bacteria
+52.6316	250	208	phylum	40117	      Nitrospirae
+8.2105	39	0	class	203693	        Nitrospira
+8.2105	39	2	order	189778	          Nitrospirales
+7.7895	37	4	family	189779	            Nitrospiraceae
+6.9474	33	20	genus	1234	              Nitrospira
+2.5263	12	7	no rank	2652172	                unclassified Nitrospira
+0.6316	3	3	species	70125	                  Nitrospira sp.
+0.2105	1	1	species	1936990	                  Nitrospira sp. KM1
+0.2105	1	1	species	1985133	                  Nitrospira sp. CG24A
+0.2105	1	1	species	1325564	                Nitrospira japonica
+0.6316	3	1	no rank	1298915	        unclassified Nitrospirae
+0.4211	2	2	species	2026887	          Nitrospirae bacterium
+1.2632	6	1	phylum	57723	      Acidobacteria
+0.8421	4	1	no rank	305072	        unclassified Acidobacteria
+0.6316	3	3	species	1978231	          Acidobacteria bacterium
+0.2105	1	0	class	204432	        Acidobacteriia
+0.2105	1	0	order	332160	          Bryobacterales
+0.2105	1	0	family	332161	            Solibacteraceae
+0.2105	1	0	genus	2136118	              Candidatus Sulfopaludibacter
+0.2105	1	0	no rank	2626174	                unclassified Candidatus Sulfopaludibacter
+0.2105	1	1	species	2043165	                  Candidatus Sulfopaludibacter sp. SbA4
+1.0526	5	2	phylum	1224	      Proteobacteria
+0.6316	3	1	class	28211	        Alphaproteobacteria
+0.2105	1	1	order	356	          Hyphomicrobiales
+0.2105	1	0	order	204457	          Sphingomonadales
+0.2105	1	0	family	2820280	            Sphingosinicellaceae
+0.2105	1	0	genus	1508451	              Polymorphobacter
+0.2105	1	1	species	1070431	                Polymorphobacter multimanifer
+0.2105	1	0	clade	1783272	      Terrabacteria group
+0.2105	1	0	phylum	201174	        Actinobacteria
+0.2105	1	0	class	1760	          Actinomycetia
+0.2105	1	0	order	85010	            Pseudonocardiales
+0.2105	1	0	no rank	664783	              unclassified Pseudonocardiales
+0.2105	1	1	species	2201155	                Pseudonocardiales bacterium
+0.8421	4	0	superkingdom	2759	    Eukaryota
+0.8421	4	0	clade	33154	      Opisthokonta
+0.8421	4	0	kingdom	33208	        Metazoa
+0.8421	4	0	clade	6072	          Eumetazoa
+0.8421	4	0	clade	33213	            Bilateria
+0.8421	4	0	clade	33317	              Protostomia
+0.8421	4	1	clade	1206794	                Ecdysozoa
+0.6316	3	0	clade	88770	                  Panarthropoda
+0.6316	3	0	phylum	6656	                    Arthropoda
+0.6316	3	0	clade	197563	                      Mandibulata
+0.6316	3	0	clade	197562	                        Pancrustacea
+0.6316	3	0	subphylum	6960	                          Hexapoda
+0.6316	3	0	class	50557	                            Insecta
+0.6316	3	0	clade	85512	                              Dicondylia
+0.6316	3	0	subclass	7496	                                Pterygota
+0.6316	3	0	infraclass	33339	                                  Palaeoptera
+0.6316	3	0	order	30073	                                    Ephemeroptera
+0.6316	3	0	suborder	185812	                                      Furcatergalia
+0.6316	3	0	infraorder	185816	                                        Scapphodonta
+0.6316	3	0	family	50581	                                          Ephemeridae
+0.6316	3	0	genus	50582	                                            Ephemera
+0.6316	3	3	species	1049336	                                              Ephemera danica

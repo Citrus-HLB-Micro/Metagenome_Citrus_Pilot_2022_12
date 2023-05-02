@@ -1,0 +1,44 @@
+0.4688	3	3	no rank	0	unclassified
+99.5312	637	33	no rank	1	root
+94.3750	604	0	no rank	131567	  cellular organisms
+94.3750	604	401	superkingdom	2	    Bacteria
+23.9062	153	0	no rank	2323	      Bacteria incertae sedis
+23.9062	153	0	clade	1783234	        Bacteria candidate phyla
+23.9062	153	0	phylum	1752708	          Candidatus Rokubacteria
+23.9062	153	115	no rank	2760815	            unclassified Candidatus Rokubacteria
+5.6250	36	36	species	2053607	              Candidatus Rokubacteria bacterium
+0.1562	1	1	species	1805348	              Candidatus Rokubacteria bacterium 13_1_20CM_4_70_14
+0.1562	1	1	species	1805366	              Candidatus Rokubacteria bacterium 13_1_40CM_68_15
+6.4062	41	2	clade	1783272	      Terrabacteria group
+5.3125	34	14	phylum	201174	        Actinobacteria
+1.5625	10	5	class	1760	          Actinomycetia
+0.6250	4	0	no rank	52018	            unclassified Actinomycetia
+0.6250	4	4	species	1883427	              Actinomycetia bacterium
+0.1562	1	0	order	85009	            Propionibacteriales
+0.1562	1	0	no rank	2015800	              unclassified Propionibacteriales
+0.1562	1	1	species	2015801	                Propionibacteriales bacterium
+1.5625	10	2	class	1497346	          Thermoleophilia
+1.2500	8	5	order	588673	            Solirubrobacterales
+0.3125	2	0	family	320599	              Solirubrobacteraceae
+0.3125	2	2	genus	207599	                Solirubrobacter
+0.1562	1	0	no rank	1363568	              unclassified Solirubrobacterales
+0.1562	1	1	species	1909295	                Solirubrobacterales bacterium
+0.7812	5	1	phylum	200795	        Chloroflexi
+0.4688	3	1	no rank	189774	          unclassified Chloroflexi
+0.3125	2	2	species	2026724	            Chloroflexi bacterium
+0.1562	1	0	class	388447	          Ktedonobacteria
+0.1562	1	0	order	388448	            Ktedonobacterales
+0.1562	1	0	family	388449	              Ktedonobacteraceae
+0.1562	1	0	no rank	2518257	                unclassified Ktedonobacteraceae
+0.1562	1	1	species	2740538	                  Ktedonobacteraceae bacterium
+0.6250	4	2	phylum	57723	      Acidobacteria
+0.3125	2	1	no rank	305072	        unclassified Acidobacteria
+0.1562	1	1	species	1660160	          Acidobacteria bacterium SCN 69-37
+0.3125	2	2	phylum	1224	      Proteobacteria
+0.3125	2	0	clade	1783257	      PVC group
+0.3125	2	0	phylum	203682	        Planctomycetes
+0.3125	2	0	class	666505	          Phycisphaerae
+0.3125	2	0	no rank	1546154	            unclassified Phycisphaerae
+0.3125	2	2	species	2026778	              Phycisphaerae bacterium
+0.1562	1	0	clade	1783270	      FCB group
+0.1562	1	1	phylum	142182	        Gemmatimonadetes

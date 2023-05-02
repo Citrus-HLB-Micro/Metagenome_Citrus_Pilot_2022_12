@@ -1,0 +1,128 @@
+0.1115	1	1	no rank	0	unclassified
+99.8885	896	136	no rank	1	root
+84.7269	760	9	no rank	131567	  cellular organisms
+83.6120	750	245	superkingdom	2	    Bacteria
+54.0691	485	182	phylum	1224	      Proteobacteria
+32.6644	293	159	class	28211	        Alphaproteobacteria
+13.8239	124	78	order	356	          Hyphomicrobiales
+1.6722	15	3	family	41294	            Bradyrhizobiaceae
+1.1148	10	5	genus	374	              Bradyrhizobium
+0.2230	2	0	no rank	2631580	                unclassified Bradyrhizobium
+0.1115	1	1	species	376	                  Bradyrhizobium sp.
+0.1115	1	1	species	2663840	                  Bradyrhizobium sp. CIR48
+0.1115	1	1	species	722472	                Bradyrhizobium lablabi
+0.1115	1	1	species	1325107	                Bradyrhizobium zhanjiangense
+0.1115	1	1	species	1437360	                Bradyrhizobium erythrophlei
+0.1115	1	0	no rank	81426	              unclassified Bradyrhizobiaceae
+0.1115	1	1	species	2072420	                Bradyrhizobiaceae bacterium
+0.1115	1	0	genus	1649510	              Variibacter
+0.1115	1	1	species	1333996	                Variibacter gotjawalensis
+1.4493	13	4	family	45401	            Hyphomicrobiaceae
+0.5574	5	0	genus	29407	              Rhodoplanes
+0.4459	4	0	no rank	2619116	                unclassified Rhodoplanes
+0.4459	4	4	species	674703	                  Rhodoplanes sp. Z2-YC6860
+0.1115	1	1	species	444923	                Rhodoplanes piscinae
+0.3344	3	3	genus	81	              Hyphomicrobium
+0.1115	1	0	no rank	196771	              unclassified Hyphomicrobiaceae
+0.1115	1	1	species	2015799	                Hyphomicrobiaceae bacterium
+0.6689	6	0	no rank	41292	            unclassified Hyphomicrobiales
+0.6689	6	6	species	1909294	              Hyphomicrobiales bacterium
+0.5574	5	0	family	335928	            Xanthobacteraceae
+0.3344	3	1	genus	556257	              Pseudolabrys
+0.2230	2	2	no rank	2638514	                unclassified Pseudolabrys
+0.1115	1	0	genus	6	              Azorhizobium
+0.1115	1	0	no rank	2645479	                unclassified Azorhizobium
+0.1115	1	1	species	1970322	                  Azorhizobium sp. 39-67-5
+0.1115	1	0	no rank	363886	              unclassified Xanthobacteraceae
+0.1115	1	1	species	2021379	                Xanthobacteraceae bacterium
+0.3344	3	0	family	119045	            Methylobacteriaceae
+0.1115	1	0	genus	407	              Methylobacterium
+0.1115	1	1	species	560405	                Methylobacterium dankookense
+0.1115	1	0	genus	186650	              Microvirga
+0.1115	1	1	species	1682650	                Microvirga pakistanensis
+0.1115	1	0	genus	2282523	              Methylorubrum
+0.1115	1	1	species	408	                Methylorubrum extorquens
+0.1115	1	0	family	31993	            Methylocystaceae
+0.1115	1	0	genus	61653	              Methylopila
+0.1115	1	0	no rank	2628841	                unclassified Methylopila
+0.1115	1	1	species	1101190	                  Methylopila sp. M107
+0.1115	1	0	family	69277	            Phyllobacteriaceae
+0.1115	1	1	genus	68287	              Mesorhizobium
+0.1115	1	0	family	82115	            Rhizobiaceae
+0.1115	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.1115	1	0	genus	379	                Rhizobium
+0.1115	1	1	species	2171756	                  Rhizobium terrae
+0.1115	1	0	family	2843308	            Pleomorphomonadaceae
+0.1115	1	0	genus	1775716	              Methylobrevis
+0.1115	1	1	species	1439726	                Methylobrevis pamukkalensis
+1.0033	9	0	no rank	33807	          unclassified Alphaproteobacteria
+0.7804	7	7	species	1913988	            Alphaproteobacteria bacterium
+0.1115	1	1	species	1803507	            Alphaproteobacteria bacterium 13_2_20CM_2_64_7
+0.1115	1	1	species	2013074	            Alphaproteobacteria bacterium MarineAlpha4_Bin1
+0.1115	1	0	order	204455	          Rhodobacterales
+0.1115	1	0	family	31989	            Rhodobacteraceae
+0.1115	1	0	genus	265	              Paracoccus
+0.1115	1	1	species	2023261	                Paracoccus hibiscisoli
+0.6689	6	1	class	28216	        Betaproteobacteria
+0.3344	3	0	no rank	33809	          unclassified Betaproteobacteria
+0.2230	2	2	species	1891241	            Betaproteobacteria bacterium
+0.1115	1	1	species	2013713	            Betaproteobacteria bacterium HGW-Betaproteobacteria-21
+0.2230	2	0	order	80840	          Burkholderiales
+0.1115	1	0	family	80864	            Comamonadaceae
+0.1115	1	0	genus	47420	              Hydrogenophaga
+0.1115	1	0	no rank	2610897	                unclassified Hydrogenophaga
+0.1115	1	1	species	1437444	                  Hydrogenophaga sp. T4
+0.1115	1	0	family	119060	            Burkholderiaceae
+0.1115	1	0	genus	106589	              Cupriavidus
+0.1115	1	0	species	82541	                Cupriavidus gilardii
+0.1115	1	1	strain	936133	                  Cupriavidus gilardii J11
+0.4459	4	0	subphylum	68525	        delta/epsilon subdivisions
+0.4459	4	0	class	28221	          Deltaproteobacteria
+0.4459	4	1	no rank	122706	            unclassified Deltaproteobacteria
+0.2230	2	2	species	2026735	              Deltaproteobacteria bacterium
+0.1115	1	1	species	1797894	              Deltaproteobacteria bacterium RIFCSPLOWO2_12_FULL_60_19
+0.7804	7	1	clade	1783257	      PVC group
+0.6689	6	3	phylum	203682	        Planctomycetes
+0.3344	3	0	class	203683	          Planctomycetia
+0.2230	2	0	order	112	            Planctomycetales
+0.2230	2	0	family	126	              Planctomycetaceae
+0.1115	1	0	genus	118	                Planctomyces
+0.1115	1	0	no rank	2648843	                  unclassified Planctomyces
+0.1115	1	1	species	1799657	                    Planctomyces sp. SCGC AG-212-M04
+0.1115	1	0	genus	1779141	                Planctomicrobium
+0.1115	1	1	species	1576369	                  Planctomicrobium piriforme
+0.1115	1	0	order	2691354	            Pirellulales
+0.1115	1	1	family	2691357	              Pirellulaceae
+0.5574	5	2	phylum	57723	      Acidobacteria
+0.2230	2	0	class	204432	        Acidobacteriia
+0.1115	1	0	order	204433	          Acidobacteriales
+0.1115	1	0	family	204434	            Acidobacteriaceae
+0.1115	1	0	genus	1078860	              Bryocella
+0.1115	1	1	species	863522	                Bryocella elongata
+0.1115	1	0	order	2817523	          Candidatus Acidoferrales
+0.1115	1	0	genus	2817524	            Candidatus Acidoferrum
+0.1115	1	1	species	2741543	              Candidatus Acidoferrum panamensis
+0.1115	1	0	no rank	305072	        unclassified Acidobacteria
+0.1115	1	1	species	1978231	          Acidobacteria bacterium
+0.3344	3	3	phylum	40117	      Nitrospirae
+0.2230	2	0	no rank	2323	      Bacteria incertae sedis
+0.2230	2	0	clade	1783234	        Bacteria candidate phyla
+0.2230	2	0	phylum	1752708	          Candidatus Rokubacteria
+0.2230	2	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.2230	2	2	species	2053607	              Candidatus Rokubacteria bacterium
+0.1115	1	0	no rank	48479	      environmental samples
+0.1115	1	1	species	77133	        uncultured bacterium
+0.1115	1	0	no rank	49928	      unclassified Bacteria
+0.1115	1	1	species	2035434	        bacterium HR39
+0.1115	1	0	clade	1783270	      FCB group
+0.1115	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.1115	1	0	phylum	976	          Bacteroidetes
+0.1115	1	0	class	1937959	            Saprospiria
+0.1115	1	0	order	1936988	              Saprospirales
+0.1115	1	0	family	89374	                Saprospiraceae
+0.1115	1	0	no rank	234684	                  unclassified Saprospiraceae
+0.1115	1	1	species	2202734	                    Saprospiraceae bacterium
+0.1115	1	0	superkingdom	2157	    Archaea
+0.1115	1	0	clade	1783276	      DPANN group
+0.1115	1	0	clade	1801617	        Candidatus Pacearchaeota
+0.1115	1	1	species	2026773	          Candidatus Pacearchaeota archaeon

@@ -1,0 +1,46 @@
+100.0000	477	93	no rank	1	root
+80.5031	384	2	no rank	131567	  cellular organisms
+80.0839	382	198	superkingdom	2	    Bacteria
+38.1551	182	27	clade	1783272	      Terrabacteria group
+29.9790	143	94	phylum	201174	        Actinobacteria
+9.0147	43	24	class	1760	          Actinomycetia
+3.3543	16	0	no rank	52018	            unclassified Actinomycetia
+3.3543	16	16	species	1883427	              Actinomycetia bacterium
+0.2096	1	0	order	85007	            Corynebacteriales
+0.2096	1	0	family	1762	              Mycobacteriaceae
+0.2096	1	0	genus	1763	                Mycobacterium
+0.2096	1	1	species	49897	                  Mycobacterium hodleri
+0.2096	1	0	order	85009	            Propionibacteriales
+0.2096	1	0	family	85015	              Nocardioidaceae
+0.2096	1	0	genus	1839	                Nocardioides
+0.2096	1	0	no rank	2615069	                  unclassified Nocardioides
+0.2096	1	1	species	2812554	                    Nocardioides sp. SYSU D00038
+0.2096	1	0	order	85010	            Pseudonocardiales
+0.2096	1	0	no rank	664783	              unclassified Pseudonocardiales
+0.2096	1	1	species	2201155	                Pseudonocardiales bacterium
+1.2579	6	1	class	1497346	          Thermoleophilia
+1.0482	5	0	order	588673	            Solirubrobacterales
+0.6289	3	0	family	320599	              Solirubrobacteraceae
+0.4193	2	1	genus	207599	                Solirubrobacter
+0.2096	1	0	no rank	2640968	                  unclassified Solirubrobacter
+0.2096	1	1	species	1298857	                    Solirubrobacter sp. URHD0082
+0.2096	1	0	no rank	1162705	                environmental samples
+0.2096	1	1	species	1162706	                  uncultured Solirubrobacteraceae bacterium
+0.4193	2	0	family	320583	              Conexibacteraceae
+0.4193	2	0	genus	191494	                Conexibacter
+0.2096	1	1	species	191495	                  Conexibacter woesei
+0.2096	1	1	no rank	2627773	                  unclassified Conexibacter
+2.3061	11	2	phylum	200795	        Chloroflexi
+1.8868	9	1	no rank	189774	          unclassified Chloroflexi
+1.6771	8	8	species	2026724	            Chloroflexi bacterium
+0.2096	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.2096	1	1	phylum	1117	          Cyanobacteria
+0.2096	1	0	phylum	1224	      Proteobacteria
+0.2096	1	0	class	28211	        Alphaproteobacteria
+0.2096	1	0	order	204441	          Rhodospirillales
+0.2096	1	0	family	433	            Acetobacteraceae
+0.2096	1	0	genus	125216	              Roseomonas
+0.2096	1	0	no rank	2617492	                unclassified Roseomonas
+0.2096	1	1	species	1926319	                  Roseomonas sp. TAS13
+0.2096	1	0	phylum	57723	      Acidobacteria
+0.2096	1	1	no rank	305072	        unclassified Acidobacteria

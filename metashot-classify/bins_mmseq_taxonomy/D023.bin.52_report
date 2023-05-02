@@ -1,0 +1,124 @@
+1.7483	5	5	no rank	0	unclassified
+98.2517	281	13	no rank	1	root
+93.7063	268	0	no rank	131567	  cellular organisms
+93.3566	267	126	superkingdom	2	    Bacteria
+37.0629	106	30	phylum	57723	      Acidobacteria
+25.8741	74	3	no rank	305072	        unclassified Acidobacteria
+24.8252	71	71	species	1978231	          Acidobacteria bacterium
+0.3497	1	0	class	533205	        Holophagae
+0.3497	1	0	no rank	2073115	          unclassified Holophagae
+0.3497	1	1	species	2073116	            Holophagae bacterium
+0.3497	1	0	class	1562571	        Thermoanaerobaculia
+0.3497	1	0	no rank	2651170	          unclassified Thermoanaerobaculia
+0.3497	1	1	species	2651171	            Thermoanaerobaculia bacterium
+3.8462	11	1	phylum	1224	      Proteobacteria
+1.3986	4	0	subphylum	68525	        delta/epsilon subdivisions
+1.3986	4	0	class	28221	          Deltaproteobacteria
+0.6993	2	0	order	29	            Myxococcales
+0.3497	1	1	suborder	80811	              Cystobacterineae
+0.3497	1	0	suborder	80812	              Sorangiineae
+0.3497	1	0	no rank	215910	                Sorangiineae incertae sedis
+0.3497	1	0	genus	1649470	                  Minicystis
+0.3497	1	1	species	888845	                    Minicystis rosea
+0.3497	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.3497	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.3497	1	0	order	453227	            Desulfarculales
+0.3497	1	0	family	453228	              Desulfarculaceae
+0.3497	1	0	genus	1775574	                Dethiosulfatarculus
+0.3497	1	1	species	1429043	                  Dethiosulfatarculus sandiegensis
+0.6993	2	0	class	1236	        Gammaproteobacteria
+0.6993	2	0	order	135614	          Xanthomonadales
+0.3497	1	0	family	32033	            Xanthomonadaceae
+0.3497	1	0	genus	68	              Lysobacter
+0.3497	1	1	species	69	                Lysobacter enzymogenes
+0.3497	1	0	family	1775411	            Rhodanobacteraceae
+0.3497	1	0	genus	231454	              Dyella
+0.3497	1	0	no rank	2634549	                unclassified Dyella
+0.3497	1	1	species	1528744	                  Dyella sp. AD56
+0.6993	2	1	class	28211	        Alphaproteobacteria
+0.3497	1	0	order	204455	          Rhodobacterales
+0.3497	1	0	family	31989	            Rhodobacteraceae
+0.3497	1	0	genus	87171	              Natronohydrobacter
+0.3497	1	1	species	87172	                Natronohydrobacter thiooxidans
+0.6993	2	0	class	28216	        Betaproteobacteria
+0.6993	2	0	order	80840	          Burkholderiales
+0.6993	2	0	family	75682	            Oxalobacteraceae
+0.3497	1	0	genus	29580	              Janthinobacterium
+0.3497	1	0	no rank	2610881	                unclassified Janthinobacterium
+0.3497	1	1	species	1528773	                  Janthinobacterium sp. AD80
+0.3497	1	0	no rank	2895353	              Massilia group
+0.3497	1	0	genus	75654	                Duganella
+0.3497	1	1	no rank	2636909	                  unclassified Duganella
+3.8462	11	1	clade	1783272	      Terrabacteria group
+2.0979	6	0	phylum	201174	        Actinobacteria
+1.7483	5	1	class	1760	          Actinomycetia
+1.0490	3	0	order	85011	            Streptomycetales
+1.0490	3	0	family	2062	              Streptomycetaceae
+1.0490	3	1	genus	1883	                Streptomyces
+0.6993	2	2	no rank	2593676	                  unclassified Streptomyces
+0.3497	1	0	order	1643682	            Geodermatophilales
+0.3497	1	0	family	85030	              Geodermatophilaceae
+0.3497	1	0	genus	1860	                Geodermatophilus
+0.3497	1	1	species	1296565	                  Geodermatophilus amargosae
+0.3497	1	0	no rank	1752188	          unclassified Actinobacteria
+0.3497	1	1	species	1803477	            Actinobacteria bacterium 13_1_20CM_3_71_11
+0.6993	2	0	phylum	1239	        Firmicutes
+0.3497	1	0	class	91061	          Bacilli
+0.3497	1	0	order	1385	            Bacillales
+0.3497	1	0	family	186822	              Paenibacillaceae
+0.3497	1	1	genus	44249	                Paenibacillus
+0.3497	1	0	class	186801	          Clostridia
+0.3497	1	0	order	186802	            Eubacteriales
+0.3497	1	0	family	186807	              Peptococcaceae
+0.3497	1	0	genus	2282742	                Desulfofarcimen
+0.3497	1	0	species	58138	                  Desulfofarcimen acetoxidans
+0.3497	1	1	strain	485916	                    Desulfofarcimen acetoxidans DSM 771
+0.3497	1	0	phylum	200795	        Chloroflexi
+0.3497	1	0	class	388447	          Ktedonobacteria
+0.3497	1	0	order	388448	            Ktedonobacterales
+0.3497	1	0	family	388449	              Ktedonobacteraceae
+0.3497	1	0	no rank	2518257	                unclassified Ktedonobacteraceae
+0.3497	1	1	species	2740538	                  Ktedonobacteraceae bacterium
+0.3497	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.3497	1	1	phylum	1117	          Cyanobacteria
+1.3986	4	0	no rank	49928	      unclassified Bacteria
+1.3986	4	4	species	1869227	        bacterium
+1.3986	4	0	clade	1783257	      PVC group
+1.0490	3	1	phylum	203682	        Planctomycetes
+0.3497	1	0	no rank	473814	          unclassified Planctomycetes
+0.3497	1	1	species	2026780	            Planctomycetes bacterium
+0.3497	1	0	class	2517206	          Candidatus Brocadiia
+0.3497	1	0	order	1127829	            Candidatus Brocadiales
+0.3497	1	1	family	1127830	              Candidatus Brocadiaceae
+0.3497	1	0	phylum	74201	        Verrucomicrobia
+0.3497	1	0	no rank	417295	          unclassified Verrucomicrobia
+0.3497	1	1	species	2026799	            Verrucomicrobia bacterium
+1.0490	3	0	clade	1783270	      FCB group
+1.0490	3	1	phylum	142182	        Gemmatimonadetes
+0.6993	2	0	class	219685	          Gemmatimonadetes
+0.6993	2	0	order	219686	            Gemmatimonadales
+0.3497	1	0	family	219687	              Gemmatimonadaceae
+0.3497	1	0	no rank	246129	                environmental samples
+0.3497	1	1	species	246130	                  uncultured Gemmatimonadaceae bacterium
+0.3497	1	0	no rank	1951096	              unclassified Gemmatimonadales
+0.3497	1	1	species	2448054	                Gemmatimonadales bacterium
+0.3497	1	0	no rank	2323	      Bacteria incertae sedis
+0.3497	1	0	clade	1783234	        Bacteria candidate phyla
+0.3497	1	0	phylum	1817801	          Candidatus Eisenbacteria
+0.3497	1	1	species	2212470	            Candidatus Eisenbacteria bacterium
+0.3497	1	0	clade	1802340	      Nitrospinae/Tectomicrobia group
+0.3497	1	0	phylum	1802339	        Candidatus Tectomicrobia
+0.3497	1	1	genus	93171	          Candidatus Entotheonella
+0.3497	1	0	superkingdom	2759	    Eukaryota
+0.3497	1	0	kingdom	33090	      Viridiplantae
+0.3497	1	0	phylum	35493	        Streptophyta
+0.3497	1	0	subphylum	131221	          Streptophytina
+0.3497	1	0	clade	3193	            Embryophyta
+0.3497	1	0	clade	58023	              Tracheophyta
+0.3497	1	0	clade	78536	                Euphyllophyta
+0.3497	1	0	clade	58024	                  Spermatophyta
+0.3497	1	0	class	3398	                    Magnoliopsida
+0.3497	1	0	clade	1437183	                      Mesangiospermae
+0.3497	1	0	clade	71240	                        eudicotyledons
+0.3497	1	0	clade	91827	                          Gunneridae
+0.3497	1	1	clade	1437201	                            Pentapetalae

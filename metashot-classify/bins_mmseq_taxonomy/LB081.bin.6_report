@@ -1,0 +1,59 @@
+0.3115	1	1	no rank	0	unclassified
+99.6885	320	84	no rank	1	root
+73.5202	236	3	no rank	131567	  cellular organisms
+72.5857	233	86	superkingdom	2	    Bacteria
+44.2368	142	35	phylum	1224	      Proteobacteria
+31.4642	101	68	class	28211	        Alphaproteobacteria
+5.2960	17	6	order	356	          Hyphomicrobiales
+1.2461	4	0	no rank	41292	            unclassified Hyphomicrobiales
+1.2461	4	4	species	1909294	              Hyphomicrobiales bacterium
+0.6231	2	1	family	41294	            Bradyrhizobiaceae
+0.3115	1	0	genus	374	              Bradyrhizobium
+0.3115	1	0	no rank	2631580	                unclassified Bradyrhizobium
+0.3115	1	1	species	1970326	                  Bradyrhizobium sp. 35-63-5
+0.6231	2	0	family	82115	            Rhizobiaceae
+0.3115	1	0	no rank	90141	              unclassified Rhizobiaceae
+0.3115	1	1	species	1913961	                Rhizobiaceae bacterium
+0.3115	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.3115	1	1	genus	379	                Rhizobium
+0.6231	2	0	family	2813035	            Parvibaculaceae
+0.3115	1	0	genus	256616	              Parvibaculum
+0.3115	1	1	species	2608632	                Parvibaculum sedimenti
+0.3115	1	0	genus	1541445	              Candidatus Phaeomarinobacter
+0.3115	1	1	species	1458461	                Candidatus Phaeomarinobacter ectocarpi
+0.3115	1	0	no rank	119042	            Hyphomicrobiales incertae sedis
+0.3115	1	0	genus	1734920	              Pseudorhodoplanes
+0.3115	1	1	species	1235591	                Pseudorhodoplanes sinuspersici
+1.8692	6	0	order	1921567	          Micropepsales
+1.8692	6	0	family	1921568	            Micropepsaceae
+1.8692	6	5	genus	1241326	              Rhizomicrobium
+0.3115	1	1	species	480070	                Rhizomicrobium electricum
+1.5576	5	3	no rank	33807	          unclassified Alphaproteobacteria
+0.6231	2	2	species	1913988	            Alphaproteobacteria bacterium
+0.9346	3	0	order	204457	          Sphingomonadales
+0.9346	3	0	family	41297	            Sphingomonadaceae
+0.6231	2	1	genus	13687	              Sphingomonas
+0.3115	1	1	no rank	196159	                unclassified Sphingomonas
+0.3115	1	0	genus	165697	              Sphingopyxis
+0.3115	1	1	no rank	2614943	                unclassified Sphingopyxis
+0.3115	1	0	order	204441	          Rhodospirillales
+0.3115	1	0	family	41295	            Rhodospirillaceae
+0.3115	1	0	no rank	41296	              unclassified Rhodospirillaceae
+0.3115	1	1	species	1898112	                Rhodospirillaceae bacterium
+0.3115	1	0	order	204458	          Caulobacterales
+0.3115	1	1	family	76892	            Caulobacteraceae
+1.5576	5	2	class	1236	        Gammaproteobacteria
+0.3115	1	0	no rank	33811	          unclassified Gammaproteobacteria
+0.3115	1	1	species	1913989	            Gammaproteobacteria bacterium
+0.3115	1	0	order	135619	          Oceanospirillales
+0.3115	1	0	family	135620	            Oceanospirillaceae
+0.3115	1	0	no rank	221817	              unclassified Oceanospirillaceae
+0.3115	1	1	species	1899355	                Oceanospirillaceae bacterium
+0.3115	1	0	order	1240482	          Orbales
+0.3115	1	1	family	1240483	            Orbaceae
+0.3115	1	0	class	28216	        Betaproteobacteria
+0.3115	1	1	no rank	33809	          unclassified Betaproteobacteria
+1.2461	4	2	phylum	57723	      Acidobacteria
+0.6231	2	2	no rank	305072	        unclassified Acidobacteria
+0.3115	1	0	no rank	48479	      environmental samples
+0.3115	1	1	species	1447233	        uncultured bacterium 12AC_lac13

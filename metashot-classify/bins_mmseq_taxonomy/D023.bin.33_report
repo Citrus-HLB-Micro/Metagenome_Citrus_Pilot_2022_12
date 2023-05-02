@@ -1,0 +1,29 @@
+1.0870	1	1	no rank	0	unclassified
+98.9130	91	2	no rank	1	root
+96.7391	89	1	no rank	131567	  cellular organisms
+95.6522	88	33	superkingdom	2	    Bacteria
+54.3478	50	38	phylum	57723	      Acidobacteria
+10.8696	10	1	no rank	305072	        unclassified Acidobacteria
+9.7826	9	9	species	1978231	          Acidobacteria bacterium
+2.1739	2	0	class	1562566	        Blastocatellia
+1.0870	1	0	order	1748771	          Blastocatellales
+1.0870	1	0	family	2048906	            Pyrinomonadaceae
+1.0870	1	0	no rank	2283091	              unclassified Pyrinomonadaceae
+1.0870	1	1	species	2283092	                Pyrinomonadaceae bacterium
+1.0870	1	0	no rank	2052145	          unclassified Blastocatellia
+1.0870	1	1	species	2052146	            Blastocatellia bacterium
+3.2609	3	1	phylum	1224	      Proteobacteria
+2.1739	2	0	subphylum	68525	        delta/epsilon subdivisions
+2.1739	2	0	class	28221	          Deltaproteobacteria
+2.1739	2	0	no rank	122706	            unclassified Deltaproteobacteria
+2.1739	2	2	species	2026735	              Deltaproteobacteria bacterium
+1.0870	1	0	clade	1783257	      PVC group
+1.0870	1	1	phylum	74201	        Verrucomicrobia
+1.0870	1	0	clade	1802340	      Nitrospinae/Tectomicrobia group
+1.0870	1	0	phylum	1293497	        Nitrospinae
+1.0870	1	0	class	1293498	          Nitrospinia
+1.0870	1	0	order	1293499	            Nitrospinales
+1.0870	1	0	family	407032	              Nitrospinaceae
+1.0870	1	0	genus	35800	                Nitrospina
+1.0870	1	0	no rank	2638683	                  unclassified Nitrospina
+1.0870	1	1	species	2024844	                    Nitrospina sp.

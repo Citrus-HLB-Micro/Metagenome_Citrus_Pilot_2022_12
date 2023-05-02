@@ -1,0 +1,145 @@
+0.6818	6	6	no rank	0	unclassified
+99.3182	874	153	no rank	1	root
+81.9318	721	2	no rank	131567	  cellular organisms
+81.7045	719	103	superkingdom	2	    Bacteria
+68.7500	605	11	clade	1783272	      Terrabacteria group
+67.3864	593	45	phylum	201174	        Actinobacteria
+62.0455	546	337	class	1760	          Actinomycetia
+15.4545	136	0	order	85011	            Streptomycetales
+15.4545	136	14	family	2062	              Streptomycetaceae
+13.8636	122	108	genus	1883	                Streptomyces
+0.5682	5	1	no rank	2593676	                  unclassified Streptomyces
+0.1136	1	1	species	463642	                    Streptomyces sp. F-1
+0.1136	1	1	species	1396518	                    Streptomyces sp. HCCB10043
+0.1136	1	1	species	2690301	                    Streptomyces sp. SID5475
+0.1136	1	1	species	2721244	                    Streptomyces sp. RPA4-2
+0.1136	1	1	species	33903	                  Streptomyces avermitilis
+0.1136	1	0	species	66865	                  Streptomyces afghaniensis
+0.1136	1	1	strain	1283301	                    Streptomyces afghaniensis 772
+0.1136	1	1	species	67267	                  Streptomyces alboflavus
+0.1136	1	1	species	67348	                  Streptomyces prunicolor
+0.1136	1	0	species group	629295	                  Streptomyces griseus group
+0.1136	1	0	species subgroup	1482601	                    Streptomyces microflavus subgroup
+0.1136	1	1	species	1919	                      Streptomyces microflavus
+0.1136	1	1	species	1609272	                  Streptomyces adustus
+0.1136	1	1	species	2259034	                  Streptomyces cavernae
+0.1136	1	0	species group	2838335	                  Streptomyces aurantiacus group
+0.1136	1	1	species	58343	                    Streptomyces canus
+0.1136	1	0	species group	2839105	                  Streptomyces violaceusniger group
+0.1136	1	1	species	92644	                    Streptomyces malaysiensis
+4.8864	43	2	order	85009	            Propionibacteriales
+4.5455	40	18	family	85015	              Nocardioidaceae
+2.0455	18	13	genus	1839	                Nocardioides
+0.2273	2	0	no rank	2615069	                  unclassified Nocardioides
+0.1136	1	1	species	2597743	                    Nocardioides sp. SAI-095
+0.1136	1	1	species	2691959	                    Nocardioides sp. YIM 123512
+0.1136	1	1	species	1036020	                  Nocardioides soli
+0.1136	1	1	species	2558918	                  Nocardioides cynanchi
+0.1136	1	1	species	2712223	                  Nocardioides anomalus
+0.2273	2	0	no rank	253822	                environmental samples
+0.2273	2	2	species	253824	                  uncultured Nocardioidaceae bacterium
+0.1136	1	0	genus	2044	                Pimelobacter
+0.1136	1	1	species	2045	                  Pimelobacter simplex
+0.1136	1	1	genus	86795	                Marmoricola
+0.1136	1	0	no rank	2015800	              unclassified Propionibacteriales
+0.1136	1	1	species	2015801	                Propionibacteriales bacterium
+1.3636	12	6	order	85006	            Micrococcales
+0.4545	4	1	family	85021	              Intrasporangiaceae
+0.2273	2	1	genus	53457	                Janibacter
+0.1136	1	0	species	364298	                  Janibacter hoylei
+0.1136	1	1	strain	1210046	                    Janibacter hoylei PVAS-1
+0.1136	1	0	genus	82345	                Ornithinicoccus
+0.1136	1	1	species	82346	                  Ornithinicoccus hortensis
+0.2273	2	0	family	1268	              Micrococcaceae
+0.1136	1	0	genus	1663	                Arthrobacter
+0.1136	1	0	no rank	235627	                  unclassified Arthrobacter
+0.1136	1	1	species	904039	                    Arthrobacter sp. NEB 688
+0.1136	1	0	genus	2778528	                Specibacter
+0.1136	1	1	species	1629051	                  Specibacter cremeus
+0.7955	7	0	order	85007	            Corynebacteriales
+0.3409	3	0	family	1762	              Mycobacteriaceae
+0.2273	2	0	genus	1763	                Mycobacterium
+0.2273	2	0	species group	77643	                  Mycobacterium tuberculosis complex
+0.2273	2	2	species	1773	                    Mycobacterium tuberculosis
+0.1136	1	0	genus	670516	                Mycobacteroides
+0.1136	1	0	species	36809	                  Mycobacteroides abscessus
+0.1136	1	1	subspecies	1185650	                    Mycobacteroides abscessus subsp. abscessus
+0.2273	2	0	family	85025	              Nocardiaceae
+0.2273	2	1	genus	1817	                Nocardia
+0.1136	1	1	species	228602	                  Nocardia arthritidis
+0.1136	1	1	family	85029	              Dietziaceae
+0.1136	1	0	no rank	581186	              environmental samples
+0.1136	1	1	species	581187	                uncultured Corynebacteriales bacterium
+0.3409	3	0	no rank	52018	            unclassified Actinomycetia
+0.3409	3	3	species	1883427	              Actinomycetia bacterium
+0.3409	3	0	order	85008	            Micromonosporales
+0.3409	3	2	family	28056	              Micromonosporaceae
+0.1136	1	1	genus	1873	                Micromonospora
+0.2273	2	0	order	1643682	            Geodermatophilales
+0.2273	2	0	family	85030	              Geodermatophilaceae
+0.2273	2	0	genus	1860	                Geodermatophilus
+0.1136	1	1	species	2026353	                  Geodermatophilus daqingensis
+0.1136	1	1	species	2035835	                  Geodermatophilus chilensis
+0.1136	1	0	order	85010	            Pseudonocardiales
+0.1136	1	0	family	2070	              Pseudonocardiaceae
+0.1136	1	0	genus	1813	                Amycolatopsis
+0.1136	1	1	species	330084	                  Amycolatopsis jejuensis
+0.1136	1	0	order	85012	            Streptosporangiales
+0.1136	1	1	family	2012	              Thermomonosporaceae
+0.1136	1	0	order	622452	            Kineosporiales
+0.1136	1	0	family	83778	              Kineosporiaceae
+0.1136	1	0	genus	317661	                Quadrisphaera
+0.1136	1	0	no rank	904977	                  environmental samples
+0.1136	1	1	species	904978	                    uncultured Quadrisphaera sp.
+0.1136	1	0	class	84992	          Acidimicrobiia
+0.1136	1	0	order	84993	            Acidimicrobiales
+0.1136	1	0	family	84994	              Acidimicrobiaceae
+0.1136	1	0	no rank	667305	                unclassified Acidimicrobiaceae
+0.1136	1	1	species	2024894	                  Acidimicrobiaceae bacterium
+0.1136	1	0	class	1497346	          Thermoleophilia
+0.1136	1	0	order	588673	            Solirubrobacterales
+0.1136	1	0	family	320599	              Solirubrobacteraceae
+0.1136	1	0	genus	207599	                Solirubrobacter
+0.1136	1	1	species	363832	                  Solirubrobacter soli
+0.1136	1	0	phylum	200795	        Chloroflexi
+0.1136	1	0	class	32061	          Chloroflexia
+0.1136	1	0	no rank	2448781	            unclassified Chloroflexia
+0.1136	1	1	species	2448782	              Chloroflexia bacterium
+0.4545	4	0	phylum	1224	      Proteobacteria
+0.2273	2	0	class	28211	        Alphaproteobacteria
+0.1136	1	0	order	356	          Hyphomicrobiales
+0.1136	1	0	family	69277	            Phyllobacteriaceae
+0.1136	1	1	genus	68287	              Mesorhizobium
+0.1136	1	0	order	204441	          Rhodospirillales
+0.1136	1	0	no rank	941843	            unclassified Rhodospirillales
+0.1136	1	1	species	2026786	              Rhodospirillales bacterium
+0.1136	1	0	class	28216	        Betaproteobacteria
+0.1136	1	0	order	80840	          Burkholderiales
+0.1136	1	0	family	75682	            Oxalobacteraceae
+0.1136	1	0	no rank	2895353	              Massilia group
+0.1136	1	0	genus	149698	                Massilia
+0.1136	1	1	species	1036180	                  Massilia lurida
+0.1136	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.1136	1	0	class	28221	          Deltaproteobacteria
+0.1136	1	0	order	29	            Myxococcales
+0.1136	1	0	no rank	213495	              unclassified Myxococcales
+0.1136	1	1	species	2026763	                Myxococcales bacterium
+0.4545	4	0	no rank	2323	      Bacteria incertae sedis
+0.4545	4	0	clade	1783234	        Bacteria candidate phyla
+0.4545	4	0	phylum	1752708	          Candidatus Rokubacteria
+0.4545	4	2	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.2273	2	2	species	2053607	              Candidatus Rokubacteria bacterium
+0.1136	1	0	phylum	40117	      Nitrospirae
+0.1136	1	1	no rank	1298915	        unclassified Nitrospirae
+0.1136	1	0	clade	1783257	      PVC group
+0.1136	1	0	phylum	203682	        Planctomycetes
+0.1136	1	0	class	203683	          Planctomycetia
+0.1136	1	0	order	2691355	            Gemmatales
+0.1136	1	1	family	1914233	              Gemmataceae
+0.1136	1	0	clade	1783270	      FCB group
+0.1136	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.1136	1	0	phylum	976	          Bacteroidetes
+0.1136	1	0	class	1853228	            Chitinophagia
+0.1136	1	0	order	1853229	              Chitinophagales
+0.1136	1	0	family	563835	                Chitinophagaceae
+0.1136	1	1	genus	79328	                  Chitinophaga

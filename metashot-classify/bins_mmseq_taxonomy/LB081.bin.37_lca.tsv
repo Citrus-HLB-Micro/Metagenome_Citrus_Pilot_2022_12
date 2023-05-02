@@ -1,0 +1,254 @@
+k141_1814462	497727	species	Candidatus Nitrososphaera gargensis	1	1	1	1.000	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;s_Candidatus Nitrososphaera gargensis
+k141_2621739	651137	phylum	Thaumarchaeota	13	12	11	0.880	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_203620	651137	phylum	Thaumarchaeota	4	4	4	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2422241	2157	superkingdom	Archaea	10	10	8	0.750	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2825554	651137	phylum	Thaumarchaeota	7	7	5	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3531	651137	phylum	Thaumarchaeota	7	7	4	0.660	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2424265	2157	superkingdom	Archaea	4	4	3	0.680	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2425607	1033997	family	Nitrososphaeraceae	5	4	3	0.680	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_2022930	2157	superkingdom	Archaea	5	5	4	0.800	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_1820651	651137	phylum	Thaumarchaeota	14	14	9	0.590	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1932451	1783275	clade	TACK group	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms;d_Archaea;-_TACK group
+k141_1126511	651137	phylum	Thaumarchaeota	13	13	7	0.600	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2538769	651137	phylum	Thaumarchaeota	10	9	7	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3141758	651137	phylum	Thaumarchaeota	11	9	6	0.630	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_320672	651137	phylum	Thaumarchaeota	4	4	3	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1129045	1778601	genus	Apibacter	2	2	1	0.500	unknown;Bacteroidetes;Weeksellaceae	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Weeksellaceae;g_Apibacter
+k141_1936570	651137	phylum	Thaumarchaeota	27	26	15	0.570	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2338968	651137	phylum	Thaumarchaeota	13	12	7	0.600	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1132036	651137	phylum	Thaumarchaeota	6	5	4	0.560	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2139456	2157	superkingdom	Archaea	11	11	6	0.550	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_689607	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2301480	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1291936	651137	phylum	Thaumarchaeota	7	6	3	0.500	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3109919	651137	phylum	Thaumarchaeota	20	18	12	0.710	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_894452	651137	phylum	Thaumarchaeota	15	11	7	0.560	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_87963	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_896211	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_289815	0	no rank	unclassified	1	0	0	0.000		
+k141_896718	2157	superkingdom	Archaea	28	27	15	0.600	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2911317	651137	phylum	Thaumarchaeota	10	8	5	0.630	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2031500	651137	phylum	Thaumarchaeota	18	18	14	0.730	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2031551	1	no rank	root	8	7	7	1.000	unknown;unknown;unknown	-_root
+k141_2233040	1	no rank	root	11	11	11	1.000	unknown;unknown;unknown	-_root
+k141_2435192	651137	phylum	Thaumarchaeota	7	6	4	0.600	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1025617	2157	superkingdom	Archaea	5	5	4	0.760	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2438406	651137	phylum	Thaumarchaeota	6	6	3	0.510	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_624738	2157	superkingdom	Archaea	3	3	3	1.000	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_3043270	651137	phylum	Thaumarchaeota	8	8	4	0.570	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_827907	1033997	family	Nitrososphaeraceae	2	2	1	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_2842926	1033997	family	Nitrososphaeraceae	6	6	3	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_2269067	651137	phylum	Thaumarchaeota	6	6	3	0.500	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3077029	651137	phylum	Thaumarchaeota	3	3	2	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1466268	497726	genus	Nitrososphaera	4	4	2	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_2475278	651137	phylum	Thaumarchaeota	5	3	3	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_256918	1	no rank	root	17	16	16	1.000	unknown;unknown;unknown	-_root
+k141_2071982	497726	genus	Nitrososphaera	3	2	1	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_3080061	2157	superkingdom	Archaea	3	2	2	1.000	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2274394	651137	phylum	Thaumarchaeota	1	1	1	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_57448	651137	phylum	Thaumarchaeota	7	7	5	0.610	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2073662	651137	phylum	Thaumarchaeota	4	4	3	0.680	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2688824	497726	genus	Nitrososphaera	3	3	2	0.670	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_469733	651137	phylum	Thaumarchaeota	5	5	5	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2690611	651137	phylum	Thaumarchaeota	4	4	2	0.660	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_70140	1783275	clade	TACK group	10	10	5	0.550	unknown;unknown;unknown	-_cellular organisms;d_Archaea;-_TACK group
+k141_473262	651137	phylum	Thaumarchaeota	4	4	2	0.500	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2289520	497726	genus	Nitrososphaera	2	2	1	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_678821	651137	phylum	Thaumarchaeota	4	4	2	0.650	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2493900	1033997	family	Nitrososphaeraceae	4	4	2	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_2089767	2157	superkingdom	Archaea	15	15	11	0.700	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2495423	651137	phylum	Thaumarchaeota	5	5	3	0.730	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2139606	651137	phylum	Thaumarchaeota	4	4	3	0.750	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2947322	1033997	family	Nitrososphaeraceae	4	4	2	0.660	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_2547824	2157	superkingdom	Archaea	8	8	6	0.990	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_128181	651137	phylum	Thaumarchaeota	7	7	6	0.840	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2143238	651137	phylum	Thaumarchaeota	9	9	9	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_937311	1783275	clade	TACK group	9	8	4	0.500	unknown;unknown;unknown	-_cellular organisms;d_Archaea;-_TACK group
+k141_2346109	651137	phylum	Thaumarchaeota	10	10	7	0.780	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2950927	651137	phylum	Thaumarchaeota	15	13	11	0.820	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1138410	651137	phylum	Thaumarchaeota	3	3	2	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_530987	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2974401	651137	phylum	Thaumarchaeota	4	4	3	0.750	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2167990	651137	phylum	Thaumarchaeota	7	6	5	0.800	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2168739	2157	superkingdom	Archaea	20	20	11	0.530	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2168928	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1358651	651137	phylum	Thaumarchaeota	14	12	7	0.580	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2576899	651137	phylum	Thaumarchaeota	4	4	4	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_158277	1783275	clade	TACK group	7	7	4	0.570	unknown;unknown;unknown	-_cellular organisms;d_Archaea;-_TACK group
+k141_3180934	651137	phylum	Thaumarchaeota	9	9	6	0.710	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1166006	651137	phylum	Thaumarchaeota	9	9	8	0.810	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2580087	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_501654	651137	phylum	Thaumarchaeota	11	10	7	0.710	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3125795	651137	phylum	Thaumarchaeota	13	11	9	0.760	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1917623	651137	phylum	Thaumarchaeota	4	4	4	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3127360	651137	phylum	Thaumarchaeota	7	7	7	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1919418	651137	phylum	Thaumarchaeota	5	4	4	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1114072	2026795	species	Thaumarchaeota archaeon	2	2	1	0.500	unknown;Thaumarchaeota;unknown	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;-_unclassified Thaumarchaeota;s_Thaumarchaeota archaeon
+k141_1718960	2157	superkingdom	Archaea	4	4	3	0.670	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_1921123	651137	phylum	Thaumarchaeota	31	29	16	0.540	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_107758	651137	phylum	Thaumarchaeota	22	19	12	0.510	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_713666	651137	phylum	Thaumarchaeota	9	8	6	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_580028	651137	phylum	Thaumarchaeota	8	8	5	0.570	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3002113	651137	phylum	Thaumarchaeota	7	4	3	0.970	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3002890	651137	phylum	Thaumarchaeota	11	11	5	0.550	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_184121	2157	superkingdom	Archaea	16	15	11	0.650	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2197352	651137	phylum	Thaumarchaeota	3	3	2	0.980	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_582801	497726	genus	Nitrososphaera	10	8	6	0.830	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_384605	1	no rank	root	19	18	18	1.000	unknown;unknown;unknown	-_root
+k141_3006139	651137	phylum	Thaumarchaeota	10	7	7	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2401823	1	no rank	root	4	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1796348	1783275	clade	TACK group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Archaea;-_TACK group
+k141_3055460	651137	phylum	Thaumarchaeota	16	14	9	0.660	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2251923	651137	phylum	Thaumarchaeota	6	6	4	0.610	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1848922	651137	phylum	Thaumarchaeota	24	20	13	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_436321	651137	phylum	Thaumarchaeota	11	10	9	0.900	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3058395	651137	phylum	Thaumarchaeota	5	5	4	0.750	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_237170	651137	phylum	Thaumarchaeota	5	5	5	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_438095	767519	species	Halomicrobium zhouii	2	2	1	0.500	unknown;Euryarchaeota;Haloarculaceae	-_cellular organisms;d_Archaea;p_Euryarchaeota;-_Stenosarchaea group;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halomicrobium;s_Halomicrobium zhouii
+k141_2255912	651137	phylum	Thaumarchaeota	12	12	6	0.570	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2255990	651137	phylum	Thaumarchaeota	16	14	9	0.640	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3061896	2157	superkingdom	Archaea	17	16	12	0.730	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_3066872	1033997	family	Nitrososphaeraceae	7	7	4	0.660	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_1052040	651137	phylum	Thaumarchaeota	12	10	8	0.870	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2867090	651137	phylum	Thaumarchaeota	6	6	5	0.830	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1657878	651137	phylum	Thaumarchaeota	6	6	4	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1458800	926571	strain	Nitrososphaera viennensis EN76	2	1	1	1.000	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;s_Nitrososphaera viennensis;-_Nitrososphaera viennensis EN76
+k141_249364	651137	phylum	Thaumarchaeota	23	23	15	0.680	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2266859	131567	no rank	cellular organisms	8	8	8	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_450106	651137	phylum	Thaumarchaeota	2	2	2	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2268441	651137	phylum	Thaumarchaeota	20	20	11	0.550	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3075237	651137	phylum	Thaumarchaeota	7	7	5	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3033858	497726	genus	Nitrososphaera	7	6	4	0.670	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_1422008	1783275	clade	TACK group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Archaea;-_TACK group
+k141_212787	651137	phylum	Thaumarchaeota	5	4	3	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1826176	651137	phylum	Thaumarchaeota	5	4	2	0.660	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_616969	651137	phylum	Thaumarchaeota	8	8	6	0.720	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1423299	1	no rank	root	25	23	23	1.000	unknown;unknown;unknown	-_root
+k141_1826514	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_617605	1033997	family	Nitrososphaeraceae	7	7	4	0.510	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_2230782	2157	superkingdom	Archaea	6	5	3	0.600	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2433582	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1337821	1033997	family	Nitrososphaeraceae	3	2	1	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_335224	2157	superkingdom	Archaea	2	2	1	0.500	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_536780	651137	phylum	Thaumarchaeota	18	17	10	0.710	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2758910	651137	phylum	Thaumarchaeota	3	3	2	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2959374	1783275	clade	TACK group	8	8	5	0.510	unknown;unknown;unknown	-_cellular organisms;d_Archaea;-_TACK group
+k141_540232	1033997	family	Nitrososphaeraceae	7	6	4	0.600	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_342079	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_2765680	2026795	species	Thaumarchaeota archaeon	2	2	1	0.500	unknown;Thaumarchaeota;unknown	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;-_unclassified Thaumarchaeota;s_Thaumarchaeota archaeon
+k141_952742	651137	phylum	Thaumarchaeota	8	8	4	0.500	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2965364	651137	phylum	Thaumarchaeota	12	11	9	0.880	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1349200	1033997	family	Nitrososphaeraceae	7	6	3	0.590	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_954958	651137	phylum	Thaumarchaeota	3	3	2	0.960	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_346862	2157	superkingdom	Archaea	15	12	7	0.510	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_548349	651137	phylum	Thaumarchaeota	4	4	4	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_957350	651137	phylum	Thaumarchaeota	7	7	4	0.500	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1156756	651137	phylum	Thaumarchaeota	5	5	3	0.740	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_150942	651137	phylum	Thaumarchaeota	9	8	6	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1353616	497726	genus	Nitrososphaera	5	5	3	0.660	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_549592	497726	genus	Nitrososphaera	6	6	3	0.510	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_551724	651137	phylum	Thaumarchaeota	5	5	3	0.730	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1701880	651137	phylum	Thaumarchaeota	12	10	6	0.570	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2106131	651137	phylum	Thaumarchaeota	5	5	4	0.800	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1703554	651137	phylum	Thaumarchaeota	5	5	5	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2106921	651137	phylum	Thaumarchaeota	5	4	2	0.650	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_293791	651137	phylum	Thaumarchaeota	10	10	6	0.600	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_94184	651137	phylum	Thaumarchaeota	8	7	4	0.570	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2715436	497727	species	Candidatus Nitrososphaera gargensis	5	5	3	0.600	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;s_Candidatus Nitrososphaera gargensis
+k141_701084	651137	phylum	Thaumarchaeota	11	11	7	0.520	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_496663	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2316384	651137	phylum	Thaumarchaeota	17	16	9	0.540	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2201566	1	no rank	root	9	8	8	1.000	unknown;unknown;unknown	-_root
+k141_1196423	1971748	species	Nitrososphaera sp.	5	5	3	0.510	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;-_unclassified Nitrososphaera;s_Nitrososphaera sp.
+k141_587251	651137	phylum	Thaumarchaeota	9	8	4	0.500	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2006515	497726	genus	Nitrososphaera	7	7	4	0.600	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_1393721	2169593	species	Nitrososphaeraceae archaeon	2	2	1	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;-_unclassified Nitrososphaeraceae;s_Nitrososphaeraceae archaeon
+k141_2204916	497726	genus	Nitrososphaera	4	3	1	0.860	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_2009093	497726	genus	Nitrososphaera	3	3	2	0.670	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_799912	2157	superkingdom	Archaea	5	5	3	0.500	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2410864	2157	superkingdom	Archaea	5	5	4	0.750	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2616967	651137	phylum	Thaumarchaeota	8	7	4	0.570	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1450342	651137	phylum	Thaumarchaeota	5	3	3	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_39180	651137	phylum	Thaumarchaeota	23	21	17	0.810	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3062807	1237085	isolate	Candidatus Nitrososphaera gargensis Ga9.2	3	2	1	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;s_Candidatus Nitrososphaera gargensis;-_Candidatus Nitrososphaera gargensis Ga9.2
+k141_644336	651137	phylum	Thaumarchaeota	12	12	8	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_241269	651137	phylum	Thaumarchaeota	8	8	6	0.750	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1855894	651137	phylum	Thaumarchaeota	28	25	19	0.770	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2461762	131567	no rank	cellular organisms	5	5	5	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_2864299	651137	phylum	Thaumarchaeota	8	7	6	0.990	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2260161	651137	phylum	Thaumarchaeota	11	11	8	0.640	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2463463	651137	phylum	Thaumarchaeota	3	3	2	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_3195286	2157	superkingdom	Archaea	7	6	3	0.500	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2186857	651137	phylum	Thaumarchaeota	6	6	6	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2188068	651137	phylum	Thaumarchaeota	6	4	4	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2996647	651137	phylum	Thaumarchaeota	4	3	3	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_985889	651137	phylum	Thaumarchaeota	1	1	1	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2191665	1971748	species	Nitrososphaera sp.	4	4	2	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;-_unclassified Nitrososphaera;s_Nitrososphaera sp.
+k141_1593760	651137	phylum	Thaumarchaeota	9	9	5	0.660	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1594602	2157	superkingdom	Archaea	10	9	6	0.670	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2601399	651137	phylum	Thaumarchaeota	5	5	4	0.800	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2602062	651137	phylum	Thaumarchaeota	5	5	3	0.600	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1083546	651137	phylum	Thaumarchaeota	25	23	13	0.590	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1890054	1033997	family	Nitrososphaeraceae	7	6	3	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_1688395	651137	phylum	Thaumarchaeota	13	12	7	0.560	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1690263	651137	phylum	Thaumarchaeota	3	3	2	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2093493	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_280463	651137	phylum	Thaumarchaeota	6	6	4	0.510	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_887328	497726	genus	Nitrososphaera	7	7	3	0.580	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_1493127	651137	phylum	Thaumarchaeota	3	3	2	0.980	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1693236	651137	phylum	Thaumarchaeota	2	2	1	0.500	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2297972	497727	species	Candidatus Nitrososphaera gargensis	6	6	3	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;s_Candidatus Nitrososphaera gargensis
+k141_2980354	2157	superkingdom	Archaea	8	6	5	0.800	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2781777	651137	phylum	Thaumarchaeota	6	5	3	0.510	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2981028	2026795	species	Thaumarchaeota archaeon	1	1	1	1.000	unknown;Thaumarchaeota;unknown	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;-_unclassified Thaumarchaeota;s_Thaumarchaeota archaeon
+k141_1981665	651137	phylum	Thaumarchaeota	4	4	3	0.750	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1369766	497726	genus	Nitrososphaera	3	2	1	0.980	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_1777718	497726	genus	Nitrososphaera	4	4	2	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera
+k141_568094	2157	superkingdom	Archaea	3	3	2	0.670	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_979452	651137	phylum	Thaumarchaeota	3	3	2	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_979687	2169593	species	Nitrososphaeraceae archaeon	3	3	2	0.950	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;-_unclassified Nitrososphaeraceae;s_Nitrososphaeraceae archaeon
+k141_2388621	651137	phylum	Thaumarchaeota	15	13	10	0.710	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2929425	651137	phylum	Thaumarchaeota	3	3	3	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2124224	651137	phylum	Thaumarchaeota	5	5	4	0.750	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_510855	651137	phylum	Thaumarchaeota	4	4	3	0.980	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1118464	497727	species	Candidatus Nitrososphaera gargensis	3	2	2	1.000	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;s_Candidatus Nitrososphaera gargensis
+k141_2932840	2	superkingdom	Bacteria	3	2	1	0.950	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2733266	651137	phylum	Thaumarchaeota	9	9	9	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2126909	497727	species	Candidatus Nitrososphaera gargensis	2	2	1	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;s_Candidatus Nitrososphaera gargensis
+k141_2734010	651137	phylum	Thaumarchaeota	4	4	2	0.660	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_514894	131567	no rank	cellular organisms	6	5	5	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_3138364	1971748	species	Nitrososphaera sp.	2	2	1	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;-_unclassified Nitrososphaera;s_Nitrososphaera sp.
+k141_3019208	1	no rank	root	33	25	25	1.000	unknown;unknown;unknown	-_root
+k141_1401472	131567	no rank	cellular organisms	2	2	2	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_1405328	2157	superkingdom	Archaea	8	8	5	0.580	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_402476	651137	phylum	Thaumarchaeota	9	8	7	0.860	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1031839	651137	phylum	Thaumarchaeota	6	5	5	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2846336	2157	superkingdom	Archaea	7	6	5	0.800	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_2040691	651137	phylum	Thaumarchaeota	4	4	3	0.750	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_832151	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_630501	651137	phylum	Thaumarchaeota	7	5	4	0.990	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2447444	651137	phylum	Thaumarchaeota	12	10	8	0.830	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2648322	1033997	family	Nitrososphaeraceae	4	4	2	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_2044674	1033997	family	Nitrososphaeraceae	9	9	6	0.630	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_2852343	651137	phylum	Thaumarchaeota	20	19	13	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2852906	651137	phylum	Thaumarchaeota	9	9	8	0.880	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2275576	2157	superkingdom	Archaea	18	15	10	0.710	uc_Archaea;uc_Archaea;uc_Archaea	-_cellular organisms;d_Archaea
+k141_59891	651137	phylum	Thaumarchaeota	3	3	2	0.510	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2277168	651137	phylum	Thaumarchaeota	8	8	6	0.720	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_1473204	651137	phylum	Thaumarchaeota	5	5	4	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_869553	1033997	family	Nitrososphaeraceae	1	1	1	1.000	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_3086307	651137	phylum	Thaumarchaeota	10	9	7	0.780	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2885738	651137	phylum	Thaumarchaeota	5	5	3	0.740	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2685240	651137	phylum	Thaumarchaeota	3	3	2	0.670	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2282689	651137	phylum	Thaumarchaeota	5	5	4	0.970	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2082818	651137	phylum	Thaumarchaeota	5	4	2	0.660	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2427100	1783275	clade	TACK group	15	15	8	0.500	unknown;unknown;unknown	-_cellular organisms;d_Archaea;-_TACK group
+k141_2829768	1	no rank	root	8	8	8	1.000	unknown;unknown;unknown	-_root
+k141_2225986	651137	phylum	Thaumarchaeota	3	3	3	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_816376	651137	phylum	Thaumarchaeota	9	8	5	0.630	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_211136	1033997	family	Nitrososphaeraceae	5	4	2	0.500	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_614377	651137	phylum	Thaumarchaeota	5	3	3	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2630619	1459636	isolate	Candidatus Nitrososphaera evergladensis SR1	1	1	1	1.000	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae;g_Nitrososphaera;s_Candidatus Nitrososphaera evergladensis;-_Candidatus Nitrososphaera evergladensis SR1
+k141_2630724	651137	phylum	Thaumarchaeota	11	11	7	0.640	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota
+k141_2630937	1033997	family	Nitrososphaeraceae	5	5	3	0.600	unknown;Thaumarchaeota;Nitrososphaeraceae	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota;c_Nitrososphaeria;o_Nitrososphaerales;f_Nitrososphaeraceae
+k141_2228099	651137	phylum	Thaumarchaeota	3	3	3	1.000	unknown;Thaumarchaeota;uc_Thaumarchaeota	-_cellular organisms;d_Archaea;-_TACK group;p_Thaumarchaeota

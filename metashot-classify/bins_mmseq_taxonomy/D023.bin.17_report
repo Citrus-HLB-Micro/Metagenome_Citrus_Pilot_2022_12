@@ -1,0 +1,55 @@
+100.0000	156	33	no rank	1	root
+78.8462	123	0	no rank	131567	  cellular organisms
+78.8462	123	42	superkingdom	2	    Bacteria
+50.0000	78	43	phylum	1224	      Proteobacteria
+12.1795	19	6	class	28216	        Betaproteobacteria
+4.4872	7	4	no rank	33809	          unclassified Betaproteobacteria
+1.2821	2	2	species	1891241	            Betaproteobacteria bacterium
+0.6410	1	1	species	1703389	            Betaproteobacteria bacterium SG8_40
+1.9231	3	2	order	80840	          Burkholderiales
+0.6410	1	0	family	80864	            Comamonadaceae
+0.6410	1	0	genus	47420	              Hydrogenophaga
+0.6410	1	0	no rank	2610897	                unclassified Hydrogenophaga
+0.6410	1	1	species	1437444	                  Hydrogenophaga sp. T4
+0.6410	1	0	order	32003	          Nitrosomonadales
+0.6410	1	0	family	206379	            Nitrosomonadaceae
+0.6410	1	0	genus	35798	              Nitrosospira
+0.6410	1	1	species	1231	                Nitrosospira multiformis
+0.6410	1	0	order	206351	          Neisseriales
+0.6410	1	0	family	1499392	            Chromobacteriaceae
+0.6410	1	1	genus	397456	              Gulbenkiania
+0.6410	1	0	order	206389	          Rhodocyclales
+0.6410	1	0	family	2008794	            Zoogloeaceae
+0.6410	1	1	genus	12960	              Azoarcus
+5.7692	9	0	no rank	81684	        unclassified Proteobacteria
+5.7692	9	9	species	1977087	          Proteobacteria bacterium
+3.2051	5	1	class	28211	        Alphaproteobacteria
+1.9231	3	1	order	356	          Hyphomicrobiales
+0.6410	1	1	family	45401	            Hyphomicrobiaceae
+0.6410	1	0	family	335928	            Xanthobacteraceae
+0.6410	1	1	genus	279	              Xanthobacter
+0.6410	1	0	order	204441	          Rhodospirillales
+0.6410	1	0	family	41295	            Rhodospirillaceae
+0.6410	1	0	no rank	41296	              unclassified Rhodospirillaceae
+0.6410	1	1	species	1898112	                Rhodospirillaceae bacterium
+1.2821	2	1	class	1236	        Gammaproteobacteria
+0.6410	1	0	order	135614	          Xanthomonadales
+0.6410	1	0	family	1775411	            Rhodanobacteraceae
+0.6410	1	0	genus	2233801	              Ahniella
+0.6410	1	1	species	2021234	                Ahniella affigens
+1.2821	2	0	clade	1783270	      FCB group
+0.6410	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.6410	1	0	phylum	1134404	          Ignavibacteriae
+0.6410	1	0	class	795747	            Ignavibacteria
+0.6410	1	0	no rank	1798416	              unclassified Ignavibacteria
+0.6410	1	1	species	1798433	                Ignavibacteria bacterium RBG_16_34_14
+0.6410	1	0	phylum	142182	        Gemmatimonadetes
+0.6410	1	1	no rank	234665	          unclassified Gemmatimonadetes
+0.6410	1	0	clade	1783272	      Terrabacteria group
+0.6410	1	0	phylum	200795	        Chloroflexi
+0.6410	1	0	class	32061	          Chloroflexia
+0.6410	1	0	order	32064	            Chloroflexales
+0.6410	1	0	suborder	1508595	              Roseiflexineae
+0.6410	1	0	family	1508635	                Roseiflexaceae
+0.6410	1	0	genus	186475	                  Kouleothrix
+0.6410	1	1	species	186479	                    Kouleothrix aurantiaca

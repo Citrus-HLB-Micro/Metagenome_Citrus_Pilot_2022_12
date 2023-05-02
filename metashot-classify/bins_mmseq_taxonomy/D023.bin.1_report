@@ -1,0 +1,39 @@
+100.0000	547	16	no rank	1	root
+97.0750	531	0	no rank	131567	  cellular organisms
+97.0750	531	342	superkingdom	2	    Bacteria
+32.3583	177	0	no rank	2323	      Bacteria incertae sedis
+32.3583	177	1	clade	1783234	        Bacteria candidate phyla
+32.1755	176	0	phylum	1752708	          Candidatus Rokubacteria
+32.1755	176	120	no rank	2760815	            unclassified Candidatus Rokubacteria
+10.0548	55	55	species	2053607	              Candidatus Rokubacteria bacterium
+0.1828	1	1	species	1640509	              Candidatus Rokubacteria bacterium CSP1-6
+1.2797	7	3	phylum	1224	      Proteobacteria
+0.3656	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.3656	2	0	class	28221	          Deltaproteobacteria
+0.1828	1	0	order	29	            Myxococcales
+0.1828	1	0	no rank	213495	              unclassified Myxococcales
+0.1828	1	1	species	2026763	                Myxococcales bacterium
+0.1828	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.1828	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.1828	1	0	class	1236	        Gammaproteobacteria
+0.1828	1	0	no rank	33811	          unclassified Gammaproteobacteria
+0.1828	1	1	species	1913989	            Gammaproteobacteria bacterium
+0.1828	1	0	class	28216	        Betaproteobacteria
+0.1828	1	0	order	80840	          Burkholderiales
+0.1828	1	0	family	119060	            Burkholderiaceae
+0.1828	1	0	genus	32008	              Burkholderia
+0.1828	1	0	species group	111527	                pseudomallei group
+0.1828	1	0	species	28450	                  Burkholderia pseudomallei
+0.1828	1	1	strain	320372	                    Burkholderia pseudomallei 1710b
+0.7313	4	0	clade	1783272	      Terrabacteria group
+0.5484	3	1	phylum	201174	        Actinobacteria
+0.3656	2	1	class	1760	          Actinomycetia
+0.1828	1	0	order	85006	            Micrococcales
+0.1828	1	0	family	145358	              Bogoriellaceae
+0.1828	1	0	genus	154116	                Georgenia
+0.1828	1	1	species	2589797	                  Georgenia yuyongxinii
+0.1828	1	0	phylum	200795	        Chloroflexi
+0.1828	1	0	no rank	189774	          unclassified Chloroflexi
+0.1828	1	1	species	2026724	            Chloroflexi bacterium
+0.1828	1	0	phylum	57723	      Acidobacteria
+0.1828	1	1	no rank	305072	        unclassified Acidobacteria

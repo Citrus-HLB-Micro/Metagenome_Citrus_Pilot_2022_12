@@ -1,0 +1,153 @@
+0.5015	5	5	no rank	0	unclassified
+99.4985	992	39	no rank	1	root
+95.5868	953	1	no rank	131567	  cellular organisms
+95.2859	950	445	superkingdom	2	    Bacteria
+45.2357	451	1	clade	1783270	      FCB group
+45.0351	449	212	phylum	142182	        Gemmatimonadetes
+21.9659	219	0	class	219685	          Gemmatimonadetes
+21.9659	219	14	order	219686	            Gemmatimonadales
+20.3611	203	0	no rank	1951096	              unclassified Gemmatimonadales
+20.3611	203	203	species	2448054	                Gemmatimonadales bacterium
+0.2006	2	0	family	219687	              Gemmatimonadaceae
+0.1003	1	0	no rank	246129	                environmental samples
+0.1003	1	1	species	246130	                  uncultured Gemmatimonadaceae bacterium
+0.1003	1	0	no rank	1387399	                unclassified Gemmatimonadaceae
+0.1003	1	1	species	2026741	                  Gemmatimonadaceae bacterium
+1.8054	18	1	no rank	234665	          unclassified Gemmatimonadetes
+1.3039	13	13	species	2026742	            Gemmatimonadetes bacterium
+0.1003	1	1	species	1660163	            Gemmatimonadetes bacterium SCN 70-22
+0.1003	1	1	species	1798312	            Gemmatimonadetes bacterium RIFCSPLOWO2_02_FULL_71_11
+0.1003	1	1	species	1805184	            Gemmatimonadetes bacterium 13_1_40CM_3_65_8
+0.1003	1	1	species	1805192	            Gemmatimonadetes bacterium 13_1_40CM_4_69_5
+0.1003	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.1003	1	0	phylum	976	          Bacteroidetes
+0.1003	1	0	class	1937959	            Saprospiria
+0.1003	1	0	order	1936988	              Saprospirales
+0.1003	1	0	family	1937960	                Lewinellaceae
+0.1003	1	0	genus	2762562	                  Flavilitoribacter
+0.1003	1	0	species	70997	                    Flavilitoribacter nigricans
+0.1003	1	1	strain	1122177	                      Flavilitoribacter nigricans DSM 23189 = NBRC 102662
+1.9057	19	13	phylum	40117	      Nitrospirae
+0.3009	3	0	class	203693	        Nitrospira
+0.3009	3	1	order	189778	          Nitrospirales
+0.1003	1	0	family	189779	            Nitrospiraceae
+0.1003	1	0	genus	1234	              Nitrospira
+0.1003	1	1	species	42253	                Nitrospira moscoviensis
+0.1003	1	0	no rank	212210	            unclassified Nitrospirales
+0.1003	1	1	species	2358460	              Nitrospirales bacterium
+0.3009	3	0	no rank	1298915	        unclassified Nitrospirae
+0.3009	3	3	species	2026887	          Nitrospirae bacterium
+1.9057	19	0	clade	1783272	      Terrabacteria group
+1.5045	15	4	phylum	201174	        Actinobacteria
+1.0030	10	4	class	1760	          Actinomycetia
+0.2006	2	0	no rank	52018	            unclassified Actinomycetia
+0.2006	2	2	species	1883427	              Actinomycetia bacterium
+0.1003	1	1	order	85007	            Corynebacteriales
+0.1003	1	0	order	85008	            Micromonosporales
+0.1003	1	0	family	28056	              Micromonosporaceae
+0.1003	1	0	genus	439698	                Pseudosporangium
+0.1003	1	0	no rank	2682940	                  unclassified Pseudosporangium
+0.1003	1	1	species	2785915	                    Pseudosporangium sp. NEAU-24
+0.1003	1	0	order	85011	            Streptomycetales
+0.1003	1	0	family	2062	              Streptomycetaceae
+0.1003	1	0	genus	1883	                Streptomyces
+0.1003	1	0	no rank	2593676	                  unclassified Streptomyces
+0.1003	1	1	species	1522763	                    Streptomyces sp. ADI98-10
+0.1003	1	0	order	1643683	            Acidothermales
+0.1003	1	0	no rank	2740545	              unclassified Acidothermales
+0.1003	1	1	species	2740546	                Acidothermales bacterium
+0.1003	1	0	class	1497346	          Thermoleophilia
+0.1003	1	0	order	588673	            Solirubrobacterales
+0.1003	1	0	no rank	1363568	              unclassified Solirubrobacterales
+0.1003	1	1	species	1909295	                Solirubrobacterales bacterium
+0.2006	2	1	phylum	200795	        Chloroflexi
+0.1003	1	0	class	32061	          Chloroflexia
+0.1003	1	0	no rank	2448781	            unclassified Chloroflexia
+0.1003	1	1	species	2448782	              Chloroflexia bacterium
+0.1003	1	0	phylum	67819	        Armatimonadetes
+0.1003	1	0	class	1042312	          Armatimonadia
+0.1003	1	0	order	2494207	            Capsulimonadales
+0.1003	1	0	family	2494208	              Capsulimonadaceae
+0.1003	1	0	genus	2494209	                Capsulimonas
+0.1003	1	1	species	2219043	                  Capsulimonas corticalis
+0.1003	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.1003	1	0	phylum	1117	          Cyanobacteria
+0.1003	1	0	no rank	1983111	            unclassified Cyanobacteria
+0.1003	1	1	species	1805101	              Cyanobacteria bacterium 13_1_40CM_2_61_4
+1.0030	10	3	phylum	1224	      Proteobacteria
+0.3009	3	0	class	28211	        Alphaproteobacteria
+0.2006	2	0	order	356	          Hyphomicrobiales
+0.2006	2	0	family	119045	            Methylobacteriaceae
+0.2006	2	0	genus	407	              Methylobacterium
+0.2006	2	2	species	270351	                Methylobacterium aquaticum
+0.1003	1	0	order	204441	          Rhodospirillales
+0.1003	1	0	family	433	            Acetobacteraceae
+0.1003	1	0	genus	125216	              Roseomonas
+0.1003	1	0	no rank	2617492	                unclassified Roseomonas
+0.1003	1	1	species	1232220	                  Roseomonas sp. JC162
+0.2006	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.2006	2	0	class	28221	          Deltaproteobacteria
+0.1003	1	0	order	29	            Myxococcales
+0.1003	1	0	no rank	83463	              Myxococcales incertae sedis
+0.1003	1	0	genus	215802	                Enhygromyxa
+0.1003	1	1	species	215803	                  Enhygromyxa salina
+0.1003	1	0	order	213462	            Syntrophobacterales
+0.1003	1	0	family	213465	              Syntrophobacteraceae
+0.1003	1	0	no rank	869804	                unclassified Syntrophobacteraceae
+0.1003	1	1	species	2052185	                  Syntrophobacteraceae bacterium
+0.1003	1	0	class	28216	        Betaproteobacteria
+0.1003	1	0	order	80840	          Burkholderiales
+0.1003	1	0	no rank	224471	            Burkholderiales genera incertae sedis
+0.1003	1	0	genus	212743	              Rhizobacter
+0.1003	1	0	no rank	2640088	                unclassified Rhizobacter
+0.1003	1	1	species	1736433	                  Rhizobacter sp. Root1221
+0.1003	1	0	class	1553900	        Oligoflexia
+0.1003	1	0	order	213481	          Bdellovibrionales
+0.1003	1	0	no rank	404130	            unclassified Bdellovibrionales
+0.1003	1	1	species	1797394	              Bdellovibrionales bacterium RIFOXYB2_FULL_36_6
+0.5015	5	2	phylum	57723	      Acidobacteria
+0.2006	2	0	no rank	305072	        unclassified Acidobacteria
+0.2006	2	2	species	1978231	          Acidobacteria bacterium
+0.1003	1	0	class	204432	        Acidobacteriia
+0.1003	1	0	order	332160	          Bryobacterales
+0.1003	1	0	no rank	1470392	            unclassified Bryobacterales
+0.1003	1	1	species	2026791	              Bryobacterales bacterium
+0.1003	1	0	clade	1802340	      Nitrospinae/Tectomicrobia group
+0.1003	1	0	phylum	1802339	        Candidatus Tectomicrobia
+0.1003	1	0	no rank	1802341	          unclassified Candidatus Tectomicrobia
+0.1003	1	1	species	1802342	            Candidatus Tectomicrobia bacterium RIFCSPLOWO2_02_FULL_70_19
+0.2006	2	0	superkingdom	2759	    Eukaryota
+0.1003	1	0	kingdom	33090	      Viridiplantae
+0.1003	1	0	phylum	35493	        Streptophyta
+0.1003	1	0	subphylum	131221	          Streptophytina
+0.1003	1	0	clade	3193	            Embryophyta
+0.1003	1	0	clade	58023	              Tracheophyta
+0.1003	1	0	clade	78536	                Euphyllophyta
+0.1003	1	0	clade	58024	                  Spermatophyta
+0.1003	1	0	class	3398	                    Magnoliopsida
+0.1003	1	0	clade	1437183	                      Mesangiospermae
+0.1003	1	0	clade	71240	                        eudicotyledons
+0.1003	1	0	clade	91827	                          Gunneridae
+0.1003	1	0	clade	1437201	                            Pentapetalae
+0.1003	1	0	clade	71275	                              rosids
+0.1003	1	0	clade	91835	                                fabids
+0.1003	1	0	order	72025	                                  Fabales
+0.1003	1	0	family	3803	                                    Fabaceae
+0.1003	1	0	subfamily	3814	                                      Papilionoideae
+0.1003	1	0	clade	2231393	                                        50 kb inversion clade
+0.1003	1	0	clade	2231384	                                          genistoids sensu lato
+0.1003	1	0	clade	2231385	                                            core genistoids
+0.1003	1	0	tribe	163729	                                              Genisteae
+0.1003	1	0	genus	3869	                                                Lupinus
+0.1003	1	1	species	3870	                                                  Lupinus albus
+0.1003	1	0	clade	33154	      Opisthokonta
+0.1003	1	0	kingdom	33208	        Metazoa
+0.1003	1	0	clade	6072	          Eumetazoa
+0.1003	1	0	phylum	6073	            Cnidaria
+0.1003	1	0	class	6101	              Anthozoa
+0.1003	1	0	subclass	6102	                Hexacorallia
+0.1003	1	0	order	6125	                  Scleractinia
+0.1003	1	0	suborder	123757	                    Astrocoeniina
+0.1003	1	0	family	46729	                      Pocilloporidae
+0.1003	1	0	genus	46730	                        Pocillopora
+0.1003	1	1	species	46731	                          Pocillopora damicornis

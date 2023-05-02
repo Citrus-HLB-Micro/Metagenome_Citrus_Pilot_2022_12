@@ -1,0 +1,37 @@
+100.0000	77	7	no rank	1	root
+90.9091	70	0	no rank	131567	  cellular organisms
+90.9091	70	41	superkingdom	2	    Bacteria
+27.2727	21	12	clade	1783272	      Terrabacteria group
+3.8961	3	0	phylum	67819	        Armatimonadetes
+3.8961	3	0	no rank	1042316	          unclassified Armatimonadetes
+3.8961	3	3	species	1797288	            Armatimonadetes bacterium RBG_16_67_12
+2.5974	2	0	phylum	1239	        Firmicutes
+2.5974	2	0	no rank	84086	          unclassified Firmicutes sensu stricto
+2.5974	2	2	species	1879010	            Firmicutes bacterium
+2.5974	2	2	phylum	200795	        Chloroflexi
+1.2987	1	0	phylum	201174	        Actinobacteria
+1.2987	1	0	class	84992	          Acidimicrobiia
+1.2987	1	0	no rank	121036	            unclassified Acidimicrobiia
+1.2987	1	1	species	2080302	              Acidimicrobiia bacterium
+1.2987	1	0	no rank	1859062	        unclassified Terrabacteria group
+1.2987	1	1	species	2569760	          Terrabacteria group bacterium ANGP1
+3.8961	3	0	no rank	2323	      Bacteria incertae sedis
+3.8961	3	0	clade	1783234	        Bacteria candidate phyla
+3.8961	3	0	phylum	1752708	          Candidatus Rokubacteria
+3.8961	3	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+3.8961	3	3	species	2053607	              Candidatus Rokubacteria bacterium
+3.8961	3	1	phylum	57723	      Acidobacteria
+1.2987	1	1	no rank	305072	        unclassified Acidobacteria
+1.2987	1	0	class	1562566	        Blastocatellia
+1.2987	1	0	no rank	2052145	          unclassified Blastocatellia
+1.2987	1	1	species	2052146	            Blastocatellia bacterium
+2.5974	2	0	phylum	1224	      Proteobacteria
+1.2987	1	0	class	28211	        Alphaproteobacteria
+1.2987	1	0	order	204455	          Rhodobacterales
+1.2987	1	0	family	2854170	            Roseobacteraceae
+1.2987	1	0	genus	1398404	              Salinihabitans
+1.2987	1	1	species	569882	                Salinihabitans flavidus
+1.2987	1	0	subphylum	68525	        delta/epsilon subdivisions
+1.2987	1	0	class	28221	          Deltaproteobacteria
+1.2987	1	0	no rank	122706	            unclassified Deltaproteobacteria
+1.2987	1	1	species	2026735	              Deltaproteobacteria bacterium

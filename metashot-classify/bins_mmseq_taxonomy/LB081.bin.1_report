@@ -1,0 +1,47 @@
+0.4158	2	2	no rank	0	unclassified
+99.5842	479	8	no rank	1	root
+97.9210	471	2	no rank	131567	  cellular organisms
+97.5052	469	271	superkingdom	2	    Bacteria
+38.2536	184	2	clade	1783257	      PVC group
+37.8378	182	141	phylum	74201	        Verrucomicrobia
+4.7817	23	1	class	134549	          Spartobacteria
+4.3659	21	0	order	1836787	            Chthoniobacterales
+4.3659	21	0	no rank	1918599	              unclassified Chthoniobacterales
+4.3659	21	21	species	2201154	                Chthoniobacterales bacterium
+0.2079	1	0	no rank	320756	            unclassified Spartobacteria
+0.2079	1	1	species	2052183	              Spartobacteria bacterium
+3.5343	17	1	no rank	417295	          unclassified Verrucomicrobia
+3.3264	16	16	species	2026799	            Verrucomicrobia bacterium
+0.2079	1	0	class	203494	          Verrucomicrobiae
+0.2079	1	0	order	48461	            Verrucomicrobiales
+0.2079	1	0	family	1647988	              Akkermansiaceae
+0.2079	1	0	no rank	1951308	                unclassified Akkermansiaceae
+0.2079	1	1	species	2562705	                  Akkermansiaceae bacterium
+2.2869	11	2	phylum	1224	      Proteobacteria
+1.0395	5	2	class	28211	        Alphaproteobacteria
+0.6237	3	2	order	356	          Hyphomicrobiales
+0.2079	1	0	family	45401	            Hyphomicrobiaceae
+0.2079	1	1	genus	1068	              Rhodomicrobium
+0.6237	3	0	subphylum	68525	        delta/epsilon subdivisions
+0.6237	3	0	class	28221	          Deltaproteobacteria
+0.6237	3	1	no rank	122706	            unclassified Deltaproteobacteria
+0.4158	2	2	species	2026735	              Deltaproteobacteria bacterium
+0.2079	1	0	no rank	81684	        unclassified Proteobacteria
+0.2079	1	1	species	1977087	          Proteobacteria bacterium
+0.4158	2	0	clade	1783272	      Terrabacteria group
+0.2079	1	0	phylum	200795	        Chloroflexi
+0.2079	1	0	no rank	189774	          unclassified Chloroflexi
+0.2079	1	1	species	2026724	            Chloroflexi bacterium
+0.2079	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.2079	1	0	phylum	1117	          Cyanobacteria
+0.2079	1	0	order	1890424	            Synechococcales
+0.2079	1	0	family	1890426	              Synechococcaceae
+0.2079	1	0	genus	1129	                Synechococcus
+0.2079	1	1	species	2116544	                  Synechococcus lacustris
+0.2079	1	0	phylum	40117	      Nitrospirae
+0.2079	1	0	class	203693	        Nitrospira
+0.2079	1	0	order	189778	          Nitrospirales
+0.2079	1	0	family	189779	            Nitrospiraceae
+0.2079	1	0	genus	1234	              Nitrospira
+0.2079	1	0	no rank	2652172	                unclassified Nitrospira
+0.2079	1	1	species	70125	                  Nitrospira sp.

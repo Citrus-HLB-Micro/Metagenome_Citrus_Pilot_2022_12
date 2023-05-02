@@ -1,0 +1,55 @@
+0.6051	4	4	no rank	0	unclassified
+99.3949	657	37	no rank	1	root
+93.7973	620	3	no rank	131567	  cellular organisms
+93.3434	617	172	superkingdom	2	    Bacteria
+66.7171	441	29	clade	1783272	      Terrabacteria group
+61.8759	409	85	phylum	201174	        Actinobacteria
+48.7141	322	57	class	1760	          Actinomycetia
+39.4856	261	0	no rank	52018	            unclassified Actinomycetia
+39.4856	261	261	species	1883427	              Actinomycetia bacterium
+0.4539	3	0	order	85009	            Propionibacteriales
+0.1513	1	0	family	31957	              Propionibacteriaceae
+0.1513	1	0	no rank	185283	                unclassified Propionibacteriaceae
+0.1513	1	1	species	2021380	                  Propionibacteriaceae bacterium
+0.1513	1	0	family	85015	              Nocardioidaceae
+0.1513	1	0	genus	86795	                Marmoricola
+0.1513	1	1	species	642780	                  Marmoricola scoriae
+0.1513	1	0	family	2726069	              Kribbellaceae
+0.1513	1	0	genus	182639	                Kribbella
+0.1513	1	1	species	236067	                  Kribbella solani
+0.1513	1	0	order	85011	            Streptomycetales
+0.1513	1	0	family	2062	              Streptomycetaceae
+0.1513	1	0	genus	1883	                Streptomyces
+0.1513	1	1	species	1888	                  Streptomyces albus
+0.3026	2	0	no rank	1752188	          unclassified Actinobacteria
+0.1513	1	1	species	1797201	            Actinobacteria bacterium RBG_16_67_10
+0.1513	1	1	species	1797208	            Actinobacteria bacterium RBG_19FT_COMBO_70_19
+0.4539	3	1	phylum	200795	        Chloroflexi
+0.1513	1	0	no rank	189774	          unclassified Chloroflexi
+0.1513	1	1	species	2026724	            Chloroflexi bacterium
+0.1513	1	0	class	189775	          Thermomicrobia
+0.1513	1	0	order	189776	            Thermomicrobiales
+0.1513	1	0	no rank	1382355	              unclassified Thermomicrobiales
+0.1513	1	1	species	2482790	                Thermomicrobiales bacterium
+0.1513	1	0	phylum	1224	      Proteobacteria
+0.1513	1	0	class	28216	        Betaproteobacteria
+0.1513	1	0	order	80840	          Burkholderiales
+0.1513	1	0	family	119060	            Burkholderiaceae
+0.1513	1	0	genus	32008	              Burkholderia
+0.1513	1	0	species group	87882	                Burkholderia cepacia complex
+0.1513	1	1	species	95486	                  Burkholderia cenocepacia
+0.1513	1	0	no rank	2323	      Bacteria incertae sedis
+0.1513	1	0	clade	1783234	        Bacteria candidate phyla
+0.1513	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.1513	1	1	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.1513	1	0	phylum	57723	      Acidobacteria
+0.1513	1	0	no rank	305072	        unclassified Acidobacteria
+0.1513	1	1	species	1978231	          Acidobacteria bacterium
+0.1513	1	0	clade	1783270	      FCB group
+0.1513	1	0	phylum	142182	        Gemmatimonadetes
+0.1513	1	0	class	219685	          Gemmatimonadetes
+0.1513	1	0	order	219686	            Gemmatimonadales
+0.1513	1	0	family	219687	              Gemmatimonadaceae
+0.1513	1	0	genus	173479	                Gemmatimonas
+0.1513	1	0	no rank	2646123	                  unclassified Gemmatimonas
+0.1513	1	1	species	1962908	                    Gemmatimonas sp.

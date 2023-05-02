@@ -1,0 +1,68 @@
+0.2398	1	1	no rank	0	unclassified
+99.7602	416	58	no rank	1	root
+85.8513	358	2	no rank	131567	  cellular organisms
+84.8921	354	98	superkingdom	2	    Bacteria
+61.1511	255	55	phylum	1224	      Proteobacteria
+47.4820	198	102	class	28211	        Alphaproteobacteria
+22.5420	94	65	order	356	          Hyphomicrobiales
+4.7962	20	5	family	45401	            Hyphomicrobiaceae
+2.8777	12	7	genus	1484898	              Methyloceanibacter
+0.4796	2	2	species	1774971	                Methyloceanibacter marginalis
+0.2398	1	1	species	1774968	                Methyloceanibacter methanicus
+0.2398	1	1	species	1774969	                Methyloceanibacter superfactus
+0.2398	1	1	species	1774970	                Methyloceanibacter stevinii
+0.2398	1	0	genus	81	              Hyphomicrobium
+0.2398	1	0	no rank	2619925	                unclassified Hyphomicrobium
+0.2398	1	1	species	82	                  Hyphomicrobium sp.
+0.2398	1	0	no rank	196771	              unclassified Hyphomicrobiaceae
+0.2398	1	1	species	2015799	                Hyphomicrobiaceae bacterium
+0.2398	1	0	genus	1485594	              Methyloligella
+0.2398	1	1	species	1177755	                Methyloligella halotolerans
+1.4388	6	0	no rank	41292	            unclassified Hyphomicrobiales
+1.4388	6	6	species	1909294	              Hyphomicrobiales bacterium
+0.4796	2	0	family	69277	            Phyllobacteriaceae
+0.4796	2	0	genus	68287	              Mesorhizobium
+0.2398	1	1	species	69974	                Mesorhizobium plurifarium
+0.2398	1	0	no rank	325217	                unclassified Mesorhizobium
+0.2398	1	1	species	2654248	                  Mesorhizobium sp. INR15
+0.2398	1	0	family	41294	            Bradyrhizobiaceae
+0.2398	1	1	genus	1033	              Afipia
+0.4796	2	0	no rank	33807	          unclassified Alphaproteobacteria
+0.2398	1	1	species	1797215	            Alphaproteobacteria bacterium RBG_16_64_48
+0.2398	1	1	species	1913988	            Alphaproteobacteria bacterium
+0.2398	1	1	class	28216	        Betaproteobacteria
+0.2398	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.2398	1	0	class	28221	          Deltaproteobacteria
+0.2398	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.2398	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.2398	1	0	clade	1783270	      FCB group
+0.2398	1	0	phylum	142182	        Gemmatimonadetes
+0.2398	1	0	class	219685	          Gemmatimonadetes
+0.2398	1	0	order	219686	            Gemmatimonadales
+0.2398	1	0	family	219687	              Gemmatimonadaceae
+0.2398	1	0	no rank	1387399	                unclassified Gemmatimonadaceae
+0.2398	1	1	species	2026741	                  Gemmatimonadaceae bacterium
+0.4796	2	1	superkingdom	2759	    Eukaryota
+0.2398	1	0	kingdom	33090	      Viridiplantae
+0.2398	1	0	phylum	35493	        Streptophyta
+0.2398	1	0	subphylum	131221	          Streptophytina
+0.2398	1	0	clade	3193	            Embryophyta
+0.2398	1	0	clade	58023	              Tracheophyta
+0.2398	1	0	clade	78536	                Euphyllophyta
+0.2398	1	0	clade	58024	                  Spermatophyta
+0.2398	1	0	class	3398	                    Magnoliopsida
+0.2398	1	0	clade	1437183	                      Mesangiospermae
+0.2398	1	0	clade	71240	                        eudicotyledons
+0.2398	1	0	clade	91827	                          Gunneridae
+0.2398	1	0	clade	1437201	                            Pentapetalae
+0.2398	1	0	clade	71275	                              rosids
+0.2398	1	0	clade	91835	                                fabids
+0.2398	1	0	order	72025	                                  Fabales
+0.2398	1	0	family	3803	                                    Fabaceae
+0.2398	1	0	subfamily	3814	                                      Papilionoideae
+0.2398	1	0	clade	2231393	                                        50 kb inversion clade
+0.2398	1	0	clade	2231384	                                          genistoids sensu lato
+0.2398	1	0	clade	2231385	                                            core genistoids
+0.2398	1	0	tribe	163729	                                              Genisteae
+0.2398	1	0	genus	3869	                                                Lupinus
+0.2398	1	1	species	3870	                                                  Lupinus albus

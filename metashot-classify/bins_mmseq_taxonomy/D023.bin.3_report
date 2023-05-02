@@ -1,0 +1,34 @@
+100.0000	229	4	no rank	1	root
+98.2533	225	0	no rank	131567	  cellular organisms
+97.8166	224	78	superkingdom	2	    Bacteria
+61.1354	140	7	clade	1783272	      Terrabacteria group
+55.4585	127	28	phylum	200795	        Chloroflexi
+43.2314	99	61	no rank	189774	          unclassified Chloroflexi
+16.5939	38	38	species	2026724	            Chloroflexi bacterium
+2.6201	6	2	phylum	201174	        Actinobacteria
+1.7467	4	1	class	1760	          Actinomycetia
+1.3100	3	0	no rank	52018	            unclassified Actinomycetia
+1.3100	3	3	species	1883427	              Actinomycetia bacterium
+1.7467	4	0	no rank	2323	      Bacteria incertae sedis
+1.7467	4	0	clade	1783234	        Bacteria candidate phyla
+0.8734	2	0	phylum	1752708	          Candidatus Rokubacteria
+0.8734	2	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.4367	1	1	species	1802106	              Candidatus Rokubacteria bacterium RIFCSPLOWO2_02_FULL_72_37
+0.4367	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+0.8734	2	0	phylum	1817801	          Candidatus Eisenbacteria
+0.8734	2	2	species	2212470	            Candidatus Eisenbacteria bacterium
+0.8734	2	1	phylum	1224	      Proteobacteria
+0.4367	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.4367	1	0	class	28221	          Deltaproteobacteria
+0.4367	1	0	order	29	            Myxococcales
+0.4367	1	0	suborder	80812	              Sorangiineae
+0.4367	1	0	family	49	                Polyangiaceae
+0.4367	1	1	genus	55	                  Polyangium
+0.4367	1	0	superkingdom	2759	    Eukaryota
+0.4367	1	0	clade	33154	      Opisthokonta
+0.4367	1	0	kingdom	4751	        Fungi
+0.4367	1	0	subkingdom	451864	          Dikarya
+0.4367	1	0	phylum	4890	            Ascomycota
+0.4367	1	0	clade	716545	              saccharomyceta
+0.4367	1	0	subphylum	147538	                Pezizomycotina
+0.4367	1	1	clade	716546	                  leotiomyceta

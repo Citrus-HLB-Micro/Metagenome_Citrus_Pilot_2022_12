@@ -1,0 +1,30 @@
+0.2110	1	1	no rank	0	unclassified
+99.7890	473	42	no rank	1	root
+90.9283	431	3	no rank	131567	  cellular organisms
+89.4515	424	41	superkingdom	2157	    Archaea
+80.8017	383	17	clade	1783275	      TACK group
+77.2152	366	333	phylum	651137	        Thaumarchaeota
+4.2194	20	1	order	31932	          Nitrosopumilales
+3.7975	18	0	no rank	1915697	            unclassified Nitrosopumilales
+3.7975	18	18	species	2026768	              Nitrosopumilales archaeon
+0.2110	1	0	family	338190	            Nitrosopumilaceae
+0.2110	1	0	genus	1007082	              Nitrosarchaeum
+0.2110	1	0	no rank	2641124	                unclassified Nitrosarchaeum
+0.2110	1	1	species	2026886	                  Nitrosarchaeum sp.
+1.8987	9	1	no rank	1104572	          unclassified Thaumarchaeota
+1.6878	8	8	species	2026795	            Thaumarchaeota archaeon
+0.8439	4	1	class	1643678	          Nitrososphaeria
+0.6329	3	0	order	1033996	            Nitrososphaerales
+0.6329	3	0	family	1033997	              Nitrososphaeraceae
+0.4219	2	1	genus	1826864	                Candidatus Nitrosocosmicus
+0.2110	1	1	species	1353260	                  Candidatus Nitrosocosmicus oleophilus
+0.2110	1	0	no rank	1915612	                unclassified Nitrososphaeraceae
+0.2110	1	1	species	2169593	                  Nitrososphaeraceae archaeon
+0.8439	4	0	superkingdom	2	    Bacteria
+0.4219	2	0	no rank	49928	      unclassified Bacteria
+0.4219	2	2	species	1869227	        bacterium
+0.2110	1	0	phylum	1224	      Proteobacteria
+0.2110	1	1	class	28211	        Alphaproteobacteria
+0.2110	1	0	phylum	57723	      Acidobacteria
+0.2110	1	0	no rank	305072	        unclassified Acidobacteria
+0.2110	1	1	species	1978231	          Acidobacteria bacterium

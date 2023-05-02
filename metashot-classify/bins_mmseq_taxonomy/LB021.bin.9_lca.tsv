@@ -1,0 +1,495 @@
+k141_452696	48461	order	Verrucomicrobiales	5	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobiales	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;c_Verrucomicrobiae;o_Verrucomicrobiales
+k141_1784943	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2292540	2	superkingdom	Bacteria	10	10	6	0.660	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2125275	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2292999	1	no rank	root	6	6	6	1.000	unknown;unknown;unknown	-_root
+k141_277226	2	superkingdom	Bacteria	7	7	5	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2293926	74201	phylum	Verrucomicrobia	9	8	6	0.720	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_277530	28211	class	Alphaproteobacteria	2	2	2	1.000	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_1957291	74201	phylum	Verrucomicrobia	5	5	3	0.730	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_951296	1783257	clade	PVC group	4	3	2	0.510	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_PVC group
+k141_969661	74201	phylum	Verrucomicrobia	5	4	4	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_969749	2	superkingdom	Bacteria	7	6	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_795232	2201154	species	Chthoniobacterales bacterium	3	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;c_Spartobacteria;o_Chthoniobacterales;-_unclassified Chthoniobacterales;s_Chthoniobacterales bacterium
+k141_795438	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1471825	1783257	clade	PVC group	2	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_PVC group
+k141_970701	74201	phylum	Verrucomicrobia	9	8	4	0.560	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1977701	74201	phylum	Verrucomicrobia	5	4	4	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1473288	2	superkingdom	Bacteria	6	5	3	0.730	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1473440	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1306646	2	superkingdom	Bacteria	2	2	1	0.950	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2149139	74201	phylum	Verrucomicrobia	4	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1475173	74201	phylum	Verrucomicrobia	6	5	4	0.980	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2656792	74201	phylum	Verrucomicrobia	9	9	3	0.700	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_480287	74201	phylum	Verrucomicrobia	8	7	4	0.570	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2317360	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1475596	1577686	species	Silvibacterium bohemicum	3	2	1	0.500	unknown;Acidobacteria;Acidobacteriaceae	-_cellular organisms;d_Bacteria;p_Acidobacteria;c_Acidobacteriia;o_Acidobacteriales;f_Acidobacteriaceae;g_Silvibacterium;s_Silvibacterium bohemicum
+k141_974154	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_799605	2530369	species	Actinomadura sp. KC06	3	2	1	0.500	unknown;Actinobacteria;Thermomonosporaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Streptosporangiales;f_Thermomonosporaceae;g_Actinomadura;-_unclassified Actinomadura;s_Actinomadura sp. KC06
+k141_1659509	74201	phylum	Verrucomicrobia	8	8	6	0.830	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2658151	74201	phylum	Verrucomicrobia	2	1	1	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_611734	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1628387	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2460277	1	no rank	root	3	1	1	1.000	unknown;unknown;unknown	-_root
+k141_103646	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2629579	74201	phylum	Verrucomicrobia	2	2	1	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1953839	2	superkingdom	Bacteria	4	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1629480	74201	phylum	Verrucomicrobia	8	6	4	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1954311	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2124221	74201	phylum	Verrucomicrobia	4	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1954896	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1901211	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1902833	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1400457	74201	phylum	Verrucomicrobia	7	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1064539	74201	phylum	Verrucomicrobia	2	2	2	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1735583	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1233885	74201	phylum	Verrucomicrobia	4	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_563434	2	superkingdom	Bacteria	7	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1906583	74201	phylum	Verrucomicrobia	3	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1067105	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2413393	74201	phylum	Verrucomicrobia	6	6	5	0.800	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1370476	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2211704	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1874923	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2043891	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_26511	976	phylum	Bacteroidetes	3	2	1	0.500	unknown;Bacteroidetes;uc_Bacteroidetes	-_cellular organisms;d_Bacteria;-_FCB group;-_Bacteroidetes/Chlorobi group;p_Bacteroidetes
+k141_1542989	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2213078	74201	phylum	Verrucomicrobia	5	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1036844	2	superkingdom	Bacteria	7	7	5	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1877466	1799654	species	Verrucomicrobia bacterium SCGC AG-212-E04	3	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium SCGC AG-212-E04
+k141_1037040	113567	species	Actinoplanes italicus	6	5	2	0.640	unknown;Actinobacteria;Micromonosporaceae	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Micromonosporales;f_Micromonosporaceae;g_Actinoplanes;s_Actinoplanes italicus
+k141_1894615	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2569068	74201	phylum	Verrucomicrobia	4	3	2	0.520	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_551995	0	no rank	unclassified	2	0	0	0.000		
+k141_47278	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1224715	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_388915	74201	phylum	Verrucomicrobia	3	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_889538	2026799	species	Verrucomicrobia bacterium	7	6	3	0.590	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium
+k141_48391	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_719918	74201	phylum	Verrucomicrobia	7	7	5	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_890223	74201	phylum	Verrucomicrobia	4	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1802505	74201	phylum	Verrucomicrobia	6	6	3	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1651183	2	superkingdom	Bacteria	7	6	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1468795	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_123979	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_634040	2	superkingdom	Bacteria	2	2	1	0.940	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1469715	356	order	Hyphomicrobiales	3	2	1	0.500	unknown;Proteobacteria;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_1469906	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_474536	2	superkingdom	Bacteria	6	5	4	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2483121	2448054	species	Gemmatimonadales bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales;-_unclassified Gemmatimonadales;s_Gemmatimonadales bacterium
+k141_1653925	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1238203	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1238440	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1407003	1811728	species	Methanomassiliicoccales archaeon PtaB.Bin215	3	2	1	0.500	unknown;Candidatus Thermoplasmatota;unknown	-_cellular organisms;d_Archaea;p_Candidatus Thermoplasmatota;c_Thermoplasmata;o_Methanomassiliicoccales;-_unclassified Methanomassiliicoccales;s_Methanomassiliicoccales archaeon PtaB.Bin215
+k141_1073132	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1408775	74201	phylum	Verrucomicrobia	6	4	3	0.970	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2588136	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1744537	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1913976	74201	phylum	Verrucomicrobia	9	9	5	0.560	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_408270	74201	phylum	Verrucomicrobia	9	8	5	0.630	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_572926	74201	phylum	Verrucomicrobia	5	5	2	0.640	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1852499	2	superkingdom	Bacteria	10	8	6	0.850	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1852751	2527975	species	Planctomycetes bacterium Pan216	2	2	1	0.500	unknown;Planctomycetes;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Planctomycetes;-_unclassified Planctomycetes;s_Planctomycetes bacterium Pan216
+k141_1685241	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_508189	40117	phylum	Nitrospirae	5	5	4	0.800	unknown;Nitrospirae;uc_Nitrospirae	-_cellular organisms;d_Bacteria;p_Nitrospirae
+k141_2526522	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_1180598	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_508801	327160	species	Candidatus Accumulibacter phosphatis	2	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;-_Betaproteobacteria incertae sedis;g_Candidatus Accumulibacter;s_Candidatus Accumulibacter phosphatis
+k141_1518781	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1518876	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_677400	1869227	species	bacterium	3	2	1	0.930	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_unclassified Bacteria;s_bacterium
+k141_959795	74201	phylum	Verrucomicrobia	5	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1126901	74201	phylum	Verrucomicrobia	4	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2136628	74201	phylum	Verrucomicrobia	3	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_960714	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2136983	74201	phylum	Verrucomicrobia	4	4	2	0.650	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2475673	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2645014	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1128795	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2477833	2	superkingdom	Bacteria	8	8	6	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1465517	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1368537	1783257	clade	PVC group	2	2	1	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_PVC group
+k141_2041577	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_695511	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_864923	2	superkingdom	Bacteria	4	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1032829	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_192298	2	superkingdom	Bacteria	5	5	4	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1201278	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2042935	74201	phylum	Verrucomicrobia	6	5	3	0.510	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1201670	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_363109	2	superkingdom	Bacteria	6	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2687019	74201	phylum	Verrucomicrobia	4	4	3	0.750	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2687971	2	superkingdom	Bacteria	9	8	5	0.630	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1337004	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2347148	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_331963	1	no rank	root	1	1	1	1.000	unknown;unknown;unknown	-_root
+k141_2519887	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2350052	74201	phylum	Verrucomicrobia	4	4	4	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1508277	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1172766	1982327	species	Spartobacteria bacterium Tous-C9RFEB	1	1	1	1.000	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;c_Spartobacteria;-_unclassified Spartobacteria;s_Spartobacteria bacterium Tous-C9RFEB
+k141_2350211	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_84280	2	superkingdom	Bacteria	9	8	7	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2609424	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1933892	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_755136	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1934262	74201	phylum	Verrucomicrobia	6	4	3	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2441393	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_85384	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_756352	2	superkingdom	Bacteria	13	13	9	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1609338	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1936067	0	no rank	unclassified	3	0	0	0.000		
+k141_1841358	2	superkingdom	Bacteria	6	6	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2015550	74201	phylum	Verrucomicrobia	6	6	4	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2352393	1783272	clade	Terrabacteria group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_1843892	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1512741	2	superkingdom	Bacteria	11	10	5	0.550	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1609893	2	superkingdom	Bacteria	7	7	5	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_87444	1	no rank	root	7	6	6	1.000	unknown;unknown;unknown	-_root
+k141_2612752	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_257793	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_595922	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_596033	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1767558	2	superkingdom	Bacteria	8	8	6	0.720	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_258827	2	superkingdom	Bacteria	4	4	3	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2445598	2	superkingdom	Bacteria	5	3	2	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_597616	74201	phylum	Verrucomicrobia	2	1	1	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2307846	74201	phylum	Verrucomicrobia	7	6	3	0.650	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_964318	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1972261	74201	phylum	Verrucomicrobia	2	2	2	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2648816	74201	phylum	Verrucomicrobia	2	2	1	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_471808	134549	class	Spartobacteria	4	4	2	0.500	unknown;Verrucomicrobia;uc_Spartobacteria	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;c_Spartobacteria
+k141_1299877	2	superkingdom	Bacteria	9	8	4	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2309550	74201	phylum	Verrucomicrobia	9	8	3	0.630	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2649335	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1300300	74201	phylum	Verrucomicrobia	6	6	3	0.590	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1973125	74201	phylum	Verrucomicrobia	3	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_915017	417295	no rank	unclassified Verrucomicrobia	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia
+k141_1753079	74201	phylum	Verrucomicrobia	5	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1250617	2	superkingdom	Bacteria	5	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2429772	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2260459	74201	phylum	Verrucomicrobia	5	5	5	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_915997	74201	phylum	Verrucomicrobia	6	5	4	0.800	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_745148	74201	phylum	Verrucomicrobia	5	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_244476	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2430988	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_75620	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_207488	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_545078	74201	phylum	Verrucomicrobia	6	6	5	0.760	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_545986	74201	phylum	Verrucomicrobia	5	4	3	0.750	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1889859	2	superkingdom	Bacteria	3	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1217600	2	superkingdom	Bacteria	6	4	3	0.530	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_40934	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_546524	74201	phylum	Verrucomicrobia	5	5	4	0.800	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_882187	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2395675	1836787	order	Chthoniobacterales	2	2	1	0.500	unknown;Verrucomicrobia;uc_Chthoniobacterales	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;c_Spartobacteria;o_Chthoniobacterales
+k141_2059886	2	superkingdom	Bacteria	6	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_310140	2	superkingdom	Bacteria	6	6	5	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_649942	74201	phylum	Verrucomicrobia	6	6	4	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1670830	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1670938	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_652147	74201	phylum	Verrucomicrobia	4	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1820458	2	superkingdom	Bacteria	5	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1487044	2	superkingdom	Bacteria	6	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_313613	2	superkingdom	Bacteria	7	6	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1320030	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2501428	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2501443	74201	phylum	Verrucomicrobia	5	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_142961	2	superkingdom	Bacteria	7	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_987617	1801964	species	Planctomycetes bacterium RBG_13_62_9	2	2	1	0.500	unknown;Planctomycetes;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Planctomycetes;-_unclassified Planctomycetes;s_Planctomycetes bacterium RBG_13_62_9
+k141_495531	74201	phylum	Verrucomicrobia	5	4	2	0.650	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_144579	74201	phylum	Verrucomicrobia	3	1	1	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_655179	1978231	species	Acidobacteria bacterium	4	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1823580	1	no rank	root	9	8	8	1.000	unknown;unknown;unknown	-_root
+k141_1674961	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_813241	2	superkingdom	Bacteria	10	9	7	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1824180	74201	phylum	Verrucomicrobia	7	7	5	0.710	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1476886	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_303779	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_802079	2	superkingdom	Bacteria	5	5	4	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1812759	74201	phylum	Verrucomicrobia	4	4	3	0.750	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_305516	1	no rank	root	12	10	10	1.000	unknown;unknown;unknown	-_root
+k141_2154638	1783272	clade	Terrabacteria group	4	4	2	0.500	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_Terrabacteria group
+k141_645975	74201	phylum	Verrucomicrobia	5	4	3	0.750	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_486313	2	superkingdom	Bacteria	5	4	3	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1985882	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_486566	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2202749	74201	phylum	Verrucomicrobia	3	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1193653	1117	phylum	Cyanobacteria	3	2	1	0.500	unknown;Cyanobacteria;uc_Cyanobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteria/Melainabacteria group;p_Cyanobacteria
+k141_354358	2	superkingdom	Bacteria	9	7	6	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_522410	74201	phylum	Verrucomicrobia	3	2	1	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_17670	131567	no rank	cellular organisms	2	2	2	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_523014	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1534118	2	superkingdom	Bacteria	11	9	8	0.840	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1195878	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_356980	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_691742	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_511911	2	superkingdom	Bacteria	8	8	5	0.710	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1016630	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_848357	74201	phylum	Verrucomicrobia	7	6	4	0.790	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2194651	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2531110	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_513600	74201	phylum	Verrucomicrobia	6	5	3	0.660	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2027358	2	superkingdom	Bacteria	7	6	4	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_346159	74201	phylum	Verrucomicrobia	13	12	7	0.580	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1523868	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1859388	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2060095	74201	phylum	Verrucomicrobia	6	6	5	0.830	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1722602	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_547936	74201	phylum	Verrucomicrobia	3	2	1	0.950	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_548100	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2061141	2	superkingdom	Bacteria	4	3	2	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2228818	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1893116	417295	no rank	unclassified Verrucomicrobia	4	3	2	0.960	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia
+k141_549752	74201	phylum	Verrucomicrobia	3	2	2	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_44681	2	superkingdom	Bacteria	9	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1221783	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_369895	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_31862	74201	phylum	Verrucomicrobia	7	5	3	0.980	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_537174	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_32086	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2050447	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1713098	2	superkingdom	Bacteria	5	5	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2051396	2	superkingdom	Bacteria	5	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2556687	2	superkingdom	Bacteria	8	8	6	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1378821	2	superkingdom	Bacteria	6	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2219912	2	superkingdom	Bacteria	6	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2600208	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_245313	2	superkingdom	Bacteria	11	9	7	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1420769	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_76133	1224	phylum	Proteobacteria	8	8	4	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_583943	2	superkingdom	Bacteria	10	9	6	0.960	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2263347	74201	phylum	Verrucomicrobia	7	7	5	0.710	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1599328	74201	phylum	Verrucomicrobia	5	5	4	0.980	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_421826	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_77743	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1089044	2	superkingdom	Bacteria	5	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2593834	74201	phylum	Verrucomicrobia	3	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2426417	74201	phylum	Verrucomicrobia	4	4	3	0.750	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_577738	2	superkingdom	Bacteria	5	5	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2595009	1224	phylum	Proteobacteria	6	4	2	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_743046	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2596390	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_914245	74201	phylum	Verrucomicrobia	4	3	2	0.930	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2596724	74201	phylum	Verrucomicrobia	2	2	2	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_416143	2	superkingdom	Bacteria	4	4	2	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_914749	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1205920	2	superkingdom	Bacteria	7	7	6	0.860	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1374341	74201	phylum	Verrucomicrobia	2	2	1	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1878608	74201	phylum	Verrucomicrobia	8	7	4	0.660	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1206460	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2552914	2	superkingdom	Bacteria	4	3	2	0.990	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_871083	74201	phylum	Verrucomicrobia	5	5	4	0.980	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1206918	2	superkingdom	Bacteria	6	6	4	0.790	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_701563	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1547685	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_198976	152267	genus	Pigmentiphaga	2	1	1	1.000	unknown;Proteobacteria;Alcaligenaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Pigmentiphaga
+k141_2637743	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_282328	74201	phylum	Verrucomicrobia	2	2	1	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1638543	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1962630	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1458634	74201	phylum	Verrucomicrobia	6	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1123626	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_462408	74201	phylum	Verrucomicrobia	11	10	5	0.550	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2301464	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_463276	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1794231	48461	order	Verrucomicrobiales	2	1	1	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobiales	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;c_Verrucomicrobiae;o_Verrucomicrobiales
+k141_1042792	2	superkingdom	Bacteria	5	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_706188	2	superkingdom	Bacteria	5	5	3	0.730	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1552378	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_540436	74201	phylum	Verrucomicrobia	4	4	4	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_375856	2	superkingdom	Bacteria	6	6	5	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_376130	1783257	clade	PVC group	4	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_PVC group
+k141_2054721	2	superkingdom	Bacteria	4	4	3	0.680	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2391311	2	superkingdom	Bacteria	5	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1718398	74201	phylum	Verrucomicrobia	5	4	3	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2056298	2	superkingdom	Bacteria	9	9	6	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_346964	2	superkingdom	Bacteria	4	4	2	0.640	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1860238	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2029332	74201	phylum	Verrucomicrobia	4	2	2	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2534003	74201	phylum	Verrucomicrobia	9	8	4	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_684343	1742973	species	Candidatus Nitrospira nitrificans	2	2	1	0.500	unknown;Nitrospirae;Nitrospiraceae	-_cellular organisms;d_Bacteria;p_Nitrospirae;c_Nitrospira;o_Nitrospirales;f_Nitrospiraceae;g_Nitrospira;s_Candidatus Nitrospira nitrificans
+k141_1693289	74201	phylum	Verrucomicrobia	9	7	5	0.830	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1021024	2	superkingdom	Bacteria	11	11	9	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2535279	74201	phylum	Verrucomicrobia	8	8	7	0.840	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_518216	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2536743	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2619662	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_937234	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2450862	74201	phylum	Verrucomicrobia	5	4	3	0.750	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1105370	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_442231	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2115530	2	superkingdom	Bacteria	4	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_604700	74201	phylum	Verrucomicrobia	4	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2622098	1978231	species	Acidobacteria bacterium	5	4	2	0.660	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_939694	1978231	species	Acidobacteria bacterium	2	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_605765	74201	phylum	Verrucomicrobia	4	4	3	0.750	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1181774	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2527414	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_342780	74201	phylum	Verrucomicrobia	12	11	10	0.910	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1183008	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_174407	1	no rank	root	2	1	1	1.000	unknown;unknown;unknown	-_root
+k141_1520677	74201	phylum	Verrucomicrobia	6	6	3	0.730	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2024864	2	superkingdom	Bacteria	6	6	4	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1856736	2	superkingdom	Bacteria	5	4	2	0.650	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2361268	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1521194	74201	phylum	Verrucomicrobia	6	6	5	0.830	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2302127	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_285595	2	superkingdom	Bacteria	5	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_784970	2026799	species	Verrucomicrobia bacterium	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium
+k141_1460944	74201	phylum	Verrucomicrobia	4	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2641905	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_959092	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2302924	74201	phylum	Verrucomicrobia	5	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_785498	74201	phylum	Verrucomicrobia	6	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_785644	417295	no rank	unclassified Verrucomicrobia	6	6	3	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia
+k141_1461806	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_932789	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1267213	74201	phylum	Verrucomicrobia	10	7	4	0.510	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_760906	74201	phylum	Verrucomicrobia	5	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2448670	74201	phylum	Verrucomicrobia	7	7	6	0.860	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_262704	74201	phylum	Verrucomicrobia	5	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_439085	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2449824	74201	phylum	Verrucomicrobia	3	3	2	0.520	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2112732	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2112847	74201	phylum	Verrucomicrobia	2	2	1	0.980	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_263741	74201	phylum	Verrucomicrobia	5	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_318384	2	superkingdom	Bacteria	6	5	4	0.760	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1157502	2	superkingdom	Bacteria	9	9	8	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1997584	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_500378	2	superkingdom	Bacteria	6	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2168783	2	superkingdom	Bacteria	15	14	10	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_321217	2	superkingdom	Bacteria	6	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2338092	74201	phylum	Verrucomicrobia	16	11	7	0.750	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1328990	2	superkingdom	Bacteria	9	8	5	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1830370	1982333	species	Verrucomicrobia bacterium Tous-C9LFEB	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium Tous-C9LFEB
+k141_1329124	2	superkingdom	Bacteria	5	5	3	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1191083	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2200609	74201	phylum	Verrucomicrobia	4	4	3	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1529969	2	superkingdom	Bacteria	6	6	5	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1192025	2	superkingdom	Bacteria	4	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1360635	2026801	species	Verrucomicrobiales bacterium	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;c_Verrucomicrobiae;o_Verrucomicrobiales;-_unclassified Verrucomicrobiales;s_Verrucomicrobiales bacterium
+k141_1696900	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2201651	1783257	clade	PVC group	3	3	2	0.670	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_PVC group
+k141_688095	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2370052	74201	phylum	Verrucomicrobia	5	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_688831	1895866	species	Verrucomicrobia bacterium 61-8	9	9	5	0.620	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium 61-8
+k141_217253	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_890556	74201	phylum	Verrucomicrobia	5	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1394905	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_891136	2	superkingdom	Bacteria	3	3	2	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_49744	2448054	species	Gemmatimonadales bacterium	2	2	1	0.500	unknown;Gemmatimonadetes;unknown	-_cellular organisms;d_Bacteria;-_FCB group;p_Gemmatimonadetes;c_Gemmatimonadetes;o_Gemmatimonadales;-_unclassified Gemmatimonadales;s_Gemmatimonadales bacterium
+k141_1899599	2	superkingdom	Bacteria	10	9	8	0.770	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_50585	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2574077	2	superkingdom	Bacteria	9	9	5	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1396392	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2237358	74201	phylum	Verrucomicrobia	5	4	3	0.750	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1701028	74201	phylum	Verrucomicrobia	6	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2206243	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2374116	2	superkingdom	Bacteria	6	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1869998	28211	class	Alphaproteobacteria	6	6	3	0.500	unknown;Proteobacteria;uc_Alphaproteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria
+k141_20332	2026735	species	Deltaproteobacteria bacterium	3	2	1	0.500	unknown;Proteobacteria;unknown	-_cellular organisms;d_Bacteria;p_Proteobacteria;-_delta/epsilon subdivisions;c_Deltaproteobacteria;-_unclassified Deltaproteobacteria;s_Deltaproteobacteria bacterium
+k141_862365	1	no rank	root	6	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1537395	2	superkingdom	Bacteria	9	9	9	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_693539	74201	phylum	Verrucomicrobia	4	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2376219	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2376900	2	superkingdom	Bacteria	8	8	5	0.630	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1958491	1760	class	Actinomycetia	1	1	1	1.000	unknown;Actinobacteria;uc_Actinomycetia	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Actinobacteria;c_Actinomycetia
+k141_617509	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1118965	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_279651	74201	phylum	Verrucomicrobia	3	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_109597	2	superkingdom	Bacteria	6	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_952649	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_779896	2	superkingdom	Bacteria	5	5	3	0.600	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1636685	74201	phylum	Verrucomicrobia	2	2	1	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2129972	2	superkingdom	Bacteria	9	7	4	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1637112	1224	phylum	Proteobacteria	3	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_79919	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2605093	74201	phylum	Verrucomicrobia	8	6	4	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_588706	74201	phylum	Verrucomicrobia	2	2	1	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1604188	2	superkingdom	Bacteria	7	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1604588	74201	phylum	Verrucomicrobia	5	5	3	0.510	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1259081	74201	phylum	Verrucomicrobia	2	1	1	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_251845	1978231	species	Acidobacteria bacterium	3	2	1	0.500	unknown;Acidobacteria;unknown	-_cellular organisms;d_Bacteria;p_Acidobacteria;-_unclassified Acidobacteria;s_Acidobacteria bacterium
+k141_1604787	2	superkingdom	Bacteria	5	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2268597	74201	phylum	Verrucomicrobia	4	4	2	0.650	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_926041	74201	phylum	Verrucomicrobia	4	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2333170	2026799	species	Verrucomicrobia bacterium	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium
+k141_1824601	74201	phylum	Verrucomicrobia	4	4	2	0.660	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_989693	2	superkingdom	Bacteria	7	6	4	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_989695	1	no rank	root	6	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1323254	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1676241	74201	phylum	Verrucomicrobia	5	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1156710	2	superkingdom	Bacteria	7	6	3	0.590	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1156785	74201	phylum	Verrucomicrobia	9	8	4	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1996909	2	superkingdom	Bacteria	3	3	2	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1825671	74201	phylum	Verrucomicrobia	3	2	2	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1442717	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1622520	2	superkingdom	Bacteria	15	14	10	0.870	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_941235	74201	phylum	Verrucomicrobia	8	6	3	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2285706	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_270457	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_1780589	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1446306	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1111201	74201	phylum	Verrucomicrobia	5	2	1	0.520	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2458828	2	superkingdom	Bacteria	5	4	4	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1782416	74201	phylum	Verrucomicrobia	7	7	5	0.710	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_980152	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1147053	74201	phylum	Verrucomicrobia	4	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_980627	74201	phylum	Verrucomicrobia	5	4	2	0.660	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_980809	2	superkingdom	Bacteria	8	8	6	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_487758	186802	order	Eubacteriales	3	3	2	0.670	unknown;Firmicutes;uc_Eubacteriales	-_cellular organisms;d_Bacteria;-_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales
+k141_980888	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_137429	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_308471	74201	phylum	Verrucomicrobia	3	3	3	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1148951	1	no rank	root	5	5	5	1.000	unknown;unknown;unknown	-_root
+k141_138967	74201	phylum	Verrucomicrobia	4	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2679930	1	no rank	root	8	8	8	1.000	unknown;unknown;unknown	-_root
+k141_2172741	2	superkingdom	Bacteria	6	6	4	0.610	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_997077	74201	phylum	Verrucomicrobia	7	7	4	0.660	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1164433	2053607	species	Candidatus Rokubacteria bacterium	2	2	1	0.980	unknown;Candidatus Rokubacteria;unknown	-_cellular organisms;d_Bacteria;-_Bacteria incertae sedis;-_Bacteria candidate phyla;p_Candidatus Rokubacteria;-_unclassified Candidatus Rokubacteria;s_Candidatus Rokubacteria bacterium
+k141_998760	74201	phylum	Verrucomicrobia	2	2	1	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1500382	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1165910	2026799	species	Verrucomicrobia bacterium	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium
+k141_2006542	2	superkingdom	Bacteria	3	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_667267	74201	phylum	Verrucomicrobia	5	5	3	0.600	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1166611	2	superkingdom	Bacteria	8	8	7	0.880	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_565320	74201	phylum	Verrucomicrobia	7	7	4	0.780	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2583073	2026799	species	Verrucomicrobia bacterium	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium
+k141_1908504	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1908933	74201	phylum	Verrucomicrobia	6	6	3	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2246533	131567	no rank	cellular organisms	2	1	1	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_2416015	74201	phylum	Verrucomicrobia	4	4	3	0.750	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_732141	2	superkingdom	Bacteria	6	5	3	0.740	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2584845	2	superkingdom	Bacteria	7	6	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1238126	74201	phylum	Verrucomicrobia	7	7	4	0.660	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1238196	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2085756	2	superkingdom	Bacteria	6	6	5	0.830	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_410332	74201	phylum	Verrucomicrobia	8	8	6	0.980	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_410451	1	no rank	root	11	10	10	1.000	unknown;unknown;unknown	-_root
+k141_2591664	1	no rank	root	3	2	2	1.000	unknown;unknown;unknown	-_root
+k141_2086411	2	superkingdom	Bacteria	9	7	4	0.510	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_909709	74201	phylum	Verrucomicrobia	4	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1748911	74201	phylum	Verrucomicrobia	5	4	3	0.970	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1590430	74201	phylum	Verrucomicrobia	2	2	1	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_2593551	2	superkingdom	Bacteria	8	8	6	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1246422	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_840972	1	no rank	root	5	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2018669	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_1346045	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2355312	74201	phylum	Verrucomicrobia	5	3	2	0.670	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1178148	1802433	species	Verrucomicrobia bacterium RIFCSPHIGHO2_12_FULL_41_10	2	2	1	0.500	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium RIFCSPHIGHO2_12_FULL_41_10
+k141_2523806	690879	species	Terrimicrobium sacchariphilum	3	1	1	1.000	unknown;Verrucomicrobia;Terrimicrobiaceae	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;c_Terrimicrobia;o_Terrimicrobiales;f_Terrimicrobiaceae;g_Terrimicrobium;s_Terrimicrobium sacchariphilum
+k141_169446	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2356281	2	superkingdom	Bacteria	6	5	3	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_674744	74201	phylum	Verrucomicrobia	1	1	1	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_170379	74201	phylum	Verrucomicrobia	1	1	1	1.000	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1835818	2	superkingdom	Bacteria	3	3	3	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2516590	74201	phylum	Verrucomicrobia	5	4	2	0.500	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_825034	1	no rank	root	7	7	7	1.000	unknown;unknown;unknown	-_root
+k141_2686061	2026799	species	Verrucomicrobia bacterium	2	1	1	1.000	unknown;Verrucomicrobia;unknown	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia;-_unclassified Verrucomicrobia;s_Verrucomicrobia bacterium
+k141_157739	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2345244	74201	phylum	Verrucomicrobia	6	6	3	0.590	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_668702	356	order	Hyphomicrobiales	3	2	1	0.500	unknown;Proteobacteria;uc_Hyphomicrobiales	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Hyphomicrobiales
+k141_329270	2	superkingdom	Bacteria	5	4	3	0.980	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_329336	74201	phylum	Verrucomicrobia	4	4	3	0.980	unknown;Verrucomicrobia;uc_Verrucomicrobia	-_cellular organisms;d_Bacteria;-_PVC group;p_Verrucomicrobia
+k141_1503470	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

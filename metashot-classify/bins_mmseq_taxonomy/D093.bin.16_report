@@ -1,0 +1,125 @@
+0.3145	3	3	no rank	0	unclassified
+99.6855	951	82	no rank	1	root
+91.0901	869	2	no rank	131567	  cellular organisms
+90.7757	866	408	superkingdom	2	    Bacteria
+42.5577	406	233	phylum	57723	      Acidobacteria
+17.1908	164	70	no rank	305072	        unclassified Acidobacteria
+9.5388	91	91	species	1978231	          Acidobacteria bacterium
+0.1048	1	1	species	1660160	          Acidobacteria bacterium SCN 69-37
+0.1048	1	1	species	1803428	          Acidobacteria bacterium 13_1_20CM_2_65_9
+0.1048	1	1	species	1803456	          Acidobacteria bacterium 13_1_40CM_4_65_8
+0.3145	3	0	class	204432	        Acidobacteriia
+0.3145	3	0	order	204433	          Acidobacteriales
+0.3145	3	1	family	204434	            Acidobacteriaceae
+0.1048	1	0	genus	33973	              Acidobacterium
+0.1048	1	0	no rank	2625945	                unclassified Acidobacterium
+0.1048	1	1	species	1872119	                  Acidobacterium sp.
+0.1048	1	0	genus	388463	              Edaphobacter
+0.1048	1	1	species	2051959	                Edaphobacter lichenicola
+0.3145	3	0	class	1562566	        Blastocatellia
+0.3145	3	0	no rank	2052145	          unclassified Blastocatellia
+0.3145	3	3	species	2052146	            Blastocatellia bacterium
+0.3145	3	0	class	1813735	        Vicinamibacteria
+0.2096	2	0	order	2910145	          Vicinamibacterales
+0.2096	2	0	family	2211325	            Vicinamibacteraceae
+0.2096	2	1	genus	2004797	              Luteitalea
+0.1048	1	0	no rank	2626009	                unclassified Luteitalea
+0.1048	1	1	species	2004800	                  Luteitalea sp.
+0.1048	1	0	no rank	2793153	          unclassified Vicinamibacteria
+0.1048	1	1	species	2802971	            Vicinamibacteria bacterium TBR-22
+3.1447	30	13	phylum	1224	      Proteobacteria
+1.0482	10	5	class	1236	        Gammaproteobacteria
+0.2096	2	1	order	135614	          Xanthomonadales
+0.1048	1	0	family	32033	            Xanthomonadaceae
+0.1048	1	0	genus	40323	              Stenotrophomonas
+0.1048	1	0	no rank	196198	                unclassified Stenotrophomonas
+0.1048	1	1	species	69392	                  Stenotrophomonas sp.
+0.2096	2	0	order	1775403	          Nevskiales
+0.2096	2	0	family	2689614	            Steroidobacteraceae
+0.1048	1	1	genus	469322	              Steroidobacter
+0.1048	1	0	genus	1538468	              Povalibacter
+0.1048	1	1	species	732238	                Povalibacter uvarum
+0.1048	1	0	no rank	33811	          unclassified Gammaproteobacteria
+0.1048	1	1	species	1913989	            Gammaproteobacteria bacterium
+0.5241	5	2	class	28211	        Alphaproteobacteria
+0.1048	1	1	order	356	          Hyphomicrobiales
+0.1048	1	0	no rank	33807	          unclassified Alphaproteobacteria
+0.1048	1	1	species	1913988	            Alphaproteobacteria bacterium
+0.1048	1	0	order	204455	          Rhodobacterales
+0.1048	1	0	family	2854170	            Roseobacteraceae
+0.1048	1	0	genus	97050	              Ruegeria
+0.1048	1	1	species	1173585	                Ruegeria arenilitoris
+0.1048	1	0	class	28216	        Betaproteobacteria
+0.1048	1	1	order	80840	          Burkholderiales
+0.1048	1	0	no rank	81684	        unclassified Proteobacteria
+0.1048	1	1	species	1977087	          Proteobacteria bacterium
+1.0482	10	0	no rank	2323	      Bacteria incertae sedis
+1.0482	10	0	clade	1783234	        Bacteria candidate phyla
+0.9434	9	0	phylum	1752708	          Candidatus Rokubacteria
+0.9434	9	4	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.5241	5	5	species	2053607	              Candidatus Rokubacteria bacterium
+0.1048	1	0	phylum	1817801	          Candidatus Eisenbacteria
+0.1048	1	1	species	2212470	            Candidatus Eisenbacteria bacterium
+0.8386	8	1	clade	1783272	      Terrabacteria group
+0.4193	4	0	phylum	201174	        Actinobacteria
+0.2096	2	0	class	1760	          Actinomycetia
+0.2096	2	0	order	85008	            Micromonosporales
+0.2096	2	0	family	28056	              Micromonosporaceae
+0.1048	1	0	genus	1865	                Actinoplanes
+0.1048	1	1	species	135950	                  Actinoplanes nipponensis
+0.1048	1	0	genus	168694	                Salinispora
+0.1048	1	1	species	168695	                  Salinispora tropica
+0.2096	2	0	class	1497346	          Thermoleophilia
+0.2096	2	0	order	588673	            Solirubrobacterales
+0.2096	2	0	family	320599	              Solirubrobacteraceae
+0.2096	2	1	genus	207599	                Solirubrobacter
+0.1048	1	1	species	363832	                  Solirubrobacter soli
+0.2096	2	0	phylum	200795	        Chloroflexi
+0.1048	1	0	no rank	189774	          unclassified Chloroflexi
+0.1048	1	1	species	2026724	            Chloroflexi bacterium
+0.1048	1	0	class	292625	          Anaerolineae
+0.1048	1	0	no rank	1081798	            unclassified Anaerolineae
+0.1048	1	1	species	2052143	              Anaerolineae bacterium
+0.1048	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.1048	1	0	phylum	1117	          Cyanobacteria
+0.1048	1	0	order	1161	            Nostocales
+0.1048	1	0	family	119859	              Tolypothrichaceae
+0.1048	1	0	genus	111782	                Tolypothrix
+0.1048	1	0	species	1136105	                  Tolypothrix campylonemoides
+0.1048	1	1	strain	1245935	                    Tolypothrix campylonemoides VB511288
+0.2096	2	0	clade	1783270	      FCB group
+0.2096	2	0	phylum	142182	        Gemmatimonadetes
+0.2096	2	0	class	219685	          Gemmatimonadetes
+0.2096	2	0	order	219686	            Gemmatimonadales
+0.1048	1	0	family	219687	              Gemmatimonadaceae
+0.1048	1	0	no rank	246129	                environmental samples
+0.1048	1	1	species	246130	                  uncultured Gemmatimonadaceae bacterium
+0.1048	1	0	no rank	1951096	              unclassified Gemmatimonadales
+0.1048	1	1	species	2448054	                Gemmatimonadales bacterium
+0.1048	1	0	phylum	40117	      Nitrospirae
+0.1048	1	0	class	203693	        Nitrospira
+0.1048	1	0	order	189778	          Nitrospirales
+0.1048	1	0	family	189779	            Nitrospiraceae
+0.1048	1	0	genus	1234	              Nitrospira
+0.1048	1	0	no rank	2652172	                unclassified Nitrospira
+0.1048	1	1	species	1660252	                  Nitrospira sp. SCN 59-13
+0.1048	1	0	clade	1783257	      PVC group
+0.1048	1	1	phylum	203682	        Planctomycetes
+0.1048	1	0	superkingdom	2759	    Eukaryota
+0.1048	1	0	clade	33154	      Opisthokonta
+0.1048	1	0	kingdom	33208	        Metazoa
+0.1048	1	0	clade	6072	          Eumetazoa
+0.1048	1	0	clade	33213	            Bilateria
+0.1048	1	0	clade	33317	              Protostomia
+0.1048	1	0	clade	1206794	                Ecdysozoa
+0.1048	1	0	clade	88770	                  Panarthropoda
+0.1048	1	0	phylum	6656	                    Arthropoda
+0.1048	1	0	clade	197563	                      Mandibulata
+0.1048	1	0	clade	197562	                        Pancrustacea
+0.1048	1	0	subphylum	6960	                          Hexapoda
+0.1048	1	0	class	50557	                            Insecta
+0.1048	1	0	clade	85512	                              Dicondylia
+0.1048	1	0	subclass	7496	                                Pterygota
+0.1048	1	0	infraclass	33340	                                  Neoptera
+0.1048	1	0	cohort	33392	                                    Endopterygota
+0.1048	1	1	order	7147	                                      Diptera

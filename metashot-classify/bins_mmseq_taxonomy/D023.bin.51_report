@@ -1,0 +1,82 @@
+0.6557	2	2	no rank	0	unclassified
+99.3443	303	120	no rank	1	root
+60.0000	183	0	no rank	131567	  cellular organisms
+60.0000	183	61	superkingdom	2	    Bacteria
+37.0492	113	6	clade	1783272	      Terrabacteria group
+34.7541	106	36	phylum	201174	        Actinobacteria
+19.0164	58	25	class	1760	          Actinomycetia
+8.5246	26	0	no rank	52018	            unclassified Actinomycetia
+8.5246	26	26	species	1883427	              Actinomycetia bacterium
+0.6557	2	0	order	85009	            Propionibacteriales
+0.6557	2	0	family	85015	              Nocardioidaceae
+0.6557	2	1	genus	1839	                Nocardioides
+0.3279	1	1	species	2558918	                  Nocardioides cynanchi
+0.3279	1	0	order	85006	            Micrococcales
+0.3279	1	0	family	85023	              Microbacteriaceae
+0.3279	1	0	genus	1573	                Clavibacter
+0.3279	1	0	species	28447	                  Clavibacter michiganensis
+0.3279	1	1	subspecies	33013	                    Clavibacter michiganensis subsp. michiganensis
+0.3279	1	0	order	85007	            Corynebacteriales
+0.3279	1	0	family	1762	              Mycobacteriaceae
+0.3279	1	0	genus	1763	                Mycobacterium
+0.3279	1	1	no rank	2642494	                  unclassified Mycobacterium
+0.3279	1	0	order	85012	            Streptosporangiales
+0.3279	1	1	family	83676	              Nocardiopsaceae
+0.3279	1	0	order	85013	            Frankiales
+0.3279	1	0	family	74712	              Frankiaceae
+0.3279	1	1	genus	1854	                Frankia
+0.3279	1	0	order	2793120	            Motilibacterales
+0.3279	1	0	family	1433378	              Motilibacteraceae
+0.3279	1	0	genus	1434021	                Motilibacter
+0.3279	1	1	species	598650	                  Motilibacter peucedani
+2.9508	9	4	class	84992	          Acidimicrobiia
+1.6393	5	0	order	84993	            Acidimicrobiales
+0.9836	3	0	family	84994	              Acidimicrobiaceae
+0.9836	3	0	no rank	667305	                unclassified Acidimicrobiaceae
+0.9836	3	3	species	2024894	                  Acidimicrobiaceae bacterium
+0.3279	1	0	family	633392	              Iamiaceae
+0.3279	1	0	genus	2820403	                Rhabdothermincola
+0.3279	1	1	species	2751370	                  Rhabdothermincola sediminis
+0.3279	1	0	family	2448023	              Ilumatobacteraceae
+0.3279	1	0	genus	682522	                Ilumatobacter
+0.3279	1	1	species	467091	                  Ilumatobacter fluminis
+0.6557	2	0	class	908620	          Nitriliruptoria
+0.6557	2	0	order	596497	            Nitriliruptorales
+0.6557	2	0	family	596498	              Nitriliruptoraceae
+0.6557	2	0	genus	596499	                Nitriliruptor
+0.3279	1	1	species	427918	                  Nitriliruptor alkaliphilus
+0.3279	1	0	no rank	2624177	                  unclassified Nitriliruptor
+0.3279	1	1	species	2448056	                    Nitriliruptor sp.
+0.3279	1	0	class	1497346	          Thermoleophilia
+0.3279	1	0	order	588673	            Solirubrobacterales
+0.3279	1	0	no rank	1363568	              unclassified Solirubrobacterales
+0.3279	1	1	species	1909295	                Solirubrobacterales bacterium
+0.3279	1	0	phylum	200795	        Chloroflexi
+0.3279	1	1	no rank	189774	          unclassified Chloroflexi
+1.9672	6	0	phylum	1224	      Proteobacteria
+1.3115	4	0	subphylum	68525	        delta/epsilon subdivisions
+1.3115	4	1	class	28221	          Deltaproteobacteria
+0.6557	2	0	no rank	122706	            unclassified Deltaproteobacteria
+0.6557	2	2	species	2026735	              Deltaproteobacteria bacterium
+0.3279	1	0	order	29	            Myxococcales
+0.3279	1	0	suborder	224462	              Nannocystineae
+0.3279	1	0	family	224464	                Kofleriaceae
+0.3279	1	0	genus	162027	                  Haliangium
+0.3279	1	0	species	80816	                    Haliangium ochraceum
+0.3279	1	1	strain	502025	                      Haliangium ochraceum DSM 14365
+0.3279	1	1	class	1236	        Gammaproteobacteria
+0.3279	1	0	class	28211	        Alphaproteobacteria
+0.3279	1	0	no rank	33807	          unclassified Alphaproteobacteria
+0.3279	1	1	species	1913988	            Alphaproteobacteria bacterium
+0.6557	2	0	clade	1783270	      FCB group
+0.6557	2	0	phylum	142182	        Gemmatimonadetes
+0.3279	1	0	class	219685	          Gemmatimonadetes
+0.3279	1	0	order	219686	            Gemmatimonadales
+0.3279	1	0	family	219687	              Gemmatimonadaceae
+0.3279	1	0	genus	173479	                Gemmatimonas
+0.3279	1	0	no rank	2646123	                  unclassified Gemmatimonas
+0.3279	1	1	species	1703359	                    Gemmatimonas sp. SM23_52
+0.3279	1	0	no rank	234665	          unclassified Gemmatimonadetes
+0.3279	1	1	species	2026742	            Gemmatimonadetes bacterium
+0.3279	1	0	no rank	49928	      unclassified Bacteria
+0.3279	1	1	species	1866937	        bacterium ADurb.Bin374

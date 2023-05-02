@@ -1,0 +1,51 @@
+0.6734	2	2	no rank	0	unclassified
+99.3266	295	2	no rank	1	root
+98.6532	293	0	no rank	131567	  cellular organisms
+98.6532	293	208	superkingdom	2	    Bacteria
+23.9057	71	37	phylum	57723	      Acidobacteria
+11.4478	34	2	no rank	305072	        unclassified Acidobacteria
+10.7744	32	32	species	1978231	          Acidobacteria bacterium
+2.0202	6	2	phylum	1224	      Proteobacteria
+0.6734	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.6734	2	0	class	28221	          Deltaproteobacteria
+0.3367	1	0	order	29	            Myxococcales
+0.3367	1	0	suborder	80812	              Sorangiineae
+0.3367	1	0	family	49	                Polyangiaceae
+0.3367	1	0	genus	50	                  Chondromyces
+0.3367	1	0	species	51	                    Chondromyces apiculatus
+0.3367	1	1	strain	1192034	                      Chondromyces apiculatus DSM 436
+0.3367	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.3367	1	1	species	2026735	              Deltaproteobacteria bacterium
+0.3367	1	0	class	1236	        Gammaproteobacteria
+0.3367	1	0	no rank	118884	          Gammaproteobacteria incertae sedis
+0.3367	1	0	genus	2126330	            Candidatus Kentron
+0.3367	1	1	no rank	2643149	              unclassified Candidatus Kentron
+0.3367	1	1	class	28216	        Betaproteobacteria
+1.3468	4	0	clade	1783270	      FCB group
+1.3468	4	2	phylum	142182	        Gemmatimonadetes
+0.6734	2	0	class	219685	          Gemmatimonadetes
+0.6734	2	0	order	219686	            Gemmatimonadales
+0.3367	1	0	family	219687	              Gemmatimonadaceae
+0.3367	1	0	no rank	1387399	                unclassified Gemmatimonadaceae
+0.3367	1	1	species	2026741	                  Gemmatimonadaceae bacterium
+0.3367	1	0	no rank	1951096	              unclassified Gemmatimonadales
+0.3367	1	1	species	2448054	                Gemmatimonadales bacterium
+1.0101	3	0	clade	1783272	      Terrabacteria group
+0.6734	2	0	phylum	201174	        Actinobacteria
+0.3367	1	0	class	1760	          Actinomycetia
+0.3367	1	0	order	85010	            Pseudonocardiales
+0.3367	1	0	family	2070	              Pseudonocardiaceae
+0.3367	1	0	genus	1847	                Pseudonocardia
+0.3367	1	0	no rank	89271	                  environmental samples
+0.3367	1	1	species	211455	                    uncultured Pseudonocardia sp.
+0.3367	1	0	class	84995	          Rubrobacteria
+0.3367	1	0	order	84996	            Rubrobacterales
+0.3367	1	0	family	84997	              Rubrobacteraceae
+0.3367	1	0	no rank	1017353	                unclassified Rubrobacteraceae
+0.3367	1	1	species	2740537	                  Rubrobacteraceae bacterium
+0.3367	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.3367	1	1	phylum	1117	          Cyanobacteria
+0.3367	1	0	clade	1783257	      PVC group
+0.3367	1	0	phylum	203682	        Planctomycetes
+0.3367	1	0	no rank	473814	          unclassified Planctomycetes
+0.3367	1	1	species	2026780	            Planctomycetes bacterium

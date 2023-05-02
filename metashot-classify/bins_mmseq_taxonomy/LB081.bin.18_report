@@ -1,0 +1,43 @@
+0.3960	2	2	no rank	0	unclassified
+99.6040	503	11	no rank	1	root
+97.4257	492	1	no rank	131567	  cellular organisms
+97.2277	491	236	superkingdom	2	    Bacteria
+48.1188	243	1	clade	1783270	      FCB group
+47.7228	241	124	phylum	142182	        Gemmatimonadetes
+21.9802	111	0	class	219685	          Gemmatimonadetes
+21.9802	111	12	order	219686	            Gemmatimonadales
+18.8119	95	0	no rank	1951096	              unclassified Gemmatimonadales
+18.8119	95	95	species	2448054	                Gemmatimonadales bacterium
+0.7921	4	1	family	219687	              Gemmatimonadaceae
+0.3960	2	0	no rank	1387399	                unclassified Gemmatimonadaceae
+0.3960	2	2	species	2026741	                  Gemmatimonadaceae bacterium
+0.1980	1	0	genus	173479	                Gemmatimonas
+0.1980	1	0	no rank	2646123	                  unclassified Gemmatimonas
+0.1980	1	1	species	1962908	                    Gemmatimonas sp.
+1.1881	6	2	no rank	234665	          unclassified Gemmatimonadetes
+0.7921	4	4	species	2026742	            Gemmatimonadetes bacterium
+0.1980	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.1980	1	0	phylum	976	          Bacteroidetes
+0.1980	1	0	class	117743	            Flavobacteriia
+0.1980	1	0	order	200644	              Flavobacteriales
+0.1980	1	0	family	49546	                Flavobacteriaceae
+0.1980	1	1	genus	292691	                  Gramella
+1.5842	8	1	clade	1783272	      Terrabacteria group
+1.3861	7	1	phylum	201174	        Actinobacteria
+1.1881	6	2	class	1760	          Actinomycetia
+0.3960	2	0	order	85011	            Streptomycetales
+0.3960	2	0	family	2062	              Streptomycetaceae
+0.3960	2	2	genus	1883	                Streptomyces
+0.1980	1	0	order	85008	            Micromonosporales
+0.1980	1	1	family	28056	              Micromonosporaceae
+0.1980	1	0	order	85009	            Propionibacteriales
+0.1980	1	0	family	85015	              Nocardioidaceae
+0.1980	1	0	genus	1839	                Nocardioides
+0.1980	1	1	no rank	2615069	                  unclassified Nocardioides
+0.5941	3	0	phylum	57723	      Acidobacteria
+0.5941	3	0	no rank	305072	        unclassified Acidobacteria
+0.5941	3	3	species	1978231	          Acidobacteria bacterium
+0.1980	1	0	no rank	2323	      Bacteria incertae sedis
+0.1980	1	0	clade	1783234	        Bacteria candidate phyla
+0.1980	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.1980	1	1	no rank	2760815	            unclassified Candidatus Rokubacteria

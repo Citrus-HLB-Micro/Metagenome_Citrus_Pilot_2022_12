@@ -1,0 +1,19 @@
+0.9259	1	1	no rank	0	unclassified
+99.0741	107	11	no rank	1	root
+88.8889	96	0	no rank	131567	  cellular organisms
+88.8889	96	43	superkingdom	2	    Bacteria
+48.1481	52	1	clade	1783272	      Terrabacteria group
+45.3704	49	18	phylum	200795	        Chloroflexi
+25.9259	28	0	class	301297	          Dehalococcoidia
+25.9259	28	0	no rank	1318598	            unclassified Dehalococcoidia
+25.9259	28	28	species	2026734	              Dehalococcoidia bacterium
+2.7778	3	0	no rank	189774	          unclassified Chloroflexi
+2.7778	3	3	species	2026724	            Chloroflexi bacterium
+1.8519	2	0	phylum	201174	        Actinobacteria
+0.9259	1	0	class	1760	          Actinomycetia
+0.9259	1	0	order	85007	            Corynebacteriales
+0.9259	1	0	no rank	581186	              environmental samples
+0.9259	1	1	species	581187	                uncultured Corynebacteriales bacterium
+0.9259	1	0	no rank	1752188	          unclassified Actinobacteria
+0.9259	1	1	species	1797198	            Actinobacteria bacterium RBG_13_63_9
+0.9259	1	1	phylum	1224	      Proteobacteria

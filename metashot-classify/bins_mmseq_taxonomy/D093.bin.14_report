@@ -1,0 +1,99 @@
+0.1071	1	1	no rank	0	unclassified
+99.8929	933	66	no rank	1	root
+92.8266	867	2	no rank	131567	  cellular organisms
+92.5054	864	426	superkingdom	2	    Bacteria
+41.8630	391	179	phylum	57723	      Acidobacteria
+22.0557	206	72	no rank	305072	        unclassified Acidobacteria
+13.8116	129	129	species	1978231	          Acidobacteria bacterium
+0.2141	2	2	species	1660160	          Acidobacteria bacterium SCN 69-37
+0.1071	1	1	species	1797181	          Acidobacteria bacterium RIFCSPLOWO2_02_FULL_64_15
+0.1071	1	1	species	1797182	          Acidobacteria bacterium RIFCSPLOWO2_02_FULL_65_29
+0.1071	1	1	species	1797183	          Acidobacteria bacterium RIFCSPLOWO2_02_FULL_67_21
+0.5353	5	0	class	1813735	        Vicinamibacteria
+0.5353	5	0	order	2910145	          Vicinamibacterales
+0.5353	5	0	family	2211325	            Vicinamibacteraceae
+0.5353	5	0	genus	2004797	              Luteitalea
+0.5353	5	0	no rank	2626009	                unclassified Luteitalea
+0.5353	5	5	species	2004800	                  Luteitalea sp.
+0.1071	1	0	class	1562566	        Blastocatellia
+0.1071	1	0	no rank	2052145	          unclassified Blastocatellia
+0.1071	1	1	species	2052146	            Blastocatellia bacterium
+3.5332	33	16	phylum	1224	      Proteobacteria
+0.8565	8	3	class	1236	        Gammaproteobacteria
+0.4283	4	0	no rank	33811	          unclassified Gammaproteobacteria
+0.4283	4	4	species	1913989	            Gammaproteobacteria bacterium
+0.1071	1	0	order	135613	          Chromatiales
+0.1071	1	0	no rank	2576752	            unclassified Chromatiales
+0.1071	1	1	species	1934255	              Chromatiales bacterium USCg_Taylor
+0.5353	5	3	class	28211	        Alphaproteobacteria
+0.2141	2	1	order	356	          Hyphomicrobiales
+0.1071	1	0	family	255475	            Aurantimonadaceae
+0.1071	1	0	genus	414371	              Aureimonas
+0.1071	1	1	species	2027858	                Aureimonas endophytica
+0.3212	3	2	class	28216	        Betaproteobacteria
+0.1071	1	0	order	80840	          Burkholderiales
+0.1071	1	0	family	119060	            Burkholderiaceae
+0.1071	1	0	genus	1822464	              Paraburkholderia
+0.1071	1	1	species	2654982	                Paraburkholderia atlantica
+0.1071	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.1071	1	0	class	28221	          Deltaproteobacteria
+0.1071	1	0	order	213115	            Desulfovibrionales
+0.1071	1	0	family	194924	              Desulfovibrionaceae
+0.1071	1	0	genus	2794998	                Maridesulfovibrio
+0.1071	1	1	species	47157	                  Maridesulfovibrio bastinii
+0.5353	5	0	clade	1783272	      Terrabacteria group
+0.3212	3	0	phylum	201174	        Actinobacteria
+0.2141	2	1	class	1760	          Actinomycetia
+0.1071	1	0	order	85008	            Micromonosporales
+0.1071	1	0	family	28056	              Micromonosporaceae
+0.1071	1	0	genus	1538466	                Rhizocola
+0.1071	1	1	species	1392758	                  Rhizocola hellebori
+0.1071	1	0	class	1497346	          Thermoleophilia
+0.1071	1	0	no rank	1948762	            unclassified Thermoleophilia
+0.1071	1	1	species	2026888	              Thermoleophilia bacterium
+0.2141	2	0	phylum	200795	        Chloroflexi
+0.2141	2	0	no rank	189774	          unclassified Chloroflexi
+0.1071	1	1	species	1797658	            Chloroflexi bacterium RBG_16_64_32
+0.1071	1	1	species	2026724	            Chloroflexi bacterium
+0.4283	4	0	no rank	2323	      Bacteria incertae sedis
+0.4283	4	0	clade	1783234	        Bacteria candidate phyla
+0.4283	4	0	phylum	1752708	          Candidatus Rokubacteria
+0.4283	4	3	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.1071	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+0.2141	2	0	clade	1783257	      PVC group
+0.1071	1	0	phylum	74201	        Verrucomicrobia
+0.1071	1	0	class	203494	          Verrucomicrobiae
+0.1071	1	0	order	48461	            Verrucomicrobiales
+0.1071	1	0	family	134621	              Verrucomicrobia subdivision 3
+0.1071	1	0	no rank	1952929	                unclassified Verrucomicrobia subdivision 3
+0.1071	1	1	species	2052186	                  Verrucomicrobia subdivision 3 bacterium
+0.1071	1	0	phylum	203682	        Planctomycetes
+0.1071	1	0	class	203683	          Planctomycetia
+0.1071	1	0	order	2691356	            Isosphaerales
+0.1071	1	0	family	1763524	              Isosphaeraceae
+0.1071	1	0	genus	2680020	                Tautonia
+0.1071	1	1	species	2527974	                  Tautonia plasticadhaerens
+0.2141	2	0	clade	1783270	      FCB group
+0.1071	1	1	phylum	142182	        Gemmatimonadetes
+0.1071	1	0	phylum	1379697	        candidate division Zixibacteria
+0.1071	1	0	no rank	2751484	          unclassified candidate division Zixibacteria
+0.1071	1	1	species	1975520	            candidate division Zixibacteria bacterium CG_4_9_14_3_um_filter_46_8
+0.1071	1	0	no rank	48479	      environmental samples
+0.1071	1	1	species	698394	        uncultured bacterium 92
+0.1071	1	0	superkingdom	2759	    Eukaryota
+0.1071	1	0	clade	33154	      Opisthokonta
+0.1071	1	0	kingdom	33208	        Metazoa
+0.1071	1	0	clade	6072	          Eumetazoa
+0.1071	1	0	clade	33213	            Bilateria
+0.1071	1	0	clade	33317	              Protostomia
+0.1071	1	0	clade	1206794	                Ecdysozoa
+0.1071	1	0	phylum	6231	                  Nematoda
+0.1071	1	0	class	119089	                    Chromadorea
+0.1071	1	0	order	6236	                      Rhabditida
+0.1071	1	0	suborder	2301116	                        Rhabditina
+0.1071	1	0	infraorder	2301119	                          Rhabditomorpha
+0.1071	1	0	superfamily	55879	                            Rhabditoidea
+0.1071	1	0	family	6243	                              Rhabditidae
+0.1071	1	0	no rank	1839939	                                Rhabditidae incertae sedis
+0.1071	1	0	genus	55799	                                  Diploscapter
+0.1071	1	1	species	2018661	                                    Diploscapter pachys

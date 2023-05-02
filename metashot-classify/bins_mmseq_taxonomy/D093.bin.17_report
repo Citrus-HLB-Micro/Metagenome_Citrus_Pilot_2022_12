@@ -1,0 +1,52 @@
+0.1642	1	1	no rank	0	unclassified
+99.8358	608	13	no rank	1	root
+97.7011	595	3	no rank	131567	  cellular organisms
+97.2085	592	292	superkingdom	2	    Bacteria
+47.1264	287	241	phylum	57723	      Acidobacteria
+3.9409	24	3	no rank	305072	        unclassified Acidobacteria
+3.4483	21	21	species	1978231	          Acidobacteria bacterium
+3.4483	21	4	class	1562566	        Blastocatellia
+2.2989	14	0	no rank	2052145	          unclassified Blastocatellia
+1.8062	11	11	species	2052146	            Blastocatellia bacterium
+0.4926	3	3	species	2169413	            Blastocatellia bacterium AA13
+0.4926	3	0	order	1748771	          Blastocatellales
+0.4926	3	0	family	2048906	            Pyrinomonadaceae
+0.4926	3	0	no rank	2283091	              unclassified Pyrinomonadaceae
+0.4926	3	3	species	2283092	                Pyrinomonadaceae bacterium
+0.1642	1	0	class	204432	        Acidobacteriia
+0.1642	1	0	order	204433	          Acidobacteriales
+0.1642	1	0	family	204434	            Acidobacteriaceae
+0.1642	1	0	genus	940557	              Granulicella
+0.1642	1	1	species	940613	                Granulicella arctica
+0.8210	5	3	phylum	1224	      Proteobacteria
+0.1642	1	1	class	1236	        Gammaproteobacteria
+0.1642	1	0	class	28211	        Alphaproteobacteria
+0.1642	1	0	order	204458	          Caulobacterales
+0.1642	1	0	family	76892	            Caulobacteraceae
+0.1642	1	0	genus	20	              Phenylobacterium
+0.1642	1	1	species	284016	                Phenylobacterium zucineum
+0.8210	5	1	clade	1783272	      Terrabacteria group
+0.3284	2	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.3284	2	2	phylum	1117	          Cyanobacteria
+0.1642	1	0	phylum	200795	        Chloroflexi
+0.1642	1	0	class	32061	          Chloroflexia
+0.1642	1	0	order	32064	            Chloroflexales
+0.1642	1	0	suborder	1508594	              Chloroflexineae
+0.1642	1	0	family	104174	                Oscillochloridaceae
+0.1642	1	1	genus	1579476	                  Candidatus Chloroploca
+0.1642	1	0	phylum	201174	        Actinobacteria
+0.1642	1	0	class	1760	          Actinomycetia
+0.1642	1	0	order	85007	            Corynebacteriales
+0.1642	1	0	family	1762	              Mycobacteriaceae
+0.1642	1	0	genus	1763	                Mycobacterium
+0.1642	1	1	species	1783	                  Mycobacterium scrofulaceum
+0.4926	3	0	clade	1783257	      PVC group
+0.3284	2	1	phylum	74201	        Verrucomicrobia
+0.1642	1	0	no rank	417295	          unclassified Verrucomicrobia
+0.1642	1	1	species	2026799	            Verrucomicrobia bacterium
+0.1642	1	0	phylum	203682	        Planctomycetes
+0.1642	1	0	class	203683	          Planctomycetia
+0.1642	1	0	order	2691354	            Pirellulales
+0.1642	1	0	family	2691357	              Pirellulaceae
+0.1642	1	0	genus	2005380	                Mariniblastus
+0.1642	1	1	species	980251	                  Mariniblastus fucicola

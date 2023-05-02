@@ -1,0 +1,22 @@
+100.0000	385	35	no rank	1	root
+90.9091	350	1	no rank	131567	  cellular organisms
+90.6494	349	86	superkingdom	2	    Bacteria
+67.7922	261	16	clade	1783272	      Terrabacteria group
+63.3766	244	159	phylum	201174	        Actinobacteria
+21.8182	84	12	class	1760	          Actinomycetia
+18.7013	72	0	no rank	52018	            unclassified Actinomycetia
+18.7013	72	72	species	1883427	              Actinomycetia bacterium
+0.2597	1	0	no rank	1752188	          unclassified Actinobacteria
+0.2597	1	1	species	1803481	            Actinobacteria bacterium 13_1_20CM_4_69_9
+0.2597	1	0	phylum	200795	        Chloroflexi
+0.2597	1	0	class	189775	          Thermomicrobia
+0.2597	1	0	order	189776	            Thermomicrobiales
+0.2597	1	0	no rank	1382355	              unclassified Thermomicrobiales
+0.2597	1	1	species	2482790	                Thermomicrobiales bacterium
+0.2597	1	0	phylum	57723	      Acidobacteria
+0.2597	1	1	no rank	305072	        unclassified Acidobacteria
+0.2597	1	0	clade	1783270	      FCB group
+0.2597	1	0	phylum	142182	        Gemmatimonadetes
+0.2597	1	0	class	219685	          Gemmatimonadetes
+0.2597	1	0	order	219686	            Gemmatimonadales
+0.2597	1	1	family	219687	              Gemmatimonadaceae

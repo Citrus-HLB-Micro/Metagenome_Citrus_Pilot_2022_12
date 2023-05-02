@@ -1,0 +1,23 @@
+0.2041	1	1	no rank	0	unclassified
+99.7959	489	58	no rank	1	root
+87.9592	431	3	no rank	131567	  cellular organisms
+87.3469	428	177	superkingdom	2	    Bacteria
+50.6122	248	135	phylum	1224	      Proteobacteria
+22.6531	111	85	class	28211	        Alphaproteobacteria
+5.3061	26	24	order	356	          Hyphomicrobiales
+0.4082	2	0	no rank	41292	            unclassified Hyphomicrobiales
+0.4082	2	2	species	1909294	              Hyphomicrobiales bacterium
+0.4082	2	0	class	28216	        Betaproteobacteria
+0.2041	1	0	no rank	33809	          unclassified Betaproteobacteria
+0.2041	1	1	species	1797484	            Betaproteobacteria bacterium RIFCSPLOWO2_02_FULL_62_17
+0.2041	1	0	order	80840	          Burkholderiales
+0.2041	1	0	family	119060	            Burkholderiaceae
+0.2041	1	0	no rank	132490	              unclassified Burkholderiaceae
+0.2041	1	1	species	2030806	                Burkholderiaceae bacterium
+0.4082	2	1	phylum	57723	      Acidobacteria
+0.2041	1	1	no rank	305072	        unclassified Acidobacteria
+0.2041	1	0	no rank	2323	      Bacteria incertae sedis
+0.2041	1	0	clade	1783234	        Bacteria candidate phyla
+0.2041	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.2041	1	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.2041	1	1	species	2053607	              Candidatus Rokubacteria bacterium

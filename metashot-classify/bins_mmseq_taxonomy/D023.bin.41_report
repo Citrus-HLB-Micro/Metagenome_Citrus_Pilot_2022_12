@@ -1,0 +1,46 @@
+0.1919	1	1	no rank	0	unclassified
+99.8081	520	25	no rank	1	root
+95.0096	495	2	no rank	131567	  cellular organisms
+94.6257	493	269	superkingdom	2	    Bacteria
+40.1152	209	31	phylum	1224	      Proteobacteria
+32.2457	168	0	subphylum	68525	        delta/epsilon subdivisions
+32.2457	168	4	class	28221	          Deltaproteobacteria
+31.2860	163	58	no rank	122706	            unclassified Deltaproteobacteria
+20.1536	105	105	species	2026735	              Deltaproteobacteria bacterium
+0.1919	1	0	order	29	            Myxococcales
+0.1919	1	0	suborder	80812	              Sorangiineae
+0.1919	1	0	family	49	                Polyangiaceae
+0.1919	1	0	genus	55	                  Polyangium
+0.1919	1	1	species	889282	                    Polyangium spumosum
+1.5355	8	2	class	28211	        Alphaproteobacteria
+0.5758	3	1	order	356	          Hyphomicrobiales
+0.3839	2	0	family	41294	            Bradyrhizobiaceae
+0.3839	2	2	genus	374	              Bradyrhizobium
+0.3839	2	0	order	204441	          Rhodospirillales
+0.1919	1	0	family	41295	            Rhodospirillaceae
+0.1919	1	0	genus	1146845	              Dongia
+0.1919	1	0	no rank	2685593	                unclassified Dongia
+0.1919	1	1	species	1380391	                  Dongia sp. URHE0060
+0.1919	1	0	family	2066434	            Geminicoccaceae
+0.1919	1	0	no rank	2448051	              unclassified Geminicoccaceae
+0.1919	1	1	species	2448052	                Geminicoccaceae bacterium
+0.1919	1	0	no rank	33807	          unclassified Alphaproteobacteria
+0.1919	1	1	species	1913988	            Alphaproteobacteria bacterium
+0.1919	1	1	class	28216	        Betaproteobacteria
+0.1919	1	0	class	1553900	        Oligoflexia
+0.1919	1	0	order	213481	          Bdellovibrionales
+0.1919	1	1	no rank	404130	            unclassified Bdellovibrionales
+1.5355	8	0	clade	1783257	      PVC group
+1.5355	8	3	phylum	74201	        Verrucomicrobia
+0.9597	5	0	no rank	417295	          unclassified Verrucomicrobia
+0.9597	5	5	species	2026799	            Verrucomicrobia bacterium
+0.9597	5	2	phylum	57723	      Acidobacteria
+0.5758	3	0	no rank	305072	        unclassified Acidobacteria
+0.5758	3	3	species	1978231	          Acidobacteria bacterium
+0.3839	2	1	clade	1783272	      Terrabacteria group
+0.1919	1	0	phylum	1297	        Deinococcus-Thermus
+0.1919	1	0	class	188787	          Deinococci
+0.1919	1	0	order	2762275	            Trueperales
+0.1919	1	0	family	332247	              Trueperaceae
+0.1919	1	0	no rank	2026797	                unclassified Trueperaceae
+0.1919	1	1	species	2026798	                  Trueperaceae bacterium

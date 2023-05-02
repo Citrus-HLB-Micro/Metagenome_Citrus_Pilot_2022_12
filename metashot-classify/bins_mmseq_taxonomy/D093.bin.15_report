@@ -1,0 +1,97 @@
+1.3333	7	7	no rank	0	unclassified
+98.6667	518	55	no rank	1	root
+88.1905	463	5	no rank	131567	  cellular organisms
+87.2381	458	206	superkingdom	2	    Bacteria
+40.0000	210	78	phylum	57723	      Acidobacteria
+24.5714	129	49	no rank	305072	        unclassified Acidobacteria
+13.9048	73	73	species	1978231	          Acidobacteria bacterium
+0.5714	3	3	species	1797191	          Acidobacteria bacterium RIFCSPLOWO2_12_FULL_66_21
+0.1905	1	1	species	1797174	          Acidobacteria bacterium RBG_16_70_10
+0.1905	1	1	species	1797185	          Acidobacteria bacterium RIFCSPLOWO2_02_FULL_68_18
+0.1905	1	1	species	1803428	          Acidobacteria bacterium 13_1_20CM_2_65_9
+0.1905	1	1	species	1970485	          Acidobacteria bacterium 21-70-11
+0.1905	1	0	class	204432	        Acidobacteriia
+0.1905	1	0	no rank	2169411	          unclassified Acidobacteriia
+0.1905	1	1	species	2081523	            Acidobacteriia bacterium
+0.1905	1	0	class	1562566	        Blastocatellia
+0.1905	1	0	no rank	2052145	          unclassified Blastocatellia
+0.1905	1	1	species	2052146	            Blastocatellia bacterium
+0.1905	1	0	class	1813735	        Vicinamibacteria
+0.1905	1	0	order	2910145	          Vicinamibacterales
+0.1905	1	0	family	2211325	            Vicinamibacteraceae
+0.1905	1	0	genus	2004797	              Luteitalea
+0.1905	1	0	no rank	2626009	                unclassified Luteitalea
+0.1905	1	1	species	2004800	                  Luteitalea sp.
+5.5238	29	6	phylum	1224	      Proteobacteria
+1.9048	10	4	class	28211	        Alphaproteobacteria
+0.9524	5	1	order	356	          Hyphomicrobiales
+0.3810	2	2	family	45401	            Hyphomicrobiaceae
+0.1905	1	0	no rank	41292	            unclassified Hyphomicrobiales
+0.1905	1	1	species	1895816	              Rhizobiales bacterium 65-9
+0.1905	1	0	family	2831106	            Devosiaceae
+0.1905	1	0	genus	46913	              Devosia
+0.1905	1	0	no rank	196773	                unclassified Devosia
+0.1905	1	1	species	1380412	                  Devosia sp. DBB001
+0.1905	1	0	order	204441	          Rhodospirillales
+0.1905	1	1	family	433	            Acetobacteraceae
+0.9524	5	1	class	1236	        Gammaproteobacteria
+0.3810	2	0	no rank	33811	          unclassified Gammaproteobacteria
+0.3810	2	2	species	1913989	            Gammaproteobacteria bacterium
+0.3810	2	0	order	1775403	          Nevskiales
+0.3810	2	0	family	2689614	            Steroidobacteraceae
+0.3810	2	0	genus	1538468	              Povalibacter
+0.3810	2	2	species	732238	                Povalibacter uvarum
+0.9524	5	2	class	28216	        Betaproteobacteria
+0.3810	2	0	order	80840	          Burkholderiales
+0.1905	1	0	family	75682	            Oxalobacteraceae
+0.1905	1	0	no rank	119059	              unclassified Oxalobacteraceae
+0.1905	1	1	species	1871070	                Oxalobacteraceae bacterium
+0.1905	1	0	no rank	224471	            Burkholderiales genera incertae sedis
+0.1905	1	0	genus	92793	              Aquabacterium
+0.1905	1	1	species	2315841	                Aquabacterium tepidiphilum
+0.1905	1	0	no rank	33809	          unclassified Betaproteobacteria
+0.1905	1	1	species	1891241	            Betaproteobacteria bacterium
+0.3810	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.3810	2	0	class	28221	          Deltaproteobacteria
+0.1905	1	0	order	29	            Myxococcales
+0.1905	1	0	suborder	80812	              Sorangiineae
+0.1905	1	0	family	49	                Polyangiaceae
+0.1905	1	0	no rank	80814	                  unclassified Polyangiaceae
+0.1905	1	1	species	2268199	                    Polyangiaceae bacterium
+0.1905	1	0	order	69541	            Desulfuromonadales
+0.1905	1	0	family	2812024	              Syntrophotaleaceae
+0.1905	1	0	genus	2812025	                Syntrophotalea
+0.1905	1	1	species	29542	                  Syntrophotalea acetylenica
+0.1905	1	0	no rank	81684	        unclassified Proteobacteria
+0.1905	1	1	species	1977087	          Proteobacteria bacterium
+0.7619	4	0	no rank	2323	      Bacteria incertae sedis
+0.7619	4	0	clade	1783234	        Bacteria candidate phyla
+0.5714	3	0	phylum	1752708	          Candidatus Rokubacteria
+0.5714	3	2	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.1905	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+0.1905	1	0	phylum	67817	          Candidatus Aminicenantes
+0.1905	1	0	no rank	910038	            unclassified Aminicenantes
+0.1905	1	1	species	2052149	              Candidatus Aminicenantes bacterium
+0.7619	4	0	clade	1783257	      PVC group
+0.5714	3	0	phylum	203682	        Planctomycetes
+0.3810	2	0	class	666505	          Phycisphaerae
+0.3810	2	0	no rank	1546154	            unclassified Phycisphaerae
+0.3810	2	2	species	2026778	              Phycisphaerae bacterium
+0.1905	1	0	no rank	473814	          unclassified Planctomycetes
+0.1905	1	1	species	2026780	            Planctomycetes bacterium
+0.1905	1	0	phylum	74201	        Verrucomicrobia
+0.1905	1	0	no rank	417295	          unclassified Verrucomicrobia
+0.1905	1	1	species	2026799	            Verrucomicrobia bacterium
+0.3810	2	0	no rank	48479	      environmental samples
+0.3810	2	2	species	77133	        uncultured bacterium
+0.3810	2	0	clade	1783270	      FCB group
+0.1905	1	1	clade	68336	        Bacteroidetes/Chlorobi group
+0.1905	1	1	phylum	142182	        Gemmatimonadetes
+0.1905	1	0	clade	1783272	      Terrabacteria group
+0.1905	1	0	phylum	201174	        Actinobacteria
+0.1905	1	0	class	1760	          Actinomycetia
+0.1905	1	0	order	85010	            Pseudonocardiales
+0.1905	1	0	family	2070	              Pseudonocardiaceae
+0.1905	1	0	genus	1851	                Saccharomonospora
+0.1905	1	0	no rank	2634184	                  unclassified Saccharomonospora
+0.1905	1	1	species	1642298	                    Saccharomonospora sp. NB11

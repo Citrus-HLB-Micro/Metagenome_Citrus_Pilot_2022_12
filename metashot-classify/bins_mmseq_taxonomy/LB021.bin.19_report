@@ -1,0 +1,21 @@
+100.0000	37	0	no rank	1	root
+100.0000	37	0	no rank	131567	  cellular organisms
+100.0000	37	12	superkingdom	2	    Bacteria
+62.1622	23	18	phylum	57723	      Acidobacteria
+10.8108	4	0	no rank	305072	        unclassified Acidobacteria
+10.8108	4	4	species	1978231	          Acidobacteria bacterium
+2.7027	1	0	class	204432	        Acidobacteriia
+2.7027	1	0	no rank	2169411	          unclassified Acidobacteriia
+2.7027	1	1	species	2169412	            Acidobacteriia bacterium AA117
+2.7027	1	0	phylum	1224	      Proteobacteria
+2.7027	1	0	class	28216	        Betaproteobacteria
+2.7027	1	0	order	80840	          Burkholderiales
+2.7027	1	0	family	75682	            Oxalobacteraceae
+2.7027	1	0	no rank	2895353	              Massilia group
+2.7027	1	0	genus	149698	                Massilia
+2.7027	1	0	no rank	2609279	                  unclassified Massilia
+2.7027	1	1	species	2079199	                    Massilia sp. Mn16-1_5
+2.7027	1	0	clade	1783272	      Terrabacteria group
+2.7027	1	0	phylum	1239	        Firmicutes
+2.7027	1	0	class	91061	          Bacilli
+2.7027	1	1	order	1385	            Bacillales

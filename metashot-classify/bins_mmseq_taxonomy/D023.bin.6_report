@@ -1,0 +1,50 @@
+0.6711	1	1	no rank	0	unclassified
+99.3289	148	34	no rank	1	root
+76.5101	114	1	no rank	131567	  cellular organisms
+75.8389	113	46	superkingdom	2	    Bacteria
+44.2953	66	10	phylum	1224	      Proteobacteria
+36.2416	54	16	class	28211	        Alphaproteobacteria
+24.8322	37	25	order	356	          Hyphomicrobiales
+3.3557	5	1	family	2831111	            Kaistiaceae
+2.6846	4	2	genus	1145345	              Bauldia
+1.3423	2	2	species	665467	                Bauldia litoralis
+1.3423	2	0	family	119045	            Methylobacteriaceae
+0.6711	1	1	genus	407	              Methylobacterium
+0.6711	1	0	genus	186650	              Microvirga
+0.6711	1	0	no rank	412391	                environmental samples
+0.6711	1	1	species	412392	                  uncultured Microvirga sp.
+0.6711	1	0	no rank	41292	            unclassified Hyphomicrobiales
+0.6711	1	1	species	1909294	              Hyphomicrobiales bacterium
+0.6711	1	0	family	41294	            Bradyrhizobiaceae
+0.6711	1	0	genus	374	              Bradyrhizobium
+0.6711	1	0	no rank	2631580	                unclassified Bradyrhizobium
+0.6711	1	1	species	376	                  Bradyrhizobium sp.
+0.6711	1	0	family	45401	            Hyphomicrobiaceae
+0.6711	1	0	genus	81894	              Prosthecomicrobium
+0.6711	1	1	species	81895	                Prosthecomicrobium pneumaticum
+0.6711	1	0	family	69277	            Phyllobacteriaceae
+0.6711	1	0	genus	68287	              Mesorhizobium
+0.6711	1	1	no rank	325217	                unclassified Mesorhizobium
+0.6711	1	0	family	82115	            Rhizobiaceae
+0.6711	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.6711	1	0	genus	357	                Agrobacterium
+0.6711	1	0	species group	1183400	                  Agrobacterium tumefaciens complex
+0.6711	1	1	species	358	                    Agrobacterium tumefaciens
+0.6711	1	0	order	204441	          Rhodospirillales
+0.6711	1	1	family	41295	            Rhodospirillaceae
+1.3423	2	0	class	28216	        Betaproteobacteria
+0.6711	1	0	no rank	33809	          unclassified Betaproteobacteria
+0.6711	1	1	species	1891241	            Betaproteobacteria bacterium
+0.6711	1	0	order	206389	          Rhodocyclales
+0.6711	1	0	family	2008794	            Zoogloeaceae
+0.6711	1	0	genus	33057	              Thauera
+0.6711	1	0	species	164330	                Thauera aminoaromatica
+0.6711	1	1	strain	1234381	                  Thauera aminoaromatica S2
+0.6711	1	0	clade	1783272	      Terrabacteria group
+0.6711	1	0	phylum	201174	        Actinobacteria
+0.6711	1	0	class	1760	          Actinomycetia
+0.6711	1	0	order	85009	            Propionibacteriales
+0.6711	1	0	family	85015	              Nocardioidaceae
+0.6711	1	0	genus	1839	                Nocardioides
+0.6711	1	0	no rank	2615069	                  unclassified Nocardioides
+0.6711	1	1	species	393303	                    Nocardioides sp. PD653

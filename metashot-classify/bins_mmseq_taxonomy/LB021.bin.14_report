@@ -1,0 +1,37 @@
+100.0000	157	51	no rank	1	root
+67.5159	106	0	no rank	131567	  cellular organisms
+66.8790	105	35	superkingdom	2	    Bacteria
+42.0382	66	14	phylum	1224	      Proteobacteria
+31.8471	50	27	class	28211	        Alphaproteobacteria
+12.7389	20	16	order	356	          Hyphomicrobiales
+0.6369	1	0	family	69277	            Phyllobacteriaceae
+0.6369	1	0	no rank	102274	              unclassified Phyllobacteriaceae
+0.6369	1	1	species	1871068	                Phyllobacteriaceae bacterium
+0.6369	1	0	family	82115	            Rhizobiaceae
+0.6369	1	0	no rank	227290	              Rhizobium/Agrobacterium group
+0.6369	1	0	genus	357	                Agrobacterium
+0.6369	1	0	species group	1183400	                  Agrobacterium tumefaciens complex
+0.6369	1	1	species	358	                    Agrobacterium tumefaciens
+0.6369	1	0	no rank	119042	            Hyphomicrobiales incertae sedis
+0.6369	1	0	genus	169055	              Nordella
+0.6369	1	1	no rank	2623691	                unclassified Nordella
+0.6369	1	0	family	2813035	            Parvibaculaceae
+0.6369	1	0	genus	444432	              Anderseniella
+0.6369	1	0	no rank	2614933	                unclassified Anderseniella
+0.6369	1	1	species	1872568	                  Anderseniella sp.
+1.2739	2	0	no rank	33807	          unclassified Alphaproteobacteria
+1.2739	2	2	species	1913988	            Alphaproteobacteria bacterium
+0.6369	1	0	order	1921002	          Holosporales
+0.6369	1	1	family	1777752	            Candidatus Paracaedibacteraceae
+0.6369	1	1	class	1236	        Gammaproteobacteria
+0.6369	1	0	no rank	81684	        unclassified Proteobacteria
+0.6369	1	1	species	1977087	          Proteobacteria bacterium
+1.9108	3	0	clade	1783272	      Terrabacteria group
+1.9108	3	2	phylum	201174	        Actinobacteria
+0.6369	1	0	class	1497346	          Thermoleophilia
+0.6369	1	1	order	588673	            Solirubrobacterales
+0.6369	1	0	clade	1783257	      PVC group
+0.6369	1	0	phylum	74201	        Verrucomicrobia
+0.6369	1	0	no rank	417295	          unclassified Verrucomicrobia
+0.6369	1	1	species	2026799	            Verrucomicrobia bacterium
+0.6369	1	1	superkingdom	2759	    Eukaryota

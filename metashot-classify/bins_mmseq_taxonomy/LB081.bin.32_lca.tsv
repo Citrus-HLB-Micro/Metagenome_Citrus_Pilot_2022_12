@@ -1,0 +1,50 @@
+k141_2779919	2	superkingdom	Bacteria	7	7	5	0.520	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_966439	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1785160	1224	phylum	Proteobacteria	5	5	4	0.680	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2802083	2	superkingdom	Bacteria	2	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1597567	2	superkingdom	Bacteria	7	7	5	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1386961	2	superkingdom	Bacteria	7	6	6	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2007580	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3015248	1117	phylum	Cyanobacteria	3	2	1	0.500	unknown;Cyanobacteria;uc_Cyanobacteria	-_cellular organisms;d_Bacteria;-_Terrabacteria group;-_Cyanobacteria/Melainabacteria group;p_Cyanobacteria
+k141_2414411	1	no rank	root	4	4	4	1.000	unknown;unknown;unknown	-_root
+k141_2415210	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_1814678	2	superkingdom	Bacteria	3	2	1	0.500	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_807776	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2623419	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1824064	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1827357	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1432683	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1232539	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3053125	1	no rank	root	2	2	2	1.000	unknown;unknown;unknown	-_root
+k141_638665	2	superkingdom	Bacteria	5	5	4	0.800	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_35478	360316	species	Crenothrix polyspora	1	1	1	1.000	unknown;Proteobacteria;Crenotrichaceae	-_cellular organisms;d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Methylococcales;f_Crenotrichaceae;g_Crenothrix;s_Crenothrix polyspora
+k141_2736685	1	no rank	root	4	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2141935	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2345670	1224	phylum	Proteobacteria	3	2	1	0.960	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2551970	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3158062	2	superkingdom	Bacteria	2	2	2	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2963998	2	superkingdom	Bacteria	6	6	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1959702	131567	no rank	cellular organisms	3	3	3	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_3174726	2	superkingdom	Bacteria	6	5	4	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_960917	1224	phylum	Proteobacteria	2	2	1	0.500	unknown;Proteobacteria;uc_Proteobacteria	-_cellular organisms;d_Bacteria;p_Proteobacteria
+k141_2976013	2	superkingdom	Bacteria	1	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_473461	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_1088279	2080755	species	Tautonia sociabilis	2	2	1	0.500	unknown;Planctomycetes;Isosphaeraceae	-_cellular organisms;d_Bacteria;-_PVC group;p_Planctomycetes;c_Planctomycetia;o_Isosphaerales;f_Isosphaeraceae;g_Tautonia;s_Tautonia sociabilis
+k141_891999	1	no rank	root	3	3	3	1.000	unknown;unknown;unknown	-_root
+k141_2505282	93171	genus	Candidatus Entotheonella	2	2	1	0.500	unknown;Candidatus Tectomicrobia;unknown	-_cellular organisms;d_Bacteria;-_Nitrospinae/Tectomicrobia group;p_Candidatus Tectomicrobia;g_Candidatus Entotheonella
+k141_88599	2	superkingdom	Bacteria	4	4	3	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1503865	1869227	species	bacterium	1	1	1	1.000	unknown;unknown;unknown	-_cellular organisms;d_Bacteria;-_unclassified Bacteria;s_bacterium
+k141_1707247	2	superkingdom	Bacteria	2	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1920756	2	superkingdom	Bacteria	7	7	6	0.990	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1116355	2	superkingdom	Bacteria	9	7	5	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_719141	1429438	species	Candidatus Entotheonella factor	2	1	1	1.000	unknown;Candidatus Tectomicrobia;unknown	-_cellular organisms;d_Bacteria;-_Nitrospinae/Tectomicrobia group;p_Candidatus Tectomicrobia;g_Candidatus Entotheonella;s_Candidatus Entotheonella factor
+k141_2859022	2	superkingdom	Bacteria	4	4	3	0.750	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_652617	2	superkingdom	Bacteria	3	1	1	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3073002	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_3079653	2	superkingdom	Bacteria	6	5	5	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1265404	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_460624	1	no rank	root	10	10	10	1.000	unknown;unknown;unknown	-_root
+k141_1070972	131567	no rank	cellular organisms	5	4	4	1.000	unknown;unknown;unknown	-_cellular organisms
+k141_264301	2	superkingdom	Bacteria	7	7	7	1.000	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_1883260	2	superkingdom	Bacteria	4	4	3	0.990	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria
+k141_2288435	2	superkingdom	Bacteria	4	3	2	0.670	uc_Bacteria;uc_Bacteria;uc_Bacteria	-_cellular organisms;d_Bacteria

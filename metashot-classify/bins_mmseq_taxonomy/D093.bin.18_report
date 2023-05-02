@@ -1,0 +1,89 @@
+0.7692	4	4	no rank	0	unclassified
+99.2308	516	75	no rank	1	root
+84.8077	441	1	no rank	131567	  cellular organisms
+84.6154	440	114	superkingdom	2	    Bacteria
+40.5769	211	5	clade	1783272	      Terrabacteria group
+38.8462	202	95	phylum	201174	        Actinobacteria
+17.1154	89	7	class	1497346	          Thermoleophilia
+15.1923	79	19	order	588673	            Solirubrobacterales
+10.5769	55	4	family	320599	              Solirubrobacteraceae
+9.8077	51	30	genus	207599	                Solirubrobacter
+2.1154	11	11	species	363832	                  Solirubrobacter soli
+1.3462	7	0	no rank	2640968	                  unclassified Solirubrobacter
+1.3462	7	7	species	1298857	                    Solirubrobacter sp. URHD0082
+0.5769	3	3	species	166793	                  Solirubrobacter pauli
+0.3846	2	0	family	320583	              Conexibacteraceae
+0.3846	2	0	genus	191494	                Conexibacter
+0.3846	2	1	species	191495	                  Conexibacter woesei
+0.1923	1	1	strain	469383	                    Conexibacter woesei DSM 14684
+0.3846	2	1	no rank	1363568	              unclassified Solirubrobacterales
+0.1923	1	1	species	1909295	                Solirubrobacterales bacterium
+0.1923	1	0	family	361606	              Patulibacteraceae
+0.1923	1	1	genus	361607	                Patulibacter
+0.3846	2	0	order	588674	            Thermoleophilales
+0.3846	2	0	family	320796	              Thermoleophilaceae
+0.3846	2	0	no rank	2732251	                unclassified Thermoleophilaceae
+0.3846	2	2	species	2732252	                  Thermoleophilaceae bacterium
+0.1923	1	0	no rank	1948762	            unclassified Thermoleophilia
+0.1923	1	1	species	2026888	              Thermoleophilia bacterium
+3.2692	17	11	class	1760	          Actinomycetia
+0.9615	5	0	no rank	52018	            unclassified Actinomycetia
+0.9615	5	5	species	1883427	              Actinomycetia bacterium
+0.1923	1	0	order	85009	            Propionibacteriales
+0.1923	1	0	family	31957	              Propionibacteriaceae
+0.1923	1	0	no rank	185283	                unclassified Propionibacteriaceae
+0.1923	1	1	species	2021380	                  Propionibacteriaceae bacterium
+0.1923	1	0	class	84995	          Rubrobacteria
+0.1923	1	0	order	84996	            Rubrobacterales
+0.1923	1	0	family	2600303	              Baekduiaceae
+0.1923	1	0	genus	2600304	                Baekduia
+0.1923	1	1	species	496014	                  Baekduia soli
+0.7692	4	1	phylum	200795	        Chloroflexi
+0.3846	2	0	no rank	189774	          unclassified Chloroflexi
+0.3846	2	2	species	2026724	            Chloroflexi bacterium
+0.1923	1	0	class	32061	          Chloroflexia
+0.1923	1	0	order	1508535	            Kallotenuales
+0.1923	1	0	family	1508536	              Kallotenuaceae
+0.1923	1	0	genus	1508537	                Kallotenue
+0.1923	1	0	no rank	1814213	                  unclassified Kallotenue
+0.1923	1	1	species	2592335	                    Kallotenue sp. CFH 73958
+16.3462	85	44	phylum	1224	      Proteobacteria
+7.1154	37	17	class	1236	        Gammaproteobacteria
+2.6923	14	7	no rank	33811	          unclassified Gammaproteobacteria
+1.3462	7	7	species	1913989	            Gammaproteobacteria bacterium
+0.5769	3	0	order	135613	          Chromatiales
+0.5769	3	2	family	1738654	            Woeseiaceae
+0.1923	1	0	genus	1738655	              Woeseia
+0.1923	1	1	species	1548547	                Woeseia oceani
+0.3846	2	0	order	1775403	          Nevskiales
+0.3846	2	0	family	2689614	            Steroidobacteraceae
+0.3846	2	0	genus	1538468	              Povalibacter
+0.3846	2	2	species	732238	                Povalibacter uvarum
+0.1923	1	0	order	72274	          Pseudomonadales
+0.1923	1	1	family	135621	            Pseudomonadaceae
+0.7692	4	0	class	28216	        Betaproteobacteria
+0.5769	3	1	no rank	33809	          unclassified Betaproteobacteria
+0.3846	2	2	species	1891241	            Betaproteobacteria bacterium
+0.1923	1	0	order	80840	          Burkholderiales
+0.1923	1	0	family	75682	            Oxalobacteraceae
+0.1923	1	0	genus	29580	              Janthinobacterium
+0.1923	1	1	species	29581	                Janthinobacterium lividum
+3.8462	20	2	phylum	57723	      Acidobacteria
+3.2692	17	5	no rank	305072	        unclassified Acidobacteria
+2.3077	12	12	species	1978231	          Acidobacteria bacterium
+0.1923	1	0	class	1562566	        Blastocatellia
+0.1923	1	1	genus	458032	          Chloracidobacterium
+1.5385	8	0	no rank	2323	      Bacteria incertae sedis
+1.5385	8	0	clade	1783234	        Bacteria candidate phyla
+1.5385	8	0	phylum	1752708	          Candidatus Rokubacteria
+1.5385	8	4	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.7692	4	4	species	2053607	              Candidatus Rokubacteria bacterium
+0.3846	2	0	clade	1783270	      FCB group
+0.1923	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.1923	1	0	phylum	976	          Bacteroidetes
+0.1923	1	0	class	768503	            Cytophagia
+0.1923	1	0	order	768507	              Cytophagales
+0.1923	1	1	family	89373	                Cytophagaceae
+0.1923	1	0	phylum	142182	        Gemmatimonadetes
+0.1923	1	0	no rank	234665	          unclassified Gemmatimonadetes
+0.1923	1	1	species	2026742	            Gemmatimonadetes bacterium

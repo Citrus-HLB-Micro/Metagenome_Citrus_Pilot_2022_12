@@ -1,0 +1,34 @@
+100.0000	327	14	no rank	1	root
+95.7187	313	1	no rank	131567	  cellular organisms
+95.4128	312	101	superkingdom	2	    Bacteria
+63.9144	209	16	clade	1783272	      Terrabacteria group
+54.4343	178	82	phylum	200795	        Chloroflexi
+29.3578	96	36	no rank	189774	          unclassified Chloroflexi
+18.0428	59	59	species	2026724	            Chloroflexi bacterium
+0.3058	1	1	species	1797661	            Chloroflexi bacterium RBG_16_69_14
+4.5872	15	6	phylum	201174	        Actinobacteria
+1.8349	6	2	class	1760	          Actinomycetia
+0.9174	3	0	no rank	52018	            unclassified Actinomycetia
+0.9174	3	3	species	1883427	              Actinomycetia bacterium
+0.3058	1	0	order	85010	            Pseudonocardiales
+0.3058	1	0	family	2070	              Pseudonocardiaceae
+0.3058	1	0	genus	695999	                Actinophytocola
+0.3058	1	0	no rank	2637483	                  unclassified Actinophytocola
+0.3058	1	1	species	1872138	                    Actinophytocola sp.
+0.6116	2	0	class	1497346	          Thermoleophilia
+0.6116	2	0	order	588673	            Solirubrobacterales
+0.6116	2	0	no rank	1363568	              unclassified Solirubrobacterales
+0.6116	2	2	species	1909295	                Solirubrobacterales bacterium
+0.3058	1	0	class	84992	          Acidimicrobiia
+0.3058	1	0	no rank	121036	            unclassified Acidimicrobiia
+0.3058	1	1	species	2080302	              Acidimicrobiia bacterium
+0.3058	1	0	no rank	2323	      Bacteria incertae sedis
+0.3058	1	0	clade	1783234	        Bacteria candidate phyla
+0.3058	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.3058	1	1	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.3058	1	0	clade	1783257	      PVC group
+0.3058	1	0	phylum	203682	        Planctomycetes
+0.3058	1	0	class	203683	          Planctomycetia
+0.3058	1	0	order	112	            Planctomycetales
+0.3058	1	0	no rank	466154	              unclassified Planctomycetales
+0.3058	1	1	species	2053591	                Planctomycetales bacterium

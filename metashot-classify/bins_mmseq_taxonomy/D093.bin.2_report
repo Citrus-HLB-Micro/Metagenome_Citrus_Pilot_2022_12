@@ -1,0 +1,126 @@
+0.5355	4	4	no rank	0	unclassified
+99.4645	743	145	no rank	1	root
+80.0535	598	4	no rank	131567	  cellular organisms
+79.1165	591	237	superkingdom	2	    Bacteria
+43.6412	326	156	phylum	1224	      Proteobacteria
+15.7965	118	55	class	28216	        Betaproteobacteria
+6.6934	50	32	no rank	33809	          unclassified Betaproteobacteria
+2.0080	15	15	species	1891241	            Betaproteobacteria bacterium
+0.1339	1	1	species	1797501	            Betaproteobacteria bacterium RIFCSPLOWO2_12_FULL_65_14
+0.1339	1	1	species	1797505	            Betaproteobacteria bacterium RIFCSPLOWO2_12_FULL_68_20
+0.1339	1	1	species	1799662	            Betaproteobacteria bacterium SCGC AG-212-J23
+1.4726	11	7	order	80840	          Burkholderiales
+0.2677	2	0	family	119060	            Burkholderiaceae
+0.2677	2	0	genus	32008	              Burkholderia
+0.1339	1	0	species group	87882	                Burkholderia cepacia complex
+0.1339	1	0	species	152480	                  Burkholderia ambifaria
+0.1339	1	1	strain	396596	                    Burkholderia ambifaria IOP40-10
+0.1339	1	1	species group	111527	                pseudomallei group
+0.1339	1	1	family	75682	            Oxalobacteraceae
+0.1339	1	0	family	80864	            Comamonadaceae
+0.1339	1	0	genus	47420	              Hydrogenophaga
+0.1339	1	0	no rank	2610897	                unclassified Hydrogenophaga
+0.1339	1	1	species	1437444	                  Hydrogenophaga sp. T4
+0.1339	1	0	order	206351	          Neisseriales
+0.1339	1	0	family	1499392	            Chromobacteriaceae
+0.1339	1	1	genus	885864	              Jeongeupia
+0.1339	1	0	order	206389	          Rhodocyclales
+0.1339	1	1	no rank	451256	            unclassified Rhodocyclales
+3.8822	29	16	class	28211	        Alphaproteobacteria
+0.6693	5	3	order	356	          Hyphomicrobiales
+0.1339	1	0	family	45401	            Hyphomicrobiaceae
+0.1339	1	0	genus	81	              Hyphomicrobium
+0.1339	1	0	no rank	2619925	                unclassified Hyphomicrobium
+0.1339	1	1	species	82	                  Hyphomicrobium sp.
+0.1339	1	0	family	118882	            Brucellaceae
+0.1339	1	0	no rank	2826938	              Brucella/Ochrobactrum group
+0.1339	1	1	genus	234	                Brucella
+0.6693	5	1	order	204441	          Rhodospirillales
+0.2677	2	1	family	41295	            Rhodospirillaceae
+0.1339	1	0	no rank	41296	              unclassified Rhodospirillaceae
+0.1339	1	1	species	1898112	                Rhodospirillaceae bacterium
+0.1339	1	0	family	433	            Acetobacteraceae
+0.1339	1	0	genus	512381	              Acidisoma
+0.1339	1	1	no rank	2634065	                unclassified Acidisoma
+0.1339	1	0	family	2066434	            Geminicoccaceae
+0.1339	1	0	genus	489140	              Geminicoccus
+0.1339	1	1	species	404900	                Geminicoccus roseus
+0.4016	3	0	no rank	33807	          unclassified Alphaproteobacteria
+0.2677	2	2	species	1913988	            Alphaproteobacteria bacterium
+0.1339	1	1	species	1852791	            Alphaproteobacteria bacterium ADurb.Bin100
+2.9451	22	7	class	1236	        Gammaproteobacteria
+1.0710	8	4	no rank	33811	          unclassified Gammaproteobacteria
+0.5355	4	4	species	1913989	            Gammaproteobacteria bacterium
+0.5355	4	1	order	135614	          Xanthomonadales
+0.2677	2	0	no rank	451320	            unclassified Xanthomonadales
+0.2677	2	2	species	2006849	              Xanthomonadales bacterium
+0.1339	1	0	family	32033	            Xanthomonadaceae
+0.1339	1	0	no rank	57609	              unclassified Xanthomonadaceae
+0.1339	1	1	species	1926873	                Xanthomonadaceae bacterium
+0.1339	1	0	order	72273	          Thiotrichales
+0.1339	1	0	family	135617	            Thiotrichaceae
+0.1339	1	0	genus	90372	              Thiomargarita
+0.1339	1	1	species	1003181	                Candidatus Thiomargarita nelsonii
+0.1339	1	0	order	135613	          Chromatiales
+0.1339	1	0	family	72276	            Ectothiorhodospiraceae
+0.1339	1	1	genus	106633	              Thioalkalivibrio
+0.1339	1	1	order	1775403	          Nevskiales
+0.1339	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.1339	1	0	class	28221	          Deltaproteobacteria
+0.1339	1	1	order	213118	            Desulfobacterales
+1.3387	10	0	no rank	2323	      Bacteria incertae sedis
+1.3387	10	0	clade	1783234	        Bacteria candidate phyla
+1.3387	10	0	phylum	1752708	          Candidatus Rokubacteria
+1.3387	10	2	no rank	2760815	            unclassified Candidatus Rokubacteria
+1.0710	8	8	species	2053607	              Candidatus Rokubacteria bacterium
+1.2048	9	2	clade	1783272	      Terrabacteria group
+0.8032	6	2	phylum	201174	        Actinobacteria
+0.5355	4	0	class	1497346	          Thermoleophilia
+0.5355	4	1	order	588673	            Solirubrobacterales
+0.2677	2	0	no rank	1363568	              unclassified Solirubrobacterales
+0.1339	1	1	species	1895833	                Solirubrobacterales bacterium 70-9
+0.1339	1	1	species	1909295	                Solirubrobacterales bacterium
+0.1339	1	0	family	320599	              Solirubrobacteraceae
+0.1339	1	1	genus	207599	                Solirubrobacter
+0.1339	1	0	no rank	1859062	        unclassified Terrabacteria group
+0.1339	1	1	species	2569760	          Terrabacteria group bacterium ANGP1
+1.0710	8	2	phylum	57723	      Acidobacteria
+0.6693	5	0	no rank	305072	        unclassified Acidobacteria
+0.6693	5	5	species	1978231	          Acidobacteria bacterium
+0.1339	1	0	class	204432	        Acidobacteriia
+0.1339	1	0	no rank	2169411	          unclassified Acidobacteriia
+0.1339	1	1	species	2081523	            Acidobacteriia bacterium
+0.1339	1	0	no rank	48479	      environmental samples
+0.1339	1	1	species	77133	        uncultured bacterium
+0.2677	2	0	superkingdom	2759	    Eukaryota
+0.1339	1	0	kingdom	33090	      Viridiplantae
+0.1339	1	0	phylum	35493	        Streptophyta
+0.1339	1	0	subphylum	131221	          Streptophytina
+0.1339	1	0	clade	3193	            Embryophyta
+0.1339	1	0	clade	58023	              Tracheophyta
+0.1339	1	0	clade	78536	                Euphyllophyta
+0.1339	1	0	clade	58024	                  Spermatophyta
+0.1339	1	0	class	3398	                    Magnoliopsida
+0.1339	1	0	clade	1437183	                      Mesangiospermae
+0.1339	1	0	clade	71240	                        eudicotyledons
+0.1339	1	0	clade	91827	                          Gunneridae
+0.1339	1	0	clade	1437201	                            Pentapetalae
+0.1339	1	0	clade	71275	                              rosids
+0.1339	1	0	clade	91835	                                fabids
+0.1339	1	0	order	3646	                                  Malpighiales
+0.1339	1	0	family	3977	                                    Euphorbiaceae
+0.1339	1	0	subfamily	235629	                                      Acalyphoideae
+0.1339	1	0	tribe	235880	                                        Acalypheae
+0.1339	1	0	genus	3987	                                          Ricinus
+0.1339	1	1	species	3988	                                            Ricinus communis
+0.1339	1	0	clade	2698737	      Sar
+0.1339	1	0	clade	33630	        Alveolata
+0.1339	1	0	class	2864	          Dinophyceae
+0.1339	1	0	order	89954	            Suessiales
+0.1339	1	0	family	252141	              Symbiodiniaceae
+0.1339	1	0	genus	2949	                Symbiodinium
+0.1339	1	1	species	1628268	                  Symbiodinium necroappetens
+0.1339	1	0	superkingdom	2157	    Archaea
+0.1339	1	0	phylum	28890	      Euryarchaeota
+0.1339	1	0	no rank	115531	        unclassified Euryarchaeota
+0.1339	1	1	species	2026739	          Euryarchaeota archaeon

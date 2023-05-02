@@ -1,0 +1,97 @@
+0.4040	2	2	no rank	0	unclassified
+99.5960	493	47	no rank	1	root
+90.1010	446	2	no rank	131567	  cellular organisms
+89.4949	443	215	superkingdom	2	    Bacteria
+39.5960	196	5	clade	1783257	      PVC group
+38.1818	189	168	phylum	74201	        Verrucomicrobia
+2.6263	13	3	no rank	417295	          unclassified Verrucomicrobia
+1.2121	6	6	species	2026799	            Verrucomicrobia bacterium
+0.2020	1	1	species	1799654	            Verrucomicrobia bacterium SCGC AG-212-E04
+0.2020	1	1	species	1802433	            Verrucomicrobia bacterium RIFCSPHIGHO2_12_FULL_41_10
+0.2020	1	1	species	1895866	            Verrucomicrobia bacterium 61-8
+0.2020	1	1	species	1982333	            Verrucomicrobia bacterium Tous-C9LFEB
+0.8081	4	1	class	134549	          Spartobacteria
+0.4040	2	1	order	1836787	            Chthoniobacterales
+0.2020	1	0	no rank	1918599	              unclassified Chthoniobacterales
+0.2020	1	1	species	2201154	                Chthoniobacterales bacterium
+0.2020	1	0	no rank	320756	            unclassified Spartobacteria
+0.2020	1	1	species	1982327	              Spartobacteria bacterium Tous-C9RFEB
+0.6061	3	0	class	203494	          Verrucomicrobiae
+0.6061	3	2	order	48461	            Verrucomicrobiales
+0.2020	1	0	no rank	388747	              unclassified Verrucomicrobiales
+0.2020	1	1	species	2026801	                Verrucomicrobiales bacterium
+0.2020	1	0	class	2762271	          Terrimicrobia
+0.2020	1	0	order	2762272	            Terrimicrobiales
+0.2020	1	0	family	2762316	              Terrimicrobiaceae
+0.2020	1	0	genus	1649503	                Terrimicrobium
+0.2020	1	1	species	690879	                  Terrimicrobium sacchariphilum
+0.4040	2	0	phylum	203682	        Planctomycetes
+0.4040	2	0	no rank	473814	          unclassified Planctomycetes
+0.2020	1	1	species	1801964	            Planctomycetes bacterium RBG_13_62_9
+0.2020	1	1	species	2527975	            Planctomycetes bacterium Pan216
+2.6263	13	6	phylum	1224	      Proteobacteria
+0.8081	4	2	class	28211	        Alphaproteobacteria
+0.4040	2	2	order	356	          Hyphomicrobiales
+0.4040	2	0	class	28216	        Betaproteobacteria
+0.2020	1	0	order	80840	          Burkholderiales
+0.2020	1	0	family	506	            Alcaligenaceae
+0.2020	1	1	genus	152267	              Pigmentiphaga
+0.2020	1	0	no rank	119066	          Betaproteobacteria incertae sedis
+0.2020	1	0	genus	327159	            Candidatus Accumulibacter
+0.2020	1	1	species	327160	              Candidatus Accumulibacter phosphatis
+0.2020	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.2020	1	0	class	28221	          Deltaproteobacteria
+0.2020	1	0	no rank	122706	            unclassified Deltaproteobacteria
+0.2020	1	1	species	2026735	              Deltaproteobacteria bacterium
+1.4141	7	2	clade	1783272	      Terrabacteria group
+0.6061	3	0	phylum	201174	        Actinobacteria
+0.6061	3	1	class	1760	          Actinomycetia
+0.2020	1	0	order	85008	            Micromonosporales
+0.2020	1	0	family	28056	              Micromonosporaceae
+0.2020	1	0	genus	1865	                Actinoplanes
+0.2020	1	1	species	113567	                  Actinoplanes italicus
+0.2020	1	0	order	85012	            Streptosporangiales
+0.2020	1	0	family	2012	              Thermomonosporaceae
+0.2020	1	0	genus	1988	                Actinomadura
+0.2020	1	0	no rank	2626254	                  unclassified Actinomadura
+0.2020	1	1	species	2530369	                    Actinomadura sp. KC06
+0.2020	1	0	phylum	1239	        Firmicutes
+0.2020	1	0	class	186801	          Clostridia
+0.2020	1	1	order	186802	            Eubacteriales
+0.2020	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+0.2020	1	1	phylum	1117	          Cyanobacteria
+1.0101	5	0	phylum	57723	      Acidobacteria
+0.8081	4	0	no rank	305072	        unclassified Acidobacteria
+0.8081	4	4	species	1978231	          Acidobacteria bacterium
+0.2020	1	0	class	204432	        Acidobacteriia
+0.2020	1	0	order	204433	          Acidobacteriales
+0.2020	1	0	family	204434	            Acidobacteriaceae
+0.2020	1	0	genus	1775468	              Silvibacterium
+0.2020	1	1	species	1577686	                Silvibacterium bohemicum
+0.6061	3	0	clade	1783270	      FCB group
+0.4040	2	0	phylum	142182	        Gemmatimonadetes
+0.4040	2	0	class	219685	          Gemmatimonadetes
+0.4040	2	0	order	219686	            Gemmatimonadales
+0.4040	2	0	no rank	1951096	              unclassified Gemmatimonadales
+0.4040	2	2	species	2448054	                Gemmatimonadales bacterium
+0.2020	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.2020	1	1	phylum	976	          Bacteroidetes
+0.4040	2	1	phylum	40117	      Nitrospirae
+0.2020	1	0	class	203693	        Nitrospira
+0.2020	1	0	order	189778	          Nitrospirales
+0.2020	1	0	family	189779	            Nitrospiraceae
+0.2020	1	0	genus	1234	              Nitrospira
+0.2020	1	1	species	1742973	                Candidatus Nitrospira nitrificans
+0.2020	1	0	no rank	2323	      Bacteria incertae sedis
+0.2020	1	0	clade	1783234	        Bacteria candidate phyla
+0.2020	1	0	phylum	1752708	          Candidatus Rokubacteria
+0.2020	1	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+0.2020	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+0.2020	1	0	no rank	49928	      unclassified Bacteria
+0.2020	1	1	species	1869227	        bacterium
+0.2020	1	0	superkingdom	2157	    Archaea
+0.2020	1	0	phylum	2283796	      Candidatus Thermoplasmatota
+0.2020	1	0	class	183967	        Thermoplasmata
+0.2020	1	0	order	1235850	          Methanomassiliicoccales
+0.2020	1	0	no rank	1577790	            unclassified Methanomassiliicoccales
+0.2020	1	1	species	1811728	              Methanomassiliicoccales archaeon PtaB.Bin215

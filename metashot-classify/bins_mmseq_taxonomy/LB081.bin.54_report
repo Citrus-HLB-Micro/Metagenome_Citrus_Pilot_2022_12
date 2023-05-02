@@ -1,0 +1,52 @@
+100.0000	811	18	no rank	1	root
+97.7805	793	2	no rank	131567	  cellular organisms
+97.5339	791	433	superkingdom	2	    Bacteria
+42.6634	346	1	clade	1783270	      FCB group
+42.4168	344	188	phylum	142182	        Gemmatimonadetes
+18.4957	150	0	class	219685	          Gemmatimonadetes
+18.4957	150	19	order	219686	            Gemmatimonadales
+16.0296	130	0	no rank	1951096	              unclassified Gemmatimonadales
+16.0296	130	130	species	2448054	                Gemmatimonadales bacterium
+0.1233	1	0	family	219687	              Gemmatimonadaceae
+0.1233	1	0	no rank	1387399	                unclassified Gemmatimonadaceae
+0.1233	1	1	species	2026741	                  Gemmatimonadaceae bacterium
+0.6165	5	0	no rank	234665	          unclassified Gemmatimonadetes
+0.6165	5	5	species	2026742	            Gemmatimonadetes bacterium
+0.1233	1	0	no rank	142185	          environmental samples
+0.1233	1	1	species	203437	            uncultured Gemmatimonadetes bacterium
+0.1233	1	0	clade	68336	        Bacteroidetes/Chlorobi group
+0.1233	1	0	phylum	976	          Bacteroidetes
+0.1233	1	0	order	1100069	            Bacteroidetes Order II. Incertae sedis
+0.1233	1	0	family	563843	              Rhodothermaceae
+0.1233	1	0	no rank	1196022	                unclassified Rhodothermaceae
+0.1233	1	1	species	2026787	                  Rhodothermaceae bacterium
+0.6165	5	0	clade	1783272	      Terrabacteria group
+0.4932	4	2	phylum	201174	        Actinobacteria
+0.2466	2	1	class	1760	          Actinomycetia
+0.1233	1	0	order	85011	            Streptomycetales
+0.1233	1	0	family	2062	              Streptomycetaceae
+0.1233	1	1	genus	1883	                Streptomyces
+0.1233	1	1	phylum	200795	        Chloroflexi
+0.3699	3	1	phylum	1224	      Proteobacteria
+0.1233	1	0	class	1236	        Gammaproteobacteria
+0.1233	1	0	order	2887326	          Moraxellales
+0.1233	1	0	family	468	            Moraxellaceae
+0.1233	1	1	genus	469	              Acinetobacter
+0.1233	1	0	class	28211	        Alphaproteobacteria
+0.1233	1	0	order	356	          Hyphomicrobiales
+0.1233	1	0	family	45401	            Hyphomicrobiaceae
+0.1233	1	0	genus	81	              Hyphomicrobium
+0.1233	1	0	no rank	2619925	                unclassified Hyphomicrobium
+0.1233	1	1	species	82	                  Hyphomicrobium sp.
+0.2466	2	1	phylum	57723	      Acidobacteria
+0.1233	1	0	no rank	305072	        unclassified Acidobacteria
+0.1233	1	1	species	1978231	          Acidobacteria bacterium
+0.1233	1	0	phylum	40117	      Nitrospirae
+0.1233	1	0	class	203693	        Nitrospira
+0.1233	1	0	order	189778	          Nitrospirales
+0.1233	1	0	family	189779	            Nitrospiraceae
+0.1233	1	0	genus	1234	              Nitrospira
+0.1233	1	0	no rank	2652172	                unclassified Nitrospira
+0.1233	1	1	species	70125	                  Nitrospira sp.
+0.1233	1	0	clade	1783257	      PVC group
+0.1233	1	1	phylum	2093358	        Candidatus Abyssubacteria

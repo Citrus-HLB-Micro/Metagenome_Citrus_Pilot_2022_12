@@ -1,0 +1,27 @@
+2.0000	1	1	no rank	0	unclassified
+98.0000	49	2	no rank	1	root
+92.0000	46	0	no rank	131567	  cellular organisms
+92.0000	46	15	superkingdom	2	    Bacteria
+60.0000	30	1	clade	1783272	      Terrabacteria group
+56.0000	28	2	phylum	201174	        Actinobacteria
+52.0000	26	22	class	1760	          Actinomycetia
+4.0000	2	0	no rank	52018	            unclassified Actinomycetia
+4.0000	2	2	species	1883427	              Actinomycetia bacterium
+2.0000	1	0	order	85008	            Micromonosporales
+2.0000	1	1	family	28056	              Micromonosporaceae
+2.0000	1	0	order	85011	            Streptomycetales
+2.0000	1	1	family	2062	              Streptomycetaceae
+2.0000	1	0	phylum	200795	        Chloroflexi
+2.0000	1	0	class	301297	          Dehalococcoidia
+2.0000	1	0	no rank	1318598	            unclassified Dehalococcoidia
+2.0000	1	1	species	2026734	              Dehalococcoidia bacterium
+2.0000	1	0	no rank	48479	      environmental samples
+2.0000	1	1	species	77133	        uncultured bacterium
+2.0000	1	0	superkingdom	10239	  Viruses
+2.0000	1	0	clade	2731341	    Duplodnaviria
+2.0000	1	0	kingdom	2731360	      Heunggongvirae
+2.0000	1	0	phylum	2731618	        Uroviricota
+2.0000	1	0	class	2731619	          Caudoviricetes
+2.0000	1	0	order	28883	            Caudovirales
+2.0000	1	0	no rank	2100420	              environmental samples
+2.0000	1	1	species	2100421	                uncultured Caudovirales phage

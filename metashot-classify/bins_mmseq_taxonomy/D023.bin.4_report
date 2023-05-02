@@ -1,0 +1,24 @@
+0.4310	1	1	no rank	0	unclassified
+99.5690	231	38	no rank	1	root
+83.1897	193	0	no rank	131567	  cellular organisms
+83.1897	193	125	superkingdom	2	    Bacteria
+28.8793	67	10	clade	1783272	      Terrabacteria group
+23.7069	55	46	phylum	201174	        Actinobacteria
+3.4483	8	5	class	1760	          Actinomycetia
+1.2931	3	0	no rank	52018	            unclassified Actinomycetia
+1.2931	3	3	species	1883427	              Actinomycetia bacterium
+0.4310	1	0	class	1497346	          Thermoleophilia
+0.4310	1	1	order	588673	            Solirubrobacterales
+0.8621	2	0	phylum	1239	        Firmicutes
+0.4310	1	0	no rank	84086	          unclassified Firmicutes sensu stricto
+0.4310	1	1	species	1852895	            Firmicutes bacterium ADurb.Bin506
+0.4310	1	0	class	91061	          Bacilli
+0.4310	1	0	order	1385	            Bacillales
+0.4310	1	0	family	186817	              Bacillaceae
+0.4310	1	0	genus	2675230	                Cytobacillus
+0.4310	1	1	species	859143	                  Cytobacillus kochii
+0.4310	1	0	no rank	2323	      Bacteria incertae sedis
+0.4310	1	0	clade	1783234	        Bacteria candidate phyla
+0.4310	1	0	phylum	200295	          Candidatus Sumerlaeota
+0.4310	1	0	no rank	910027	            unclassified Candidatus Sumerlaeota
+0.4310	1	1	species	1852824	              candidate division BRC1 bacterium ADurb.BinA292

@@ -1,0 +1,77 @@
+0.3058	1	1	no rank	0	unclassified
+99.6942	326	68	no rank	1	root
+78.8991	258	6	no rank	131567	  cellular organisms
+76.4526	250	100	superkingdom	2	    Bacteria
+44.9541	147	68	phylum	1224	      Proteobacteria
+19.2661	63	36	class	28211	        Alphaproteobacteria
+3.9755	13	4	order	204441	          Rhodospirillales
+2.4465	8	1	family	41295	            Rhodospirillaceae
+1.8349	6	0	no rank	41296	              unclassified Rhodospirillaceae
+1.8349	6	6	species	1898112	                Rhodospirillaceae bacterium
+0.3058	1	0	genus	2605940	              Hwanghaeella
+0.3058	1	1	species	2500179	                Hwanghaeella grinnelliae
+0.3058	1	0	family	2829815	            Azospirillaceae
+0.3058	1	1	genus	204447	              Skermanella
+3.6697	12	7	order	356	          Hyphomicrobiales
+0.6116	2	1	family	45401	            Hyphomicrobiaceae
+0.3058	1	1	genus	1485594	              Methyloligella
+0.3058	1	0	no rank	41292	            unclassified Hyphomicrobiales
+0.3058	1	1	species	1909294	              Hyphomicrobiales bacterium
+0.3058	1	0	family	41294	            Bradyrhizobiaceae
+0.3058	1	0	no rank	81426	              unclassified Bradyrhizobiaceae
+0.3058	1	1	species	2072420	                Bradyrhizobiaceae bacterium
+0.3058	1	0	family	2831100	            Boseaceae
+0.3058	1	0	genus	85413	              Bosea
+0.3058	1	1	species	1036778	                Bosea lathyri
+0.3058	1	0	no rank	33807	          unclassified Alphaproteobacteria
+0.3058	1	1	species	1913988	            Alphaproteobacteria bacterium
+0.3058	1	0	order	204457	          Sphingomonadales
+0.3058	1	0	family	41297	            Sphingomonadaceae
+0.3058	1	0	genus	13687	              Sphingomonas
+0.3058	1	0	no rank	114554	                environmental samples
+0.3058	1	1	species	158754	                  uncultured Sphingomonas sp.
+3.6697	12	4	class	28216	        Betaproteobacteria
+1.5291	5	3	no rank	33809	          unclassified Betaproteobacteria
+0.6116	2	2	species	1891241	            Betaproteobacteria bacterium
+0.9174	3	2	order	80840	          Burkholderiales
+0.3058	1	0	family	119060	            Burkholderiaceae
+0.3058	1	0	genus	47670	              Lautropia
+0.3058	1	0	no rank	2626209	                unclassified Lautropia
+0.3058	1	1	species	2053568	                  Lautropia sp.
+0.6116	2	1	class	1236	        Gammaproteobacteria
+0.3058	1	0	order	135614	          Xanthomonadales
+0.3058	1	0	family	1775411	            Rhodanobacteraceae
+0.3058	1	0	genus	242605	              Luteibacter
+0.3058	1	0	no rank	2620188	                unclassified Luteibacter
+0.3058	1	1	species	2587031	                  Luteibacter sp. Sphag1AF
+0.6116	2	0	subphylum	68525	        delta/epsilon subdivisions
+0.6116	2	0	class	28221	          Deltaproteobacteria
+0.6116	2	0	order	29	            Myxococcales
+0.3058	1	0	suborder	80811	              Cystobacterineae
+0.3058	1	0	family	39	                Archangiaceae
+0.3058	1	0	genus	47	                  Archangium
+0.3058	1	1	species	83451	                    Archangium violaceum
+0.3058	1	0	suborder	80812	              Sorangiineae
+0.3058	1	0	family	49	                Polyangiaceae
+0.3058	1	0	no rank	80814	                  unclassified Polyangiaceae
+0.3058	1	1	species	2268199	                    Polyangiaceae bacterium
+0.3058	1	0	no rank	49928	      unclassified Bacteria
+0.3058	1	1	species	2035434	        bacterium HR39
+0.3058	1	0	phylum	57723	      Acidobacteria
+0.3058	1	0	no rank	305072	        unclassified Acidobacteria
+0.3058	1	1	species	1978231	          Acidobacteria bacterium
+0.3058	1	0	clade	1783257	      PVC group
+0.3058	1	0	phylum	203682	        Planctomycetes
+0.3058	1	0	class	203683	          Planctomycetia
+0.3058	1	0	order	112	            Planctomycetales
+0.3058	1	0	family	126	              Planctomycetaceae
+0.3058	1	0	no rank	69476	                unclassified Planctomycetaceae
+0.3058	1	1	species	2026779	                  Planctomycetaceae bacterium
+0.6116	2	1	superkingdom	2759	    Eukaryota
+0.3058	1	0	clade	2698737	      Sar
+0.3058	1	0	clade	33630	        Alveolata
+0.3058	1	0	class	2864	          Dinophyceae
+0.3058	1	0	order	89954	            Suessiales
+0.3058	1	0	family	252141	              Symbiodiniaceae
+0.3058	1	0	genus	2949	                Symbiodinium
+0.3058	1	1	species	2951	                  Symbiodinium microadriaticum

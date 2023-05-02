@@ -1,0 +1,74 @@
+100.0000	508	47	no rank	1	root
+90.7480	461	1	no rank	131567	  cellular organisms
+90.5512	460	132	superkingdom	2	    Bacteria
+62.9921	320	17	clade	1783272	      Terrabacteria group
+59.2520	301	168	phylum	201174	        Actinobacteria
+19.4882	99	20	class	1497346	          Thermoleophilia
+14.9606	76	37	order	588673	            Solirubrobacterales
+6.8898	35	10	family	320599	              Solirubrobacteraceae
+4.1339	21	16	genus	207599	                Solirubrobacter
+0.3937	2	2	species	166793	                  Solirubrobacter pauli
+0.3937	2	0	no rank	2640968	                  unclassified Solirubrobacter
+0.1969	1	1	species	1298857	                    Solirubrobacter sp. URHD0082
+0.1969	1	1	species	2282478	                    Solirubrobacter sp. CPCC 204708
+0.1969	1	1	species	363832	                  Solirubrobacter soli
+0.7874	4	0	no rank	1162705	                environmental samples
+0.7874	4	4	species	1162706	                  uncultured Solirubrobacteraceae bacterium
+0.5906	3	0	no rank	1363568	              unclassified Solirubrobacterales
+0.5906	3	3	species	1909295	                Solirubrobacterales bacterium
+0.1969	1	0	family	320583	              Conexibacteraceae
+0.1969	1	0	genus	191494	                Conexibacter
+0.1969	1	1	species	191495	                  Conexibacter woesei
+0.3937	2	0	no rank	1948762	            unclassified Thermoleophilia
+0.3937	2	2	species	2026888	              Thermoleophilia bacterium
+0.1969	1	0	order	588674	            Thermoleophilales
+0.1969	1	0	family	320796	              Thermoleophilaceae
+0.1969	1	0	no rank	2732251	                unclassified Thermoleophilaceae
+0.1969	1	1	species	2732252	                  Thermoleophilaceae bacterium
+6.4961	33	19	class	1760	          Actinomycetia
+1.9685	10	0	no rank	52018	            unclassified Actinomycetia
+1.9685	10	10	species	1883427	              Actinomycetia bacterium
+0.1969	1	0	order	2037	            Actinomycetales
+0.1969	1	0	no rank	105426	              unclassified Actinomycetales
+0.1969	1	1	species	1434822	                Actinomycetales bacterium JB111
+0.1969	1	0	order	85006	            Micrococcales
+0.1969	1	0	family	1268	              Micrococcaceae
+0.1969	1	0	genus	1663	                Arthrobacter
+0.1969	1	0	no rank	235627	                  unclassified Arthrobacter
+0.1969	1	1	species	1588020	                    Arthrobacter sp. Hiyo1
+0.1969	1	0	order	85009	            Propionibacteriales
+0.1969	1	0	family	85015	              Nocardioidaceae
+0.1969	1	0	genus	1839	                Nocardioides
+0.1969	1	0	no rank	2615069	                  unclassified Nocardioides
+0.1969	1	1	species	196162	                    Nocardioides sp. JS614
+0.1969	1	0	order	1643684	            Nakamurellales
+0.1969	1	0	family	85031	              Nakamurellaceae
+0.1969	1	0	genus	53460	                Nakamurella
+0.1969	1	1	species	1090615	                  Nakamurella panacisegetis
+0.1969	1	0	class	84995	          Rubrobacteria
+0.1969	1	0	order	1154584	            Gaiellales
+0.1969	1	0	family	1154585	              Gaiellaceae
+0.1969	1	0	genus	1154586	                Gaiella
+0.1969	1	0	no rank	2627082	                  unclassified Gaiella
+0.1969	1	1	species	1799656	                    Gaiella sp. SCGC AG-212-M14
+0.1969	1	0	phylum	1239	        Firmicutes
+0.1969	1	0	class	91061	          Bacilli
+0.1969	1	0	order	1385	            Bacillales
+0.1969	1	0	family	186817	              Bacillaceae
+0.1969	1	0	genus	1386	                Bacillus
+0.1969	1	0	species group	653685	                  Bacillus subtilis group
+0.1969	1	0	species subgroup	653388	                    Bacillus mojavensis subgroup
+0.1969	1	1	species	260554	                      Bacillus halotolerans
+0.1969	1	0	phylum	200795	        Chloroflexi
+0.1969	1	0	no rank	189774	          unclassified Chloroflexi
+0.1969	1	1	species	2026724	            Chloroflexi bacterium
+1.3780	7	0	no rank	2323	      Bacteria incertae sedis
+1.3780	7	0	clade	1783234	        Bacteria candidate phyla
+1.3780	7	0	phylum	1752708	          Candidatus Rokubacteria
+1.3780	7	1	no rank	2760815	            unclassified Candidatus Rokubacteria
+1.1811	6	6	species	2053607	              Candidatus Rokubacteria bacterium
+0.1969	1	0	phylum	1224	      Proteobacteria
+0.1969	1	0	subphylum	68525	        delta/epsilon subdivisions
+0.1969	1	0	class	28221	          Deltaproteobacteria
+0.1969	1	0	order	29	            Myxococcales
+0.1969	1	1	suborder	80811	              Cystobacterineae

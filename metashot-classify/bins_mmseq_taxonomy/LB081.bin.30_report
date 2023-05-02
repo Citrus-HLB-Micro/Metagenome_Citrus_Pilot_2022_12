@@ -1,0 +1,44 @@
+100.0000	39	0	no rank	1	root
+100.0000	39	1	no rank	131567	  cellular organisms
+97.4359	38	15	superkingdom	2	    Bacteria
+46.1538	18	7	phylum	57723	      Acidobacteria
+25.6410	10	2	class	1562566	        Blastocatellia
+17.9487	7	0	no rank	2052145	          unclassified Blastocatellia
+15.3846	6	6	species	2052146	            Blastocatellia bacterium
+2.5641	1	1	species	2169413	            Blastocatellia bacterium AA13
+2.5641	1	0	order	1748771	          Blastocatellales
+2.5641	1	0	family	2048906	            Pyrinomonadaceae
+2.5641	1	0	no rank	2283091	              unclassified Pyrinomonadaceae
+2.5641	1	1	species	2283092	                Pyrinomonadaceae bacterium
+2.5641	1	1	no rank	305072	        unclassified Acidobacteria
+5.1282	2	0	clade	1783272	      Terrabacteria group
+2.5641	1	0	phylum	201174	        Actinobacteria
+2.5641	1	0	class	1497346	          Thermoleophilia
+2.5641	1	0	order	588673	            Solirubrobacterales
+2.5641	1	0	no rank	1363568	              unclassified Solirubrobacterales
+2.5641	1	1	species	1909295	                Solirubrobacterales bacterium
+2.5641	1	0	clade	1798711	        Cyanobacteria/Melainabacteria group
+2.5641	1	0	phylum	1117	          Cyanobacteria
+2.5641	1	0	subclass	1301283	            Oscillatoriophycideae
+2.5641	1	0	order	1150	              Oscillatoriales
+2.5641	1	0	family	1892252	                Microcoleaceae
+2.5641	1	0	genus	54304	                  Planktothrix
+2.5641	1	0	no rank	2648599	                    unclassified Planktothrix
+2.5641	1	1	species	2692854	                      Planktothrix sp. FACHB-1355
+2.5641	1	0	no rank	2323	      Bacteria incertae sedis
+2.5641	1	0	clade	1783234	        Bacteria candidate phyla
+2.5641	1	0	phylum	1752708	          Candidatus Rokubacteria
+2.5641	1	0	no rank	2760815	            unclassified Candidatus Rokubacteria
+2.5641	1	1	species	2053607	              Candidatus Rokubacteria bacterium
+2.5641	1	0	phylum	40117	      Nitrospirae
+2.5641	1	0	class	203693	        Nitrospira
+2.5641	1	0	order	189778	          Nitrospirales
+2.5641	1	0	family	189779	            Nitrospiraceae
+2.5641	1	1	genus	1234	              Nitrospira
+2.5641	1	0	clade	1783270	      FCB group
+2.5641	1	0	phylum	142182	        Gemmatimonadetes
+2.5641	1	0	class	1804991	          Longimicrobia
+2.5641	1	0	order	1804992	            Longimicrobiales
+2.5641	1	0	family	1804993	              Longimicrobiaceae
+2.5641	1	0	genus	1804994	                Longimicrobium
+2.5641	1	1	species	1639882	                  Longimicrobium terrae

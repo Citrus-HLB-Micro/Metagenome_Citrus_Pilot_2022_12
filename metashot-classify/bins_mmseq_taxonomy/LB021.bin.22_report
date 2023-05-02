@@ -1,0 +1,30 @@
+100.0000	93	7	no rank	1	root
+92.4731	86	0	no rank	131567	  cellular organisms
+92.4731	86	9	superkingdom	2	    Bacteria
+80.6452	75	1	clade	1783272	      Terrabacteria group
+79.5699	74	18	phylum	201174	        Actinobacteria
+60.2151	56	32	class	1760	          Actinomycetia
+23.6559	22	0	order	85008	            Micromonosporales
+23.6559	22	15	family	28056	              Micromonosporaceae
+5.3763	5	5	genus	1865	                Actinoplanes
+1.0753	1	0	genus	1873	                Micromonospora
+1.0753	1	1	species	47872	                  Micromonospora purpureochromogenes
+1.0753	1	0	genus	2005371	                Mangrovihabitans
+1.0753	1	1	species	1751298	                  Mangrovihabitans endophyticus
+1.0753	1	0	order	85007	            Corynebacteriales
+1.0753	1	0	family	1762	              Mycobacteriaceae
+1.0753	1	1	genus	1763	                Mycobacterium
+1.0753	1	0	order	85009	            Propionibacteriales
+1.0753	1	1	family	85015	              Nocardioidaceae
+1.0753	1	0	phylum	1224	      Proteobacteria
+1.0753	1	0	class	28216	        Betaproteobacteria
+1.0753	1	0	order	80840	          Burkholderiales
+1.0753	1	0	family	80864	            Comamonadaceae
+1.0753	1	0	no rank	83494	              unclassified Comamonadaceae
+1.0753	1	1	species	1871071	                Comamonadaceae bacterium
+1.0753	1	0	clade	1783270	      FCB group
+1.0753	1	0	phylum	142182	        Gemmatimonadetes
+1.0753	1	0	class	219685	          Gemmatimonadetes
+1.0753	1	0	order	219686	            Gemmatimonadales
+1.0753	1	0	no rank	1951096	              unclassified Gemmatimonadales
+1.0753	1	1	species	2448054	                Gemmatimonadales bacterium

@@ -1,0 +1,54 @@
+0.3563	3	3	no rank	0	unclassified
+99.6437	839	92	no rank	1	root
+88.7173	747	18	no rank	131567	  cellular organisms
+85.6295	721	68	superkingdom	2157	    Archaea
+77.5534	653	33	clade	1783275	      TACK group
+73.5154	619	442	phylum	651137	        Thaumarchaeota
+14.9644	126	1	class	1643678	          Nitrososphaeria
+14.8456	125	1	order	1033996	            Nitrososphaerales
+14.7268	124	24	family	1033997	              Nitrososphaeraceae
+9.8575	83	0	no rank	1915612	                unclassified Nitrososphaeraceae
+9.8575	83	83	species	2169593	                  Nitrososphaeraceae archaeon
+1.6627	14	8	genus	1826864	                Candidatus Nitrosocosmicus
+0.3563	3	3	species	1353260	                  Candidatus Nitrosocosmicus oleophilus
+0.2375	2	2	species	1826872	                  Candidatus Nitrosocosmicus hydrocola
+0.1188	1	1	species	1798806	                  Candidatus Nitrosocosmicus franklandus
+0.3563	3	0	genus	497726	                Nitrososphaera
+0.2375	2	0	no rank	2639862	                  unclassified Nitrososphaera
+0.2375	2	2	species	1971748	                    Nitrososphaera sp.
+0.1188	1	0	species	1459637	                  Candidatus Nitrososphaera evergladensis
+0.1188	1	1	isolate	1459636	                    Candidatus Nitrososphaera evergladensis SR1
+3.2067	27	2	order	31932	          Nitrosopumilales
+2.6128	22	0	no rank	1915697	            unclassified Nitrosopumilales
+2.6128	22	22	species	2026768	              Nitrosopumilales archaeon
+0.3563	3	0	family	338190	            Nitrosopumilaceae
+0.2375	2	0	genus	338191	              Nitrosopumilus
+0.2375	2	0	no rank	2619919	                unclassified Nitrosopumilus
+0.2375	2	2	species	2024843	                  Nitrosopumilus sp.
+0.1188	1	0	genus	1007082	              Nitrosarchaeum
+0.1188	1	0	no rank	2641124	                unclassified Nitrosarchaeum
+0.1188	1	1	species	2026886	                  Nitrosarchaeum sp.
+2.7316	23	1	no rank	1104572	          unclassified Thaumarchaeota
+2.6128	22	22	species	2026795	            Thaumarchaeota archaeon
+0.1188	1	0	order	205948	          Cenarchaeales
+0.1188	1	0	family	205957	            Cenarchaeaceae
+0.1188	1	0	genus	46769	              Cenarchaeum
+0.1188	1	0	species	46770	                Cenarchaeum symbiosum
+0.1188	1	1	strain	414004	                  Cenarchaeum symbiosum A
+0.1188	1	0	phylum	28889	        Crenarchaeota
+0.1188	1	0	no rank	48509	          environmental samples
+0.1188	1	1	species	29281	            uncultured crenarchaeote
+0.9501	8	3	superkingdom	2	    Bacteria
+0.2375	2	0	no rank	49928	      unclassified Bacteria
+0.2375	2	2	species	1869227	        bacterium
+0.1188	1	0	phylum	1224	      Proteobacteria
+0.1188	1	0	class	28211	        Alphaproteobacteria
+0.1188	1	0	order	356	          Hyphomicrobiales
+0.1188	1	1	family	41294	            Bradyrhizobiaceae
+0.1188	1	0	phylum	40117	      Nitrospirae
+0.1188	1	0	class	203693	        Nitrospira
+0.1188	1	0	order	189778	          Nitrospirales
+0.1188	1	0	family	189779	            Nitrospiraceae
+0.1188	1	0	genus	995729	              Candidatus Magnetoovum
+0.1188	1	1	species	1609970	                Candidatus Magnetoovum chiemensis
+0.1188	1	1	clade	1783272	      Terrabacteria group
